@@ -17,7 +17,7 @@ Create `src/data/candidates/some-id.json`.
 ```json
 {
   "id": "some-id",
-  "raceId": "2026-pa-senate-class-2",
+  "raceId": "2026-ga-senate-class-2",
   "name": "Alex Morgan",
   "party": "Democratic",
   "portrait": "portraits/some-id.svg"
@@ -33,7 +33,7 @@ Create `src/data/polls/some-poll.json`.
 ```json
 {
   "id": "some-poll",
-  "raceId": "2026-pa-senate-class-2",
+  "raceId": "2026-ga-senate-class-2",
   "pollster": "Example Polling",
   "sponsor": "Example News",
   "startDate": "2026-09-01",
@@ -52,7 +52,7 @@ Create `src/data/polls/some-poll.json`.
 
 Results print in the order written. They do not have to sum to 100. Omit `sponsor`, `sampleSize`, `population`, `marginOfError`, or `url` when you do not have them. Set `sample` to `true` for placeholder numbers.
 
-Race ids look like `2026-pa-governor`, `2026-pa-senate-class-2`, `2026-fl-senate-special`, `2026-pa-house-7`, and `2026-ak-house-at-large`.
+Race ids look like `2026-pa-governor`, `2026-ga-senate-class-2`, `2026-fl-senate-special`, `2026-pa-house-7`, and `2026-ak-house-at-large`. Pennsylvania has no Senate race in 2026.
 
 ## Add an extra race
 

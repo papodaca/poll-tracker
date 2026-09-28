@@ -1,0 +1,5062 @@
+[
+  {
+    "id": "2026-ak-senate-class-2",
+    "title": "Alaska Senate, Class II",
+    "office": "senate",
+    "state": "ak",
+    "district": null,
+    "seat": "class-2",
+    "path": "/ak/senate/class-2",
+    "search": "Alaska Senate poll 2026"
+  },
+  {
+    "id": "2026-al-senate-class-2",
+    "title": "Alabama Senate, Class II",
+    "office": "senate",
+    "state": "al",
+    "district": null,
+    "seat": "class-2",
+    "path": "/al/senate/class-2",
+    "search": "Alabama Senate poll 2026"
+  },
+  {
+    "id": "2026-ar-senate-class-2",
+    "title": "Arkansas Senate, Class II",
+    "office": "senate",
+    "state": "ar",
+    "district": null,
+    "seat": "class-2",
+    "path": "/ar/senate/class-2",
+    "search": "Arkansas Senate poll 2026"
+  },
+  {
+    "id": "2026-co-senate-class-2",
+    "title": "Colorado Senate, Class II",
+    "office": "senate",
+    "state": "co",
+    "district": null,
+    "seat": "class-2",
+    "path": "/co/senate/class-2",
+    "search": "Colorado Senate poll 2026"
+  },
+  {
+    "id": "2026-de-senate-class-2",
+    "title": "Delaware Senate, Class II",
+    "office": "senate",
+    "state": "de",
+    "district": null,
+    "seat": "class-2",
+    "path": "/de/senate/class-2",
+    "search": "Delaware Senate poll 2026"
+  },
+  {
+    "id": "2026-fl-senate-special",
+    "title": "Florida Senate, special election",
+    "office": "senate",
+    "state": "fl",
+    "district": null,
+    "seat": "special",
+    "path": "/fl/senate/special",
+    "search": "Florida Senate special election poll 2026"
+  },
+  {
+    "id": "2026-ga-senate-class-2",
+    "title": "Georgia Senate, Class II",
+    "office": "senate",
+    "state": "ga",
+    "district": null,
+    "seat": "class-2",
+    "path": "/ga/senate/class-2",
+    "search": "Georgia Senate poll 2026"
+  },
+  {
+    "id": "2026-ia-senate-class-2",
+    "title": "Iowa Senate, Class II",
+    "office": "senate",
+    "state": "ia",
+    "district": null,
+    "seat": "class-2",
+    "path": "/ia/senate/class-2",
+    "search": "Iowa Senate poll 2026"
+  },
+  {
+    "id": "2026-id-senate-class-2",
+    "title": "Idaho Senate, Class II",
+    "office": "senate",
+    "state": "id",
+    "district": null,
+    "seat": "class-2",
+    "path": "/id/senate/class-2",
+    "search": "Idaho Senate poll 2026"
+  },
+  {
+    "id": "2026-il-senate-class-2",
+    "title": "Illinois Senate, Class II",
+    "office": "senate",
+    "state": "il",
+    "district": null,
+    "seat": "class-2",
+    "path": "/il/senate/class-2",
+    "search": "Illinois Senate poll 2026"
+  },
+  {
+    "id": "2026-ks-senate-class-2",
+    "title": "Kansas Senate, Class II",
+    "office": "senate",
+    "state": "ks",
+    "district": null,
+    "seat": "class-2",
+    "path": "/ks/senate/class-2",
+    "search": "Kansas Senate poll 2026"
+  },
+  {
+    "id": "2026-ky-senate-class-2",
+    "title": "Kentucky Senate, Class II",
+    "office": "senate",
+    "state": "ky",
+    "district": null,
+    "seat": "class-2",
+    "path": "/ky/senate/class-2",
+    "search": "Kentucky Senate poll 2026"
+  },
+  {
+    "id": "2026-la-senate-class-2",
+    "title": "Louisiana Senate, Class II",
+    "office": "senate",
+    "state": "la",
+    "district": null,
+    "seat": "class-2",
+    "path": "/la/senate/class-2",
+    "search": "Louisiana Senate poll 2026"
+  },
+  {
+    "id": "2026-ma-senate-class-2",
+    "title": "Massachusetts Senate, Class II",
+    "office": "senate",
+    "state": "ma",
+    "district": null,
+    "seat": "class-2",
+    "path": "/ma/senate/class-2",
+    "search": "Massachusetts Senate poll 2026"
+  },
+  {
+    "id": "2026-me-senate-class-2",
+    "title": "Maine Senate, Class II",
+    "office": "senate",
+    "state": "me",
+    "district": null,
+    "seat": "class-2",
+    "path": "/me/senate/class-2",
+    "search": "Maine Senate poll 2026"
+  },
+  {
+    "id": "2026-mi-senate-class-2",
+    "title": "Michigan Senate, Class II",
+    "office": "senate",
+    "state": "mi",
+    "district": null,
+    "seat": "class-2",
+    "path": "/mi/senate/class-2",
+    "search": "Michigan Senate poll 2026"
+  },
+  {
+    "id": "2026-mn-senate-class-2",
+    "title": "Minnesota Senate, Class II",
+    "office": "senate",
+    "state": "mn",
+    "district": null,
+    "seat": "class-2",
+    "path": "/mn/senate/class-2",
+    "search": "Minnesota Senate poll 2026"
+  },
+  {
+    "id": "2026-ms-senate-class-2",
+    "title": "Mississippi Senate, Class II",
+    "office": "senate",
+    "state": "ms",
+    "district": null,
+    "seat": "class-2",
+    "path": "/ms/senate/class-2",
+    "search": "Mississippi Senate poll 2026"
+  },
+  {
+    "id": "2026-mt-senate-class-2",
+    "title": "Montana Senate, Class II",
+    "office": "senate",
+    "state": "mt",
+    "district": null,
+    "seat": "class-2",
+    "path": "/mt/senate/class-2",
+    "search": "Montana Senate poll 2026"
+  },
+  {
+    "id": "2026-nc-senate-class-2",
+    "title": "North Carolina Senate, Class II",
+    "office": "senate",
+    "state": "nc",
+    "district": null,
+    "seat": "class-2",
+    "path": "/nc/senate/class-2",
+    "search": "North Carolina Senate poll 2026"
+  },
+  {
+    "id": "2026-ne-senate-class-2",
+    "title": "Nebraska Senate, Class II",
+    "office": "senate",
+    "state": "ne",
+    "district": null,
+    "seat": "class-2",
+    "path": "/ne/senate/class-2",
+    "search": "Nebraska Senate poll 2026"
+  },
+  {
+    "id": "2026-nh-senate-class-2",
+    "title": "New Hampshire Senate, Class II",
+    "office": "senate",
+    "state": "nh",
+    "district": null,
+    "seat": "class-2",
+    "path": "/nh/senate/class-2",
+    "search": "New Hampshire Senate poll 2026"
+  },
+  {
+    "id": "2026-nj-senate-class-2",
+    "title": "New Jersey Senate, Class II",
+    "office": "senate",
+    "state": "nj",
+    "district": null,
+    "seat": "class-2",
+    "path": "/nj/senate/class-2",
+    "search": "New Jersey Senate poll 2026"
+  },
+  {
+    "id": "2026-nm-senate-class-2",
+    "title": "New Mexico Senate, Class II",
+    "office": "senate",
+    "state": "nm",
+    "district": null,
+    "seat": "class-2",
+    "path": "/nm/senate/class-2",
+    "search": "New Mexico Senate poll 2026"
+  },
+  {
+    "id": "2026-oh-senate-special",
+    "title": "Ohio Senate, special election",
+    "office": "senate",
+    "state": "oh",
+    "district": null,
+    "seat": "special",
+    "path": "/oh/senate/special",
+    "search": "Ohio Senate special election poll 2026"
+  },
+  {
+    "id": "2026-ok-senate-class-2",
+    "title": "Oklahoma Senate, Class II",
+    "office": "senate",
+    "state": "ok",
+    "district": null,
+    "seat": "class-2",
+    "path": "/ok/senate/class-2",
+    "search": "Oklahoma Senate poll 2026"
+  },
+  {
+    "id": "2026-or-senate-class-2",
+    "title": "Oregon Senate, Class II",
+    "office": "senate",
+    "state": "or",
+    "district": null,
+    "seat": "class-2",
+    "path": "/or/senate/class-2",
+    "search": "Oregon Senate poll 2026"
+  },
+  {
+    "id": "2026-ri-senate-class-2",
+    "title": "Rhode Island Senate, Class II",
+    "office": "senate",
+    "state": "ri",
+    "district": null,
+    "seat": "class-2",
+    "path": "/ri/senate/class-2",
+    "search": "Rhode Island Senate poll 2026"
+  },
+  {
+    "id": "2026-sc-senate-class-2",
+    "title": "South Carolina Senate, Class II",
+    "office": "senate",
+    "state": "sc",
+    "district": null,
+    "seat": "class-2",
+    "path": "/sc/senate/class-2",
+    "search": "South Carolina Senate poll 2026"
+  },
+  {
+    "id": "2026-sd-senate-class-2",
+    "title": "South Dakota Senate, Class II",
+    "office": "senate",
+    "state": "sd",
+    "district": null,
+    "seat": "class-2",
+    "path": "/sd/senate/class-2",
+    "search": "South Dakota Senate poll 2026"
+  },
+  {
+    "id": "2026-tn-senate-class-2",
+    "title": "Tennessee Senate, Class II",
+    "office": "senate",
+    "state": "tn",
+    "district": null,
+    "seat": "class-2",
+    "path": "/tn/senate/class-2",
+    "search": "Tennessee Senate poll 2026"
+  },
+  {
+    "id": "2026-tx-senate-class-2",
+    "title": "Texas Senate, Class II",
+    "office": "senate",
+    "state": "tx",
+    "district": null,
+    "seat": "class-2",
+    "path": "/tx/senate/class-2",
+    "search": "Texas Senate poll 2026"
+  },
+  {
+    "id": "2026-va-senate-class-2",
+    "title": "Virginia Senate, Class II",
+    "office": "senate",
+    "state": "va",
+    "district": null,
+    "seat": "class-2",
+    "path": "/va/senate/class-2",
+    "search": "Virginia Senate poll 2026"
+  },
+  {
+    "id": "2026-wv-senate-class-2",
+    "title": "West Virginia Senate, Class II",
+    "office": "senate",
+    "state": "wv",
+    "district": null,
+    "seat": "class-2",
+    "path": "/wv/senate/class-2",
+    "search": "West Virginia Senate poll 2026"
+  },
+  {
+    "id": "2026-wy-senate-class-2",
+    "title": "Wyoming Senate, Class II",
+    "office": "senate",
+    "state": "wy",
+    "district": null,
+    "seat": "class-2",
+    "path": "/wy/senate/class-2",
+    "search": "Wyoming Senate poll 2026"
+  },
+  {
+    "id": "2026-ak-governor",
+    "title": "Alaska governor",
+    "office": "governor",
+    "state": "ak",
+    "district": null,
+    "seat": null,
+    "path": "/ak/governor",
+    "search": "Alaska governor poll 2026"
+  },
+  {
+    "id": "2026-al-governor",
+    "title": "Alabama governor",
+    "office": "governor",
+    "state": "al",
+    "district": null,
+    "seat": null,
+    "path": "/al/governor",
+    "search": "Alabama governor poll 2026"
+  },
+  {
+    "id": "2026-ar-governor",
+    "title": "Arkansas governor",
+    "office": "governor",
+    "state": "ar",
+    "district": null,
+    "seat": null,
+    "path": "/ar/governor",
+    "search": "Arkansas governor poll 2026"
+  },
+  {
+    "id": "2026-az-governor",
+    "title": "Arizona governor",
+    "office": "governor",
+    "state": "az",
+    "district": null,
+    "seat": null,
+    "path": "/az/governor",
+    "search": "Arizona governor poll 2026"
+  },
+  {
+    "id": "2026-ca-governor",
+    "title": "California governor",
+    "office": "governor",
+    "state": "ca",
+    "district": null,
+    "seat": null,
+    "path": "/ca/governor",
+    "search": "California governor poll 2026"
+  },
+  {
+    "id": "2026-co-governor",
+    "title": "Colorado governor",
+    "office": "governor",
+    "state": "co",
+    "district": null,
+    "seat": null,
+    "path": "/co/governor",
+    "search": "Colorado governor poll 2026"
+  },
+  {
+    "id": "2026-ct-governor",
+    "title": "Connecticut governor",
+    "office": "governor",
+    "state": "ct",
+    "district": null,
+    "seat": null,
+    "path": "/ct/governor",
+    "search": "Connecticut governor poll 2026"
+  },
+  {
+    "id": "2026-fl-governor",
+    "title": "Florida governor",
+    "office": "governor",
+    "state": "fl",
+    "district": null,
+    "seat": null,
+    "path": "/fl/governor",
+    "search": "Florida governor poll 2026"
+  },
+  {
+    "id": "2026-ga-governor",
+    "title": "Georgia governor",
+    "office": "governor",
+    "state": "ga",
+    "district": null,
+    "seat": null,
+    "path": "/ga/governor",
+    "search": "Georgia governor poll 2026"
+  },
+  {
+    "id": "2026-hi-governor",
+    "title": "Hawaii governor",
+    "office": "governor",
+    "state": "hi",
+    "district": null,
+    "seat": null,
+    "path": "/hi/governor",
+    "search": "Hawaii governor poll 2026"
+  },
+  {
+    "id": "2026-ia-governor",
+    "title": "Iowa governor",
+    "office": "governor",
+    "state": "ia",
+    "district": null,
+    "seat": null,
+    "path": "/ia/governor",
+    "search": "Iowa governor poll 2026"
+  },
+  {
+    "id": "2026-id-governor",
+    "title": "Idaho governor",
+    "office": "governor",
+    "state": "id",
+    "district": null,
+    "seat": null,
+    "path": "/id/governor",
+    "search": "Idaho governor poll 2026"
+  },
+  {
+    "id": "2026-il-governor",
+    "title": "Illinois governor",
+    "office": "governor",
+    "state": "il",
+    "district": null,
+    "seat": null,
+    "path": "/il/governor",
+    "search": "Illinois governor poll 2026"
+  },
+  {
+    "id": "2026-ks-governor",
+    "title": "Kansas governor",
+    "office": "governor",
+    "state": "ks",
+    "district": null,
+    "seat": null,
+    "path": "/ks/governor",
+    "search": "Kansas governor poll 2026"
+  },
+  {
+    "id": "2026-ma-governor",
+    "title": "Massachusetts governor",
+    "office": "governor",
+    "state": "ma",
+    "district": null,
+    "seat": null,
+    "path": "/ma/governor",
+    "search": "Massachusetts governor poll 2026"
+  },
+  {
+    "id": "2026-md-governor",
+    "title": "Maryland governor",
+    "office": "governor",
+    "state": "md",
+    "district": null,
+    "seat": null,
+    "path": "/md/governor",
+    "search": "Maryland governor poll 2026"
+  },
+  {
+    "id": "2026-me-governor",
+    "title": "Maine governor",
+    "office": "governor",
+    "state": "me",
+    "district": null,
+    "seat": null,
+    "path": "/me/governor",
+    "search": "Maine governor poll 2026"
+  },
+  {
+    "id": "2026-mi-governor",
+    "title": "Michigan governor",
+    "office": "governor",
+    "state": "mi",
+    "district": null,
+    "seat": null,
+    "path": "/mi/governor",
+    "search": "Michigan governor poll 2026"
+  },
+  {
+    "id": "2026-mn-governor",
+    "title": "Minnesota governor",
+    "office": "governor",
+    "state": "mn",
+    "district": null,
+    "seat": null,
+    "path": "/mn/governor",
+    "search": "Minnesota governor poll 2026"
+  },
+  {
+    "id": "2026-ne-governor",
+    "title": "Nebraska governor",
+    "office": "governor",
+    "state": "ne",
+    "district": null,
+    "seat": null,
+    "path": "/ne/governor",
+    "search": "Nebraska governor poll 2026"
+  },
+  {
+    "id": "2026-nh-governor",
+    "title": "New Hampshire governor",
+    "office": "governor",
+    "state": "nh",
+    "district": null,
+    "seat": null,
+    "path": "/nh/governor",
+    "search": "New Hampshire governor poll 2026"
+  },
+  {
+    "id": "2026-nm-governor",
+    "title": "New Mexico governor",
+    "office": "governor",
+    "state": "nm",
+    "district": null,
+    "seat": null,
+    "path": "/nm/governor",
+    "search": "New Mexico governor poll 2026"
+  },
+  {
+    "id": "2026-nv-governor",
+    "title": "Nevada governor",
+    "office": "governor",
+    "state": "nv",
+    "district": null,
+    "seat": null,
+    "path": "/nv/governor",
+    "search": "Nevada governor poll 2026"
+  },
+  {
+    "id": "2026-ny-governor",
+    "title": "New York governor",
+    "office": "governor",
+    "state": "ny",
+    "district": null,
+    "seat": null,
+    "path": "/ny/governor",
+    "search": "New York governor poll 2026"
+  },
+  {
+    "id": "2026-oh-governor",
+    "title": "Ohio governor",
+    "office": "governor",
+    "state": "oh",
+    "district": null,
+    "seat": null,
+    "path": "/oh/governor",
+    "search": "Ohio governor poll 2026"
+  },
+  {
+    "id": "2026-ok-governor",
+    "title": "Oklahoma governor",
+    "office": "governor",
+    "state": "ok",
+    "district": null,
+    "seat": null,
+    "path": "/ok/governor",
+    "search": "Oklahoma governor poll 2026"
+  },
+  {
+    "id": "2026-or-governor",
+    "title": "Oregon governor",
+    "office": "governor",
+    "state": "or",
+    "district": null,
+    "seat": null,
+    "path": "/or/governor",
+    "search": "Oregon governor poll 2026"
+  },
+  {
+    "id": "2026-pa-governor",
+    "title": "Pennsylvania governor",
+    "office": "governor",
+    "state": "pa",
+    "district": null,
+    "seat": null,
+    "path": "/pa/governor",
+    "search": "Pennsylvania governor poll 2026"
+  },
+  {
+    "id": "2026-ri-governor",
+    "title": "Rhode Island governor",
+    "office": "governor",
+    "state": "ri",
+    "district": null,
+    "seat": null,
+    "path": "/ri/governor",
+    "search": "Rhode Island governor poll 2026"
+  },
+  {
+    "id": "2026-sc-governor",
+    "title": "South Carolina governor",
+    "office": "governor",
+    "state": "sc",
+    "district": null,
+    "seat": null,
+    "path": "/sc/governor",
+    "search": "South Carolina governor poll 2026"
+  },
+  {
+    "id": "2026-sd-governor",
+    "title": "South Dakota governor",
+    "office": "governor",
+    "state": "sd",
+    "district": null,
+    "seat": null,
+    "path": "/sd/governor",
+    "search": "South Dakota governor poll 2026"
+  },
+  {
+    "id": "2026-tn-governor",
+    "title": "Tennessee governor",
+    "office": "governor",
+    "state": "tn",
+    "district": null,
+    "seat": null,
+    "path": "/tn/governor",
+    "search": "Tennessee governor poll 2026"
+  },
+  {
+    "id": "2026-tx-governor",
+    "title": "Texas governor",
+    "office": "governor",
+    "state": "tx",
+    "district": null,
+    "seat": null,
+    "path": "/tx/governor",
+    "search": "Texas governor poll 2026"
+  },
+  {
+    "id": "2026-vt-governor",
+    "title": "Vermont governor",
+    "office": "governor",
+    "state": "vt",
+    "district": null,
+    "seat": null,
+    "path": "/vt/governor",
+    "search": "Vermont governor poll 2026"
+  },
+  {
+    "id": "2026-wi-governor",
+    "title": "Wisconsin governor",
+    "office": "governor",
+    "state": "wi",
+    "district": null,
+    "seat": null,
+    "path": "/wi/governor",
+    "search": "Wisconsin governor poll 2026"
+  },
+  {
+    "id": "2026-wy-governor",
+    "title": "Wyoming governor",
+    "office": "governor",
+    "state": "wy",
+    "district": null,
+    "seat": null,
+    "path": "/wy/governor",
+    "search": "Wyoming governor poll 2026"
+  },
+  {
+    "id": "2026-ak-house-at-large",
+    "title": "Alaska House at-large",
+    "office": "house",
+    "state": "ak",
+    "district": "at-large",
+    "seat": null,
+    "path": "/ak/house/at-large",
+    "search": "Alaska at-large U.S. House poll 2026"
+  },
+  {
+    "id": "2026-al-house-1",
+    "title": "Alabama House district 1",
+    "office": "house",
+    "state": "al",
+    "district": 1,
+    "seat": null,
+    "path": "/al/house/1",
+    "search": "Alabama 1 congressional district poll 2026"
+  },
+  {
+    "id": "2026-al-house-2",
+    "title": "Alabama House district 2",
+    "office": "house",
+    "state": "al",
+    "district": 2,
+    "seat": null,
+    "path": "/al/house/2",
+    "search": "Alabama 2 congressional district poll 2026"
+  },
+  {
+    "id": "2026-al-house-3",
+    "title": "Alabama House district 3",
+    "office": "house",
+    "state": "al",
+    "district": 3,
+    "seat": null,
+    "path": "/al/house/3",
+    "search": "Alabama 3 congressional district poll 2026"
+  },
+  {
+    "id": "2026-al-house-4",
+    "title": "Alabama House district 4",
+    "office": "house",
+    "state": "al",
+    "district": 4,
+    "seat": null,
+    "path": "/al/house/4",
+    "search": "Alabama 4 congressional district poll 2026"
+  },
+  {
+    "id": "2026-al-house-5",
+    "title": "Alabama House district 5",
+    "office": "house",
+    "state": "al",
+    "district": 5,
+    "seat": null,
+    "path": "/al/house/5",
+    "search": "Alabama 5 congressional district poll 2026"
+  },
+  {
+    "id": "2026-al-house-6",
+    "title": "Alabama House district 6",
+    "office": "house",
+    "state": "al",
+    "district": 6,
+    "seat": null,
+    "path": "/al/house/6",
+    "search": "Alabama 6 congressional district poll 2026"
+  },
+  {
+    "id": "2026-al-house-7",
+    "title": "Alabama House district 7",
+    "office": "house",
+    "state": "al",
+    "district": 7,
+    "seat": null,
+    "path": "/al/house/7",
+    "search": "Alabama 7 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ar-house-1",
+    "title": "Arkansas House district 1",
+    "office": "house",
+    "state": "ar",
+    "district": 1,
+    "seat": null,
+    "path": "/ar/house/1",
+    "search": "Arkansas 1 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ar-house-2",
+    "title": "Arkansas House district 2",
+    "office": "house",
+    "state": "ar",
+    "district": 2,
+    "seat": null,
+    "path": "/ar/house/2",
+    "search": "Arkansas 2 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ar-house-3",
+    "title": "Arkansas House district 3",
+    "office": "house",
+    "state": "ar",
+    "district": 3,
+    "seat": null,
+    "path": "/ar/house/3",
+    "search": "Arkansas 3 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ar-house-4",
+    "title": "Arkansas House district 4",
+    "office": "house",
+    "state": "ar",
+    "district": 4,
+    "seat": null,
+    "path": "/ar/house/4",
+    "search": "Arkansas 4 congressional district poll 2026"
+  },
+  {
+    "id": "2026-az-house-1",
+    "title": "Arizona House district 1",
+    "office": "house",
+    "state": "az",
+    "district": 1,
+    "seat": null,
+    "path": "/az/house/1",
+    "search": "Arizona 1 congressional district poll 2026"
+  },
+  {
+    "id": "2026-az-house-2",
+    "title": "Arizona House district 2",
+    "office": "house",
+    "state": "az",
+    "district": 2,
+    "seat": null,
+    "path": "/az/house/2",
+    "search": "Arizona 2 congressional district poll 2026"
+  },
+  {
+    "id": "2026-az-house-3",
+    "title": "Arizona House district 3",
+    "office": "house",
+    "state": "az",
+    "district": 3,
+    "seat": null,
+    "path": "/az/house/3",
+    "search": "Arizona 3 congressional district poll 2026"
+  },
+  {
+    "id": "2026-az-house-4",
+    "title": "Arizona House district 4",
+    "office": "house",
+    "state": "az",
+    "district": 4,
+    "seat": null,
+    "path": "/az/house/4",
+    "search": "Arizona 4 congressional district poll 2026"
+  },
+  {
+    "id": "2026-az-house-5",
+    "title": "Arizona House district 5",
+    "office": "house",
+    "state": "az",
+    "district": 5,
+    "seat": null,
+    "path": "/az/house/5",
+    "search": "Arizona 5 congressional district poll 2026"
+  },
+  {
+    "id": "2026-az-house-6",
+    "title": "Arizona House district 6",
+    "office": "house",
+    "state": "az",
+    "district": 6,
+    "seat": null,
+    "path": "/az/house/6",
+    "search": "Arizona 6 congressional district poll 2026"
+  },
+  {
+    "id": "2026-az-house-7",
+    "title": "Arizona House district 7",
+    "office": "house",
+    "state": "az",
+    "district": 7,
+    "seat": null,
+    "path": "/az/house/7",
+    "search": "Arizona 7 congressional district poll 2026"
+  },
+  {
+    "id": "2026-az-house-8",
+    "title": "Arizona House district 8",
+    "office": "house",
+    "state": "az",
+    "district": 8,
+    "seat": null,
+    "path": "/az/house/8",
+    "search": "Arizona 8 congressional district poll 2026"
+  },
+  {
+    "id": "2026-az-house-9",
+    "title": "Arizona House district 9",
+    "office": "house",
+    "state": "az",
+    "district": 9,
+    "seat": null,
+    "path": "/az/house/9",
+    "search": "Arizona 9 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ca-house-1",
+    "title": "California House district 1",
+    "office": "house",
+    "state": "ca",
+    "district": 1,
+    "seat": null,
+    "path": "/ca/house/1",
+    "search": "California 1 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ca-house-2",
+    "title": "California House district 2",
+    "office": "house",
+    "state": "ca",
+    "district": 2,
+    "seat": null,
+    "path": "/ca/house/2",
+    "search": "California 2 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ca-house-3",
+    "title": "California House district 3",
+    "office": "house",
+    "state": "ca",
+    "district": 3,
+    "seat": null,
+    "path": "/ca/house/3",
+    "search": "California 3 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ca-house-4",
+    "title": "California House district 4",
+    "office": "house",
+    "state": "ca",
+    "district": 4,
+    "seat": null,
+    "path": "/ca/house/4",
+    "search": "California 4 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ca-house-5",
+    "title": "California House district 5",
+    "office": "house",
+    "state": "ca",
+    "district": 5,
+    "seat": null,
+    "path": "/ca/house/5",
+    "search": "California 5 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ca-house-6",
+    "title": "California House district 6",
+    "office": "house",
+    "state": "ca",
+    "district": 6,
+    "seat": null,
+    "path": "/ca/house/6",
+    "search": "California 6 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ca-house-7",
+    "title": "California House district 7",
+    "office": "house",
+    "state": "ca",
+    "district": 7,
+    "seat": null,
+    "path": "/ca/house/7",
+    "search": "California 7 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ca-house-8",
+    "title": "California House district 8",
+    "office": "house",
+    "state": "ca",
+    "district": 8,
+    "seat": null,
+    "path": "/ca/house/8",
+    "search": "California 8 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ca-house-9",
+    "title": "California House district 9",
+    "office": "house",
+    "state": "ca",
+    "district": 9,
+    "seat": null,
+    "path": "/ca/house/9",
+    "search": "California 9 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ca-house-10",
+    "title": "California House district 10",
+    "office": "house",
+    "state": "ca",
+    "district": 10,
+    "seat": null,
+    "path": "/ca/house/10",
+    "search": "California 10 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ca-house-11",
+    "title": "California House district 11",
+    "office": "house",
+    "state": "ca",
+    "district": 11,
+    "seat": null,
+    "path": "/ca/house/11",
+    "search": "California 11 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ca-house-12",
+    "title": "California House district 12",
+    "office": "house",
+    "state": "ca",
+    "district": 12,
+    "seat": null,
+    "path": "/ca/house/12",
+    "search": "California 12 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ca-house-13",
+    "title": "California House district 13",
+    "office": "house",
+    "state": "ca",
+    "district": 13,
+    "seat": null,
+    "path": "/ca/house/13",
+    "search": "California 13 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ca-house-14",
+    "title": "California House district 14",
+    "office": "house",
+    "state": "ca",
+    "district": 14,
+    "seat": null,
+    "path": "/ca/house/14",
+    "search": "California 14 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ca-house-15",
+    "title": "California House district 15",
+    "office": "house",
+    "state": "ca",
+    "district": 15,
+    "seat": null,
+    "path": "/ca/house/15",
+    "search": "California 15 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ca-house-16",
+    "title": "California House district 16",
+    "office": "house",
+    "state": "ca",
+    "district": 16,
+    "seat": null,
+    "path": "/ca/house/16",
+    "search": "California 16 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ca-house-17",
+    "title": "California House district 17",
+    "office": "house",
+    "state": "ca",
+    "district": 17,
+    "seat": null,
+    "path": "/ca/house/17",
+    "search": "California 17 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ca-house-18",
+    "title": "California House district 18",
+    "office": "house",
+    "state": "ca",
+    "district": 18,
+    "seat": null,
+    "path": "/ca/house/18",
+    "search": "California 18 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ca-house-19",
+    "title": "California House district 19",
+    "office": "house",
+    "state": "ca",
+    "district": 19,
+    "seat": null,
+    "path": "/ca/house/19",
+    "search": "California 19 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ca-house-20",
+    "title": "California House district 20",
+    "office": "house",
+    "state": "ca",
+    "district": 20,
+    "seat": null,
+    "path": "/ca/house/20",
+    "search": "California 20 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ca-house-21",
+    "title": "California House district 21",
+    "office": "house",
+    "state": "ca",
+    "district": 21,
+    "seat": null,
+    "path": "/ca/house/21",
+    "search": "California 21 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ca-house-22",
+    "title": "California House district 22",
+    "office": "house",
+    "state": "ca",
+    "district": 22,
+    "seat": null,
+    "path": "/ca/house/22",
+    "search": "California 22 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ca-house-23",
+    "title": "California House district 23",
+    "office": "house",
+    "state": "ca",
+    "district": 23,
+    "seat": null,
+    "path": "/ca/house/23",
+    "search": "California 23 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ca-house-24",
+    "title": "California House district 24",
+    "office": "house",
+    "state": "ca",
+    "district": 24,
+    "seat": null,
+    "path": "/ca/house/24",
+    "search": "California 24 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ca-house-25",
+    "title": "California House district 25",
+    "office": "house",
+    "state": "ca",
+    "district": 25,
+    "seat": null,
+    "path": "/ca/house/25",
+    "search": "California 25 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ca-house-26",
+    "title": "California House district 26",
+    "office": "house",
+    "state": "ca",
+    "district": 26,
+    "seat": null,
+    "path": "/ca/house/26",
+    "search": "California 26 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ca-house-27",
+    "title": "California House district 27",
+    "office": "house",
+    "state": "ca",
+    "district": 27,
+    "seat": null,
+    "path": "/ca/house/27",
+    "search": "California 27 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ca-house-28",
+    "title": "California House district 28",
+    "office": "house",
+    "state": "ca",
+    "district": 28,
+    "seat": null,
+    "path": "/ca/house/28",
+    "search": "California 28 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ca-house-29",
+    "title": "California House district 29",
+    "office": "house",
+    "state": "ca",
+    "district": 29,
+    "seat": null,
+    "path": "/ca/house/29",
+    "search": "California 29 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ca-house-30",
+    "title": "California House district 30",
+    "office": "house",
+    "state": "ca",
+    "district": 30,
+    "seat": null,
+    "path": "/ca/house/30",
+    "search": "California 30 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ca-house-31",
+    "title": "California House district 31",
+    "office": "house",
+    "state": "ca",
+    "district": 31,
+    "seat": null,
+    "path": "/ca/house/31",
+    "search": "California 31 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ca-house-32",
+    "title": "California House district 32",
+    "office": "house",
+    "state": "ca",
+    "district": 32,
+    "seat": null,
+    "path": "/ca/house/32",
+    "search": "California 32 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ca-house-33",
+    "title": "California House district 33",
+    "office": "house",
+    "state": "ca",
+    "district": 33,
+    "seat": null,
+    "path": "/ca/house/33",
+    "search": "California 33 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ca-house-34",
+    "title": "California House district 34",
+    "office": "house",
+    "state": "ca",
+    "district": 34,
+    "seat": null,
+    "path": "/ca/house/34",
+    "search": "California 34 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ca-house-35",
+    "title": "California House district 35",
+    "office": "house",
+    "state": "ca",
+    "district": 35,
+    "seat": null,
+    "path": "/ca/house/35",
+    "search": "California 35 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ca-house-36",
+    "title": "California House district 36",
+    "office": "house",
+    "state": "ca",
+    "district": 36,
+    "seat": null,
+    "path": "/ca/house/36",
+    "search": "California 36 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ca-house-37",
+    "title": "California House district 37",
+    "office": "house",
+    "state": "ca",
+    "district": 37,
+    "seat": null,
+    "path": "/ca/house/37",
+    "search": "California 37 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ca-house-38",
+    "title": "California House district 38",
+    "office": "house",
+    "state": "ca",
+    "district": 38,
+    "seat": null,
+    "path": "/ca/house/38",
+    "search": "California 38 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ca-house-39",
+    "title": "California House district 39",
+    "office": "house",
+    "state": "ca",
+    "district": 39,
+    "seat": null,
+    "path": "/ca/house/39",
+    "search": "California 39 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ca-house-40",
+    "title": "California House district 40",
+    "office": "house",
+    "state": "ca",
+    "district": 40,
+    "seat": null,
+    "path": "/ca/house/40",
+    "search": "California 40 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ca-house-41",
+    "title": "California House district 41",
+    "office": "house",
+    "state": "ca",
+    "district": 41,
+    "seat": null,
+    "path": "/ca/house/41",
+    "search": "California 41 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ca-house-42",
+    "title": "California House district 42",
+    "office": "house",
+    "state": "ca",
+    "district": 42,
+    "seat": null,
+    "path": "/ca/house/42",
+    "search": "California 42 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ca-house-43",
+    "title": "California House district 43",
+    "office": "house",
+    "state": "ca",
+    "district": 43,
+    "seat": null,
+    "path": "/ca/house/43",
+    "search": "California 43 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ca-house-44",
+    "title": "California House district 44",
+    "office": "house",
+    "state": "ca",
+    "district": 44,
+    "seat": null,
+    "path": "/ca/house/44",
+    "search": "California 44 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ca-house-45",
+    "title": "California House district 45",
+    "office": "house",
+    "state": "ca",
+    "district": 45,
+    "seat": null,
+    "path": "/ca/house/45",
+    "search": "California 45 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ca-house-46",
+    "title": "California House district 46",
+    "office": "house",
+    "state": "ca",
+    "district": 46,
+    "seat": null,
+    "path": "/ca/house/46",
+    "search": "California 46 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ca-house-47",
+    "title": "California House district 47",
+    "office": "house",
+    "state": "ca",
+    "district": 47,
+    "seat": null,
+    "path": "/ca/house/47",
+    "search": "California 47 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ca-house-48",
+    "title": "California House district 48",
+    "office": "house",
+    "state": "ca",
+    "district": 48,
+    "seat": null,
+    "path": "/ca/house/48",
+    "search": "California 48 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ca-house-49",
+    "title": "California House district 49",
+    "office": "house",
+    "state": "ca",
+    "district": 49,
+    "seat": null,
+    "path": "/ca/house/49",
+    "search": "California 49 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ca-house-50",
+    "title": "California House district 50",
+    "office": "house",
+    "state": "ca",
+    "district": 50,
+    "seat": null,
+    "path": "/ca/house/50",
+    "search": "California 50 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ca-house-51",
+    "title": "California House district 51",
+    "office": "house",
+    "state": "ca",
+    "district": 51,
+    "seat": null,
+    "path": "/ca/house/51",
+    "search": "California 51 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ca-house-52",
+    "title": "California House district 52",
+    "office": "house",
+    "state": "ca",
+    "district": 52,
+    "seat": null,
+    "path": "/ca/house/52",
+    "search": "California 52 congressional district poll 2026"
+  },
+  {
+    "id": "2026-co-house-1",
+    "title": "Colorado House district 1",
+    "office": "house",
+    "state": "co",
+    "district": 1,
+    "seat": null,
+    "path": "/co/house/1",
+    "search": "Colorado 1 congressional district poll 2026"
+  },
+  {
+    "id": "2026-co-house-2",
+    "title": "Colorado House district 2",
+    "office": "house",
+    "state": "co",
+    "district": 2,
+    "seat": null,
+    "path": "/co/house/2",
+    "search": "Colorado 2 congressional district poll 2026"
+  },
+  {
+    "id": "2026-co-house-3",
+    "title": "Colorado House district 3",
+    "office": "house",
+    "state": "co",
+    "district": 3,
+    "seat": null,
+    "path": "/co/house/3",
+    "search": "Colorado 3 congressional district poll 2026"
+  },
+  {
+    "id": "2026-co-house-4",
+    "title": "Colorado House district 4",
+    "office": "house",
+    "state": "co",
+    "district": 4,
+    "seat": null,
+    "path": "/co/house/4",
+    "search": "Colorado 4 congressional district poll 2026"
+  },
+  {
+    "id": "2026-co-house-5",
+    "title": "Colorado House district 5",
+    "office": "house",
+    "state": "co",
+    "district": 5,
+    "seat": null,
+    "path": "/co/house/5",
+    "search": "Colorado 5 congressional district poll 2026"
+  },
+  {
+    "id": "2026-co-house-6",
+    "title": "Colorado House district 6",
+    "office": "house",
+    "state": "co",
+    "district": 6,
+    "seat": null,
+    "path": "/co/house/6",
+    "search": "Colorado 6 congressional district poll 2026"
+  },
+  {
+    "id": "2026-co-house-7",
+    "title": "Colorado House district 7",
+    "office": "house",
+    "state": "co",
+    "district": 7,
+    "seat": null,
+    "path": "/co/house/7",
+    "search": "Colorado 7 congressional district poll 2026"
+  },
+  {
+    "id": "2026-co-house-8",
+    "title": "Colorado House district 8",
+    "office": "house",
+    "state": "co",
+    "district": 8,
+    "seat": null,
+    "path": "/co/house/8",
+    "search": "Colorado 8 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ct-house-1",
+    "title": "Connecticut House district 1",
+    "office": "house",
+    "state": "ct",
+    "district": 1,
+    "seat": null,
+    "path": "/ct/house/1",
+    "search": "Connecticut 1 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ct-house-2",
+    "title": "Connecticut House district 2",
+    "office": "house",
+    "state": "ct",
+    "district": 2,
+    "seat": null,
+    "path": "/ct/house/2",
+    "search": "Connecticut 2 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ct-house-3",
+    "title": "Connecticut House district 3",
+    "office": "house",
+    "state": "ct",
+    "district": 3,
+    "seat": null,
+    "path": "/ct/house/3",
+    "search": "Connecticut 3 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ct-house-4",
+    "title": "Connecticut House district 4",
+    "office": "house",
+    "state": "ct",
+    "district": 4,
+    "seat": null,
+    "path": "/ct/house/4",
+    "search": "Connecticut 4 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ct-house-5",
+    "title": "Connecticut House district 5",
+    "office": "house",
+    "state": "ct",
+    "district": 5,
+    "seat": null,
+    "path": "/ct/house/5",
+    "search": "Connecticut 5 congressional district poll 2026"
+  },
+  {
+    "id": "2026-de-house-at-large",
+    "title": "Delaware House at-large",
+    "office": "house",
+    "state": "de",
+    "district": "at-large",
+    "seat": null,
+    "path": "/de/house/at-large",
+    "search": "Delaware at-large U.S. House poll 2026"
+  },
+  {
+    "id": "2026-fl-house-1",
+    "title": "Florida House district 1",
+    "office": "house",
+    "state": "fl",
+    "district": 1,
+    "seat": null,
+    "path": "/fl/house/1",
+    "search": "Florida 1 congressional district poll 2026"
+  },
+  {
+    "id": "2026-fl-house-2",
+    "title": "Florida House district 2",
+    "office": "house",
+    "state": "fl",
+    "district": 2,
+    "seat": null,
+    "path": "/fl/house/2",
+    "search": "Florida 2 congressional district poll 2026"
+  },
+  {
+    "id": "2026-fl-house-3",
+    "title": "Florida House district 3",
+    "office": "house",
+    "state": "fl",
+    "district": 3,
+    "seat": null,
+    "path": "/fl/house/3",
+    "search": "Florida 3 congressional district poll 2026"
+  },
+  {
+    "id": "2026-fl-house-4",
+    "title": "Florida House district 4",
+    "office": "house",
+    "state": "fl",
+    "district": 4,
+    "seat": null,
+    "path": "/fl/house/4",
+    "search": "Florida 4 congressional district poll 2026"
+  },
+  {
+    "id": "2026-fl-house-5",
+    "title": "Florida House district 5",
+    "office": "house",
+    "state": "fl",
+    "district": 5,
+    "seat": null,
+    "path": "/fl/house/5",
+    "search": "Florida 5 congressional district poll 2026"
+  },
+  {
+    "id": "2026-fl-house-6",
+    "title": "Florida House district 6",
+    "office": "house",
+    "state": "fl",
+    "district": 6,
+    "seat": null,
+    "path": "/fl/house/6",
+    "search": "Florida 6 congressional district poll 2026"
+  },
+  {
+    "id": "2026-fl-house-7",
+    "title": "Florida House district 7",
+    "office": "house",
+    "state": "fl",
+    "district": 7,
+    "seat": null,
+    "path": "/fl/house/7",
+    "search": "Florida 7 congressional district poll 2026"
+  },
+  {
+    "id": "2026-fl-house-8",
+    "title": "Florida House district 8",
+    "office": "house",
+    "state": "fl",
+    "district": 8,
+    "seat": null,
+    "path": "/fl/house/8",
+    "search": "Florida 8 congressional district poll 2026"
+  },
+  {
+    "id": "2026-fl-house-9",
+    "title": "Florida House district 9",
+    "office": "house",
+    "state": "fl",
+    "district": 9,
+    "seat": null,
+    "path": "/fl/house/9",
+    "search": "Florida 9 congressional district poll 2026"
+  },
+  {
+    "id": "2026-fl-house-10",
+    "title": "Florida House district 10",
+    "office": "house",
+    "state": "fl",
+    "district": 10,
+    "seat": null,
+    "path": "/fl/house/10",
+    "search": "Florida 10 congressional district poll 2026"
+  },
+  {
+    "id": "2026-fl-house-11",
+    "title": "Florida House district 11",
+    "office": "house",
+    "state": "fl",
+    "district": 11,
+    "seat": null,
+    "path": "/fl/house/11",
+    "search": "Florida 11 congressional district poll 2026"
+  },
+  {
+    "id": "2026-fl-house-12",
+    "title": "Florida House district 12",
+    "office": "house",
+    "state": "fl",
+    "district": 12,
+    "seat": null,
+    "path": "/fl/house/12",
+    "search": "Florida 12 congressional district poll 2026"
+  },
+  {
+    "id": "2026-fl-house-13",
+    "title": "Florida House district 13",
+    "office": "house",
+    "state": "fl",
+    "district": 13,
+    "seat": null,
+    "path": "/fl/house/13",
+    "search": "Florida 13 congressional district poll 2026"
+  },
+  {
+    "id": "2026-fl-house-14",
+    "title": "Florida House district 14",
+    "office": "house",
+    "state": "fl",
+    "district": 14,
+    "seat": null,
+    "path": "/fl/house/14",
+    "search": "Florida 14 congressional district poll 2026"
+  },
+  {
+    "id": "2026-fl-house-15",
+    "title": "Florida House district 15",
+    "office": "house",
+    "state": "fl",
+    "district": 15,
+    "seat": null,
+    "path": "/fl/house/15",
+    "search": "Florida 15 congressional district poll 2026"
+  },
+  {
+    "id": "2026-fl-house-16",
+    "title": "Florida House district 16",
+    "office": "house",
+    "state": "fl",
+    "district": 16,
+    "seat": null,
+    "path": "/fl/house/16",
+    "search": "Florida 16 congressional district poll 2026"
+  },
+  {
+    "id": "2026-fl-house-17",
+    "title": "Florida House district 17",
+    "office": "house",
+    "state": "fl",
+    "district": 17,
+    "seat": null,
+    "path": "/fl/house/17",
+    "search": "Florida 17 congressional district poll 2026"
+  },
+  {
+    "id": "2026-fl-house-18",
+    "title": "Florida House district 18",
+    "office": "house",
+    "state": "fl",
+    "district": 18,
+    "seat": null,
+    "path": "/fl/house/18",
+    "search": "Florida 18 congressional district poll 2026"
+  },
+  {
+    "id": "2026-fl-house-19",
+    "title": "Florida House district 19",
+    "office": "house",
+    "state": "fl",
+    "district": 19,
+    "seat": null,
+    "path": "/fl/house/19",
+    "search": "Florida 19 congressional district poll 2026"
+  },
+  {
+    "id": "2026-fl-house-20",
+    "title": "Florida House district 20",
+    "office": "house",
+    "state": "fl",
+    "district": 20,
+    "seat": null,
+    "path": "/fl/house/20",
+    "search": "Florida 20 congressional district poll 2026"
+  },
+  {
+    "id": "2026-fl-house-21",
+    "title": "Florida House district 21",
+    "office": "house",
+    "state": "fl",
+    "district": 21,
+    "seat": null,
+    "path": "/fl/house/21",
+    "search": "Florida 21 congressional district poll 2026"
+  },
+  {
+    "id": "2026-fl-house-22",
+    "title": "Florida House district 22",
+    "office": "house",
+    "state": "fl",
+    "district": 22,
+    "seat": null,
+    "path": "/fl/house/22",
+    "search": "Florida 22 congressional district poll 2026"
+  },
+  {
+    "id": "2026-fl-house-23",
+    "title": "Florida House district 23",
+    "office": "house",
+    "state": "fl",
+    "district": 23,
+    "seat": null,
+    "path": "/fl/house/23",
+    "search": "Florida 23 congressional district poll 2026"
+  },
+  {
+    "id": "2026-fl-house-24",
+    "title": "Florida House district 24",
+    "office": "house",
+    "state": "fl",
+    "district": 24,
+    "seat": null,
+    "path": "/fl/house/24",
+    "search": "Florida 24 congressional district poll 2026"
+  },
+  {
+    "id": "2026-fl-house-25",
+    "title": "Florida House district 25",
+    "office": "house",
+    "state": "fl",
+    "district": 25,
+    "seat": null,
+    "path": "/fl/house/25",
+    "search": "Florida 25 congressional district poll 2026"
+  },
+  {
+    "id": "2026-fl-house-26",
+    "title": "Florida House district 26",
+    "office": "house",
+    "state": "fl",
+    "district": 26,
+    "seat": null,
+    "path": "/fl/house/26",
+    "search": "Florida 26 congressional district poll 2026"
+  },
+  {
+    "id": "2026-fl-house-27",
+    "title": "Florida House district 27",
+    "office": "house",
+    "state": "fl",
+    "district": 27,
+    "seat": null,
+    "path": "/fl/house/27",
+    "search": "Florida 27 congressional district poll 2026"
+  },
+  {
+    "id": "2026-fl-house-28",
+    "title": "Florida House district 28",
+    "office": "house",
+    "state": "fl",
+    "district": 28,
+    "seat": null,
+    "path": "/fl/house/28",
+    "search": "Florida 28 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ga-house-1",
+    "title": "Georgia House district 1",
+    "office": "house",
+    "state": "ga",
+    "district": 1,
+    "seat": null,
+    "path": "/ga/house/1",
+    "search": "Georgia 1 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ga-house-2",
+    "title": "Georgia House district 2",
+    "office": "house",
+    "state": "ga",
+    "district": 2,
+    "seat": null,
+    "path": "/ga/house/2",
+    "search": "Georgia 2 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ga-house-3",
+    "title": "Georgia House district 3",
+    "office": "house",
+    "state": "ga",
+    "district": 3,
+    "seat": null,
+    "path": "/ga/house/3",
+    "search": "Georgia 3 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ga-house-4",
+    "title": "Georgia House district 4",
+    "office": "house",
+    "state": "ga",
+    "district": 4,
+    "seat": null,
+    "path": "/ga/house/4",
+    "search": "Georgia 4 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ga-house-5",
+    "title": "Georgia House district 5",
+    "office": "house",
+    "state": "ga",
+    "district": 5,
+    "seat": null,
+    "path": "/ga/house/5",
+    "search": "Georgia 5 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ga-house-6",
+    "title": "Georgia House district 6",
+    "office": "house",
+    "state": "ga",
+    "district": 6,
+    "seat": null,
+    "path": "/ga/house/6",
+    "search": "Georgia 6 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ga-house-7",
+    "title": "Georgia House district 7",
+    "office": "house",
+    "state": "ga",
+    "district": 7,
+    "seat": null,
+    "path": "/ga/house/7",
+    "search": "Georgia 7 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ga-house-8",
+    "title": "Georgia House district 8",
+    "office": "house",
+    "state": "ga",
+    "district": 8,
+    "seat": null,
+    "path": "/ga/house/8",
+    "search": "Georgia 8 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ga-house-9",
+    "title": "Georgia House district 9",
+    "office": "house",
+    "state": "ga",
+    "district": 9,
+    "seat": null,
+    "path": "/ga/house/9",
+    "search": "Georgia 9 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ga-house-10",
+    "title": "Georgia House district 10",
+    "office": "house",
+    "state": "ga",
+    "district": 10,
+    "seat": null,
+    "path": "/ga/house/10",
+    "search": "Georgia 10 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ga-house-11",
+    "title": "Georgia House district 11",
+    "office": "house",
+    "state": "ga",
+    "district": 11,
+    "seat": null,
+    "path": "/ga/house/11",
+    "search": "Georgia 11 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ga-house-12",
+    "title": "Georgia House district 12",
+    "office": "house",
+    "state": "ga",
+    "district": 12,
+    "seat": null,
+    "path": "/ga/house/12",
+    "search": "Georgia 12 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ga-house-13",
+    "title": "Georgia House district 13",
+    "office": "house",
+    "state": "ga",
+    "district": 13,
+    "seat": null,
+    "path": "/ga/house/13",
+    "search": "Georgia 13 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ga-house-14",
+    "title": "Georgia House district 14",
+    "office": "house",
+    "state": "ga",
+    "district": 14,
+    "seat": null,
+    "path": "/ga/house/14",
+    "search": "Georgia 14 congressional district poll 2026"
+  },
+  {
+    "id": "2026-hi-house-1",
+    "title": "Hawaii House district 1",
+    "office": "house",
+    "state": "hi",
+    "district": 1,
+    "seat": null,
+    "path": "/hi/house/1",
+    "search": "Hawaii 1 congressional district poll 2026"
+  },
+  {
+    "id": "2026-hi-house-2",
+    "title": "Hawaii House district 2",
+    "office": "house",
+    "state": "hi",
+    "district": 2,
+    "seat": null,
+    "path": "/hi/house/2",
+    "search": "Hawaii 2 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ia-house-1",
+    "title": "Iowa House district 1",
+    "office": "house",
+    "state": "ia",
+    "district": 1,
+    "seat": null,
+    "path": "/ia/house/1",
+    "search": "Iowa 1 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ia-house-2",
+    "title": "Iowa House district 2",
+    "office": "house",
+    "state": "ia",
+    "district": 2,
+    "seat": null,
+    "path": "/ia/house/2",
+    "search": "Iowa 2 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ia-house-3",
+    "title": "Iowa House district 3",
+    "office": "house",
+    "state": "ia",
+    "district": 3,
+    "seat": null,
+    "path": "/ia/house/3",
+    "search": "Iowa 3 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ia-house-4",
+    "title": "Iowa House district 4",
+    "office": "house",
+    "state": "ia",
+    "district": 4,
+    "seat": null,
+    "path": "/ia/house/4",
+    "search": "Iowa 4 congressional district poll 2026"
+  },
+  {
+    "id": "2026-id-house-1",
+    "title": "Idaho House district 1",
+    "office": "house",
+    "state": "id",
+    "district": 1,
+    "seat": null,
+    "path": "/id/house/1",
+    "search": "Idaho 1 congressional district poll 2026"
+  },
+  {
+    "id": "2026-id-house-2",
+    "title": "Idaho House district 2",
+    "office": "house",
+    "state": "id",
+    "district": 2,
+    "seat": null,
+    "path": "/id/house/2",
+    "search": "Idaho 2 congressional district poll 2026"
+  },
+  {
+    "id": "2026-il-house-1",
+    "title": "Illinois House district 1",
+    "office": "house",
+    "state": "il",
+    "district": 1,
+    "seat": null,
+    "path": "/il/house/1",
+    "search": "Illinois 1 congressional district poll 2026"
+  },
+  {
+    "id": "2026-il-house-2",
+    "title": "Illinois House district 2",
+    "office": "house",
+    "state": "il",
+    "district": 2,
+    "seat": null,
+    "path": "/il/house/2",
+    "search": "Illinois 2 congressional district poll 2026"
+  },
+  {
+    "id": "2026-il-house-3",
+    "title": "Illinois House district 3",
+    "office": "house",
+    "state": "il",
+    "district": 3,
+    "seat": null,
+    "path": "/il/house/3",
+    "search": "Illinois 3 congressional district poll 2026"
+  },
+  {
+    "id": "2026-il-house-4",
+    "title": "Illinois House district 4",
+    "office": "house",
+    "state": "il",
+    "district": 4,
+    "seat": null,
+    "path": "/il/house/4",
+    "search": "Illinois 4 congressional district poll 2026"
+  },
+  {
+    "id": "2026-il-house-5",
+    "title": "Illinois House district 5",
+    "office": "house",
+    "state": "il",
+    "district": 5,
+    "seat": null,
+    "path": "/il/house/5",
+    "search": "Illinois 5 congressional district poll 2026"
+  },
+  {
+    "id": "2026-il-house-6",
+    "title": "Illinois House district 6",
+    "office": "house",
+    "state": "il",
+    "district": 6,
+    "seat": null,
+    "path": "/il/house/6",
+    "search": "Illinois 6 congressional district poll 2026"
+  },
+  {
+    "id": "2026-il-house-7",
+    "title": "Illinois House district 7",
+    "office": "house",
+    "state": "il",
+    "district": 7,
+    "seat": null,
+    "path": "/il/house/7",
+    "search": "Illinois 7 congressional district poll 2026"
+  },
+  {
+    "id": "2026-il-house-8",
+    "title": "Illinois House district 8",
+    "office": "house",
+    "state": "il",
+    "district": 8,
+    "seat": null,
+    "path": "/il/house/8",
+    "search": "Illinois 8 congressional district poll 2026"
+  },
+  {
+    "id": "2026-il-house-9",
+    "title": "Illinois House district 9",
+    "office": "house",
+    "state": "il",
+    "district": 9,
+    "seat": null,
+    "path": "/il/house/9",
+    "search": "Illinois 9 congressional district poll 2026"
+  },
+  {
+    "id": "2026-il-house-10",
+    "title": "Illinois House district 10",
+    "office": "house",
+    "state": "il",
+    "district": 10,
+    "seat": null,
+    "path": "/il/house/10",
+    "search": "Illinois 10 congressional district poll 2026"
+  },
+  {
+    "id": "2026-il-house-11",
+    "title": "Illinois House district 11",
+    "office": "house",
+    "state": "il",
+    "district": 11,
+    "seat": null,
+    "path": "/il/house/11",
+    "search": "Illinois 11 congressional district poll 2026"
+  },
+  {
+    "id": "2026-il-house-12",
+    "title": "Illinois House district 12",
+    "office": "house",
+    "state": "il",
+    "district": 12,
+    "seat": null,
+    "path": "/il/house/12",
+    "search": "Illinois 12 congressional district poll 2026"
+  },
+  {
+    "id": "2026-il-house-13",
+    "title": "Illinois House district 13",
+    "office": "house",
+    "state": "il",
+    "district": 13,
+    "seat": null,
+    "path": "/il/house/13",
+    "search": "Illinois 13 congressional district poll 2026"
+  },
+  {
+    "id": "2026-il-house-14",
+    "title": "Illinois House district 14",
+    "office": "house",
+    "state": "il",
+    "district": 14,
+    "seat": null,
+    "path": "/il/house/14",
+    "search": "Illinois 14 congressional district poll 2026"
+  },
+  {
+    "id": "2026-il-house-15",
+    "title": "Illinois House district 15",
+    "office": "house",
+    "state": "il",
+    "district": 15,
+    "seat": null,
+    "path": "/il/house/15",
+    "search": "Illinois 15 congressional district poll 2026"
+  },
+  {
+    "id": "2026-il-house-16",
+    "title": "Illinois House district 16",
+    "office": "house",
+    "state": "il",
+    "district": 16,
+    "seat": null,
+    "path": "/il/house/16",
+    "search": "Illinois 16 congressional district poll 2026"
+  },
+  {
+    "id": "2026-il-house-17",
+    "title": "Illinois House district 17",
+    "office": "house",
+    "state": "il",
+    "district": 17,
+    "seat": null,
+    "path": "/il/house/17",
+    "search": "Illinois 17 congressional district poll 2026"
+  },
+  {
+    "id": "2026-in-house-1",
+    "title": "Indiana House district 1",
+    "office": "house",
+    "state": "in",
+    "district": 1,
+    "seat": null,
+    "path": "/in/house/1",
+    "search": "Indiana 1 congressional district poll 2026"
+  },
+  {
+    "id": "2026-in-house-2",
+    "title": "Indiana House district 2",
+    "office": "house",
+    "state": "in",
+    "district": 2,
+    "seat": null,
+    "path": "/in/house/2",
+    "search": "Indiana 2 congressional district poll 2026"
+  },
+  {
+    "id": "2026-in-house-3",
+    "title": "Indiana House district 3",
+    "office": "house",
+    "state": "in",
+    "district": 3,
+    "seat": null,
+    "path": "/in/house/3",
+    "search": "Indiana 3 congressional district poll 2026"
+  },
+  {
+    "id": "2026-in-house-4",
+    "title": "Indiana House district 4",
+    "office": "house",
+    "state": "in",
+    "district": 4,
+    "seat": null,
+    "path": "/in/house/4",
+    "search": "Indiana 4 congressional district poll 2026"
+  },
+  {
+    "id": "2026-in-house-5",
+    "title": "Indiana House district 5",
+    "office": "house",
+    "state": "in",
+    "district": 5,
+    "seat": null,
+    "path": "/in/house/5",
+    "search": "Indiana 5 congressional district poll 2026"
+  },
+  {
+    "id": "2026-in-house-6",
+    "title": "Indiana House district 6",
+    "office": "house",
+    "state": "in",
+    "district": 6,
+    "seat": null,
+    "path": "/in/house/6",
+    "search": "Indiana 6 congressional district poll 2026"
+  },
+  {
+    "id": "2026-in-house-7",
+    "title": "Indiana House district 7",
+    "office": "house",
+    "state": "in",
+    "district": 7,
+    "seat": null,
+    "path": "/in/house/7",
+    "search": "Indiana 7 congressional district poll 2026"
+  },
+  {
+    "id": "2026-in-house-8",
+    "title": "Indiana House district 8",
+    "office": "house",
+    "state": "in",
+    "district": 8,
+    "seat": null,
+    "path": "/in/house/8",
+    "search": "Indiana 8 congressional district poll 2026"
+  },
+  {
+    "id": "2026-in-house-9",
+    "title": "Indiana House district 9",
+    "office": "house",
+    "state": "in",
+    "district": 9,
+    "seat": null,
+    "path": "/in/house/9",
+    "search": "Indiana 9 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ks-house-1",
+    "title": "Kansas House district 1",
+    "office": "house",
+    "state": "ks",
+    "district": 1,
+    "seat": null,
+    "path": "/ks/house/1",
+    "search": "Kansas 1 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ks-house-2",
+    "title": "Kansas House district 2",
+    "office": "house",
+    "state": "ks",
+    "district": 2,
+    "seat": null,
+    "path": "/ks/house/2",
+    "search": "Kansas 2 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ks-house-3",
+    "title": "Kansas House district 3",
+    "office": "house",
+    "state": "ks",
+    "district": 3,
+    "seat": null,
+    "path": "/ks/house/3",
+    "search": "Kansas 3 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ks-house-4",
+    "title": "Kansas House district 4",
+    "office": "house",
+    "state": "ks",
+    "district": 4,
+    "seat": null,
+    "path": "/ks/house/4",
+    "search": "Kansas 4 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ky-house-1",
+    "title": "Kentucky House district 1",
+    "office": "house",
+    "state": "ky",
+    "district": 1,
+    "seat": null,
+    "path": "/ky/house/1",
+    "search": "Kentucky 1 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ky-house-2",
+    "title": "Kentucky House district 2",
+    "office": "house",
+    "state": "ky",
+    "district": 2,
+    "seat": null,
+    "path": "/ky/house/2",
+    "search": "Kentucky 2 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ky-house-3",
+    "title": "Kentucky House district 3",
+    "office": "house",
+    "state": "ky",
+    "district": 3,
+    "seat": null,
+    "path": "/ky/house/3",
+    "search": "Kentucky 3 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ky-house-4",
+    "title": "Kentucky House district 4",
+    "office": "house",
+    "state": "ky",
+    "district": 4,
+    "seat": null,
+    "path": "/ky/house/4",
+    "search": "Kentucky 4 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ky-house-5",
+    "title": "Kentucky House district 5",
+    "office": "house",
+    "state": "ky",
+    "district": 5,
+    "seat": null,
+    "path": "/ky/house/5",
+    "search": "Kentucky 5 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ky-house-6",
+    "title": "Kentucky House district 6",
+    "office": "house",
+    "state": "ky",
+    "district": 6,
+    "seat": null,
+    "path": "/ky/house/6",
+    "search": "Kentucky 6 congressional district poll 2026"
+  },
+  {
+    "id": "2026-la-house-1",
+    "title": "Louisiana House district 1",
+    "office": "house",
+    "state": "la",
+    "district": 1,
+    "seat": null,
+    "path": "/la/house/1",
+    "search": "Louisiana 1 congressional district poll 2026"
+  },
+  {
+    "id": "2026-la-house-2",
+    "title": "Louisiana House district 2",
+    "office": "house",
+    "state": "la",
+    "district": 2,
+    "seat": null,
+    "path": "/la/house/2",
+    "search": "Louisiana 2 congressional district poll 2026"
+  },
+  {
+    "id": "2026-la-house-3",
+    "title": "Louisiana House district 3",
+    "office": "house",
+    "state": "la",
+    "district": 3,
+    "seat": null,
+    "path": "/la/house/3",
+    "search": "Louisiana 3 congressional district poll 2026"
+  },
+  {
+    "id": "2026-la-house-4",
+    "title": "Louisiana House district 4",
+    "office": "house",
+    "state": "la",
+    "district": 4,
+    "seat": null,
+    "path": "/la/house/4",
+    "search": "Louisiana 4 congressional district poll 2026"
+  },
+  {
+    "id": "2026-la-house-5",
+    "title": "Louisiana House district 5",
+    "office": "house",
+    "state": "la",
+    "district": 5,
+    "seat": null,
+    "path": "/la/house/5",
+    "search": "Louisiana 5 congressional district poll 2026"
+  },
+  {
+    "id": "2026-la-house-6",
+    "title": "Louisiana House district 6",
+    "office": "house",
+    "state": "la",
+    "district": 6,
+    "seat": null,
+    "path": "/la/house/6",
+    "search": "Louisiana 6 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ma-house-1",
+    "title": "Massachusetts House district 1",
+    "office": "house",
+    "state": "ma",
+    "district": 1,
+    "seat": null,
+    "path": "/ma/house/1",
+    "search": "Massachusetts 1 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ma-house-2",
+    "title": "Massachusetts House district 2",
+    "office": "house",
+    "state": "ma",
+    "district": 2,
+    "seat": null,
+    "path": "/ma/house/2",
+    "search": "Massachusetts 2 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ma-house-3",
+    "title": "Massachusetts House district 3",
+    "office": "house",
+    "state": "ma",
+    "district": 3,
+    "seat": null,
+    "path": "/ma/house/3",
+    "search": "Massachusetts 3 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ma-house-4",
+    "title": "Massachusetts House district 4",
+    "office": "house",
+    "state": "ma",
+    "district": 4,
+    "seat": null,
+    "path": "/ma/house/4",
+    "search": "Massachusetts 4 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ma-house-5",
+    "title": "Massachusetts House district 5",
+    "office": "house",
+    "state": "ma",
+    "district": 5,
+    "seat": null,
+    "path": "/ma/house/5",
+    "search": "Massachusetts 5 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ma-house-6",
+    "title": "Massachusetts House district 6",
+    "office": "house",
+    "state": "ma",
+    "district": 6,
+    "seat": null,
+    "path": "/ma/house/6",
+    "search": "Massachusetts 6 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ma-house-7",
+    "title": "Massachusetts House district 7",
+    "office": "house",
+    "state": "ma",
+    "district": 7,
+    "seat": null,
+    "path": "/ma/house/7",
+    "search": "Massachusetts 7 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ma-house-8",
+    "title": "Massachusetts House district 8",
+    "office": "house",
+    "state": "ma",
+    "district": 8,
+    "seat": null,
+    "path": "/ma/house/8",
+    "search": "Massachusetts 8 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ma-house-9",
+    "title": "Massachusetts House district 9",
+    "office": "house",
+    "state": "ma",
+    "district": 9,
+    "seat": null,
+    "path": "/ma/house/9",
+    "search": "Massachusetts 9 congressional district poll 2026"
+  },
+  {
+    "id": "2026-md-house-1",
+    "title": "Maryland House district 1",
+    "office": "house",
+    "state": "md",
+    "district": 1,
+    "seat": null,
+    "path": "/md/house/1",
+    "search": "Maryland 1 congressional district poll 2026"
+  },
+  {
+    "id": "2026-md-house-2",
+    "title": "Maryland House district 2",
+    "office": "house",
+    "state": "md",
+    "district": 2,
+    "seat": null,
+    "path": "/md/house/2",
+    "search": "Maryland 2 congressional district poll 2026"
+  },
+  {
+    "id": "2026-md-house-3",
+    "title": "Maryland House district 3",
+    "office": "house",
+    "state": "md",
+    "district": 3,
+    "seat": null,
+    "path": "/md/house/3",
+    "search": "Maryland 3 congressional district poll 2026"
+  },
+  {
+    "id": "2026-md-house-4",
+    "title": "Maryland House district 4",
+    "office": "house",
+    "state": "md",
+    "district": 4,
+    "seat": null,
+    "path": "/md/house/4",
+    "search": "Maryland 4 congressional district poll 2026"
+  },
+  {
+    "id": "2026-md-house-5",
+    "title": "Maryland House district 5",
+    "office": "house",
+    "state": "md",
+    "district": 5,
+    "seat": null,
+    "path": "/md/house/5",
+    "search": "Maryland 5 congressional district poll 2026"
+  },
+  {
+    "id": "2026-md-house-6",
+    "title": "Maryland House district 6",
+    "office": "house",
+    "state": "md",
+    "district": 6,
+    "seat": null,
+    "path": "/md/house/6",
+    "search": "Maryland 6 congressional district poll 2026"
+  },
+  {
+    "id": "2026-md-house-7",
+    "title": "Maryland House district 7",
+    "office": "house",
+    "state": "md",
+    "district": 7,
+    "seat": null,
+    "path": "/md/house/7",
+    "search": "Maryland 7 congressional district poll 2026"
+  },
+  {
+    "id": "2026-md-house-8",
+    "title": "Maryland House district 8",
+    "office": "house",
+    "state": "md",
+    "district": 8,
+    "seat": null,
+    "path": "/md/house/8",
+    "search": "Maryland 8 congressional district poll 2026"
+  },
+  {
+    "id": "2026-me-house-1",
+    "title": "Maine House district 1",
+    "office": "house",
+    "state": "me",
+    "district": 1,
+    "seat": null,
+    "path": "/me/house/1",
+    "search": "Maine 1 congressional district poll 2026"
+  },
+  {
+    "id": "2026-me-house-2",
+    "title": "Maine House district 2",
+    "office": "house",
+    "state": "me",
+    "district": 2,
+    "seat": null,
+    "path": "/me/house/2",
+    "search": "Maine 2 congressional district poll 2026"
+  },
+  {
+    "id": "2026-mi-house-1",
+    "title": "Michigan House district 1",
+    "office": "house",
+    "state": "mi",
+    "district": 1,
+    "seat": null,
+    "path": "/mi/house/1",
+    "search": "Michigan 1 congressional district poll 2026"
+  },
+  {
+    "id": "2026-mi-house-2",
+    "title": "Michigan House district 2",
+    "office": "house",
+    "state": "mi",
+    "district": 2,
+    "seat": null,
+    "path": "/mi/house/2",
+    "search": "Michigan 2 congressional district poll 2026"
+  },
+  {
+    "id": "2026-mi-house-3",
+    "title": "Michigan House district 3",
+    "office": "house",
+    "state": "mi",
+    "district": 3,
+    "seat": null,
+    "path": "/mi/house/3",
+    "search": "Michigan 3 congressional district poll 2026"
+  },
+  {
+    "id": "2026-mi-house-4",
+    "title": "Michigan House district 4",
+    "office": "house",
+    "state": "mi",
+    "district": 4,
+    "seat": null,
+    "path": "/mi/house/4",
+    "search": "Michigan 4 congressional district poll 2026"
+  },
+  {
+    "id": "2026-mi-house-5",
+    "title": "Michigan House district 5",
+    "office": "house",
+    "state": "mi",
+    "district": 5,
+    "seat": null,
+    "path": "/mi/house/5",
+    "search": "Michigan 5 congressional district poll 2026"
+  },
+  {
+    "id": "2026-mi-house-6",
+    "title": "Michigan House district 6",
+    "office": "house",
+    "state": "mi",
+    "district": 6,
+    "seat": null,
+    "path": "/mi/house/6",
+    "search": "Michigan 6 congressional district poll 2026"
+  },
+  {
+    "id": "2026-mi-house-7",
+    "title": "Michigan House district 7",
+    "office": "house",
+    "state": "mi",
+    "district": 7,
+    "seat": null,
+    "path": "/mi/house/7",
+    "search": "Michigan 7 congressional district poll 2026"
+  },
+  {
+    "id": "2026-mi-house-8",
+    "title": "Michigan House district 8",
+    "office": "house",
+    "state": "mi",
+    "district": 8,
+    "seat": null,
+    "path": "/mi/house/8",
+    "search": "Michigan 8 congressional district poll 2026"
+  },
+  {
+    "id": "2026-mi-house-9",
+    "title": "Michigan House district 9",
+    "office": "house",
+    "state": "mi",
+    "district": 9,
+    "seat": null,
+    "path": "/mi/house/9",
+    "search": "Michigan 9 congressional district poll 2026"
+  },
+  {
+    "id": "2026-mi-house-10",
+    "title": "Michigan House district 10",
+    "office": "house",
+    "state": "mi",
+    "district": 10,
+    "seat": null,
+    "path": "/mi/house/10",
+    "search": "Michigan 10 congressional district poll 2026"
+  },
+  {
+    "id": "2026-mi-house-11",
+    "title": "Michigan House district 11",
+    "office": "house",
+    "state": "mi",
+    "district": 11,
+    "seat": null,
+    "path": "/mi/house/11",
+    "search": "Michigan 11 congressional district poll 2026"
+  },
+  {
+    "id": "2026-mi-house-12",
+    "title": "Michigan House district 12",
+    "office": "house",
+    "state": "mi",
+    "district": 12,
+    "seat": null,
+    "path": "/mi/house/12",
+    "search": "Michigan 12 congressional district poll 2026"
+  },
+  {
+    "id": "2026-mi-house-13",
+    "title": "Michigan House district 13",
+    "office": "house",
+    "state": "mi",
+    "district": 13,
+    "seat": null,
+    "path": "/mi/house/13",
+    "search": "Michigan 13 congressional district poll 2026"
+  },
+  {
+    "id": "2026-mn-house-1",
+    "title": "Minnesota House district 1",
+    "office": "house",
+    "state": "mn",
+    "district": 1,
+    "seat": null,
+    "path": "/mn/house/1",
+    "search": "Minnesota 1 congressional district poll 2026"
+  },
+  {
+    "id": "2026-mn-house-2",
+    "title": "Minnesota House district 2",
+    "office": "house",
+    "state": "mn",
+    "district": 2,
+    "seat": null,
+    "path": "/mn/house/2",
+    "search": "Minnesota 2 congressional district poll 2026"
+  },
+  {
+    "id": "2026-mn-house-3",
+    "title": "Minnesota House district 3",
+    "office": "house",
+    "state": "mn",
+    "district": 3,
+    "seat": null,
+    "path": "/mn/house/3",
+    "search": "Minnesota 3 congressional district poll 2026"
+  },
+  {
+    "id": "2026-mn-house-4",
+    "title": "Minnesota House district 4",
+    "office": "house",
+    "state": "mn",
+    "district": 4,
+    "seat": null,
+    "path": "/mn/house/4",
+    "search": "Minnesota 4 congressional district poll 2026"
+  },
+  {
+    "id": "2026-mn-house-5",
+    "title": "Minnesota House district 5",
+    "office": "house",
+    "state": "mn",
+    "district": 5,
+    "seat": null,
+    "path": "/mn/house/5",
+    "search": "Minnesota 5 congressional district poll 2026"
+  },
+  {
+    "id": "2026-mn-house-6",
+    "title": "Minnesota House district 6",
+    "office": "house",
+    "state": "mn",
+    "district": 6,
+    "seat": null,
+    "path": "/mn/house/6",
+    "search": "Minnesota 6 congressional district poll 2026"
+  },
+  {
+    "id": "2026-mn-house-7",
+    "title": "Minnesota House district 7",
+    "office": "house",
+    "state": "mn",
+    "district": 7,
+    "seat": null,
+    "path": "/mn/house/7",
+    "search": "Minnesota 7 congressional district poll 2026"
+  },
+  {
+    "id": "2026-mn-house-8",
+    "title": "Minnesota House district 8",
+    "office": "house",
+    "state": "mn",
+    "district": 8,
+    "seat": null,
+    "path": "/mn/house/8",
+    "search": "Minnesota 8 congressional district poll 2026"
+  },
+  {
+    "id": "2026-mo-house-1",
+    "title": "Missouri House district 1",
+    "office": "house",
+    "state": "mo",
+    "district": 1,
+    "seat": null,
+    "path": "/mo/house/1",
+    "search": "Missouri 1 congressional district poll 2026"
+  },
+  {
+    "id": "2026-mo-house-2",
+    "title": "Missouri House district 2",
+    "office": "house",
+    "state": "mo",
+    "district": 2,
+    "seat": null,
+    "path": "/mo/house/2",
+    "search": "Missouri 2 congressional district poll 2026"
+  },
+  {
+    "id": "2026-mo-house-3",
+    "title": "Missouri House district 3",
+    "office": "house",
+    "state": "mo",
+    "district": 3,
+    "seat": null,
+    "path": "/mo/house/3",
+    "search": "Missouri 3 congressional district poll 2026"
+  },
+  {
+    "id": "2026-mo-house-4",
+    "title": "Missouri House district 4",
+    "office": "house",
+    "state": "mo",
+    "district": 4,
+    "seat": null,
+    "path": "/mo/house/4",
+    "search": "Missouri 4 congressional district poll 2026"
+  },
+  {
+    "id": "2026-mo-house-5",
+    "title": "Missouri House district 5",
+    "office": "house",
+    "state": "mo",
+    "district": 5,
+    "seat": null,
+    "path": "/mo/house/5",
+    "search": "Missouri 5 congressional district poll 2026"
+  },
+  {
+    "id": "2026-mo-house-6",
+    "title": "Missouri House district 6",
+    "office": "house",
+    "state": "mo",
+    "district": 6,
+    "seat": null,
+    "path": "/mo/house/6",
+    "search": "Missouri 6 congressional district poll 2026"
+  },
+  {
+    "id": "2026-mo-house-7",
+    "title": "Missouri House district 7",
+    "office": "house",
+    "state": "mo",
+    "district": 7,
+    "seat": null,
+    "path": "/mo/house/7",
+    "search": "Missouri 7 congressional district poll 2026"
+  },
+  {
+    "id": "2026-mo-house-8",
+    "title": "Missouri House district 8",
+    "office": "house",
+    "state": "mo",
+    "district": 8,
+    "seat": null,
+    "path": "/mo/house/8",
+    "search": "Missouri 8 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ms-house-1",
+    "title": "Mississippi House district 1",
+    "office": "house",
+    "state": "ms",
+    "district": 1,
+    "seat": null,
+    "path": "/ms/house/1",
+    "search": "Mississippi 1 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ms-house-2",
+    "title": "Mississippi House district 2",
+    "office": "house",
+    "state": "ms",
+    "district": 2,
+    "seat": null,
+    "path": "/ms/house/2",
+    "search": "Mississippi 2 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ms-house-3",
+    "title": "Mississippi House district 3",
+    "office": "house",
+    "state": "ms",
+    "district": 3,
+    "seat": null,
+    "path": "/ms/house/3",
+    "search": "Mississippi 3 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ms-house-4",
+    "title": "Mississippi House district 4",
+    "office": "house",
+    "state": "ms",
+    "district": 4,
+    "seat": null,
+    "path": "/ms/house/4",
+    "search": "Mississippi 4 congressional district poll 2026"
+  },
+  {
+    "id": "2026-mt-house-1",
+    "title": "Montana House district 1",
+    "office": "house",
+    "state": "mt",
+    "district": 1,
+    "seat": null,
+    "path": "/mt/house/1",
+    "search": "Montana 1 congressional district poll 2026"
+  },
+  {
+    "id": "2026-mt-house-2",
+    "title": "Montana House district 2",
+    "office": "house",
+    "state": "mt",
+    "district": 2,
+    "seat": null,
+    "path": "/mt/house/2",
+    "search": "Montana 2 congressional district poll 2026"
+  },
+  {
+    "id": "2026-nc-house-1",
+    "title": "North Carolina House district 1",
+    "office": "house",
+    "state": "nc",
+    "district": 1,
+    "seat": null,
+    "path": "/nc/house/1",
+    "search": "North Carolina 1 congressional district poll 2026"
+  },
+  {
+    "id": "2026-nc-house-2",
+    "title": "North Carolina House district 2",
+    "office": "house",
+    "state": "nc",
+    "district": 2,
+    "seat": null,
+    "path": "/nc/house/2",
+    "search": "North Carolina 2 congressional district poll 2026"
+  },
+  {
+    "id": "2026-nc-house-3",
+    "title": "North Carolina House district 3",
+    "office": "house",
+    "state": "nc",
+    "district": 3,
+    "seat": null,
+    "path": "/nc/house/3",
+    "search": "North Carolina 3 congressional district poll 2026"
+  },
+  {
+    "id": "2026-nc-house-4",
+    "title": "North Carolina House district 4",
+    "office": "house",
+    "state": "nc",
+    "district": 4,
+    "seat": null,
+    "path": "/nc/house/4",
+    "search": "North Carolina 4 congressional district poll 2026"
+  },
+  {
+    "id": "2026-nc-house-5",
+    "title": "North Carolina House district 5",
+    "office": "house",
+    "state": "nc",
+    "district": 5,
+    "seat": null,
+    "path": "/nc/house/5",
+    "search": "North Carolina 5 congressional district poll 2026"
+  },
+  {
+    "id": "2026-nc-house-6",
+    "title": "North Carolina House district 6",
+    "office": "house",
+    "state": "nc",
+    "district": 6,
+    "seat": null,
+    "path": "/nc/house/6",
+    "search": "North Carolina 6 congressional district poll 2026"
+  },
+  {
+    "id": "2026-nc-house-7",
+    "title": "North Carolina House district 7",
+    "office": "house",
+    "state": "nc",
+    "district": 7,
+    "seat": null,
+    "path": "/nc/house/7",
+    "search": "North Carolina 7 congressional district poll 2026"
+  },
+  {
+    "id": "2026-nc-house-8",
+    "title": "North Carolina House district 8",
+    "office": "house",
+    "state": "nc",
+    "district": 8,
+    "seat": null,
+    "path": "/nc/house/8",
+    "search": "North Carolina 8 congressional district poll 2026"
+  },
+  {
+    "id": "2026-nc-house-9",
+    "title": "North Carolina House district 9",
+    "office": "house",
+    "state": "nc",
+    "district": 9,
+    "seat": null,
+    "path": "/nc/house/9",
+    "search": "North Carolina 9 congressional district poll 2026"
+  },
+  {
+    "id": "2026-nc-house-10",
+    "title": "North Carolina House district 10",
+    "office": "house",
+    "state": "nc",
+    "district": 10,
+    "seat": null,
+    "path": "/nc/house/10",
+    "search": "North Carolina 10 congressional district poll 2026"
+  },
+  {
+    "id": "2026-nc-house-11",
+    "title": "North Carolina House district 11",
+    "office": "house",
+    "state": "nc",
+    "district": 11,
+    "seat": null,
+    "path": "/nc/house/11",
+    "search": "North Carolina 11 congressional district poll 2026"
+  },
+  {
+    "id": "2026-nc-house-12",
+    "title": "North Carolina House district 12",
+    "office": "house",
+    "state": "nc",
+    "district": 12,
+    "seat": null,
+    "path": "/nc/house/12",
+    "search": "North Carolina 12 congressional district poll 2026"
+  },
+  {
+    "id": "2026-nc-house-13",
+    "title": "North Carolina House district 13",
+    "office": "house",
+    "state": "nc",
+    "district": 13,
+    "seat": null,
+    "path": "/nc/house/13",
+    "search": "North Carolina 13 congressional district poll 2026"
+  },
+  {
+    "id": "2026-nc-house-14",
+    "title": "North Carolina House district 14",
+    "office": "house",
+    "state": "nc",
+    "district": 14,
+    "seat": null,
+    "path": "/nc/house/14",
+    "search": "North Carolina 14 congressional district poll 2026"
+  },
+  {
+    "id": "2026-nd-house-at-large",
+    "title": "North Dakota House at-large",
+    "office": "house",
+    "state": "nd",
+    "district": "at-large",
+    "seat": null,
+    "path": "/nd/house/at-large",
+    "search": "North Dakota at-large U.S. House poll 2026"
+  },
+  {
+    "id": "2026-ne-house-1",
+    "title": "Nebraska House district 1",
+    "office": "house",
+    "state": "ne",
+    "district": 1,
+    "seat": null,
+    "path": "/ne/house/1",
+    "search": "Nebraska 1 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ne-house-2",
+    "title": "Nebraska House district 2",
+    "office": "house",
+    "state": "ne",
+    "district": 2,
+    "seat": null,
+    "path": "/ne/house/2",
+    "search": "Nebraska 2 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ne-house-3",
+    "title": "Nebraska House district 3",
+    "office": "house",
+    "state": "ne",
+    "district": 3,
+    "seat": null,
+    "path": "/ne/house/3",
+    "search": "Nebraska 3 congressional district poll 2026"
+  },
+  {
+    "id": "2026-nh-house-1",
+    "title": "New Hampshire House district 1",
+    "office": "house",
+    "state": "nh",
+    "district": 1,
+    "seat": null,
+    "path": "/nh/house/1",
+    "search": "New Hampshire 1 congressional district poll 2026"
+  },
+  {
+    "id": "2026-nh-house-2",
+    "title": "New Hampshire House district 2",
+    "office": "house",
+    "state": "nh",
+    "district": 2,
+    "seat": null,
+    "path": "/nh/house/2",
+    "search": "New Hampshire 2 congressional district poll 2026"
+  },
+  {
+    "id": "2026-nj-house-1",
+    "title": "New Jersey House district 1",
+    "office": "house",
+    "state": "nj",
+    "district": 1,
+    "seat": null,
+    "path": "/nj/house/1",
+    "search": "New Jersey 1 congressional district poll 2026"
+  },
+  {
+    "id": "2026-nj-house-2",
+    "title": "New Jersey House district 2",
+    "office": "house",
+    "state": "nj",
+    "district": 2,
+    "seat": null,
+    "path": "/nj/house/2",
+    "search": "New Jersey 2 congressional district poll 2026"
+  },
+  {
+    "id": "2026-nj-house-3",
+    "title": "New Jersey House district 3",
+    "office": "house",
+    "state": "nj",
+    "district": 3,
+    "seat": null,
+    "path": "/nj/house/3",
+    "search": "New Jersey 3 congressional district poll 2026"
+  },
+  {
+    "id": "2026-nj-house-4",
+    "title": "New Jersey House district 4",
+    "office": "house",
+    "state": "nj",
+    "district": 4,
+    "seat": null,
+    "path": "/nj/house/4",
+    "search": "New Jersey 4 congressional district poll 2026"
+  },
+  {
+    "id": "2026-nj-house-5",
+    "title": "New Jersey House district 5",
+    "office": "house",
+    "state": "nj",
+    "district": 5,
+    "seat": null,
+    "path": "/nj/house/5",
+    "search": "New Jersey 5 congressional district poll 2026"
+  },
+  {
+    "id": "2026-nj-house-6",
+    "title": "New Jersey House district 6",
+    "office": "house",
+    "state": "nj",
+    "district": 6,
+    "seat": null,
+    "path": "/nj/house/6",
+    "search": "New Jersey 6 congressional district poll 2026"
+  },
+  {
+    "id": "2026-nj-house-7",
+    "title": "New Jersey House district 7",
+    "office": "house",
+    "state": "nj",
+    "district": 7,
+    "seat": null,
+    "path": "/nj/house/7",
+    "search": "New Jersey 7 congressional district poll 2026"
+  },
+  {
+    "id": "2026-nj-house-8",
+    "title": "New Jersey House district 8",
+    "office": "house",
+    "state": "nj",
+    "district": 8,
+    "seat": null,
+    "path": "/nj/house/8",
+    "search": "New Jersey 8 congressional district poll 2026"
+  },
+  {
+    "id": "2026-nj-house-9",
+    "title": "New Jersey House district 9",
+    "office": "house",
+    "state": "nj",
+    "district": 9,
+    "seat": null,
+    "path": "/nj/house/9",
+    "search": "New Jersey 9 congressional district poll 2026"
+  },
+  {
+    "id": "2026-nj-house-10",
+    "title": "New Jersey House district 10",
+    "office": "house",
+    "state": "nj",
+    "district": 10,
+    "seat": null,
+    "path": "/nj/house/10",
+    "search": "New Jersey 10 congressional district poll 2026"
+  },
+  {
+    "id": "2026-nj-house-11",
+    "title": "New Jersey House district 11",
+    "office": "house",
+    "state": "nj",
+    "district": 11,
+    "seat": null,
+    "path": "/nj/house/11",
+    "search": "New Jersey 11 congressional district poll 2026"
+  },
+  {
+    "id": "2026-nj-house-12",
+    "title": "New Jersey House district 12",
+    "office": "house",
+    "state": "nj",
+    "district": 12,
+    "seat": null,
+    "path": "/nj/house/12",
+    "search": "New Jersey 12 congressional district poll 2026"
+  },
+  {
+    "id": "2026-nm-house-1",
+    "title": "New Mexico House district 1",
+    "office": "house",
+    "state": "nm",
+    "district": 1,
+    "seat": null,
+    "path": "/nm/house/1",
+    "search": "New Mexico 1 congressional district poll 2026"
+  },
+  {
+    "id": "2026-nm-house-2",
+    "title": "New Mexico House district 2",
+    "office": "house",
+    "state": "nm",
+    "district": 2,
+    "seat": null,
+    "path": "/nm/house/2",
+    "search": "New Mexico 2 congressional district poll 2026"
+  },
+  {
+    "id": "2026-nm-house-3",
+    "title": "New Mexico House district 3",
+    "office": "house",
+    "state": "nm",
+    "district": 3,
+    "seat": null,
+    "path": "/nm/house/3",
+    "search": "New Mexico 3 congressional district poll 2026"
+  },
+  {
+    "id": "2026-nv-house-1",
+    "title": "Nevada House district 1",
+    "office": "house",
+    "state": "nv",
+    "district": 1,
+    "seat": null,
+    "path": "/nv/house/1",
+    "search": "Nevada 1 congressional district poll 2026"
+  },
+  {
+    "id": "2026-nv-house-2",
+    "title": "Nevada House district 2",
+    "office": "house",
+    "state": "nv",
+    "district": 2,
+    "seat": null,
+    "path": "/nv/house/2",
+    "search": "Nevada 2 congressional district poll 2026"
+  },
+  {
+    "id": "2026-nv-house-3",
+    "title": "Nevada House district 3",
+    "office": "house",
+    "state": "nv",
+    "district": 3,
+    "seat": null,
+    "path": "/nv/house/3",
+    "search": "Nevada 3 congressional district poll 2026"
+  },
+  {
+    "id": "2026-nv-house-4",
+    "title": "Nevada House district 4",
+    "office": "house",
+    "state": "nv",
+    "district": 4,
+    "seat": null,
+    "path": "/nv/house/4",
+    "search": "Nevada 4 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ny-house-1",
+    "title": "New York House district 1",
+    "office": "house",
+    "state": "ny",
+    "district": 1,
+    "seat": null,
+    "path": "/ny/house/1",
+    "search": "New York 1 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ny-house-2",
+    "title": "New York House district 2",
+    "office": "house",
+    "state": "ny",
+    "district": 2,
+    "seat": null,
+    "path": "/ny/house/2",
+    "search": "New York 2 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ny-house-3",
+    "title": "New York House district 3",
+    "office": "house",
+    "state": "ny",
+    "district": 3,
+    "seat": null,
+    "path": "/ny/house/3",
+    "search": "New York 3 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ny-house-4",
+    "title": "New York House district 4",
+    "office": "house",
+    "state": "ny",
+    "district": 4,
+    "seat": null,
+    "path": "/ny/house/4",
+    "search": "New York 4 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ny-house-5",
+    "title": "New York House district 5",
+    "office": "house",
+    "state": "ny",
+    "district": 5,
+    "seat": null,
+    "path": "/ny/house/5",
+    "search": "New York 5 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ny-house-6",
+    "title": "New York House district 6",
+    "office": "house",
+    "state": "ny",
+    "district": 6,
+    "seat": null,
+    "path": "/ny/house/6",
+    "search": "New York 6 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ny-house-7",
+    "title": "New York House district 7",
+    "office": "house",
+    "state": "ny",
+    "district": 7,
+    "seat": null,
+    "path": "/ny/house/7",
+    "search": "New York 7 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ny-house-8",
+    "title": "New York House district 8",
+    "office": "house",
+    "state": "ny",
+    "district": 8,
+    "seat": null,
+    "path": "/ny/house/8",
+    "search": "New York 8 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ny-house-9",
+    "title": "New York House district 9",
+    "office": "house",
+    "state": "ny",
+    "district": 9,
+    "seat": null,
+    "path": "/ny/house/9",
+    "search": "New York 9 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ny-house-10",
+    "title": "New York House district 10",
+    "office": "house",
+    "state": "ny",
+    "district": 10,
+    "seat": null,
+    "path": "/ny/house/10",
+    "search": "New York 10 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ny-house-11",
+    "title": "New York House district 11",
+    "office": "house",
+    "state": "ny",
+    "district": 11,
+    "seat": null,
+    "path": "/ny/house/11",
+    "search": "New York 11 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ny-house-12",
+    "title": "New York House district 12",
+    "office": "house",
+    "state": "ny",
+    "district": 12,
+    "seat": null,
+    "path": "/ny/house/12",
+    "search": "New York 12 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ny-house-13",
+    "title": "New York House district 13",
+    "office": "house",
+    "state": "ny",
+    "district": 13,
+    "seat": null,
+    "path": "/ny/house/13",
+    "search": "New York 13 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ny-house-14",
+    "title": "New York House district 14",
+    "office": "house",
+    "state": "ny",
+    "district": 14,
+    "seat": null,
+    "path": "/ny/house/14",
+    "search": "New York 14 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ny-house-15",
+    "title": "New York House district 15",
+    "office": "house",
+    "state": "ny",
+    "district": 15,
+    "seat": null,
+    "path": "/ny/house/15",
+    "search": "New York 15 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ny-house-16",
+    "title": "New York House district 16",
+    "office": "house",
+    "state": "ny",
+    "district": 16,
+    "seat": null,
+    "path": "/ny/house/16",
+    "search": "New York 16 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ny-house-17",
+    "title": "New York House district 17",
+    "office": "house",
+    "state": "ny",
+    "district": 17,
+    "seat": null,
+    "path": "/ny/house/17",
+    "search": "New York 17 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ny-house-18",
+    "title": "New York House district 18",
+    "office": "house",
+    "state": "ny",
+    "district": 18,
+    "seat": null,
+    "path": "/ny/house/18",
+    "search": "New York 18 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ny-house-19",
+    "title": "New York House district 19",
+    "office": "house",
+    "state": "ny",
+    "district": 19,
+    "seat": null,
+    "path": "/ny/house/19",
+    "search": "New York 19 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ny-house-20",
+    "title": "New York House district 20",
+    "office": "house",
+    "state": "ny",
+    "district": 20,
+    "seat": null,
+    "path": "/ny/house/20",
+    "search": "New York 20 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ny-house-21",
+    "title": "New York House district 21",
+    "office": "house",
+    "state": "ny",
+    "district": 21,
+    "seat": null,
+    "path": "/ny/house/21",
+    "search": "New York 21 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ny-house-22",
+    "title": "New York House district 22",
+    "office": "house",
+    "state": "ny",
+    "district": 22,
+    "seat": null,
+    "path": "/ny/house/22",
+    "search": "New York 22 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ny-house-23",
+    "title": "New York House district 23",
+    "office": "house",
+    "state": "ny",
+    "district": 23,
+    "seat": null,
+    "path": "/ny/house/23",
+    "search": "New York 23 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ny-house-24",
+    "title": "New York House district 24",
+    "office": "house",
+    "state": "ny",
+    "district": 24,
+    "seat": null,
+    "path": "/ny/house/24",
+    "search": "New York 24 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ny-house-25",
+    "title": "New York House district 25",
+    "office": "house",
+    "state": "ny",
+    "district": 25,
+    "seat": null,
+    "path": "/ny/house/25",
+    "search": "New York 25 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ny-house-26",
+    "title": "New York House district 26",
+    "office": "house",
+    "state": "ny",
+    "district": 26,
+    "seat": null,
+    "path": "/ny/house/26",
+    "search": "New York 26 congressional district poll 2026"
+  },
+  {
+    "id": "2026-oh-house-1",
+    "title": "Ohio House district 1",
+    "office": "house",
+    "state": "oh",
+    "district": 1,
+    "seat": null,
+    "path": "/oh/house/1",
+    "search": "Ohio 1 congressional district poll 2026"
+  },
+  {
+    "id": "2026-oh-house-2",
+    "title": "Ohio House district 2",
+    "office": "house",
+    "state": "oh",
+    "district": 2,
+    "seat": null,
+    "path": "/oh/house/2",
+    "search": "Ohio 2 congressional district poll 2026"
+  },
+  {
+    "id": "2026-oh-house-3",
+    "title": "Ohio House district 3",
+    "office": "house",
+    "state": "oh",
+    "district": 3,
+    "seat": null,
+    "path": "/oh/house/3",
+    "search": "Ohio 3 congressional district poll 2026"
+  },
+  {
+    "id": "2026-oh-house-4",
+    "title": "Ohio House district 4",
+    "office": "house",
+    "state": "oh",
+    "district": 4,
+    "seat": null,
+    "path": "/oh/house/4",
+    "search": "Ohio 4 congressional district poll 2026"
+  },
+  {
+    "id": "2026-oh-house-5",
+    "title": "Ohio House district 5",
+    "office": "house",
+    "state": "oh",
+    "district": 5,
+    "seat": null,
+    "path": "/oh/house/5",
+    "search": "Ohio 5 congressional district poll 2026"
+  },
+  {
+    "id": "2026-oh-house-6",
+    "title": "Ohio House district 6",
+    "office": "house",
+    "state": "oh",
+    "district": 6,
+    "seat": null,
+    "path": "/oh/house/6",
+    "search": "Ohio 6 congressional district poll 2026"
+  },
+  {
+    "id": "2026-oh-house-7",
+    "title": "Ohio House district 7",
+    "office": "house",
+    "state": "oh",
+    "district": 7,
+    "seat": null,
+    "path": "/oh/house/7",
+    "search": "Ohio 7 congressional district poll 2026"
+  },
+  {
+    "id": "2026-oh-house-8",
+    "title": "Ohio House district 8",
+    "office": "house",
+    "state": "oh",
+    "district": 8,
+    "seat": null,
+    "path": "/oh/house/8",
+    "search": "Ohio 8 congressional district poll 2026"
+  },
+  {
+    "id": "2026-oh-house-9",
+    "title": "Ohio House district 9",
+    "office": "house",
+    "state": "oh",
+    "district": 9,
+    "seat": null,
+    "path": "/oh/house/9",
+    "search": "Ohio 9 congressional district poll 2026"
+  },
+  {
+    "id": "2026-oh-house-10",
+    "title": "Ohio House district 10",
+    "office": "house",
+    "state": "oh",
+    "district": 10,
+    "seat": null,
+    "path": "/oh/house/10",
+    "search": "Ohio 10 congressional district poll 2026"
+  },
+  {
+    "id": "2026-oh-house-11",
+    "title": "Ohio House district 11",
+    "office": "house",
+    "state": "oh",
+    "district": 11,
+    "seat": null,
+    "path": "/oh/house/11",
+    "search": "Ohio 11 congressional district poll 2026"
+  },
+  {
+    "id": "2026-oh-house-12",
+    "title": "Ohio House district 12",
+    "office": "house",
+    "state": "oh",
+    "district": 12,
+    "seat": null,
+    "path": "/oh/house/12",
+    "search": "Ohio 12 congressional district poll 2026"
+  },
+  {
+    "id": "2026-oh-house-13",
+    "title": "Ohio House district 13",
+    "office": "house",
+    "state": "oh",
+    "district": 13,
+    "seat": null,
+    "path": "/oh/house/13",
+    "search": "Ohio 13 congressional district poll 2026"
+  },
+  {
+    "id": "2026-oh-house-14",
+    "title": "Ohio House district 14",
+    "office": "house",
+    "state": "oh",
+    "district": 14,
+    "seat": null,
+    "path": "/oh/house/14",
+    "search": "Ohio 14 congressional district poll 2026"
+  },
+  {
+    "id": "2026-oh-house-15",
+    "title": "Ohio House district 15",
+    "office": "house",
+    "state": "oh",
+    "district": 15,
+    "seat": null,
+    "path": "/oh/house/15",
+    "search": "Ohio 15 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ok-house-1",
+    "title": "Oklahoma House district 1",
+    "office": "house",
+    "state": "ok",
+    "district": 1,
+    "seat": null,
+    "path": "/ok/house/1",
+    "search": "Oklahoma 1 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ok-house-2",
+    "title": "Oklahoma House district 2",
+    "office": "house",
+    "state": "ok",
+    "district": 2,
+    "seat": null,
+    "path": "/ok/house/2",
+    "search": "Oklahoma 2 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ok-house-3",
+    "title": "Oklahoma House district 3",
+    "office": "house",
+    "state": "ok",
+    "district": 3,
+    "seat": null,
+    "path": "/ok/house/3",
+    "search": "Oklahoma 3 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ok-house-4",
+    "title": "Oklahoma House district 4",
+    "office": "house",
+    "state": "ok",
+    "district": 4,
+    "seat": null,
+    "path": "/ok/house/4",
+    "search": "Oklahoma 4 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ok-house-5",
+    "title": "Oklahoma House district 5",
+    "office": "house",
+    "state": "ok",
+    "district": 5,
+    "seat": null,
+    "path": "/ok/house/5",
+    "search": "Oklahoma 5 congressional district poll 2026"
+  },
+  {
+    "id": "2026-or-house-1",
+    "title": "Oregon House district 1",
+    "office": "house",
+    "state": "or",
+    "district": 1,
+    "seat": null,
+    "path": "/or/house/1",
+    "search": "Oregon 1 congressional district poll 2026"
+  },
+  {
+    "id": "2026-or-house-2",
+    "title": "Oregon House district 2",
+    "office": "house",
+    "state": "or",
+    "district": 2,
+    "seat": null,
+    "path": "/or/house/2",
+    "search": "Oregon 2 congressional district poll 2026"
+  },
+  {
+    "id": "2026-or-house-3",
+    "title": "Oregon House district 3",
+    "office": "house",
+    "state": "or",
+    "district": 3,
+    "seat": null,
+    "path": "/or/house/3",
+    "search": "Oregon 3 congressional district poll 2026"
+  },
+  {
+    "id": "2026-or-house-4",
+    "title": "Oregon House district 4",
+    "office": "house",
+    "state": "or",
+    "district": 4,
+    "seat": null,
+    "path": "/or/house/4",
+    "search": "Oregon 4 congressional district poll 2026"
+  },
+  {
+    "id": "2026-or-house-5",
+    "title": "Oregon House district 5",
+    "office": "house",
+    "state": "or",
+    "district": 5,
+    "seat": null,
+    "path": "/or/house/5",
+    "search": "Oregon 5 congressional district poll 2026"
+  },
+  {
+    "id": "2026-or-house-6",
+    "title": "Oregon House district 6",
+    "office": "house",
+    "state": "or",
+    "district": 6,
+    "seat": null,
+    "path": "/or/house/6",
+    "search": "Oregon 6 congressional district poll 2026"
+  },
+  {
+    "id": "2026-pa-house-1",
+    "title": "Pennsylvania House district 1",
+    "office": "house",
+    "state": "pa",
+    "district": 1,
+    "seat": null,
+    "path": "/pa/house/1",
+    "search": "Pennsylvania 1 congressional district poll 2026"
+  },
+  {
+    "id": "2026-pa-house-2",
+    "title": "Pennsylvania House district 2",
+    "office": "house",
+    "state": "pa",
+    "district": 2,
+    "seat": null,
+    "path": "/pa/house/2",
+    "search": "Pennsylvania 2 congressional district poll 2026"
+  },
+  {
+    "id": "2026-pa-house-3",
+    "title": "Pennsylvania House district 3",
+    "office": "house",
+    "state": "pa",
+    "district": 3,
+    "seat": null,
+    "path": "/pa/house/3",
+    "search": "Pennsylvania 3 congressional district poll 2026"
+  },
+  {
+    "id": "2026-pa-house-4",
+    "title": "Pennsylvania House district 4",
+    "office": "house",
+    "state": "pa",
+    "district": 4,
+    "seat": null,
+    "path": "/pa/house/4",
+    "search": "Pennsylvania 4 congressional district poll 2026"
+  },
+  {
+    "id": "2026-pa-house-5",
+    "title": "Pennsylvania House district 5",
+    "office": "house",
+    "state": "pa",
+    "district": 5,
+    "seat": null,
+    "path": "/pa/house/5",
+    "search": "Pennsylvania 5 congressional district poll 2026"
+  },
+  {
+    "id": "2026-pa-house-6",
+    "title": "Pennsylvania House district 6",
+    "office": "house",
+    "state": "pa",
+    "district": 6,
+    "seat": null,
+    "path": "/pa/house/6",
+    "search": "Pennsylvania 6 congressional district poll 2026"
+  },
+  {
+    "id": "2026-pa-house-7",
+    "title": "Pennsylvania House district 7",
+    "office": "house",
+    "state": "pa",
+    "district": 7,
+    "seat": null,
+    "path": "/pa/house/7",
+    "search": "Pennsylvania 7 congressional district poll 2026"
+  },
+  {
+    "id": "2026-pa-house-8",
+    "title": "Pennsylvania House district 8",
+    "office": "house",
+    "state": "pa",
+    "district": 8,
+    "seat": null,
+    "path": "/pa/house/8",
+    "search": "Pennsylvania 8 congressional district poll 2026"
+  },
+  {
+    "id": "2026-pa-house-9",
+    "title": "Pennsylvania House district 9",
+    "office": "house",
+    "state": "pa",
+    "district": 9,
+    "seat": null,
+    "path": "/pa/house/9",
+    "search": "Pennsylvania 9 congressional district poll 2026"
+  },
+  {
+    "id": "2026-pa-house-10",
+    "title": "Pennsylvania House district 10",
+    "office": "house",
+    "state": "pa",
+    "district": 10,
+    "seat": null,
+    "path": "/pa/house/10",
+    "search": "Pennsylvania 10 congressional district poll 2026"
+  },
+  {
+    "id": "2026-pa-house-11",
+    "title": "Pennsylvania House district 11",
+    "office": "house",
+    "state": "pa",
+    "district": 11,
+    "seat": null,
+    "path": "/pa/house/11",
+    "search": "Pennsylvania 11 congressional district poll 2026"
+  },
+  {
+    "id": "2026-pa-house-12",
+    "title": "Pennsylvania House district 12",
+    "office": "house",
+    "state": "pa",
+    "district": 12,
+    "seat": null,
+    "path": "/pa/house/12",
+    "search": "Pennsylvania 12 congressional district poll 2026"
+  },
+  {
+    "id": "2026-pa-house-13",
+    "title": "Pennsylvania House district 13",
+    "office": "house",
+    "state": "pa",
+    "district": 13,
+    "seat": null,
+    "path": "/pa/house/13",
+    "search": "Pennsylvania 13 congressional district poll 2026"
+  },
+  {
+    "id": "2026-pa-house-14",
+    "title": "Pennsylvania House district 14",
+    "office": "house",
+    "state": "pa",
+    "district": 14,
+    "seat": null,
+    "path": "/pa/house/14",
+    "search": "Pennsylvania 14 congressional district poll 2026"
+  },
+  {
+    "id": "2026-pa-house-15",
+    "title": "Pennsylvania House district 15",
+    "office": "house",
+    "state": "pa",
+    "district": 15,
+    "seat": null,
+    "path": "/pa/house/15",
+    "search": "Pennsylvania 15 congressional district poll 2026"
+  },
+  {
+    "id": "2026-pa-house-16",
+    "title": "Pennsylvania House district 16",
+    "office": "house",
+    "state": "pa",
+    "district": 16,
+    "seat": null,
+    "path": "/pa/house/16",
+    "search": "Pennsylvania 16 congressional district poll 2026"
+  },
+  {
+    "id": "2026-pa-house-17",
+    "title": "Pennsylvania House district 17",
+    "office": "house",
+    "state": "pa",
+    "district": 17,
+    "seat": null,
+    "path": "/pa/house/17",
+    "search": "Pennsylvania 17 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ri-house-1",
+    "title": "Rhode Island House district 1",
+    "office": "house",
+    "state": "ri",
+    "district": 1,
+    "seat": null,
+    "path": "/ri/house/1",
+    "search": "Rhode Island 1 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ri-house-2",
+    "title": "Rhode Island House district 2",
+    "office": "house",
+    "state": "ri",
+    "district": 2,
+    "seat": null,
+    "path": "/ri/house/2",
+    "search": "Rhode Island 2 congressional district poll 2026"
+  },
+  {
+    "id": "2026-sc-house-1",
+    "title": "South Carolina House district 1",
+    "office": "house",
+    "state": "sc",
+    "district": 1,
+    "seat": null,
+    "path": "/sc/house/1",
+    "search": "South Carolina 1 congressional district poll 2026"
+  },
+  {
+    "id": "2026-sc-house-2",
+    "title": "South Carolina House district 2",
+    "office": "house",
+    "state": "sc",
+    "district": 2,
+    "seat": null,
+    "path": "/sc/house/2",
+    "search": "South Carolina 2 congressional district poll 2026"
+  },
+  {
+    "id": "2026-sc-house-3",
+    "title": "South Carolina House district 3",
+    "office": "house",
+    "state": "sc",
+    "district": 3,
+    "seat": null,
+    "path": "/sc/house/3",
+    "search": "South Carolina 3 congressional district poll 2026"
+  },
+  {
+    "id": "2026-sc-house-4",
+    "title": "South Carolina House district 4",
+    "office": "house",
+    "state": "sc",
+    "district": 4,
+    "seat": null,
+    "path": "/sc/house/4",
+    "search": "South Carolina 4 congressional district poll 2026"
+  },
+  {
+    "id": "2026-sc-house-5",
+    "title": "South Carolina House district 5",
+    "office": "house",
+    "state": "sc",
+    "district": 5,
+    "seat": null,
+    "path": "/sc/house/5",
+    "search": "South Carolina 5 congressional district poll 2026"
+  },
+  {
+    "id": "2026-sc-house-6",
+    "title": "South Carolina House district 6",
+    "office": "house",
+    "state": "sc",
+    "district": 6,
+    "seat": null,
+    "path": "/sc/house/6",
+    "search": "South Carolina 6 congressional district poll 2026"
+  },
+  {
+    "id": "2026-sc-house-7",
+    "title": "South Carolina House district 7",
+    "office": "house",
+    "state": "sc",
+    "district": 7,
+    "seat": null,
+    "path": "/sc/house/7",
+    "search": "South Carolina 7 congressional district poll 2026"
+  },
+  {
+    "id": "2026-sd-house-at-large",
+    "title": "South Dakota House at-large",
+    "office": "house",
+    "state": "sd",
+    "district": "at-large",
+    "seat": null,
+    "path": "/sd/house/at-large",
+    "search": "South Dakota at-large U.S. House poll 2026"
+  },
+  {
+    "id": "2026-tn-house-1",
+    "title": "Tennessee House district 1",
+    "office": "house",
+    "state": "tn",
+    "district": 1,
+    "seat": null,
+    "path": "/tn/house/1",
+    "search": "Tennessee 1 congressional district poll 2026"
+  },
+  {
+    "id": "2026-tn-house-2",
+    "title": "Tennessee House district 2",
+    "office": "house",
+    "state": "tn",
+    "district": 2,
+    "seat": null,
+    "path": "/tn/house/2",
+    "search": "Tennessee 2 congressional district poll 2026"
+  },
+  {
+    "id": "2026-tn-house-3",
+    "title": "Tennessee House district 3",
+    "office": "house",
+    "state": "tn",
+    "district": 3,
+    "seat": null,
+    "path": "/tn/house/3",
+    "search": "Tennessee 3 congressional district poll 2026"
+  },
+  {
+    "id": "2026-tn-house-4",
+    "title": "Tennessee House district 4",
+    "office": "house",
+    "state": "tn",
+    "district": 4,
+    "seat": null,
+    "path": "/tn/house/4",
+    "search": "Tennessee 4 congressional district poll 2026"
+  },
+  {
+    "id": "2026-tn-house-5",
+    "title": "Tennessee House district 5",
+    "office": "house",
+    "state": "tn",
+    "district": 5,
+    "seat": null,
+    "path": "/tn/house/5",
+    "search": "Tennessee 5 congressional district poll 2026"
+  },
+  {
+    "id": "2026-tn-house-6",
+    "title": "Tennessee House district 6",
+    "office": "house",
+    "state": "tn",
+    "district": 6,
+    "seat": null,
+    "path": "/tn/house/6",
+    "search": "Tennessee 6 congressional district poll 2026"
+  },
+  {
+    "id": "2026-tn-house-7",
+    "title": "Tennessee House district 7",
+    "office": "house",
+    "state": "tn",
+    "district": 7,
+    "seat": null,
+    "path": "/tn/house/7",
+    "search": "Tennessee 7 congressional district poll 2026"
+  },
+  {
+    "id": "2026-tn-house-8",
+    "title": "Tennessee House district 8",
+    "office": "house",
+    "state": "tn",
+    "district": 8,
+    "seat": null,
+    "path": "/tn/house/8",
+    "search": "Tennessee 8 congressional district poll 2026"
+  },
+  {
+    "id": "2026-tn-house-9",
+    "title": "Tennessee House district 9",
+    "office": "house",
+    "state": "tn",
+    "district": 9,
+    "seat": null,
+    "path": "/tn/house/9",
+    "search": "Tennessee 9 congressional district poll 2026"
+  },
+  {
+    "id": "2026-tx-house-1",
+    "title": "Texas House district 1",
+    "office": "house",
+    "state": "tx",
+    "district": 1,
+    "seat": null,
+    "path": "/tx/house/1",
+    "search": "Texas 1 congressional district poll 2026"
+  },
+  {
+    "id": "2026-tx-house-2",
+    "title": "Texas House district 2",
+    "office": "house",
+    "state": "tx",
+    "district": 2,
+    "seat": null,
+    "path": "/tx/house/2",
+    "search": "Texas 2 congressional district poll 2026"
+  },
+  {
+    "id": "2026-tx-house-3",
+    "title": "Texas House district 3",
+    "office": "house",
+    "state": "tx",
+    "district": 3,
+    "seat": null,
+    "path": "/tx/house/3",
+    "search": "Texas 3 congressional district poll 2026"
+  },
+  {
+    "id": "2026-tx-house-4",
+    "title": "Texas House district 4",
+    "office": "house",
+    "state": "tx",
+    "district": 4,
+    "seat": null,
+    "path": "/tx/house/4",
+    "search": "Texas 4 congressional district poll 2026"
+  },
+  {
+    "id": "2026-tx-house-5",
+    "title": "Texas House district 5",
+    "office": "house",
+    "state": "tx",
+    "district": 5,
+    "seat": null,
+    "path": "/tx/house/5",
+    "search": "Texas 5 congressional district poll 2026"
+  },
+  {
+    "id": "2026-tx-house-6",
+    "title": "Texas House district 6",
+    "office": "house",
+    "state": "tx",
+    "district": 6,
+    "seat": null,
+    "path": "/tx/house/6",
+    "search": "Texas 6 congressional district poll 2026"
+  },
+  {
+    "id": "2026-tx-house-7",
+    "title": "Texas House district 7",
+    "office": "house",
+    "state": "tx",
+    "district": 7,
+    "seat": null,
+    "path": "/tx/house/7",
+    "search": "Texas 7 congressional district poll 2026"
+  },
+  {
+    "id": "2026-tx-house-8",
+    "title": "Texas House district 8",
+    "office": "house",
+    "state": "tx",
+    "district": 8,
+    "seat": null,
+    "path": "/tx/house/8",
+    "search": "Texas 8 congressional district poll 2026"
+  },
+  {
+    "id": "2026-tx-house-9",
+    "title": "Texas House district 9",
+    "office": "house",
+    "state": "tx",
+    "district": 9,
+    "seat": null,
+    "path": "/tx/house/9",
+    "search": "Texas 9 congressional district poll 2026"
+  },
+  {
+    "id": "2026-tx-house-10",
+    "title": "Texas House district 10",
+    "office": "house",
+    "state": "tx",
+    "district": 10,
+    "seat": null,
+    "path": "/tx/house/10",
+    "search": "Texas 10 congressional district poll 2026"
+  },
+  {
+    "id": "2026-tx-house-11",
+    "title": "Texas House district 11",
+    "office": "house",
+    "state": "tx",
+    "district": 11,
+    "seat": null,
+    "path": "/tx/house/11",
+    "search": "Texas 11 congressional district poll 2026"
+  },
+  {
+    "id": "2026-tx-house-12",
+    "title": "Texas House district 12",
+    "office": "house",
+    "state": "tx",
+    "district": 12,
+    "seat": null,
+    "path": "/tx/house/12",
+    "search": "Texas 12 congressional district poll 2026"
+  },
+  {
+    "id": "2026-tx-house-13",
+    "title": "Texas House district 13",
+    "office": "house",
+    "state": "tx",
+    "district": 13,
+    "seat": null,
+    "path": "/tx/house/13",
+    "search": "Texas 13 congressional district poll 2026"
+  },
+  {
+    "id": "2026-tx-house-14",
+    "title": "Texas House district 14",
+    "office": "house",
+    "state": "tx",
+    "district": 14,
+    "seat": null,
+    "path": "/tx/house/14",
+    "search": "Texas 14 congressional district poll 2026"
+  },
+  {
+    "id": "2026-tx-house-15",
+    "title": "Texas House district 15",
+    "office": "house",
+    "state": "tx",
+    "district": 15,
+    "seat": null,
+    "path": "/tx/house/15",
+    "search": "Texas 15 congressional district poll 2026"
+  },
+  {
+    "id": "2026-tx-house-16",
+    "title": "Texas House district 16",
+    "office": "house",
+    "state": "tx",
+    "district": 16,
+    "seat": null,
+    "path": "/tx/house/16",
+    "search": "Texas 16 congressional district poll 2026"
+  },
+  {
+    "id": "2026-tx-house-17",
+    "title": "Texas House district 17",
+    "office": "house",
+    "state": "tx",
+    "district": 17,
+    "seat": null,
+    "path": "/tx/house/17",
+    "search": "Texas 17 congressional district poll 2026"
+  },
+  {
+    "id": "2026-tx-house-18",
+    "title": "Texas House district 18",
+    "office": "house",
+    "state": "tx",
+    "district": 18,
+    "seat": null,
+    "path": "/tx/house/18",
+    "search": "Texas 18 congressional district poll 2026"
+  },
+  {
+    "id": "2026-tx-house-19",
+    "title": "Texas House district 19",
+    "office": "house",
+    "state": "tx",
+    "district": 19,
+    "seat": null,
+    "path": "/tx/house/19",
+    "search": "Texas 19 congressional district poll 2026"
+  },
+  {
+    "id": "2026-tx-house-20",
+    "title": "Texas House district 20",
+    "office": "house",
+    "state": "tx",
+    "district": 20,
+    "seat": null,
+    "path": "/tx/house/20",
+    "search": "Texas 20 congressional district poll 2026"
+  },
+  {
+    "id": "2026-tx-house-21",
+    "title": "Texas House district 21",
+    "office": "house",
+    "state": "tx",
+    "district": 21,
+    "seat": null,
+    "path": "/tx/house/21",
+    "search": "Texas 21 congressional district poll 2026"
+  },
+  {
+    "id": "2026-tx-house-22",
+    "title": "Texas House district 22",
+    "office": "house",
+    "state": "tx",
+    "district": 22,
+    "seat": null,
+    "path": "/tx/house/22",
+    "search": "Texas 22 congressional district poll 2026"
+  },
+  {
+    "id": "2026-tx-house-23",
+    "title": "Texas House district 23",
+    "office": "house",
+    "state": "tx",
+    "district": 23,
+    "seat": null,
+    "path": "/tx/house/23",
+    "search": "Texas 23 congressional district poll 2026"
+  },
+  {
+    "id": "2026-tx-house-24",
+    "title": "Texas House district 24",
+    "office": "house",
+    "state": "tx",
+    "district": 24,
+    "seat": null,
+    "path": "/tx/house/24",
+    "search": "Texas 24 congressional district poll 2026"
+  },
+  {
+    "id": "2026-tx-house-25",
+    "title": "Texas House district 25",
+    "office": "house",
+    "state": "tx",
+    "district": 25,
+    "seat": null,
+    "path": "/tx/house/25",
+    "search": "Texas 25 congressional district poll 2026"
+  },
+  {
+    "id": "2026-tx-house-26",
+    "title": "Texas House district 26",
+    "office": "house",
+    "state": "tx",
+    "district": 26,
+    "seat": null,
+    "path": "/tx/house/26",
+    "search": "Texas 26 congressional district poll 2026"
+  },
+  {
+    "id": "2026-tx-house-27",
+    "title": "Texas House district 27",
+    "office": "house",
+    "state": "tx",
+    "district": 27,
+    "seat": null,
+    "path": "/tx/house/27",
+    "search": "Texas 27 congressional district poll 2026"
+  },
+  {
+    "id": "2026-tx-house-28",
+    "title": "Texas House district 28",
+    "office": "house",
+    "state": "tx",
+    "district": 28,
+    "seat": null,
+    "path": "/tx/house/28",
+    "search": "Texas 28 congressional district poll 2026"
+  },
+  {
+    "id": "2026-tx-house-29",
+    "title": "Texas House district 29",
+    "office": "house",
+    "state": "tx",
+    "district": 29,
+    "seat": null,
+    "path": "/tx/house/29",
+    "search": "Texas 29 congressional district poll 2026"
+  },
+  {
+    "id": "2026-tx-house-30",
+    "title": "Texas House district 30",
+    "office": "house",
+    "state": "tx",
+    "district": 30,
+    "seat": null,
+    "path": "/tx/house/30",
+    "search": "Texas 30 congressional district poll 2026"
+  },
+  {
+    "id": "2026-tx-house-31",
+    "title": "Texas House district 31",
+    "office": "house",
+    "state": "tx",
+    "district": 31,
+    "seat": null,
+    "path": "/tx/house/31",
+    "search": "Texas 31 congressional district poll 2026"
+  },
+  {
+    "id": "2026-tx-house-32",
+    "title": "Texas House district 32",
+    "office": "house",
+    "state": "tx",
+    "district": 32,
+    "seat": null,
+    "path": "/tx/house/32",
+    "search": "Texas 32 congressional district poll 2026"
+  },
+  {
+    "id": "2026-tx-house-33",
+    "title": "Texas House district 33",
+    "office": "house",
+    "state": "tx",
+    "district": 33,
+    "seat": null,
+    "path": "/tx/house/33",
+    "search": "Texas 33 congressional district poll 2026"
+  },
+  {
+    "id": "2026-tx-house-34",
+    "title": "Texas House district 34",
+    "office": "house",
+    "state": "tx",
+    "district": 34,
+    "seat": null,
+    "path": "/tx/house/34",
+    "search": "Texas 34 congressional district poll 2026"
+  },
+  {
+    "id": "2026-tx-house-35",
+    "title": "Texas House district 35",
+    "office": "house",
+    "state": "tx",
+    "district": 35,
+    "seat": null,
+    "path": "/tx/house/35",
+    "search": "Texas 35 congressional district poll 2026"
+  },
+  {
+    "id": "2026-tx-house-36",
+    "title": "Texas House district 36",
+    "office": "house",
+    "state": "tx",
+    "district": 36,
+    "seat": null,
+    "path": "/tx/house/36",
+    "search": "Texas 36 congressional district poll 2026"
+  },
+  {
+    "id": "2026-tx-house-37",
+    "title": "Texas House district 37",
+    "office": "house",
+    "state": "tx",
+    "district": 37,
+    "seat": null,
+    "path": "/tx/house/37",
+    "search": "Texas 37 congressional district poll 2026"
+  },
+  {
+    "id": "2026-tx-house-38",
+    "title": "Texas House district 38",
+    "office": "house",
+    "state": "tx",
+    "district": 38,
+    "seat": null,
+    "path": "/tx/house/38",
+    "search": "Texas 38 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ut-house-1",
+    "title": "Utah House district 1",
+    "office": "house",
+    "state": "ut",
+    "district": 1,
+    "seat": null,
+    "path": "/ut/house/1",
+    "search": "Utah 1 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ut-house-2",
+    "title": "Utah House district 2",
+    "office": "house",
+    "state": "ut",
+    "district": 2,
+    "seat": null,
+    "path": "/ut/house/2",
+    "search": "Utah 2 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ut-house-3",
+    "title": "Utah House district 3",
+    "office": "house",
+    "state": "ut",
+    "district": 3,
+    "seat": null,
+    "path": "/ut/house/3",
+    "search": "Utah 3 congressional district poll 2026"
+  },
+  {
+    "id": "2026-ut-house-4",
+    "title": "Utah House district 4",
+    "office": "house",
+    "state": "ut",
+    "district": 4,
+    "seat": null,
+    "path": "/ut/house/4",
+    "search": "Utah 4 congressional district poll 2026"
+  },
+  {
+    "id": "2026-va-house-1",
+    "title": "Virginia House district 1",
+    "office": "house",
+    "state": "va",
+    "district": 1,
+    "seat": null,
+    "path": "/va/house/1",
+    "search": "Virginia 1 congressional district poll 2026"
+  },
+  {
+    "id": "2026-va-house-2",
+    "title": "Virginia House district 2",
+    "office": "house",
+    "state": "va",
+    "district": 2,
+    "seat": null,
+    "path": "/va/house/2",
+    "search": "Virginia 2 congressional district poll 2026"
+  },
+  {
+    "id": "2026-va-house-3",
+    "title": "Virginia House district 3",
+    "office": "house",
+    "state": "va",
+    "district": 3,
+    "seat": null,
+    "path": "/va/house/3",
+    "search": "Virginia 3 congressional district poll 2026"
+  },
+  {
+    "id": "2026-va-house-4",
+    "title": "Virginia House district 4",
+    "office": "house",
+    "state": "va",
+    "district": 4,
+    "seat": null,
+    "path": "/va/house/4",
+    "search": "Virginia 4 congressional district poll 2026"
+  },
+  {
+    "id": "2026-va-house-5",
+    "title": "Virginia House district 5",
+    "office": "house",
+    "state": "va",
+    "district": 5,
+    "seat": null,
+    "path": "/va/house/5",
+    "search": "Virginia 5 congressional district poll 2026"
+  },
+  {
+    "id": "2026-va-house-6",
+    "title": "Virginia House district 6",
+    "office": "house",
+    "state": "va",
+    "district": 6,
+    "seat": null,
+    "path": "/va/house/6",
+    "search": "Virginia 6 congressional district poll 2026"
+  },
+  {
+    "id": "2026-va-house-7",
+    "title": "Virginia House district 7",
+    "office": "house",
+    "state": "va",
+    "district": 7,
+    "seat": null,
+    "path": "/va/house/7",
+    "search": "Virginia 7 congressional district poll 2026"
+  },
+  {
+    "id": "2026-va-house-8",
+    "title": "Virginia House district 8",
+    "office": "house",
+    "state": "va",
+    "district": 8,
+    "seat": null,
+    "path": "/va/house/8",
+    "search": "Virginia 8 congressional district poll 2026"
+  },
+  {
+    "id": "2026-va-house-9",
+    "title": "Virginia House district 9",
+    "office": "house",
+    "state": "va",
+    "district": 9,
+    "seat": null,
+    "path": "/va/house/9",
+    "search": "Virginia 9 congressional district poll 2026"
+  },
+  {
+    "id": "2026-va-house-10",
+    "title": "Virginia House district 10",
+    "office": "house",
+    "state": "va",
+    "district": 10,
+    "seat": null,
+    "path": "/va/house/10",
+    "search": "Virginia 10 congressional district poll 2026"
+  },
+  {
+    "id": "2026-va-house-11",
+    "title": "Virginia House district 11",
+    "office": "house",
+    "state": "va",
+    "district": 11,
+    "seat": null,
+    "path": "/va/house/11",
+    "search": "Virginia 11 congressional district poll 2026"
+  },
+  {
+    "id": "2026-vt-house-at-large",
+    "title": "Vermont House at-large",
+    "office": "house",
+    "state": "vt",
+    "district": "at-large",
+    "seat": null,
+    "path": "/vt/house/at-large",
+    "search": "Vermont at-large U.S. House poll 2026"
+  },
+  {
+    "id": "2026-wa-house-1",
+    "title": "Washington House district 1",
+    "office": "house",
+    "state": "wa",
+    "district": 1,
+    "seat": null,
+    "path": "/wa/house/1",
+    "search": "Washington 1 congressional district poll 2026"
+  },
+  {
+    "id": "2026-wa-house-2",
+    "title": "Washington House district 2",
+    "office": "house",
+    "state": "wa",
+    "district": 2,
+    "seat": null,
+    "path": "/wa/house/2",
+    "search": "Washington 2 congressional district poll 2026"
+  },
+  {
+    "id": "2026-wa-house-3",
+    "title": "Washington House district 3",
+    "office": "house",
+    "state": "wa",
+    "district": 3,
+    "seat": null,
+    "path": "/wa/house/3",
+    "search": "Washington 3 congressional district poll 2026"
+  },
+  {
+    "id": "2026-wa-house-4",
+    "title": "Washington House district 4",
+    "office": "house",
+    "state": "wa",
+    "district": 4,
+    "seat": null,
+    "path": "/wa/house/4",
+    "search": "Washington 4 congressional district poll 2026"
+  },
+  {
+    "id": "2026-wa-house-5",
+    "title": "Washington House district 5",
+    "office": "house",
+    "state": "wa",
+    "district": 5,
+    "seat": null,
+    "path": "/wa/house/5",
+    "search": "Washington 5 congressional district poll 2026"
+  },
+  {
+    "id": "2026-wa-house-6",
+    "title": "Washington House district 6",
+    "office": "house",
+    "state": "wa",
+    "district": 6,
+    "seat": null,
+    "path": "/wa/house/6",
+    "search": "Washington 6 congressional district poll 2026"
+  },
+  {
+    "id": "2026-wa-house-7",
+    "title": "Washington House district 7",
+    "office": "house",
+    "state": "wa",
+    "district": 7,
+    "seat": null,
+    "path": "/wa/house/7",
+    "search": "Washington 7 congressional district poll 2026"
+  },
+  {
+    "id": "2026-wa-house-8",
+    "title": "Washington House district 8",
+    "office": "house",
+    "state": "wa",
+    "district": 8,
+    "seat": null,
+    "path": "/wa/house/8",
+    "search": "Washington 8 congressional district poll 2026"
+  },
+  {
+    "id": "2026-wa-house-9",
+    "title": "Washington House district 9",
+    "office": "house",
+    "state": "wa",
+    "district": 9,
+    "seat": null,
+    "path": "/wa/house/9",
+    "search": "Washington 9 congressional district poll 2026"
+  },
+  {
+    "id": "2026-wa-house-10",
+    "title": "Washington House district 10",
+    "office": "house",
+    "state": "wa",
+    "district": 10,
+    "seat": null,
+    "path": "/wa/house/10",
+    "search": "Washington 10 congressional district poll 2026"
+  },
+  {
+    "id": "2026-wi-house-1",
+    "title": "Wisconsin House district 1",
+    "office": "house",
+    "state": "wi",
+    "district": 1,
+    "seat": null,
+    "path": "/wi/house/1",
+    "search": "Wisconsin 1 congressional district poll 2026"
+  },
+  {
+    "id": "2026-wi-house-2",
+    "title": "Wisconsin House district 2",
+    "office": "house",
+    "state": "wi",
+    "district": 2,
+    "seat": null,
+    "path": "/wi/house/2",
+    "search": "Wisconsin 2 congressional district poll 2026"
+  },
+  {
+    "id": "2026-wi-house-3",
+    "title": "Wisconsin House district 3",
+    "office": "house",
+    "state": "wi",
+    "district": 3,
+    "seat": null,
+    "path": "/wi/house/3",
+    "search": "Wisconsin 3 congressional district poll 2026"
+  },
+  {
+    "id": "2026-wi-house-4",
+    "title": "Wisconsin House district 4",
+    "office": "house",
+    "state": "wi",
+    "district": 4,
+    "seat": null,
+    "path": "/wi/house/4",
+    "search": "Wisconsin 4 congressional district poll 2026"
+  },
+  {
+    "id": "2026-wi-house-5",
+    "title": "Wisconsin House district 5",
+    "office": "house",
+    "state": "wi",
+    "district": 5,
+    "seat": null,
+    "path": "/wi/house/5",
+    "search": "Wisconsin 5 congressional district poll 2026"
+  },
+  {
+    "id": "2026-wi-house-6",
+    "title": "Wisconsin House district 6",
+    "office": "house",
+    "state": "wi",
+    "district": 6,
+    "seat": null,
+    "path": "/wi/house/6",
+    "search": "Wisconsin 6 congressional district poll 2026"
+  },
+  {
+    "id": "2026-wi-house-7",
+    "title": "Wisconsin House district 7",
+    "office": "house",
+    "state": "wi",
+    "district": 7,
+    "seat": null,
+    "path": "/wi/house/7",
+    "search": "Wisconsin 7 congressional district poll 2026"
+  },
+  {
+    "id": "2026-wi-house-8",
+    "title": "Wisconsin House district 8",
+    "office": "house",
+    "state": "wi",
+    "district": 8,
+    "seat": null,
+    "path": "/wi/house/8",
+    "search": "Wisconsin 8 congressional district poll 2026"
+  },
+  {
+    "id": "2026-wv-house-1",
+    "title": "West Virginia House district 1",
+    "office": "house",
+    "state": "wv",
+    "district": 1,
+    "seat": null,
+    "path": "/wv/house/1",
+    "search": "West Virginia 1 congressional district poll 2026"
+  },
+  {
+    "id": "2026-wv-house-2",
+    "title": "West Virginia House district 2",
+    "office": "house",
+    "state": "wv",
+    "district": 2,
+    "seat": null,
+    "path": "/wv/house/2",
+    "search": "West Virginia 2 congressional district poll 2026"
+  },
+  {
+    "id": "2026-wy-house-at-large",
+    "title": "Wyoming House at-large",
+    "office": "house",
+    "state": "wy",
+    "district": "at-large",
+    "seat": null,
+    "path": "/wy/house/at-large",
+    "search": "Wyoming at-large U.S. House poll 2026"
+  }
+]
