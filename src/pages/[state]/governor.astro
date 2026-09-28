@@ -1,0 +1,16 @@
+---
+import Base from '../../layouts/Base.astro';
+
+export function getStaticPaths() {
+	return [];
+}
+
+const state = Astro.params.state;
+if (!state) {
+	throw new Error('Missing state');
+}
+---
+
+<Base title={`${state} governor`}>
+	<h1>{state} governor</h1>
+</Base>

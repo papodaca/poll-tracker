@@ -1,0 +1,17 @@
+---
+import Base from '../../../layouts/Base.astro';
+
+export function getStaticPaths() {
+	return [];
+}
+
+const { state, district } = Astro.params;
+if (!state || !district) {
+	throw new Error('Missing House race');
+}
+---
+
+<Base title={`${state} House`}>
+	<h1>{state} House</h1>
+	<p>{district}</p>
+</Base>
