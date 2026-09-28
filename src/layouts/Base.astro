@@ -22,7 +22,7 @@ const crumbs = crumbsForPath(Astro.url.pathname);
 	</head>
 	<body>
 		<header>
-			<nav aria-label="Breadcrumb">
+			<nav class:list={{ wide }} aria-label="Breadcrumb">
 				<ol class="crumbs">
 					{
 						crumbs.map((crumb, index) => {

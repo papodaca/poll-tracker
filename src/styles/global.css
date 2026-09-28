@@ -47,7 +47,16 @@ a {
 
 header {
 	border-bottom: 1px solid var(--line);
+}
+
+header nav {
+	max-width: 52rem;
+	margin: 0 auto;
 	padding: 0.75rem 1.25rem;
+}
+
+header nav.wide {
+	max-width: 64rem;
 }
 
 .crumbs {
