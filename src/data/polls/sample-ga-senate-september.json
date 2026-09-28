@@ -1,0 +1,17 @@
+{
+  "id": "sample-ga-senate-september",
+  "raceId": "2026-ga-senate-class-2",
+  "pollster": "Field Note Polling",
+  "sponsor": "Example Desk",
+  "startDate": "2026-09-18",
+  "endDate": "2026-09-21",
+  "sampleSize": 900,
+  "population": "LV",
+  "marginOfError": 3.2,
+  "url": "https://example.com/sample-ga-senate",
+  "sample": true,
+  "results": [
+    { "candidateId": "sample-ga-senate-morgan", "percent": 47 },
+    { "candidateId": "sample-ga-senate-blake", "percent": 46 }
+  ]
+}

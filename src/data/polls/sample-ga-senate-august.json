@@ -1,0 +1,15 @@
+{
+  "id": "sample-ga-senate-august",
+  "raceId": "2026-ga-senate-class-2",
+  "pollster": "Harbor Survey",
+  "startDate": "2026-08-04",
+  "endDate": "2026-08-07",
+  "sampleSize": 640,
+  "population": "RV",
+  "marginOfError": 3.9,
+  "sample": true,
+  "results": [
+    { "candidateId": "sample-ga-senate-morgan", "percent": 46 },
+    { "candidateId": "sample-ga-senate-blake", "percent": 45 }
+  ]
+}
