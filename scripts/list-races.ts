@@ -1,5 +1,8 @@
+import fs from 'node:fs';
 import { getRosterRaces, racePath } from '../src/data/races.ts';
 import { stateByCode } from '../src/data/states.ts';
+
+const listPath = 'docs/races-2026.json';
 
 const officeOrder = { senate: 0, governor: 1, house: 2 } as const;
 
@@ -12,6 +15,8 @@ const races = getRosterRaces().sort((a, b) => {
 	return aDistrict - bDistrict;
 });
 
+const previous = readPreviousUpdates(listPath);
+
 const list = races.map((race) => {
 	const name = stateByCode(race.state)?.name ?? race.state;
 	return {
@@ -23,6 +28,7 @@ const list = races.map((race) => {
 		seat: race.seat,
 		path: racePath(race),
 		search: searchQuery(name, race.office, race.district, race.seat),
+		lastUpdated: previous.get(race.id) ?? null,
 	};
 });
 
@@ -33,7 +39,20 @@ if (senate !== 35 || governor !== 36 || house !== 435) {
 	throw new Error(`Unexpected roster counts: ${senate} Senate, ${governor} governor, ${house} House`);
 }
 
-process.stdout.write(`${JSON.stringify(list, null, 2)}\n`);
+fs.writeFileSync(listPath, `${JSON.stringify(list, null, 2)}\n`);
+process.stdout.write(`Wrote ${list.length} races to ${listPath}\n`);
+
+function readPreviousUpdates(file: string): Map<string, string> {
+	if (!fs.existsSync(file)) return new Map();
+	const rows = JSON.parse(fs.readFileSync(file, 'utf8')) as { id?: string; lastUpdated?: unknown }[];
+	const updates = new Map<string, string>();
+	for (const row of rows) {
+		if (typeof row.id === 'string' && typeof row.lastUpdated === 'string') {
+			updates.set(row.id, row.lastUpdated);
+		}
+	}
+	return updates;
+}
 
 function searchQuery(
 	name: string,

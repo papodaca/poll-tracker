@@ -10,12 +10,25 @@ Instructions for an agent adding polls to this repo. The site only stores what y
 - 36 governor races.
 - 435 House races. Six states use `at-large` instead of a district number: Alaska, Delaware, North Dakota, South Dakota, Vermont, Wyoming.
 
-Work Senate, then governor, then House. The file is already in that order. Do not edit the file. Do not create race JSON for an id that is already in it.
+Work Senate, then governor, then House. The file is already in that order. Do not add or remove rows.
 
-Regenerate the list after a roster change:
+`lastUpdated` is null until you save that race. When you save it, set `lastUpdated` to the current UTC time, such as `2026-09-28T23:05:00Z`.
+
+List the races that still need a pass. That is every row whose `lastUpdated` is null or older than 23 hours:
 
 ```sh
-node scripts/list-races.ts > docs/races-2026.json
+jq '[.[] | select(
+  .lastUpdated == null
+  or (.lastUpdated | fromdateiso8601) < (now - 23 * 3600)
+)]' docs/races-2026.json
+```
+
+Take the first race from that list, gather it, save its files, and set its `lastUpdated`. Then run the filter again. Stop when the filter returns `[]`.
+
+Regenerate the list after a roster change. Existing `lastUpdated` timestamps stay put.
+
+```sh
+node scripts/list-races.ts
 ```
 
 A House special, or any contest missing from that file, is an extra race. Add `src/data/extra-races/<id>.json` using the shape in the README, then gather polls for that id the same way.
@@ -110,4 +123,6 @@ The district in a House poll has to match `district` on the race. Pennsylvania 7
 
 ## After each race
 
-Run `npm run check`. Fix a failing file before starting the next race. Do not commit unless you were asked to commit.
+Set that race's `lastUpdated` in `docs/races-2026.json` to the current UTC time before you move on. Do this even when the search finds no polls.
+
+Run `npm run check`. Fix a failing file before starting the next race. Do not commit unless you were asked to commit. Then run the filter again and take the next race.
