@@ -1,16 +1,62 @@
 ---
 import Base from '../../layouts/Base.astro';
+import { loadPolls } from '../../data/queries.ts';
+import { getRaces, racePath } from '../../data/races.ts';
+import type { Race } from '../../data/schema.ts';
+import { stateByCode, states } from '../../data/states.ts';
 
 export function getStaticPaths() {
-	return [];
+	return states.map((state) => ({
+		params: { state: state.code },
+	}));
 }
 
-const state = Astro.params.state;
+const code = Astro.params.state;
+const state = code ? stateByCode(code) : undefined;
 if (!state) {
-	throw new Error('Missing state');
+	throw new Error(`Unknown state ${code}`);
 }
+
+const races = getRaces().filter((race) => race.state === state.code);
+const polls = loadPolls();
+const governor = races.filter((race) => race.office === 'governor');
+const senate = races.filter((race) => race.office === 'senate');
+const house = races
+	.filter((race) => race.office === 'house')
+	.sort((a, b) => {
+		if (a.district === 'at-large') return -1;
+		if (b.district === 'at-large') return 1;
+		return Number(a.district) - Number(b.district);
+	});
+
+function pollLabel(raceId: string): string {
+	const count = polls.filter((poll) => poll.raceId === raceId).length;
+	if (count === 1) return '1 poll';
+	return `${count} polls`;
+}
+
+const sections: { heading: string; races: Race[] }[] = [
+	{ heading: 'Governor', races: governor },
+	{ heading: 'Senate', races: senate },
+	{ heading: 'House', races: house },
+].filter((section) => section.races.length > 0);
 ---
 
-<Base title={state}>
-	<h1>{state}</h1>
+<Base title={state.name}>
+	<h1>{state.name}</h1>
+	{
+		sections.map((section) => (
+			<section>
+				<h2>{section.heading}</h2>
+				<ul class="race-list">
+					{section.races.map((race) => (
+						<li>
+							<a href={racePath(race)}>{race.title}</a>
+							<span>{pollLabel(race.id)}</span>
+						</li>
+					))}
+				</ul>
+			</section>
+		))
+	}
 </Base>

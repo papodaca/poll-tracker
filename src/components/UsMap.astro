@@ -1,0 +1,31 @@
+---
+import { dcPath, insetSeparatorPath, statePaths } from '../data/state-paths.ts';
+import { states } from '../data/states.ts';
+
+interface Props {
+	pollCounts: Record<string, number>;
+}
+
+const { pollCounts } = Astro.props;
+
+function tooltip(name: string, count: number): string {
+	if (count === 0) return `${name}, no polls`;
+	if (count === 1) return `${name}, 1 poll`;
+	return `${name}, ${count} polls`;
+}
+---
+
+<svg class="us-map" viewBox="0 0 959 593" role="img" aria-label="Map of the United States">
+	{
+		states.map((state) => (
+			<a href={`/${state.code}`}>
+				<title>{tooltip(state.name, pollCounts[state.code] ?? 0)}</title>
+				<path d={statePaths[state.code]} />
+			</a>
+		))
+	}
+	<path class="dc" d={dcPath}>
+		<title>District of Columbia</title>
+	</path>
+	<path class="inset-separator" d={insetSeparatorPath} />
+</svg>

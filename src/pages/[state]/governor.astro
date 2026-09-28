@@ -1,16 +1,19 @@
 ---
 import Base from '../../layouts/Base.astro';
+import { getRaces } from '../../data/races.ts';
 
 export function getStaticPaths() {
-	return [];
+	return getRaces()
+		.filter((race) => race.office === 'governor')
+		.map((race) => ({
+			params: { state: race.state },
+			props: { title: race.title },
+		}));
 }
 
-const state = Astro.params.state;
-if (!state) {
-	throw new Error('Missing state');
-}
+const { title } = Astro.props;
 ---
 
-<Base title={`${state} governor`}>
-	<h1>{state} governor</h1>
+<Base title={title}>
+	<h1>{title}</h1>
 </Base>

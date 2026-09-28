@@ -40,6 +40,10 @@ main {
 	padding: 1.5rem 1.25rem 3rem;
 }
 
+main.wide {
+	max-width: 64rem;
+}
+
 h1 {
 	font-size: 1.75rem;
 	font-weight: 700;
@@ -48,4 +52,55 @@ h1 {
 
 p {
 	margin: 0 0 0.75rem;
+}
+
+h2 {
+	font-size: 1.15rem;
+	margin: 1.5rem 0 0.35rem;
+}
+
+.us-map {
+	width: 100%;
+	height: auto;
+}
+
+.us-map a path {
+	fill: #e7e5e4;
+	stroke: #faf8f5;
+	stroke-width: 1.25;
+}
+
+.us-map a:hover path,
+.us-map a:focus path {
+	fill: #d6d3d1;
+}
+
+.us-map .dc {
+	fill: #e7e5e4;
+	stroke: #a8a29e;
+	stroke-width: 1;
+}
+
+.us-map .inset-separator {
+	fill: none;
+	stroke: #a8a29e;
+	stroke-width: 1.5;
+}
+
+.race-list {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+.race-list li {
+	display: flex;
+	justify-content: space-between;
+	gap: 1rem;
+	border-bottom: 1px solid var(--line);
+	padding: 0.4rem 0;
+}
+
+.race-list span {
+	color: var(--muted);
 }
