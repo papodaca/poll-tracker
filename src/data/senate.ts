@@ -1,0 +1,42 @@
+export interface SenateRow {
+	state: string;
+	seat: 'class-2' | 'special';
+}
+
+export const senateRaces: SenateRow[] = [
+	{ state: 'al', seat: 'class-2' },
+	{ state: 'ak', seat: 'class-2' },
+	{ state: 'ar', seat: 'class-2' },
+	{ state: 'co', seat: 'class-2' },
+	{ state: 'de', seat: 'class-2' },
+	{ state: 'fl', seat: 'special' },
+	{ state: 'ga', seat: 'class-2' },
+	{ state: 'id', seat: 'class-2' },
+	{ state: 'il', seat: 'class-2' },
+	{ state: 'ia', seat: 'class-2' },
+	{ state: 'ks', seat: 'class-2' },
+	{ state: 'ky', seat: 'class-2' },
+	{ state: 'la', seat: 'class-2' },
+	{ state: 'me', seat: 'class-2' },
+	{ state: 'ma', seat: 'class-2' },
+	{ state: 'mi', seat: 'class-2' },
+	{ state: 'mn', seat: 'class-2' },
+	{ state: 'ms', seat: 'class-2' },
+	{ state: 'mt', seat: 'class-2' },
+	{ state: 'ne', seat: 'class-2' },
+	{ state: 'nh', seat: 'class-2' },
+	{ state: 'nj', seat: 'class-2' },
+	{ state: 'nm', seat: 'class-2' },
+	{ state: 'nc', seat: 'class-2' },
+	{ state: 'oh', seat: 'special' },
+	{ state: 'ok', seat: 'class-2' },
+	{ state: 'or', seat: 'class-2' },
+	{ state: 'ri', seat: 'class-2' },
+	{ state: 'sc', seat: 'class-2' },
+	{ state: 'sd', seat: 'class-2' },
+	{ state: 'tn', seat: 'class-2' },
+	{ state: 'tx', seat: 'class-2' },
+	{ state: 'va', seat: 'class-2' },
+	{ state: 'wv', seat: 'class-2' },
+	{ state: 'wy', seat: 'class-2' },
+];

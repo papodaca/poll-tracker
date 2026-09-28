@@ -1,8 +1,11 @@
 import fs from 'node:fs';
 import path from 'node:path';
+import { governorStates } from '../src/data/governors.ts';
 import { dataRoot, portraitFile, readJsonDir } from '../src/data/load.ts';
 import { getRosterRaces } from '../src/data/races.ts';
 import { candidateSchema, pollSchema, raceSchema, type Candidate, type Poll, type Race } from '../src/data/schema.ts';
+import { senateRaces } from '../src/data/senate.ts';
+import { states } from '../src/data/states.ts';
 
 const errors: string[] = [];
 
@@ -28,22 +31,65 @@ const extras = parseAll<Race>(path.join(dataRoot, 'extra-races'), raceSchema);
 const candidates = parseAll<Candidate>(path.join(dataRoot, 'candidates'), candidateSchema);
 const polls = parseAll<Poll>(path.join(dataRoot, 'polls'), pollSchema);
 
-if (roster.length === 0) {
-	console.log('Roster is empty. Count checks run once races are generated.');
-} else {
-	for (const [index, race] of roster.entries()) {
-		const result = raceSchema.safeParse(race);
-		if (!result.success) {
-			fail(`roster[${index}]: ${result.error.message}`);
-		}
-	}
-	const house = roster.filter((race) => race.office === 'house').length;
-	const senate = roster.filter((race) => race.office === 'senate').length;
-	const governor = roster.filter((race) => race.office === 'governor').length;
-	if (house !== 435) fail(`Expected 435 House races, found ${house}`);
-	if (senate !== 35) fail(`Expected 35 Senate races, found ${senate}`);
-	if (governor !== 36) fail(`Expected 36 governor races, found ${governor}`);
+const stateCodes = new Set(states.map((state) => state.code));
+if (states.length !== 50 || stateCodes.size !== 50) fail(`Expected 50 states, found ${states.length}`);
+if (senateRaces.length !== 35) fail(`Expected 35 Senate rows, found ${senateRaces.length}`);
+if (governorStates.length !== 36) fail(`Expected 36 governor rows, found ${governorStates.length}`);
+
+const houseSeats = states.reduce((sum, state) => sum + state.houseSeats, 0);
+if (houseSeats !== 435) fail(`Expected 435 House seats in the state table, found ${houseSeats}`);
+
+for (const row of senateRaces) {
+	if (!stateCodes.has(row.state)) fail(`Senate row uses unknown state ${row.state}`);
 }
+for (const code of governorStates) {
+	if (!stateCodes.has(code)) fail(`Governor row uses unknown state ${code}`);
+}
+
+for (const [index, race] of roster.entries()) {
+	const result = raceSchema.safeParse(race);
+	if (!result.success) fail(`roster[${index}]: ${result.error.message}`);
+	if (!stateCodes.has(race.state)) fail(`Roster race ${race.id} uses unknown state ${race.state}`);
+}
+
+for (const state of states) {
+	const house = roster.filter((race) => race.office === 'house' && race.state === state.code);
+	if (state.houseSeats === 1) {
+		if (house.length !== 1 || house[0]?.district !== 'at-large') {
+			fail(`${state.code} should have one at-large House race`);
+		}
+		continue;
+	}
+	const districts = house.map((race) => race.district).sort((a, b) => Number(a) - Number(b));
+	const expected = Array.from({ length: state.houseSeats }, (_, index) => index + 1);
+	if (districts.length !== expected.length || districts.some((district, index) => district !== expected[index])) {
+		fail(`${state.code} House districts do not run from 1 to ${state.houseSeats}`);
+	}
+}
+
+for (const row of senateRaces) {
+	const matches = roster.filter((race) => race.office === 'senate' && race.state === row.state && race.seat === row.seat);
+	if (matches.length !== 1) fail(`Missing Senate race ${row.state} ${row.seat}`);
+}
+
+for (const code of governorStates) {
+	const matches = roster.filter((race) => race.office === 'governor' && race.state === code);
+	if (matches.length !== 1) fail(`Missing governor race ${code}`);
+}
+
+const governorCodes = new Set<string>(governorStates);
+for (const race of roster) {
+	if (race.office === 'governor' && !governorCodes.has(race.state)) {
+		fail(`Unexpected governor race ${race.id}`);
+	}
+}
+
+const house = roster.filter((race) => race.office === 'house').length;
+const senate = roster.filter((race) => race.office === 'senate').length;
+const governor = roster.filter((race) => race.office === 'governor').length;
+if (house !== 435) fail(`Expected 435 House races, found ${house}`);
+if (senate !== 35) fail(`Expected 35 Senate races, found ${senate}`);
+if (governor !== 36) fail(`Expected 36 governor races, found ${governor}`);
 
 const races = [...roster, ...extras];
 const raceIds = new Set<string>();
