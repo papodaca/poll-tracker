@@ -1,5 +1,6 @@
 ---
 import Base from '../../layouts/Base.astro';
+import RacePage from '../../components/RacePage.astro';
 import { getRaces } from '../../data/races.ts';
 
 export function getStaticPaths() {
@@ -7,13 +8,14 @@ export function getStaticPaths() {
 		.filter((race) => race.office === 'governor')
 		.map((race) => ({
 			params: { state: race.state },
-			props: { title: race.title },
+			props: { raceId: race.id },
 		}));
 }
 
-const { title } = Astro.props;
+const { raceId } = Astro.props;
+const race = getRaces().find((item) => item.id === raceId);
 ---
 
-<Base title={title}>
-	<h1>{title}</h1>
+<Base title={race?.title ?? 'Governor'}>
+	<RacePage raceId={raceId} />
 </Base>

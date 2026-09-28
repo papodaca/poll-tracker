@@ -1,0 +1,110 @@
+---
+import type { Candidate, Poll } from '../data/schema.ts';
+
+interface Props {
+	candidates: Candidate[];
+	polls: Poll[];
+}
+
+const { candidates, polls } = Astro.props;
+
+const colors = ['#1d4ed8', '#b45309', '#047857', '#6d28d9', '#be123c', '#0f766e', '#a16207', '#1e3a8a'];
+const width = 640;
+const height = 180;
+const padLeft = 36;
+const padRight = 16;
+const padTop = 12;
+const padBottom = 28;
+const plotWidth = width - padLeft - padRight;
+const plotHeight = height - padTop - padBottom;
+
+const dates = [...new Set(polls.map((poll) => poll.endDate))].sort();
+
+const series = candidates
+	.map((candidate, index) => {
+		const points = polls
+			.map((poll) => {
+				const result = poll.results.find((row) => row.candidateId === candidate.id);
+				return result ? { date: poll.endDate, percent: result.percent } : null;
+			})
+			.filter((point) => point !== null)
+			.sort((a, b) => a.date.localeCompare(b.date));
+		return {
+			name: candidate.name,
+			color: colors[index % colors.length],
+			points,
+		};
+	})
+	.filter((row) => row.points.length > 0);
+
+function xFor(date: string): number {
+	if (dates.length <= 1) return padLeft + plotWidth / 2;
+	const index = dates.indexOf(date);
+	return padLeft + (index / (dates.length - 1)) * plotWidth;
+}
+
+function yFor(percent: number): number {
+	const clamped = Math.min(100, Math.max(0, percent));
+	return padTop + (1 - clamped / 100) * plotHeight;
+}
+
+const yTicks = [100, 50, 0];
+const xLabels = dates.length <= 1 ? dates : [dates[0], dates[dates.length - 1]];
+---
+
+{
+	series.length > 0 && (
+		<figure class="sparkline-wrap">
+			<svg class="sparkline" viewBox={`0 0 ${width} ${height}`} role="img" aria-label="Poll percentages on a 0 to 100 scale">
+				{yTicks.map((tick) => (
+					<g>
+						<line
+							x1={padLeft}
+							x2={width - padRight}
+							y1={yFor(tick)}
+							y2={yFor(tick)}
+							stroke="#d6d3d1"
+						/>
+						<text x={padLeft - 6} y={yFor(tick) + 4} text-anchor="end" fill="#57534e" font-size="12">
+							{tick}
+						</text>
+					</g>
+				))}
+				{series.map((row) => (
+					<g>
+						{row.points.length > 1 && (
+							<polyline
+								fill="none"
+								stroke={row.color}
+								stroke-width="2"
+								points={row.points.map((point) => `${xFor(point.date)},${yFor(point.percent)}`).join(' ')}
+							/>
+						)}
+						{row.points.map((point) => (
+							<circle cx={xFor(point.date)} cy={yFor(point.percent)} r="3.5" fill={row.color} />
+						))}
+					</g>
+				))}
+				{xLabels.map((date) => (
+					<text
+						x={xFor(date ?? '')}
+						y={height - 8}
+						text-anchor={dates.length > 1 && date === dates[0] ? 'start' : dates.length > 1 ? 'end' : 'middle'}
+						fill="#57534e"
+						font-size="12"
+					>
+						{date}
+					</text>
+				))}
+			</svg>
+			<ul class="legend">
+				{series.map((row) => (
+					<li>
+						<span class="swatch" style={`background:${row.color}`} />
+						{row.name}
+					</li>
+				))}
+			</ul>
+		</figure>
+	)
+}

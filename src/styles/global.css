@@ -104,3 +104,96 @@ h2 {
 .race-list span {
 	color: var(--muted);
 }
+
+.candidates {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 1rem 1.5rem;
+	list-style: none;
+	margin: 0 0 1.25rem;
+	padding: 0;
+}
+
+.candidates li {
+	display: flex;
+	align-items: center;
+	gap: 0.65rem;
+	width: 16rem;
+}
+
+.candidates img,
+.initials {
+	width: 64px;
+	height: 64px;
+	flex: 0 0 64px;
+	border-radius: 4px;
+	background: #e7e5e4;
+	object-fit: cover;
+}
+
+.initials {
+	display: grid;
+	place-items: center;
+	font-size: 1.15rem;
+}
+
+.candidate-name,
+.party {
+	display: block;
+}
+
+.party,
+.poll-meta {
+	color: var(--muted);
+}
+
+.sparkline-wrap {
+	margin: 0 0 1.25rem;
+}
+
+.sparkline {
+	width: 100%;
+	height: auto;
+}
+
+.legend {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 0.75rem 1rem;
+	list-style: none;
+	margin: 0.4rem 0 0;
+	padding: 0;
+}
+
+.legend li {
+	display: flex;
+	align-items: center;
+	gap: 0.35rem;
+}
+
+.swatch {
+	width: 0.75rem;
+	height: 0.75rem;
+	border-radius: 2px;
+}
+
+.poll {
+	border-top: 1px solid var(--line);
+	padding: 0.85rem 0;
+}
+
+.poll h3 {
+	margin: 0 0 0.2rem;
+	font-size: 1.1rem;
+}
+
+.sample {
+	margin: 0 0 0.2rem;
+	color: #9a3412;
+	font-weight: 700;
+}
+
+.poll-results {
+	margin: 0.35rem 0 0;
+	padding-left: 1.2rem;
+}
