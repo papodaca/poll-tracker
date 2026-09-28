@@ -1,43 +1,72 @@
-# Astro Starter Kit: Minimal
+# 2026 polls
 
-```sh
-npm create astro@latest -- --template minimal
+Static site of hand-entered polls for the 2026 general election. The pages list each poll. They do not average them or decide who is ahead.
+
+## Commands
+
+`npm run dev` starts the local site.
+
+`npm run check` validates the JSON.
+
+`npm run build` runs the check, then writes `dist/`.
+
+## Add a candidate
+
+Create `src/data/candidates/some-id.json`.
+
+```json
+{
+  "id": "some-id",
+  "raceId": "2026-pa-senate-class-2",
+  "name": "Alex Morgan",
+  "party": "Democratic",
+  "portrait": "portraits/some-id.svg"
+}
 ```
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+`portrait` is a file path under `public/`, or `null` when there is no image. The check fails if the path is set and the file is missing.
 
-## 🚀 Project Structure
+## Add a poll
 
-Inside of your Astro project, you'll see the following folders and files:
+Create `src/data/polls/some-poll.json`.
 
-```text
-/
-├── public/
-├── src/
-│   └── pages/
-│       └── index.astro
-└── package.json
+```json
+{
+  "id": "some-poll",
+  "raceId": "2026-pa-senate-class-2",
+  "pollster": "Example Polling",
+  "sponsor": "Example News",
+  "startDate": "2026-09-01",
+  "endDate": "2026-09-03",
+  "sampleSize": 800,
+  "population": "LV",
+  "marginOfError": 3.5,
+  "url": "https://example.com/poll",
+  "sample": false,
+  "results": [
+    { "candidateId": "some-id", "percent": 48 },
+    { "candidateId": "other-id", "percent": 46 }
+  ]
+}
 ```
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+Results print in the order written. They do not have to sum to 100. Omit `sponsor`, `sampleSize`, `population`, `marginOfError`, or `url` when you do not have them. Set `sample` to `true` for placeholder numbers.
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+Race ids look like `2026-pa-governor`, `2026-pa-senate-class-2`, `2026-fl-senate-special`, `2026-pa-house-7`, and `2026-ak-house-at-large`.
 
-Any static assets, like images, can be placed in the `public/` directory.
+## Add an extra race
 
-## 🧞 Commands
+A contest that is not in the generated November roster, such as a House special, goes in `src/data/extra-races/one-id.json`.
 
-All commands are run from the root of the project, from a terminal:
+```json
+{
+  "id": "2026-pa-house-7",
+  "office": "house",
+  "state": "pa",
+  "district": 7,
+  "seat": null,
+  "title": "Pennsylvania House district 7"
+}
+```
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+`office` is `governor`, `senate`, or `house`. Governor rows use `district: null` and `seat: null`. Senate rows use `seat` of `class-2` or `special`. House rows use a district number or `"at-large"`.
