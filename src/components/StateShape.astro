@@ -1,0 +1,18 @@
+---
+import { pathViewBox } from '../data/path-bounds.ts';
+import { statePaths } from '../data/state-paths.ts';
+
+interface Props {
+	code: string;
+	name: string;
+}
+
+const { code, name } = Astro.props;
+const d = statePaths[code];
+if (!d) throw new Error(`No outline for ${code}`);
+const viewBox = pathViewBox(d);
+---
+
+<svg class="state-shape" viewBox={viewBox} role="img" aria-label={`Outline of ${name}`}>
+	<path d={d} />
+</svg>

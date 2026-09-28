@@ -1,5 +1,6 @@
 ---
 import Base from '../../layouts/Base.astro';
+import StateShape from '../../components/StateShape.astro';
 import { loadPolls } from '../../data/queries.ts';
 import { getRaces, racePath } from '../../data/races.ts';
 import type { Race } from '../../data/schema.ts';
@@ -43,7 +44,10 @@ const sections: { heading: string; races: Race[] }[] = [
 ---
 
 <Base title={state.name}>
-	<h1>{state.name}</h1>
+	<div class="state-head">
+		<StateShape code={state.code} name={state.name} />
+		<h1>{state.name}</h1>
+	</div>
 	{
 		sections.map((section) => (
 			<section>

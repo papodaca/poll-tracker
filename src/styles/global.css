@@ -5,6 +5,28 @@
 	--line: #d6d3d1;
 	--muted: #57534e;
 	--link: #1d4ed8;
+	--map-fill: #e7e5e4;
+	--map-stroke: var(--paper);
+	--map-hover: #d6d3d1;
+	--map-edge: #a8a29e;
+	--avatar: #e7e5e4;
+	--sample: #9a3412;
+}
+
+@media (prefers-color-scheme: dark) {
+	:root {
+		color-scheme: dark;
+		--ink: #faf8f5;
+		--paper: #1c1917;
+		--line: #44403c;
+		--muted: #a8a29e;
+		--link: #93c5fd;
+		--map-fill: #44403c;
+		--map-hover: #57534e;
+		--map-edge: #78716c;
+		--avatar: #44403c;
+		--sample: #fdba74;
+	}
 }
 
 * {
@@ -65,26 +87,50 @@ h2 {
 }
 
 .us-map a path {
-	fill: #e7e5e4;
-	stroke: #faf8f5;
+	fill: var(--map-fill);
+	stroke: var(--map-stroke);
 	stroke-width: 1.25;
 }
 
 .us-map a:hover path,
 .us-map a:focus path {
-	fill: #d6d3d1;
+	fill: var(--map-hover);
 }
 
 .us-map .dc {
-	fill: #e7e5e4;
-	stroke: #a8a29e;
+	fill: var(--map-fill);
+	stroke: var(--map-edge);
 	stroke-width: 1;
 }
 
 .us-map .inset-separator {
 	fill: none;
-	stroke: #a8a29e;
+	stroke: var(--map-edge);
 	stroke-width: 1.5;
+}
+
+.state-head {
+	display: flex;
+	align-items: center;
+	gap: 1rem;
+	margin-bottom: 0.75rem;
+}
+
+.state-head h1 {
+	margin: 0;
+}
+
+.state-shape {
+	width: 5rem;
+	height: 5rem;
+	flex: 0 0 auto;
+}
+
+.state-shape path {
+	fill: var(--map-fill);
+	stroke: var(--map-edge);
+	stroke-width: 1.5px;
+	vector-effect: non-scaling-stroke;
 }
 
 .race-list {
@@ -127,7 +173,7 @@ h2 {
 	height: 64px;
 	flex: 0 0 64px;
 	border-radius: 4px;
-	background: #e7e5e4;
+	background: var(--avatar);
 	object-fit: cover;
 }
 
@@ -189,7 +235,7 @@ h2 {
 
 .sample {
 	margin: 0 0 0.2rem;
-	color: #9a3412;
+	color: var(--sample);
 	font-weight: 700;
 }
 

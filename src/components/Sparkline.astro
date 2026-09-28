@@ -63,9 +63,9 @@ const xLabels = dates.length <= 1 ? dates : [dates[0], dates[dates.length - 1]];
 							x2={width - padRight}
 							y1={yFor(tick)}
 							y2={yFor(tick)}
-							stroke="#d6d3d1"
+							stroke="var(--line)"
 						/>
-						<text x={padLeft - 6} y={yFor(tick) + 4} text-anchor="end" fill="#57534e" font-size="12">
+						<text x={padLeft - 6} y={yFor(tick) + 4} text-anchor="end" fill="var(--muted)" font-size="12">
 							{tick}
 						</text>
 					</g>
@@ -90,7 +90,7 @@ const xLabels = dates.length <= 1 ? dates : [dates[0], dates[dates.length - 1]];
 						x={xFor(date ?? '')}
 						y={height - 8}
 						text-anchor={dates.length > 1 && date === dates[0] ? 'start' : dates.length > 1 ? 'end' : 'middle'}
-						fill="#57534e"
+						fill="var(--muted)"
 						font-size="12"
 					>
 						{date}
