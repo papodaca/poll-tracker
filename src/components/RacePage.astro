@@ -1,7 +1,6 @@
 ---
 import { candidatesForRace, loadCandidates, loadPolls, pollsForRace } from '../data/queries.ts';
 import { getRaces } from '../data/races.ts';
-import { stateByCode } from '../data/states.ts';
 import Sparkline from './Sparkline.astro';
 
 interface Props {
@@ -12,7 +11,6 @@ const { raceId } = Astro.props;
 const race = getRaces().find((item) => item.id === raceId);
 if (!race) throw new Error(`Missing race ${raceId}`);
 
-const state = stateByCode(race.state);
 const candidates = candidatesForRace(loadCandidates(), race.id);
 const polls = pollsForRace(loadPolls(), race.id);
 
@@ -36,7 +34,6 @@ function meta(poll: (typeof polls)[number]): string[] {
 ---
 
 <h1>{race.title}</h1>
-{state && <p><a href={`/${state.code}`}>{state.name}</a></p>}
 
 {
 	candidates.length > 0 && (

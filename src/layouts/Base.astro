@@ -1,5 +1,6 @@
 ---
 import '../styles/global.css';
+import { crumbsForPath } from '../data/crumbs.ts';
 
 interface Props {
 	title: string;
@@ -7,6 +8,7 @@ interface Props {
 }
 
 const { title, wide = false } = Astro.props;
+const crumbs = crumbsForPath(Astro.url.pathname);
 ---
 
 <html lang="en">
@@ -20,7 +22,25 @@ const { title, wide = false } = Astro.props;
 	</head>
 	<body>
 		<header>
-			<a href="/">2026 polls</a>
+			<nav aria-label="Breadcrumb">
+				<ol class="crumbs">
+					{
+						crumbs.map((crumb, index) => {
+							const current = index === crumbs.length - 1;
+							return (
+								<li aria-current={current ? 'page' : undefined}>
+									{index > 0 && (
+										<span class="crumb-sep" aria-hidden="true">
+											/
+										</span>
+									)}
+									{current ? crumb.label : <a href={crumb.href}>{crumb.label}</a>}
+								</li>
+							);
+						})
+					}
+				</ol>
+			</nav>
 		</header>
 		<main class:list={{ wide }}>
 			<slot />
