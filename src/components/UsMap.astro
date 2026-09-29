@@ -4,9 +4,10 @@ import { states } from '../data/states.ts';
 
 interface Props {
 	pollCounts: Record<string, number>;
+	polledStates: Set<string>;
 }
 
-const { pollCounts } = Astro.props;
+const { pollCounts, polledStates } = Astro.props;
 
 function tooltip(name: string, count: number): string {
 	if (count === 0) return `${name}, no polls`;
@@ -18,7 +19,7 @@ function tooltip(name: string, count: number): string {
 <svg class="us-map" viewBox="0 0 959 593" role="img" aria-label="Map of the United States">
 	{
 		states.map((state) => (
-			<a href={`/${state.code}`}>
+			<a class:list={{ polled: polledStates.has(state.code) }} href={`/${state.code}`}>
 				<title>{tooltip(state.name, pollCounts[state.code] ?? 0)}</title>
 				<path d={statePaths[state.code]} />
 			</a>

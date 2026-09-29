@@ -1,5 +1,6 @@
 ---
 import Base from '../../layouts/Base.astro';
+import DistrictMap from '../../components/DistrictMap.astro';
 import StateShape from '../../components/StateShape.astro';
 import { loadPolls } from '../../data/queries.ts';
 import { getRaces, racePath } from '../../data/races.ts';
@@ -30,16 +31,42 @@ const house = races
 		return Number(a.district) - Number(b.district);
 	});
 
+function pollCount(raceId: string): number {
+	return polls.filter((poll) => poll.raceId === raceId).length;
+}
+
 function pollLabel(raceId: string): string {
-	const count = polls.filter((poll) => poll.raceId === raceId).length;
+	const count = pollCount(raceId);
 	if (count === 1) return '1 poll';
 	return `${count} polls`;
 }
 
-const sections: { heading: string; races: Race[] }[] = [
-	{ heading: 'Governor', races: governor },
-	{ heading: 'Senate', races: senate },
-	{ heading: 'House', races: house },
+function ordinal(n: number): string {
+	const teen = n % 100;
+	if (teen >= 11 && teen <= 13) return `${n}th`;
+	const last = n % 10;
+	if (last === 1) return `${n}st`;
+	if (last === 2) return `${n}nd`;
+	if (last === 3) return `${n}rd`;
+	return `${n}th`;
+}
+
+function districtName(stateName: string, district: Race['district']): string {
+	if (district === 'at-large') return `${stateName}'s at-large district`;
+	if (typeof district === 'number') return `${stateName}'s ${ordinal(district)} District`;
+	return stateName;
+}
+
+function districtShort(district: Race['district']): string {
+	if (district === 'at-large') return 'At-large';
+	if (typeof district === 'number') return String(district);
+	return '';
+}
+
+const sections: { heading: string; kind: 'list' | 'districts'; races: Race[] }[] = [
+	{ heading: 'Governor', kind: 'list', races: governor },
+	{ heading: 'Senate', kind: 'list', races: senate },
+	{ heading: 'House', kind: 'districts', races: house },
 ].filter((section) => section.races.length > 0);
 ---
 
@@ -52,15 +79,86 @@ const sections: { heading: string; races: Race[] }[] = [
 		sections.map((section) => (
 			<section>
 				<h2>{section.heading}</h2>
-				<ul class="race-list">
-					{section.races.map((race) => (
-						<li>
-							<a href={racePath(race)}>{race.title}</a>
-							<span>{pollLabel(race.id)}</span>
-						</li>
-					))}
-				</ul>
+				{section.kind === 'districts' ? (
+					<div class="house-districts">
+						<DistrictMap
+							code={state.code}
+							name={state.name}
+							districts={section.races.map((race) => ({
+								key: race.district === 'at-large' ? 'at-large' : String(race.district),
+								href: racePath(race),
+								label: districtName(state.name, race.district),
+								polled: pollCount(race.id) > 0,
+							}))}
+						/>
+						<ul class="districts">
+							{section.races.map((race) => {
+								const name = districtName(state.name, race.district);
+								const key = race.district === 'at-large' ? 'at-large' : String(race.district);
+								return (
+									<li>
+										<a
+											class:list={{ polled: pollCount(race.id) > 0 }}
+											data-district={key}
+											href={racePath(race)}
+											title={name}
+											aria-label={name}
+										>
+											{districtShort(race.district)}
+										</a>
+									</li>
+								);
+							})}
+						</ul>
+					</div>
+				) : (
+					<ul class="race-list">
+						{section.races.map((race) => (
+							<li>
+								<a href={racePath(race)}>{race.title}</a>
+								<span>{pollLabel(race.id)}</span>
+							</li>
+						))}
+					</ul>
+				)}
 			</section>
 		))
 	}
 </Base>
+
+<script>
+	for (const root of document.querySelectorAll('.house-districts')) {
+		const clear = () => {
+			for (const el of root.querySelectorAll('.linked')) el.classList.remove('linked');
+		};
+
+		const mark = (active: Element | null) => {
+			clear();
+			if (!(active instanceof HTMLElement || active instanceof SVGElement)) return;
+			const key = active.dataset.district;
+			if (!key) return;
+			for (const el of root.querySelectorAll(`[data-district="${CSS.escape(key)}"]`)) {
+				if (el === active) continue;
+				el.classList.add('linked');
+				// Later districts paint over this stroke. Draw the outline last so the border stays whole.
+				if (el instanceof SVGElement && el.parentElement) el.parentElement.appendChild(el);
+			}
+		};
+
+		root.addEventListener('pointerover', (event) => {
+			const target = event.target;
+			if (!(target instanceof Element)) return;
+			mark(target.closest('[data-district]'));
+		});
+		root.addEventListener('pointerleave', clear);
+		root.addEventListener('focusin', (event) => {
+			const target = event.target;
+			if (!(target instanceof Element)) return;
+			mark(target.closest('[data-district]'));
+		});
+		root.addEventListener('focusout', (event) => {
+			const next = event.relatedTarget;
+			if (!(next instanceof Node) || !root.contains(next)) clear();
+		});
+	}
+</script>

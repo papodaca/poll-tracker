@@ -1,0 +1,43 @@
+---
+import { pathViewBox } from '../data/path-bounds.ts';
+import { districtPaths } from '../data/district-paths.ts';
+
+interface DistrictLink {
+	key: string;
+	href: string;
+	label: string;
+	polled: boolean;
+}
+
+interface Props {
+	code: string;
+	name: string;
+	districts: DistrictLink[];
+}
+
+const { code, name, districts } = Astro.props;
+const paths = districtPaths[code];
+if (!paths) throw new Error(`No district map for ${code}`);
+
+const drawn = districts.flatMap((district) => {
+	const d = paths[district.key];
+	return d ? [{ ...district, d }] : [];
+});
+if (drawn.length === 0) throw new Error(`No district outlines for ${code}`);
+
+const viewBox = pathViewBox(
+	drawn.map((district) => district.d).join(' '),
+	0.02,
+);
+---
+
+<svg class="district-map" viewBox={viewBox} role="group" aria-label={`House districts in ${name}`}>
+	{
+		drawn.map((district) => (
+			<a class:list={{ polled: district.polled }} data-district={district.key} href={district.href}>
+				<title>{district.label}</title>
+				<path d={district.d} />
+			</a>
+		))
+	}
+</svg>

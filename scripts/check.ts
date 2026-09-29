@@ -5,6 +5,7 @@ import { dataRoot, portraitFile, readJsonDir } from '../src/data/load.ts';
 import { getRosterRaces } from '../src/data/races.ts';
 import { candidateSchema, pollSchema, raceSchema, type Candidate, type Poll, type Race } from '../src/data/schema.ts';
 import { senateRaces } from '../src/data/senate.ts';
+import { districtPaths } from '../src/data/district-paths.ts';
 import { states } from '../src/data/states.ts';
 
 const errors: string[] = [];
@@ -64,6 +65,23 @@ for (const state of states) {
 	const expected = Array.from({ length: state.houseSeats }, (_, index) => index + 1);
 	if (districts.length !== expected.length || districts.some((district, index) => district !== expected[index])) {
 		fail(`${state.code} House districts do not run from 1 to ${state.houseSeats}`);
+	}
+}
+
+for (const state of states) {
+	const paths = districtPaths[state.code];
+	if (!paths) {
+		fail(`Missing district map for ${state.code}`);
+		continue;
+	}
+	const house = roster.filter((race) => race.office === 'house' && race.state === state.code);
+	for (const race of house) {
+		const key = race.district === 'at-large' ? 'at-large' : String(race.district);
+		if (!paths[key]) fail(`Missing district outline for ${state.code} ${key}`);
+	}
+	const expected = new Set(house.map((race) => (race.district === 'at-large' ? 'at-large' : String(race.district))));
+	for (const key of Object.keys(paths)) {
+		if (!expected.has(key)) fail(`Unexpected district outline ${state.code} ${key}`);
 	}
 }
 

@@ -6,12 +6,19 @@ import { getRaces } from '../data/races.ts';
 
 const races = getRaces();
 const polls = loadPolls();
-const raceStateById = new Map(races.map((race) => [race.id, race.state]));
-const pollCounts = pollCountByState(polls, raceStateById);
+const raceById = new Map(races.map((race) => [race.id, race]));
+const pollCounts = pollCountByState(
+	polls,
+	new Map(races.map((race) => [race.id, race.state])),
+);
+const polledStatewide = new Set<string>();
+for (const poll of polls) {
+	const race = raceById.get(poll.raceId);
+	if (race && (race.office === 'senate' || race.office === 'governor')) polledStatewide.add(race.state);
+}
 ---
 
 <Base title="2026 polls" wide>
 	<h1>2026 general election polls</h1>
-	<p>Choose a state.</p>
-	<UsMap pollCounts={pollCounts} />
+	<UsMap pollCounts={pollCounts} polledStates={polledStatewide} />
 </Base>
