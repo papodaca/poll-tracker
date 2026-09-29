@@ -61,5 +61,17 @@ const crumbs = crumbsForPath(Astro.url.pathname);
 		<main class:list={{ wide }}>
 			<slot />
 		</main>
+		<script>
+			const root = document.documentElement;
+			const release = () => root.classList.remove('pointer-stale');
+
+			// The frozen page still matches :hover at the click point. Hold that
+			// fill off until the pointer actually moves on the restored page.
+			addEventListener('pagehide', () => root.classList.add('pointer-stale'));
+			addEventListener('pageshow', () => {
+				if (!root.classList.contains('pointer-stale')) return;
+				addEventListener('pointermove', release, { once: true });
+			});
+		</script>
 	</body>
 </html>

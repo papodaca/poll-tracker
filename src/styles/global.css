@@ -151,13 +151,22 @@ h2 {
 }
 
 .us-map a:hover path,
-.us-map a:focus path {
+.us-map a:focus-visible path {
 	fill: var(--map-hover);
 }
 
 .us-map a.polled:hover path,
-.us-map a.polled:focus path {
+.us-map a.polled:focus-visible path {
 	fill: var(--link);
+}
+
+/* Back/forward cache restores the page still hovered, before the pointer moves. */
+html.pointer-stale .us-map a:hover:not(:focus-visible) path {
+	fill: var(--map-fill);
+}
+
+html.pointer-stale .us-map a.polled:hover:not(:focus-visible) path {
+	fill: var(--polled);
 }
 
 .us-map .dc {
@@ -233,13 +242,21 @@ h2 {
 }
 
 .district-map a:hover path,
-.district-map a:focus path {
+.district-map a:focus-visible path {
 	fill: var(--map-hover);
 }
 
 .district-map a.polled:hover path,
-.district-map a.polled:focus path {
+.district-map a.polled:focus-visible path {
 	fill: var(--link);
+}
+
+html.pointer-stale .district-map a:hover:not(:focus-visible) path {
+	fill: var(--map-fill);
+}
+
+html.pointer-stale .district-map a.polled:hover:not(:focus-visible) path {
+	fill: var(--polled);
 }
 
 .district-map a:focus-visible {
