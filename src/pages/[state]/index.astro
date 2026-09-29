@@ -81,7 +81,11 @@ const sections: { heading: string; kind: 'list' | 'districts'; races: Race[] }[]
 			<section>
 				<h2>{section.heading}</h2>
 				{section.kind === 'districts' ? (
-					<div class="house-districts">
+					<div
+						class="house-districts"
+						data-controller="house-districts"
+						data-action="pointerover->house-districts#highlight pointerleave->house-districts#clear focusin->house-districts#highlight focusout->house-districts#release"
+					>
 						<DistrictMap
 							code={state.code}
 							name={state.name}
@@ -128,38 +132,5 @@ const sections: { heading: string; kind: 'list' | 'districts'; races: Race[] }[]
 </Base>
 
 <script>
-	for (const root of document.querySelectorAll('.house-districts')) {
-		const clear = () => {
-			for (const el of root.querySelectorAll('.linked')) el.classList.remove('linked');
-		};
-
-		const mark = (active: Element | null) => {
-			clear();
-			if (!(active instanceof HTMLElement || active instanceof SVGElement)) return;
-			const key = active.dataset.district;
-			if (!key) return;
-			for (const el of root.querySelectorAll(`[data-district="${CSS.escape(key)}"]`)) {
-				if (el === active) continue;
-				el.classList.add('linked');
-				// Later districts paint over this stroke. Draw the outline last so the border stays whole.
-				if (el instanceof SVGElement && el.parentElement) el.parentElement.appendChild(el);
-			}
-		};
-
-		root.addEventListener('pointerover', (event) => {
-			const target = event.target;
-			if (!(target instanceof Element)) return;
-			mark(target.closest('[data-district]'));
-		});
-		root.addEventListener('pointerleave', clear);
-		root.addEventListener('focusin', (event) => {
-			const target = event.target;
-			if (!(target instanceof Element)) return;
-			mark(target.closest('[data-district]'));
-		});
-		root.addEventListener('focusout', (event) => {
-			const next = event.relatedTarget;
-			if (!(next instanceof Node) || !root.contains(next)) clear();
-		});
-	}
+	import '../../controllers/index.ts';
 </script>
