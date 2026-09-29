@@ -73,7 +73,10 @@ const sections: { heading: string; kind: 'list' | 'districts'; races: Race[] }[]
 
 <Base title={state.name}>
 	<div class="state-head">
-		<StateShape code={state.code} name={state.name} />
+		<div class="state-mark">
+			<img class="state-flag" src={withBase(`/flags/${state.code}.svg`)} alt="" height="52" />
+			<StateShape code={state.code} name={state.name} />
+		</div>
 		<h1>{state.name}</h1>
 	</div>
 	{

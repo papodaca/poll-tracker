@@ -29,9 +29,16 @@ const viewBox = pathViewBox(
 	drawn.map((district) => district.d).join(' '),
 	0.02,
 );
+const [, , mapW, mapH] = viewBox.split(' ');
 ---
 
-<svg class="district-map" viewBox={viewBox} role="group" aria-label={`House districts in ${name}`}>
+<svg
+	class:list={{ 'district-map': true, compact: drawn.length <= 2 }}
+	style={`--map-w: ${mapW}; --map-h: ${mapH}`}
+	viewBox={viewBox}
+	role="group"
+	aria-label={`House districts in ${name}`}
+>
 	{
 		drawn.map((district) => (
 			<a class:list={{ polled: district.polled }} data-district={district.key} href={district.href}>

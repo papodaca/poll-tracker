@@ -160,6 +160,11 @@ h2 {
 	fill: var(--link);
 }
 
+.us-map a.flag-ready:hover path,
+.us-map a.flag-ready:focus-visible path {
+	fill: var(--flag);
+}
+
 /* Back/forward cache restores the page still hovered, before the pointer moves. */
 html.pointer-stale .us-map a:hover:not(:focus-visible) path {
 	fill: var(--map-fill);
@@ -184,12 +189,26 @@ html.pointer-stale .us-map a.polled:hover:not(:focus-visible) path {
 .state-head {
 	display: flex;
 	align-items: center;
+	flex-wrap: wrap;
 	gap: 1rem;
 	margin-bottom: 0.75rem;
 }
 
 .state-head h1 {
 	margin: 0;
+}
+
+.state-mark {
+	display: flex;
+	align-items: center;
+	gap: 0.75rem;
+	flex: 0 0 auto;
+}
+
+.state-flag {
+	height: 3.25rem;
+	width: auto;
+	border: 1px solid var(--line);
 }
 
 .state-shape {
@@ -224,10 +243,16 @@ html.pointer-stale .us-map a.polled:hover:not(:focus-visible) path {
 }
 
 .district-map {
-	width: 100%;
-	height: auto;
 	display: block;
-	margin: 0.25rem 0 0.85rem;
+	width: 100%;
+	aspect-ratio: var(--map-w) / var(--map-h);
+	height: auto;
+	margin: 0.25rem auto 0.85rem;
+}
+
+/* One or two districts are large targets. Keep a tall outline from filling the screen. */
+.district-map.compact {
+	width: min(100%, calc(22rem * var(--map-w) / max(var(--map-w), var(--map-h))));
 }
 
 .district-map a path {

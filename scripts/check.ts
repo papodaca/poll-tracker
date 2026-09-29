@@ -1,7 +1,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { governorStates } from '../src/data/governors.ts';
-import { dataRoot, portraitFile, readJsonDir } from '../src/data/load.ts';
+import { dataRoot, portraitFile, publicRoot, readJsonDir } from '../src/data/load.ts';
 import { getRosterRaces } from '../src/data/races.ts';
 import { candidateSchema, pollSchema, raceSchema, type Candidate, type Poll, type Race } from '../src/data/schema.ts';
 import { senateRaces } from '../src/data/senate.ts';
@@ -31,6 +31,11 @@ const roster = getRosterRaces();
 const extras = parseAll<Race>(path.join(dataRoot, 'extra-races'), raceSchema);
 const candidates = parseAll<Candidate>(path.join(dataRoot, 'candidates'), candidateSchema);
 const polls = parseAll<Poll>(path.join(dataRoot, 'polls'), pollSchema);
+
+for (const state of states) {
+	const flag = path.join(publicRoot, 'flags', `${state.code}.svg`);
+	if (!fs.existsSync(flag)) fail(`Missing flag SVG for ${state.code}`);
+}
 
 const stateCodes = new Set(states.map((state) => state.code));
 if (states.length !== 50 || stateCodes.size !== 50) fail(`Expected 50 states, found ${states.length}`);

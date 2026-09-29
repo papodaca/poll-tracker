@@ -1,5 +1,6 @@
 ---
 import { withBase } from '../data/site-path.ts';
+// public/flags/*.svg are the public-domain set from nibsbin/us-state-flags-svg.
 import { dcPath, insetSeparatorPath, statePaths } from '../data/state-paths.ts';
 import { states } from '../data/states.ts';
 
@@ -18,9 +19,15 @@ function tooltip(name: string, count: number): string {
 ---
 
 <svg class="us-map" viewBox="0 0 959 593" role="img" aria-label="Map of the United States">
+	<defs></defs>
 	{
 		states.map((state) => (
-			<a class:list={{ polled: polledStates.has(state.code) }} href={withBase(`/${state.code}`)}>
+			<a
+				class:list={{ polled: polledStates.has(state.code) }}
+				data-code={state.code}
+				data-flag={withBase(`/flags/${state.code}.svg`)}
+				href={withBase(`/${state.code}`)}
+			>
 				<title>{tooltip(state.name, pollCounts[state.code] ?? 0)}</title>
 				<path d={statePaths[state.code]} />
 			</a>
@@ -31,3 +38,96 @@ function tooltip(name: string, count: number): string {
 	</path>
 	<path class="inset-separator" d={insetSeparatorPath} />
 </svg>
+
+<script>
+	const svgNs = 'http://www.w3.org/2000/svg';
+
+	for (const map of document.querySelectorAll('.us-map')) {
+		const defs = map.querySelector('defs');
+		if (!defs) continue;
+
+		const paint = (anchor: SVGElement, code: string, box: SVGRect, bitmap: string) => {
+			const pattern = document.createElementNS(svgNs, 'pattern');
+			pattern.id = `flag-pattern-${code}`;
+			pattern.setAttribute('patternUnits', 'userSpaceOnUse');
+			pattern.setAttribute('x', String(box.x));
+			pattern.setAttribute('y', String(box.y));
+			pattern.setAttribute('width', String(box.width));
+			pattern.setAttribute('height', String(box.height));
+
+			const image = document.createElementNS(svgNs, 'image');
+			image.setAttribute('href', bitmap);
+			image.setAttribute('width', String(box.width));
+			image.setAttribute('height', String(box.height));
+			pattern.append(image);
+			defs.append(pattern);
+			anchor.style.setProperty('--flag', `url(#flag-pattern-${code})`);
+			anchor.classList.add('flag-ready');
+		};
+
+		const arm = (anchor: Element) => {
+			if (!(anchor instanceof SVGElement) || anchor.dataset.flagArmed) return;
+			const code = anchor.dataset.code;
+			const href = anchor.dataset.flag;
+			const shape = anchor.querySelector('path');
+			if (!code || !href || !(shape instanceof SVGGraphicsElement)) return;
+			const box = shape.getBBox();
+			if (box.width <= 0 || box.height <= 0) return;
+			anchor.dataset.flagArmed = '1';
+
+			// An SVG <image> paints outside the path. Draw the file first so the fill stays inside the state.
+			const loader = new Image();
+			loader.onload = () => {
+				const ctm = shape.getScreenCTM();
+				const dpr = window.devicePixelRatio || 1;
+				let width = Math.ceil(box.width * (ctm ? Math.hypot(ctm.a, ctm.b) : 1) * dpr);
+				let height = Math.ceil(box.height * (ctm ? Math.hypot(ctm.c, ctm.d) : 1) * dpr);
+				const longest = Math.max(width, height, 1);
+				if (longest > 640) {
+					width = Math.max(1, Math.round((width * 640) / longest));
+					height = Math.max(1, Math.round((height * 640) / longest));
+				}
+				const canvas = document.createElement('canvas');
+				canvas.width = Math.max(1, width);
+				canvas.height = Math.max(1, height);
+				const ctx = canvas.getContext('2d');
+				if (!ctx) return;
+				const srcW = loader.naturalWidth;
+				const srcH = loader.naturalHeight;
+				if (srcW > 0 && srcH > 0) {
+					const scale = Math.max(canvas.width / srcW, canvas.height / srcH);
+					const drawW = srcW * scale;
+					const drawH = srcH * scale;
+					ctx.drawImage(loader, (canvas.width - drawW) / 2, (canvas.height - drawH) / 2, drawW, drawH);
+				} else {
+					ctx.drawImage(loader, 0, 0, canvas.width, canvas.height);
+				}
+				try {
+					paint(anchor, code, box, canvas.toDataURL('image/png'));
+				} catch {
+					delete anchor.dataset.flagArmed;
+				}
+			};
+			loader.onerror = () => {
+				delete anchor.dataset.flagArmed;
+			};
+			loader.src = href;
+		};
+
+		const anchorFrom = (target: EventTarget | null) => {
+			if (!(target instanceof Element)) return null;
+			const anchor = target.closest('a');
+			if (!anchor || !map.contains(anchor)) return null;
+			return anchor;
+		};
+
+		map.addEventListener('pointerover', (event) => {
+			const anchor = anchorFrom(event.target);
+			if (anchor) arm(anchor);
+		});
+		map.addEventListener('focusin', (event) => {
+			const anchor = anchorFrom(event.target);
+			if (anchor) arm(anchor);
+		});
+	}
+</script>
