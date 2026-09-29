@@ -1,0 +1,17 @@
+{
+  "id": "2040-strategy-group-2026-07-25-ar-senate-class-2",
+  "raceId": "2026-ar-senate-class-2",
+  "pollster": "2040 Strategy Group",
+  "sponsor": "Hallie Shoffner for Arkansas",
+  "startDate": "2026-07-17",
+  "endDate": "2026-07-25",
+  "sampleSize": 586,
+  "population": "likely voters",
+  "marginOfError": 4,
+  "url": "https://data.ddhq.io/polls/2026/08/06/2040-Strategy-Group-Arkansas",
+  "sample": false,
+  "results": [
+    { "candidateId": "ar-senate-tom-cotton", "percent": 46 },
+    { "candidateId": "ar-senate-hallie-shoffner", "percent": 43 }
+  ]
+}

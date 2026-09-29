@@ -1,0 +1,17 @@
+{
+  "id": "university-of-new-hampshire-survey-center-2026-06-23-vt-house-at-large",
+  "raceId": "2026-vt-house-at-large",
+  "pollster": "University of New Hampshire Survey Center",
+  "startDate": "2026-06-18",
+  "endDate": "2026-06-23",
+  "sampleSize": 887,
+  "population": "likely general election voters",
+  "marginOfError": 3.3,
+  "url": "https://vermontbiz.com/news/2026/july/05/scott-sees-job-approval-fall-new-low-holds-clear-lead-over-dem-challengers",
+  "sample": false,
+  "results": [
+    { "candidateId": "vt-house-becca-balint", "percent": 57 },
+    { "candidateId": "vt-house-gerald-malloy", "percent": 26 },
+    { "candidateId": "vt-house-adam-ortiz", "percent": 1 }
+  ]
+}

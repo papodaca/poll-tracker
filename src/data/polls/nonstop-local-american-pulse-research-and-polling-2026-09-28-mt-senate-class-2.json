@@ -1,0 +1,14 @@
+{
+  "id": "nonstop-local-american-pulse-research-and-polling-2026-09-28-mt-senate-class-2",
+  "raceId": "2026-mt-senate-class-2",
+  "pollster": "NonStop Local/American Pulse Research and Polling",
+  "startDate": "2026-09-28",
+  "endDate": "2026-09-28",
+  "url": "https://politicalwire.com/2026/09/28/kurt-alme-way-aheada-in-montana-senate-race/",
+  "sample": false,
+  "results": [
+    { "candidateId": "mt-senate-kurt-alme", "percent": 45 },
+    { "candidateId": "mt-senate-seth-bodnar", "percent": 26 },
+    { "candidateId": "mt-senate-alani-bankhead", "percent": 19 }
+  ]
+}

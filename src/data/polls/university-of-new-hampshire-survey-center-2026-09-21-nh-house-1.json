@@ -1,0 +1,16 @@
+{
+  "id": "university-of-new-hampshire-survey-center-2026-09-21-nh-house-1",
+  "raceId": "2026-nh-house-1",
+  "pollster": "University of New Hampshire Survey Center",
+  "startDate": "2026-09-17",
+  "endDate": "2026-09-21",
+  "sampleSize": 707,
+  "population": "likely general election voters",
+  "marginOfError": 3.7,
+  "url": "https://data.ddhq.io/polls/2026/09/25/University-of-New-Hampshire-Survey-Center-New-Hampshire--1",
+  "sample": false,
+  "results": [
+    { "candidateId": "nh-house-1-anthony-dilorenzo", "percent": 42 },
+    { "candidateId": "nh-house-1-stefany-shaheen", "percent": 46 }
+  ]
+}

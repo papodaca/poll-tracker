@@ -1,0 +1,16 @@
+{
+  "id": "fabrizio-lee-associates-2026-08-06-fl-house-13",
+  "raceId": "2026-fl-house-13",
+  "pollster": "Fabrizio, Lee & Associates",
+  "startDate": "2026-08-04",
+  "endDate": "2026-08-06",
+  "sampleSize": 400,
+  "population": "likely voters",
+  "marginOfError": 4.9,
+  "url": "https://data.ddhq.io/polls/2026/08/14/Fabrizio,-Lee-&-Associates-Florida--13",
+  "sample": false,
+  "results": [
+    { "candidateId": "fl-house-13-anna-paulina-luna", "percent": 49 },
+    { "candidateId": "fl-house-13-leela-gray", "percent": 41 }
+  ]
+}

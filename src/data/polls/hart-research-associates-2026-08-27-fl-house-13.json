@@ -1,0 +1,17 @@
+{
+  "id": "hart-research-associates-2026-08-27-fl-house-13",
+  "raceId": "2026-fl-house-13",
+  "pollster": "Hart Research Associates",
+  "sponsor": "House Majority PAC",
+  "startDate": "2026-08-25",
+  "endDate": "2026-08-27",
+  "sampleSize": 500,
+  "marginOfError": 4.4,
+  "url": "https://floridapolitics.com/archives/817972-democratic-poll-shows-leela-gray-winning-majority-over-anna-paulina-luna-in-cd-13/",
+  "sample": false,
+  "results": [
+    { "candidateId": "fl-house-13-leela-gray", "percent": 44 },
+    { "candidateId": "fl-house-13-anna-paulina-luna", "percent": 43 },
+    { "candidateId": "fl-house-13-tony-darrigo", "percent": 7 }
+  ]
+}

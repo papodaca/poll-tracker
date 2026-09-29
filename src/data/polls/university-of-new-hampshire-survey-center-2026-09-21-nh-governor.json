@@ -1,0 +1,17 @@
+{
+  "id": "university-of-new-hampshire-survey-center-2026-09-21-nh-governor",
+  "raceId": "2026-nh-governor",
+  "pollster": "University of New Hampshire Survey Center",
+  "startDate": "2026-09-17",
+  "endDate": "2026-09-21",
+  "sampleSize": 1418,
+  "population": "likely general election voters",
+  "marginOfError": 2.6,
+  "url": "https://data.ddhq.io/polls/2026/09/25/University-of-New-Hampshire-Survey-Center-New-Hampshire--1",
+  "sample": false,
+  "results": [
+    { "candidateId": "nh-governor-kelly-ayotte", "percent": 47 },
+    { "candidateId": "nh-governor-cinde-warmington", "percent": 43 },
+    { "candidateId": "nh-governor-stephen-villee", "percent": 2 }
+  ]
+}

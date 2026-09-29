@@ -1,0 +1,22 @@
+{
+  "id": "research-and-polling-2026-08-28-nm-senate-class-2",
+  "raceId": "2026-nm-senate-class-2",
+  "pollster": "Research & Polling Inc.",
+  "sponsor": "Albuquerque Journal",
+  "startDate": "2026-08-21",
+  "endDate": "2026-08-28",
+  "sampleSize": 516,
+  "population": "likely voters",
+  "url": "https://www.abqjournal.com/news/journal-poll-us-sen-ben-ray-lujan-has-comfortable-lead-in-reelection-campaign/3112569",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nm-senate-ben-ray-lujan",
+      "percent": 53
+    },
+    {
+      "candidateId": "nm-senate-larry-marker",
+      "percent": 38
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "emerson-college-2026-09-08-nv-governor",
+  "raceId": "2026-nv-governor",
+  "pollster": "Emerson College Polling",
+  "sponsor": "KLAS-TV",
+  "startDate": "2026-09-05",
+  "endDate": "2026-09-08",
+  "sampleSize": 680,
+  "population": "likely voters",
+  "marginOfError": 3.7,
+  "url": "https://emersoncollegepolling.com/nevada-2026-poll-ford-and-lombardo/",
+  "sample": false,
+  "results": [
+    { "candidateId": "nv-governor-aaron-ford", "percent": 44 },
+    { "candidateId": "nv-governor-joe-lombardo", "percent": 42 }
+  ]
+}

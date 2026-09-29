@@ -1,0 +1,16 @@
+{
+  "id": "yes-every-kid-2026-07-11-al-senate-class-2",
+  "raceId": "2026-al-senate-class-2",
+  "pollster": "yes. every kid. foundation.",
+  "startDate": "2026-07-08",
+  "endDate": "2026-07-11",
+  "sampleSize": 601,
+  "population": "Likely Voters",
+  "marginOfError": 4,
+  "url": "https://data.ddhq.io/polls/2026/08/04/yes.-every-kid.-Alabama",
+  "sample": false,
+  "results": [
+    { "candidateId": "al-senate-barry-moore", "percent": 47 },
+    { "candidateId": "al-senate-everett-wess", "percent": 32 }
+  ]
+}

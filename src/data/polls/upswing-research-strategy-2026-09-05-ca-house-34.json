@@ -1,0 +1,17 @@
+{
+  "id": "upswing-research-strategy-2026-09-05-ca-house-34",
+  "raceId": "2026-ca-house-34",
+  "pollster": "Upswing Research & Strategy",
+  "sponsor": "Guardrails Alliance",
+  "startDate": "2026-09-01",
+  "endDate": "2026-09-05",
+  "sampleSize": 403,
+  "population": "likely voters",
+  "marginOfError": 4.9,
+  "url": "https://data.ddhq.io/polls/2026/09/11/Upswing-Research-&-Strategy/Guardrails-Alliance-California--34-2026-09-01-2026-09-05",
+  "sample": false,
+  "results": [
+    { "candidateId": "ca-house-34-angela-gonzales-torres", "percent": 41 },
+    { "candidateId": "ca-house-34-jimmy-gomez", "percent": 38 }
+  ]
+}

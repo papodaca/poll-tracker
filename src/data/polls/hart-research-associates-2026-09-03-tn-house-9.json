@@ -1,0 +1,15 @@
+{
+  "id": "hart-research-associates-2026-09-03-tn-house-9",
+  "raceId": "2026-tn-house-9",
+  "pollster": "Hart Research Associates",
+  "startDate": "2026-09-01",
+  "endDate": "2026-09-03",
+  "sampleSize": 400,
+  "population": "likely voters",
+  "url": "https://data.ddhq.io/polls/2026/09/10/Hart-Research-Associates/Tennessee-Rise-Tennessee--9-2026-09-01-2026-09-03",
+  "sample": false,
+  "results": [
+    { "candidateId": "tn-house-9-brent-taylor", "percent": 48 },
+    { "candidateId": "tn-house-9-justin-pearson", "percent": 44 }
+  ]
+}

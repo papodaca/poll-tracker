@@ -1,0 +1,16 @@
+{
+  "id": "20-20-insight-2026-08-26-ga-house-7",
+  "raceId": "2026-ga-house-7",
+  "pollster": "20/20 Insight",
+  "startDate": "2026-08-20",
+  "endDate": "2026-08-26",
+  "sampleSize": 445,
+  "population": "likely voters",
+  "marginOfError": 4.7,
+  "url": "https://data.ddhq.io/polls/2026/09/08/20/20-Insight-Georgia--7",
+  "sample": false,
+  "results": [
+    { "candidateId": "ga-house-7-tony-kozycki", "percent": 43 },
+    { "candidateId": "ga-house-7-rich-mccormick", "percent": 46 }
+  ]
+}

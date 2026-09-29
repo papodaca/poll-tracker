@@ -1,0 +1,15 @@
+{
+  "id": "gbao-2026-09-11-nc-house-1",
+  "raceId": "2026-nc-house-1",
+  "pollster": "GBAO",
+  "sponsor": "House Majority PAC",
+  "startDate": "2026-09-09",
+  "endDate": "2026-09-11",
+  "marginOfError": 4.4,
+  "url": "https://www.witn.com/2026/09/15/poll-don-davis-leading-laurie-buckhout-by-7-points-first-district-race/",
+  "sample": false,
+  "results": [
+    { "candidateId": "nc-house-1-don-davis", "percent": 50 },
+    { "candidateId": "nc-house-1-laurie-buckhout", "percent": 43 }
+  ]
+}

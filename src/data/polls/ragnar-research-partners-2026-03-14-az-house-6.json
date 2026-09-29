@@ -1,0 +1,17 @@
+{
+  "id": "ragnar-research-partners-2026-03-14-az-house-6",
+  "raceId": "2026-az-house-6",
+  "pollster": "Ragnar Research Partners",
+  "sponsor": "Conservatives for America",
+  "startDate": "2026-03-12",
+  "endDate": "2026-03-14",
+  "sampleSize": 400,
+  "population": "likely voters",
+  "marginOfError": 5,
+  "url": "https://www.tucsonsentinel.com/local/report/042926_cd6_poll/conservative-poll-shows-gops-ciscomani-trailing-dem-challenger-mendoza-cd6/",
+  "sample": false,
+  "results": [
+    { "candidateId": "az-house-6-joanna-mendoza", "percent": 47 },
+    { "candidateId": "az-house-6-juan-ciscomani", "percent": 44 }
+  ]
+}

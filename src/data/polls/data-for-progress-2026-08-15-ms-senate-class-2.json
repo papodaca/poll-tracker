@@ -1,0 +1,18 @@
+{
+  "id": "data-for-progress-2026-08-15-ms-senate-class-2",
+  "raceId": "2026-ms-senate-class-2",
+  "pollster": "Data for Progress",
+  "sponsor": "Way to Lead PAC, Democracy Alliance, and Democracy Strategy Partners",
+  "startDate": "2026-08-05",
+  "endDate": "2026-08-15",
+  "sampleSize": 1018,
+  "population": "likely voters",
+  "marginOfError": 3,
+  "url": "https://chartingthewayforward.substack.com/p/research-release-fresh-polling-from",
+  "sample": false,
+  "results": [
+    { "candidateId": "ms-senate-cindy-hyde-smith", "percent": 44 },
+    { "candidateId": "ms-senate-scott-colom", "percent": 38 },
+    { "candidateId": "ms-senate-ty-pinkins", "percent": 7 }
+  ]
+}

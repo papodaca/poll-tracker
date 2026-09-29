@@ -1,0 +1,17 @@
+{
+  "id": "fabrizio-ward-impact-research-2026-07-16-ga-senate-class-2",
+  "raceId": "2026-ga-senate-class-2",
+  "pollster": "Fabrizio Ward / Impact Research",
+  "sponsor": "AARP",
+  "startDate": "2026-07-13",
+  "endDate": "2026-07-16",
+  "sampleSize": 1060,
+  "population": "likely voters",
+  "marginOfError": 3,
+  "url": "https://www.aarp.org/press/releases/2026-07-22-new-aarp-georgia-poll-older-voters-poised-to-decide-tight-governor-senate-races.html",
+  "sample": false,
+  "results": [
+    { "candidateId": "ga-senate-jon-ossoff", "percent": 52 },
+    { "candidateId": "ga-senate-mike-collins", "percent": 43 }
+  ]
+}

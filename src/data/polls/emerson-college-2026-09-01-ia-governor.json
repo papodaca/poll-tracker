@@ -1,0 +1,23 @@
+{
+  "id": "emerson-college-2026-09-01-ia-governor",
+  "raceId": "2026-ia-governor",
+  "pollster": "Emerson College Polling",
+  "sponsor": "Nexstar Media",
+  "startDate": "2026-08-31",
+  "endDate": "2026-09-01",
+  "sampleSize": 750,
+  "population": "likely voters",
+  "marginOfError": 3.6,
+  "url": "https://emersoncollegepolling.com/iowa-2026-poll-hinson-leads-turek/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ia-governor-rob-sand",
+      "percent": 49
+    },
+    {
+      "candidateId": "ia-governor-zach-lahn",
+      "percent": 46
+    }
+  ]
+}

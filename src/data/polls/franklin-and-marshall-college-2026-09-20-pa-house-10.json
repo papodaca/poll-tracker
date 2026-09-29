@@ -1,0 +1,17 @@
+{
+  "id": "franklin-and-marshall-college-2026-09-20-pa-house-10",
+  "raceId": "2026-pa-house-10",
+  "pollster": "Franklin & Marshall College",
+  "sponsor": "Brett Harwood",
+  "startDate": "2026-09-09",
+  "endDate": "2026-09-20",
+  "sampleSize": 390,
+  "population": "Registered Voters",
+  "marginOfError": 5.7,
+  "url": "https://data.ddhq.io/polls/2026/09/24/Franklin-&-Marshall-College-Center-for-Opinion-Research-Pennsylvania--7",
+  "sample": false,
+  "results": [
+    { "candidateId": "pa-house-10-janelle-stelson", "percent": 46 },
+    { "candidateId": "pa-house-10-scott-perry", "percent": 42 }
+  ]
+}

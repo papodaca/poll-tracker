@@ -1,0 +1,16 @@
+{
+  "id": "sea-polling-2026-08-30-fl-house-9",
+  "raceId": "2026-fl-house-9",
+  "pollster": "SEA Polling",
+  "startDate": "2026-08-24",
+  "endDate": "2026-08-30",
+  "sampleSize": 400,
+  "population": "likely voters",
+  "marginOfError": 4.9,
+  "url": "https://floridapolitics.com/archives/818398-internal-poll-shows-darren-soto-tied-with-dan-green-in-battleground-cd-9/",
+  "sample": false,
+  "results": [
+    { "candidateId": "fl-house-9-darren-soto", "percent": 41 },
+    { "candidateId": "fl-house-9-dan-green", "percent": 41 }
+  ]
+}

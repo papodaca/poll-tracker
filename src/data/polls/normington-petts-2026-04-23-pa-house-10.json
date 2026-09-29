@@ -1,0 +1,17 @@
+{
+  "id": "normington-petts-2026-04-23-pa-house-10",
+  "raceId": "2026-pa-house-10",
+  "pollster": "Normington Petts",
+  "sponsor": "Janelle Stelson's campaign",
+  "startDate": "2026-04-20",
+  "endDate": "2026-04-23",
+  "sampleSize": 400,
+  "population": "registered voters",
+  "marginOfError": 4.9,
+  "url": "https://www.inquirer.com/politics/election/live/pennsylvania-primary-election-2026-results-house-20260520.html",
+  "sample": false,
+  "results": [
+    { "candidateId": "pa-house-10-janelle-stelson", "percent": 51 },
+    { "candidateId": "pa-house-10-scott-perry", "percent": 45 }
+  ]
+}

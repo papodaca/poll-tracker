@@ -1,0 +1,21 @@
+{
+  "id": "berkeley-igs-poll-2026-08-09-ca-governor",
+  "raceId": "2026-ca-governor",
+  "pollster": "Berkeley IGS Poll",
+  "startDate": "2026-08-03",
+  "endDate": "2026-08-09",
+  "sampleSize": 2310,
+  "population": "likely voters",
+  "url": "https://escholarship.org/content/qt6t74v608/qt6t74v608.pdf?v=lg",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ca-governor-xavier-becerra",
+      "percent": 55
+    },
+    {
+      "candidateId": "ca-governor-steve-hilton",
+      "percent": 37
+    }
+  ]
+}

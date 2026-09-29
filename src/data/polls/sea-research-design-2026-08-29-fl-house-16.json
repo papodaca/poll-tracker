@@ -1,0 +1,17 @@
+{
+  "id": "sea-research-design-2026-08-29-fl-house-16",
+  "raceId": "2026-fl-house-16",
+  "pollster": "SEA Research & Design",
+  "sponsor": "Kelly Kirschner for Congress",
+  "startDate": "2026-08-25",
+  "endDate": "2026-08-29",
+  "sampleSize": 400,
+  "population": "likely voters",
+  "marginOfError": 4.9,
+  "url": "https://data.ddhq.io/polls/2026/09/03/SEA-Polling-&-Strategic-Design-Florida--16",
+  "sample": false,
+  "results": [
+    { "candidateId": "fl-house-16-kelly-kirschner", "percent": 40 },
+    { "candidateId": "fl-house-16-sydney-gruters", "percent": 39 }
+  ]
+}

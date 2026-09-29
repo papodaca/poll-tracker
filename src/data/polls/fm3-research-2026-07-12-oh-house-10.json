@@ -1,0 +1,15 @@
+{
+  "id": "fm3-research-2026-07-12-oh-house-10",
+  "raceId": "2026-oh-house-10",
+  "pollster": "FM3 Research",
+  "sponsor": "House Majority PAC",
+  "startDate": "2026-07-06",
+  "endDate": "2026-07-12",
+  "population": "OH-10 voters",
+  "url": "https://data.ddhq.io/polls/2026/07/22/FM3-Research/House-Majority-PAC-Ohio--10-2026-07-06-2026-07-12",
+  "sample": false,
+  "results": [
+    { "candidateId": "oh-house-10-kristina-knickerbocker", "percent": 41 },
+    { "candidateId": "oh-house-10-mike-turner", "percent": 48 }
+  ]
+}

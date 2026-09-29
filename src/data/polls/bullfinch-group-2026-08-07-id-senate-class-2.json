@@ -1,0 +1,17 @@
+{
+  "id": "bullfinch-group-2026-08-07-id-senate-class-2",
+  "raceId": "2026-id-senate-class-2",
+  "pollster": "The Bullfinch Group",
+  "startDate": "2026-08-04",
+  "endDate": "2026-08-07",
+  "sampleSize": 608,
+  "population": "Likely Voter",
+  "marginOfError": 3.97,
+  "url": "https://data.ddhq.io/polls/2026/08/19/The-Bullfinch-Group-Idaho",
+  "sample": false,
+  "results": [
+    { "candidateId": "id-senate-jim-risch", "percent": 34 },
+    { "candidateId": "id-senate-todd-achilles", "percent": 30 },
+    { "candidateId": "id-senate-matt-loesby", "percent": 4 }
+  ]
+}

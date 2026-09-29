@@ -1,0 +1,22 @@
+{
+  "id": "university-of-new-hampshire-2026-04-20-ri-senate-class-2",
+  "raceId": "2026-ri-senate-class-2",
+  "pollster": "University of New Hampshire Survey Center",
+  "startDate": "2026-04-16",
+  "endDate": "2026-04-20",
+  "sampleSize": 559,
+  "population": "likely general election voters",
+  "marginOfError": 4.1,
+  "url": "https://rhodeislandcurrent.com/wp-content/uploads/2026/04/Reed-Comfortably-Leads-in-U.S.-Senate-Election-Foulkes-Expands-L.pdf",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ri-senate-raymond-mckay",
+      "percent": 34
+    },
+    {
+      "candidateId": "ri-senate-jack-reed",
+      "percent": 52
+    }
+  ]
+}

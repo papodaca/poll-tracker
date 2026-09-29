@@ -1,0 +1,14 @@
+{
+  "id": "fm3-research-2026-06-25-wi-house-3",
+  "raceId": "2026-wi-house-3",
+  "pollster": "FM3 Research",
+  "sponsor": "House Majority PAC",
+  "startDate": "2026-06-20",
+  "endDate": "2026-06-25",
+  "url": "https://www.thehousemajoritypac.com/news/hmp-poll-rebecca-cooke-leads-derrick-van-orden-in-wi-03",
+  "sample": false,
+  "results": [
+    { "candidateId": "wi-house-3-rebecca-cooke", "percent": 50 },
+    { "candidateId": "wi-house-3-derrick-van-orden", "percent": 46 }
+  ]
+}

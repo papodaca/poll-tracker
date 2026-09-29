@@ -1,0 +1,14 @@
+{
+  "id": "tulchin-research-2026-09-18-fl-house-27",
+  "raceId": "2026-fl-house-27",
+  "pollster": "Tulchin Research",
+  "sponsor": "House Majority PAC",
+  "startDate": "2026-09-18",
+  "endDate": "2026-09-18",
+  "url": "https://www.the-downballot.com/p/morning-digest-vulnerable-republican-79d",
+  "sample": false,
+  "results": [
+    { "candidateId": "fl-house-27-maria-elvira-salazar", "percent": 47 },
+    { "candidateId": "fl-house-27-eliott-rodriguez", "percent": 46 }
+  ]
+}

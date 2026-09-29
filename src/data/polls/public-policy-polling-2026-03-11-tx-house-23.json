@@ -1,0 +1,16 @@
+{
+  "id": "public-policy-polling-2026-03-11-tx-house-23",
+  "raceId": "2026-tx-house-23",
+  "pollster": "Public Policy Polling",
+  "sponsor": "House Majority PAC",
+  "startDate": "2026-03-10",
+  "endDate": "2026-03-11",
+  "sampleSize": 521,
+  "population": "voters",
+  "url": "https://www.texastribune.org/wp-content/uploads/2026/03/TX23-PPP-poll.pdf",
+  "sample": false,
+  "results": [
+    { "candidateId": "tx-house-23-katy-padilla-stout", "percent": 40 },
+    { "candidateId": "tx-house-23-brandon-herrera", "percent": 42 }
+  ]
+}

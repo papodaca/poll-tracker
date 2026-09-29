@@ -1,0 +1,17 @@
+{
+  "id": "impact-research-2026-04-12-ms-senate-class-2",
+  "raceId": "2026-ms-senate-class-2",
+  "pollster": "Impact Research",
+  "sponsor": "SPLC Action Fund",
+  "startDate": "2026-04-08",
+  "endDate": "2026-04-12",
+  "sampleSize": 500,
+  "population": "Likely Mississippi 2026 GE Voters",
+  "url": "https://www.splcactionfund.org/wp-content/uploads/sites/2/2026/04/2026-04-IMPACT-Baseline-MS-Statewide-Senate-GE-Bench-Apr-2026.pdf",
+  "sample": false,
+  "results": [
+    { "candidateId": "ms-senate-scott-colom", "percent": 39 },
+    { "candidateId": "ms-senate-cindy-hyde-smith", "percent": 42 },
+    { "candidateId": "ms-senate-ty-pinkins", "percent": 6 }
+  ]
+}

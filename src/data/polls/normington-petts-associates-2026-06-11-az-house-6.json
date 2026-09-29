@@ -1,0 +1,14 @@
+{
+  "id": "normington-petts-associates-2026-06-11-az-house-6",
+  "raceId": "2026-az-house-6",
+  "pollster": "Normington, Petts & Associates",
+  "sponsor": "House Majority PAC",
+  "startDate": "2026-06-08",
+  "endDate": "2026-06-11",
+  "url": "https://data.ddhq.io/polls/2026/06/22/Normington-Petts/House-Majority-PAC-Arizona--6-2026-06-08-2026-06-11",
+  "sample": false,
+  "results": [
+    { "candidateId": "az-house-6-joanna-mendoza", "percent": 47 },
+    { "candidateId": "az-house-6-juan-ciscomani", "percent": 45 }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "braun-research-2026-09-21-vt-governor",
+  "raceId": "2026-vt-governor",
+  "pollster": "Braun Research",
+  "sponsor": "Vermont Public",
+  "startDate": "2026-09-10",
+  "endDate": "2026-09-21",
+  "sampleSize": 732,
+  "population": "likely voters",
+  "url": "https://www.sevendaysvt.com/news/gov-scott-leads-janoo-by-10-points-in-new-poll/",
+  "sample": false,
+  "results": [
+    { "candidateId": "vt-governor-phil-scott", "percent": 44 },
+    { "candidateId": "vt-governor-amanda-janoo", "percent": 34 }
+  ]
+}

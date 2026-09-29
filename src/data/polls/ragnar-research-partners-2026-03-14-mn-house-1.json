@@ -1,0 +1,16 @@
+{
+  "id": "ragnar-research-partners-2026-03-14-mn-house-1",
+  "raceId": "2026-mn-house-1",
+  "pollster": "Ragnar Research Partners",
+  "startDate": "2026-03-12",
+  "endDate": "2026-03-14",
+  "sampleSize": 400,
+  "population": "Likely Voters (LVs)",
+  "marginOfError": 5,
+  "url": "https://punchbowl.news/wp-content/uploads/CFA_MN-CD-1_Benchmark_Analysis_v1.0_260323.pdf",
+  "sample": false,
+  "results": [
+    { "candidateId": "mn-house-1-brad-finstad", "percent": 52 },
+    { "candidateId": "mn-house-1-jake-johnson", "percent": 42 }
+  ]
+}

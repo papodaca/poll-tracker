@@ -1,0 +1,17 @@
+{
+  "id": "public-policy-polling-2026-05-20-fl-house-13",
+  "raceId": "2026-fl-house-13",
+  "pollster": "Public Policy Polling",
+  "sponsor": "Leela Gray campaign",
+  "startDate": "2026-05-19",
+  "endDate": "2026-05-20",
+  "sampleSize": 616,
+  "population": "registered voters",
+  "marginOfError": 4.0,
+  "url": "https://data.ddhq.io/polls/2026/05/29/Public-Policy-Polling/Leela-Gray-Florida--13-2026-05-19-2026-05-20",
+  "sample": false,
+  "results": [
+    { "candidateId": "fl-house-13-leela-gray", "percent": 39 },
+    { "candidateId": "fl-house-13-anna-paulina-luna", "percent": 41 }
+  ]
+}

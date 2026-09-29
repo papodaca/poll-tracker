@@ -1,0 +1,16 @@
+{
+  "id": "public-policy-polling-2025-07-11-pa-house-10",
+  "raceId": "2026-pa-house-10",
+  "pollster": "Public Policy Polling",
+  "sponsor": "House Majority PAC",
+  "startDate": "2025-07-10",
+  "endDate": "2025-07-11",
+  "sampleSize": 559,
+  "population": "PA CD 10 voters",
+  "url": "https://data.ddhq.io/polls/2025/07/14/Public%20Policy%20Polling/House%20Majority%20PAC-National-2025-07-10-2025-07-11",
+  "sample": false,
+  "results": [
+    { "candidateId": "pa-house-10-janelle-stelson", "percent": 46 },
+    { "candidateId": "pa-house-10-scott-perry", "percent": 43 }
+  ]
+}

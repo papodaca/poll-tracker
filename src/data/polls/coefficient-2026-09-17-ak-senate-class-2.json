@@ -1,0 +1,18 @@
+{
+  "id": "coefficient-2026-09-17-ak-senate-class-2",
+  "raceId": "2026-ak-senate-class-2",
+  "pollster": "co/efficient",
+  "startDate": "2026-09-14",
+  "endDate": "2026-09-17",
+  "sampleSize": 799,
+  "population": "likely general election voters",
+  "marginOfError": 3.45,
+  "url": "https://battlegrounds.coefficient.org/ak/",
+  "sample": false,
+  "results": [
+    { "candidateId": "ak-senate-dan-sullivan", "percent": 48 },
+    { "candidateId": "ak-senate-mary-peltola", "percent": 46 },
+    { "candidateId": "ak-senate-daniel-j-sullivan-jr", "percent": 1 },
+    { "candidateId": "ak-senate-gerald-heikes", "percent": 1 }
+  ]
+}

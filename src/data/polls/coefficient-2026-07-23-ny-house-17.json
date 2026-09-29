@@ -1,0 +1,16 @@
+{
+  "id": "coefficient-2026-07-23-ny-house-17",
+  "raceId": "2026-ny-house-17",
+  "pollster": "co/efficient",
+  "startDate": "2026-07-23",
+  "endDate": "2026-07-23",
+  "sampleSize": 1292,
+  "population": "likely general election voters",
+  "marginOfError": 2.71,
+  "url": "https://data.ddhq.io/polls/2026/07/23/co/efficient-New-York--17",
+  "sample": false,
+  "results": [
+    { "candidateId": "ny-house-17-mike-lawler", "percent": 50 },
+    { "candidateId": "ny-house-17-cait-conley", "percent": 45 }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "keating-research-2026-07-23-co-house-3",
+  "raceId": "2026-co-house-3",
+  "pollster": "Keating Research",
+  "sponsor": "Romero's campaign",
+  "startDate": "2026-07-21",
+  "endDate": "2026-07-23",
+  "sampleSize": 500,
+  "population": "likely voters",
+  "marginOfError": 4.4,
+  "url": "https://www.aspentimes.com/news/colorado-3rd-congressional-district-romero-hurd/",
+  "sample": false,
+  "results": [
+    { "candidateId": "co-house-3-jeff-hurd", "percent": 46 },
+    { "candidateId": "co-house-3-dwayne-romero", "percent": 45 }
+  ]
+}

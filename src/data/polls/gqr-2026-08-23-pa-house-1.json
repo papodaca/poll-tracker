@@ -1,0 +1,14 @@
+{
+  "id": "gqr-2026-08-23-pa-house-1",
+  "raceId": "2026-pa-house-1",
+  "pollster": "GQR",
+  "sponsor": "House Majority PAC",
+  "startDate": "2026-08-19",
+  "endDate": "2026-08-23",
+  "url": "https://www.thehousemajoritypac.com/news/hmp-poll-bob-harvie-statistically-tied-with-brian-fitzpatrick-in-pa-01",
+  "sample": false,
+  "results": [
+    { "candidateId": "pa-house-1-bob-harvie", "percent": 48 },
+    { "candidateId": "pa-house-1-brian-fitzpatrick", "percent": 49 }
+  ]
+}

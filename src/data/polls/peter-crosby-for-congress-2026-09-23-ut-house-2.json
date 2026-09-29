@@ -1,0 +1,16 @@
+{
+  "id": "peter-crosby-for-congress-2026-09-23-ut-house-2",
+  "raceId": "2026-ut-house-2",
+  "pollster": "Peter Crosby for Congress",
+  "sponsor": "Peter Crosby for Congress",
+  "startDate": "2026-09-21",
+  "endDate": "2026-09-23",
+  "population": "likely voters",
+  "marginOfError": 3.8,
+  "url": "https://kvnutalk.com/democratic-challenger-claims-lead-in-race-for-utahs-2nd-district-seat-in-congress/",
+  "sample": false,
+  "results": [
+    { "candidateId": "ut-house-2-peter-crosby", "percent": 34.9 },
+    { "candidateId": "ut-house-2-blake-moore", "percent": 32 }
+  ]
+}

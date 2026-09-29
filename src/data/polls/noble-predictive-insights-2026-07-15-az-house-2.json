@@ -1,0 +1,15 @@
+{
+  "id": "noble-predictive-insights-2026-07-15-az-house-2",
+  "raceId": "2026-az-house-2",
+  "pollster": "Noble Predictive Insights",
+  "sponsor": "Arizona Eagle PAC",
+  "startDate": "2026-07-13",
+  "endDate": "2026-07-15",
+  "url": "https://navajotimes.com/rezpolitics/election-2026/pac-poll-gives-nez-slight-edge-over-crane-in-arizona-congressional-rematch/",
+  "sample": false,
+  "results": [
+    { "candidateId": "az-house-2-jonathan-nez", "percent": 38 },
+    { "candidateId": "az-house-2-eli-crane", "percent": 37 },
+    { "candidateId": "az-house-2-curtis-goodwin", "percent": 7 }
+  ]
+}

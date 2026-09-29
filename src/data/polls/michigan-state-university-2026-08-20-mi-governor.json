@@ -1,0 +1,21 @@
+{
+  "id": "michigan-state-university-2026-08-20-mi-governor",
+  "raceId": "2026-mi-governor",
+  "pollster": "Michigan State University",
+  "startDate": "2026-08-10",
+  "endDate": "2026-08-20",
+  "sampleSize": 779,
+  "population": "likely voters",
+  "url": "https://ippsr.msu.edu/news/msu-poll-shows-democrats-lead-republicans-coalesce-behind-rogers",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-governor-jocelyn-benson",
+      "percent": 52
+    },
+    {
+      "candidateId": "mi-governor-john-james",
+      "percent": 43
+    }
+  ]
+}

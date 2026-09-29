@@ -1,0 +1,15 @@
+{
+  "id": "stetson-university-2026-09-21-fl-senate-special",
+  "raceId": "2026-fl-senate-special",
+  "pollster": "Stetson University",
+  "startDate": "2026-09-14",
+  "endDate": "2026-09-21",
+  "population": "likely voters",
+  "marginOfError": 4.3,
+  "url": "https://www2.stetson.edu/today/2026/09/poll-republicans-hold-double-digit-leads-in-florida-governor-u-s-senate-races/",
+  "sample": false,
+  "results": [
+    { "candidateId": "fl-senate-ashley-moody", "percent": 51 },
+    { "candidateId": "fl-senate-angie-nixon", "percent": 40 }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "jl-partners-2026-08-18-ar-senate-class-2",
+  "raceId": "2026-ar-senate-class-2",
+  "pollster": "J.L. Partners",
+  "startDate": "2026-08-14",
+  "endDate": "2026-08-18",
+  "sampleSize": 803,
+  "population": "likely voters",
+  "marginOfError": 3.5,
+  "url": "https://data.ddhq.io/polls/2026/08/19/J.L.-Partners-Arkansas",
+  "sample": false,
+  "results": [
+    { "candidateId": "ar-senate-tom-cotton", "percent": 51 },
+    { "candidateId": "ar-senate-hallie-shoffner", "percent": 35 },
+    { "candidateId": "ar-senate-jeff-wadlin", "percent": 4 }
+  ]
+}

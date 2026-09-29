@@ -1,0 +1,17 @@
+{
+  "id": "global-strategy-group-2026-08-09-pa-house-1",
+  "raceId": "2026-pa-house-1",
+  "pollster": "Global Strategy Group",
+  "sponsor": "Harvie campaign",
+  "startDate": "2026-08-05",
+  "endDate": "2026-08-09",
+  "sampleSize": 500,
+  "population": "likely voters",
+  "marginOfError": 4.4,
+  "url": "https://politicspa.com/internal-pa-01-poll-shows-harvie-within-margin-of-error-against-fitzpatrick/150216/",
+  "sample": false,
+  "results": [
+    { "candidateId": "pa-house-1-brian-fitzpatrick", "percent": 47 },
+    { "candidateId": "pa-house-1-bob-harvie", "percent": 43 }
+  ]
+}

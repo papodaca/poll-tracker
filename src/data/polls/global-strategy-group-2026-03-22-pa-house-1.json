@@ -1,0 +1,16 @@
+{
+  "id": "global-strategy-group-2026-03-22-pa-house-1",
+  "raceId": "2026-pa-house-1",
+  "pollster": "Global Strategy Group",
+  "startDate": "2026-03-19",
+  "endDate": "2026-03-22",
+  "sampleSize": 400,
+  "population": "likely 2026 General Election voters",
+  "marginOfError": 4.9,
+  "url": "https://data.ddhq.io/polls/2026/03/31/Global-Strategy-Group/Bob-Harvie-Pennsylvania--1-2026-03-19-2026-03-22",
+  "sample": false,
+  "results": [
+    { "candidateId": "pa-house-1-bob-harvie", "percent": 42 },
+    { "candidateId": "pa-house-1-brian-fitzpatrick", "percent": 48 }
+  ]
+}

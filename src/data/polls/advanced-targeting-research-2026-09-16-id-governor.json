@@ -1,0 +1,30 @@
+{
+  "id": "advanced-targeting-research-2026-09-16-id-governor",
+  "raceId": "2026-id-governor",
+  "pollster": "Advanced Targeting Research",
+  "startDate": "2026-09-13",
+  "endDate": "2026-09-16",
+  "sampleSize": 700,
+  "population": "registered voters",
+  "marginOfError": 3.7,
+  "url": "https://data.ddhq.io/polls/2026/09/18/Advanced-Targeting-Research-Idaho",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "id-governor-brad-little",
+      "percent": 37.3
+    },
+    {
+      "candidateId": "id-governor-terri-pickens",
+      "percent": 27.2
+    },
+    {
+      "candidateId": "id-governor-john-stegner",
+      "percent": 12.8
+    },
+    {
+      "candidateId": "id-governor-paul-sand",
+      "percent": 2.8
+    }
+  ]
+}

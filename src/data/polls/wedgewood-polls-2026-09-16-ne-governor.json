@@ -1,0 +1,19 @@
+{
+  "id": "wedgewood-polls-2026-09-16-ne-governor",
+  "raceId": "2026-ne-governor",
+  "pollster": "Wedgewood Polls",
+  "sponsor": "independent election Twitter crowdfund",
+  "startDate": "2026-09-14",
+  "endDate": "2026-09-16",
+  "sampleSize": 500,
+  "population": "likely voters",
+  "marginOfError": 4.4,
+  "url": "https://data.ddhq.io/polls/2026/09/16/Wedgewood-Polls-Nebraska",
+  "sample": false,
+  "results": [
+    { "candidateId": "ne-governor-jim-pillen", "percent": 53 },
+    { "candidateId": "ne-governor-lynne-walz", "percent": 36 },
+    { "candidateId": "ne-governor-rick-beard", "percent": 6 },
+    { "candidateId": "ne-governor-brett-lindstrom", "percent": 5 }
+  ]
+}

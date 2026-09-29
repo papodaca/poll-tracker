@@ -1,0 +1,14 @@
+{
+  "id": "public-policy-polling-2026-04-25-ky-house-6",
+  "raceId": "2026-ky-house-6",
+  "pollster": "Public Policy Polling",
+  "sponsor": "New Politics",
+  "startDate": "2026-04-24",
+  "endDate": "2026-04-25",
+  "url": "https://insideelections.com/kentucky-6-new-poll-fuels-democratic-optimism/",
+  "sample": false,
+  "results": [
+    { "candidateId": "ky-house-6-zach-dembo", "percent": 37 },
+    { "candidateId": "ky-house-6-ralph-alvarado", "percent": 37 }
+  ]
+}

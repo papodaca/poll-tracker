@@ -1,0 +1,16 @@
+{
+  "id": "insideradvantage-2026-09-21-fl-senate-special",
+  "raceId": "2026-fl-senate-special",
+  "pollster": "InsiderAdvantage",
+  "startDate": "2026-09-20",
+  "endDate": "2026-09-21",
+  "sampleSize": 600,
+  "population": "LV",
+  "marginOfError": 4,
+  "url": "https://insideradvantage.com/insideradvantage-florida-u-s-senate-survey-moody-leads-nixon-by-7/",
+  "sample": false,
+  "results": [
+    { "candidateId": "fl-senate-ashley-moody", "percent": 49 },
+    { "candidateId": "fl-senate-angie-nixon", "percent": 42 }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "dccc-2026-07-30-ky-house-6",
+  "raceId": "2026-ky-house-6",
+  "pollster": "DCCC",
+  "sponsor": "Democratic Congressional Campaign Committee",
+  "startDate": "2026-07-29",
+  "endDate": "2026-07-30",
+  "sampleSize": 474,
+  "population": "likely voters",
+  "marginOfError": 4.5,
+  "url": "http://ec4.arcamax.com/politics/politicalnews/s-4270795",
+  "sample": false,
+  "results": [
+    { "candidateId": "ky-house-6-ralph-alvarado", "percent": 47 },
+    { "candidateId": "ky-house-6-zach-dembo", "percent": 47 }
+  ]
+}

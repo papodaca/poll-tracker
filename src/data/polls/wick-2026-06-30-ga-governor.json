@@ -1,0 +1,22 @@
+{
+  "id": "wick-2026-06-30-ga-governor",
+  "raceId": "2026-ga-governor",
+  "pollster": "Wick",
+  "startDate": "2026-06-27",
+  "endDate": "2026-06-30",
+  "sampleSize": 1175,
+  "population": "likely voters",
+  "marginOfError": 2.9,
+  "url": "https://wick.io/research-georgia-election-survey-june-2026",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ga-governor-rick-jackson",
+      "percent": 43.2
+    },
+    {
+      "candidateId": "ga-governor-keisha-lance-bottoms",
+      "percent": 42.7
+    }
+  ]
+}

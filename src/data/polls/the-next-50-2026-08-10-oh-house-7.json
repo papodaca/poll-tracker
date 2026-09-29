@@ -1,0 +1,16 @@
+{
+  "id": "the-next-50-2026-08-10-oh-house-7",
+  "raceId": "2026-oh-house-7",
+  "pollster": "The Next 50",
+  "startDate": "2026-08-07",
+  "endDate": "2026-08-10",
+  "sampleSize": 866,
+  "population": "likely voters",
+  "marginOfError": 3.7,
+  "url": "https://data.ddhq.io/polls/2026/08/12/Bedrock-Polling/The-Next-50/Iron-Workers-International-Ohio--7-2026-08-07-2026-08-10",
+  "sample": false,
+  "results": [
+    { "candidateId": "oh-house-7-max-miller", "percent": 35 },
+    { "candidateId": "oh-house-7-brian-poindexter", "percent": 43 }
+  ]
+}

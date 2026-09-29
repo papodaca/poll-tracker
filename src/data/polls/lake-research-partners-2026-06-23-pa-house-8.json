@@ -1,0 +1,14 @@
+{
+  "id": "lake-research-partners-2026-06-23-pa-house-8",
+  "raceId": "2026-pa-house-8",
+  "pollster": "Lake Research Partners",
+  "sponsor": "House Majority PAC",
+  "startDate": "2026-06-18",
+  "endDate": "2026-06-23",
+  "url": "https://www.thehousemajoritypac.com/news/hmp-poll-paige-cognetti-leads-rob-bresnahan-in-pa-08",
+  "sample": false,
+  "results": [
+    { "candidateId": "pa-house-8-paige-cognetti", "percent": 47 },
+    { "candidateId": "pa-house-8-rob-bresnahan", "percent": 45 }
+  ]
+}

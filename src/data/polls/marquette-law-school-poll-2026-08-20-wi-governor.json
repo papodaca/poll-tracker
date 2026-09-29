@@ -1,0 +1,16 @@
+{
+  "id": "marquette-law-school-poll-2026-08-20-wi-governor",
+  "raceId": "2026-wi-governor",
+  "pollster": "Marquette Law School Poll",
+  "startDate": "2026-08-12",
+  "endDate": "2026-08-20",
+  "sampleSize": 738,
+  "population": "likely voters",
+  "marginOfError": 4.5,
+  "url": "https://law.marquette.edu/poll/2026/08/26/marquette-law-poll-finds-crowley-leading-tiffany-among-likely-voters-tied-among-all-registered-voters/",
+  "sample": false,
+  "results": [
+    { "candidateId": "wi-governor-tom-tiffany", "percent": 44 },
+    { "candidateId": "wi-governor-david-crowley", "percent": 49 }
+  ]
+}

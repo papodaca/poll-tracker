@@ -1,0 +1,16 @@
+{
+  "id": "jl-partners-2026-08-17-ny-house-21",
+  "raceId": "2026-ny-house-21",
+  "pollster": "J.L. Partners",
+  "startDate": "2026-08-15",
+  "endDate": "2026-08-17",
+  "sampleSize": 500,
+  "population": "likely general election voters",
+  "marginOfError": 4.4,
+  "url": "https://wnyt.com/top-stories/new-poll-shows-constantino-leading-gendebien-in-ny-21/",
+  "sample": false,
+  "results": [
+    { "candidateId": "ny-house-21-anthony-constantino", "percent": 50 },
+    { "candidateId": "ny-house-21-blake-gendebien", "percent": 40 }
+  ]
+}

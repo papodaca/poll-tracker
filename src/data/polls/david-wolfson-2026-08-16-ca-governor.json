@@ -1,0 +1,22 @@
+{
+  "id": "david-wolfson-2026-08-16-ca-governor",
+  "raceId": "2026-ca-governor",
+  "pollster": "David Wolfson",
+  "sponsor": "Steve Hilton for Governor",
+  "startDate": "2026-08-14",
+  "endDate": "2026-08-16",
+  "sampleSize": 912,
+  "population": "registered voters",
+  "url": "https://www.newsweek.com/steve-hilton-vs-becerra-latest-california-polls-midterms-12456366",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ca-governor-xavier-becerra",
+      "percent": 49.2
+    },
+    {
+      "candidateId": "ca-governor-steve-hilton",
+      "percent": 41
+    }
+  ]
+}

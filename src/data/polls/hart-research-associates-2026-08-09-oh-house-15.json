@@ -1,0 +1,16 @@
+{
+  "id": "hart-research-associates-2026-08-09-oh-house-15",
+  "raceId": "2026-oh-house-15",
+  "pollster": "Hart Research Associates",
+  "startDate": "2026-08-06",
+  "endDate": "2026-08-09",
+  "sampleSize": 401,
+  "population": "likely 2026 voters",
+  "url": "https://data.ddhq.io/polls/2026/08/17/Hart-Research-Associates-Ohio--15",
+  "sample": false,
+  "results": [
+    { "candidateId": "oh-house-15-don-leonard", "percent": 37 },
+    { "candidateId": "oh-house-15-mike-carey", "percent": 41 },
+    { "candidateId": "oh-house-15-brennan-barrington", "percent": 10 }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "public-policy-polling-2026-09-02-ne-governor",
+  "raceId": "2026-ne-governor",
+  "pollster": "Public Policy Polling",
+  "startDate": "2026-09-01",
+  "endDate": "2026-09-02",
+  "sampleSize": 559,
+  "population": "registered voters",
+  "marginOfError": 4.1,
+  "url": "https://democraticgovernors.org/wp-content/uploads/2026/09/PPP-Sept-2026-Poll-Memo.docx.pdf",
+  "sample": false,
+  "results": [
+    { "candidateId": "ne-governor-jim-pillen", "percent": 32 },
+    { "candidateId": "ne-governor-lynne-walz", "percent": 31 },
+    { "candidateId": "ne-governor-brett-lindstrom", "percent": 10 },
+    { "candidateId": "ne-governor-rick-beard", "percent": 7 }
+  ]
+}

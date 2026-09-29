@@ -1,0 +1,14 @@
+{
+  "id": "tulchin-research-2026-08-02-nc-house-3",
+  "raceId": "2026-nc-house-3",
+  "pollster": "Tulchin Research",
+  "sponsor": "House Majority PAC",
+  "startDate": "2026-07-27",
+  "endDate": "2026-08-02",
+  "url": "https://www.thehousemajoritypac.com/news/hmp-memo-polling-shows-path-to-a-larger-democratic-majority-exists-with-necessary-funding",
+  "sample": false,
+  "results": [
+    { "candidateId": "nc-house-3-raymond-smith-jr", "percent": 41 },
+    { "candidateId": "nc-house-3-greg-murphy", "percent": 44 }
+  ]
+}

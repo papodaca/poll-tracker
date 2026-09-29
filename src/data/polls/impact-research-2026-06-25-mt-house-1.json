@@ -1,0 +1,13 @@
+{
+  "id": "impact-research-2026-06-25-mt-house-1",
+  "raceId": "2026-mt-house-1",
+  "pollster": "Impact Research",
+  "startDate": "2026-06-22",
+  "endDate": "2026-06-25",
+  "url": "https://www.thehousemajoritypac.com/news/hmp-memo-polling-shows-path-to-a-larger-democratic-majority-exists-with-necessary-funding",
+  "sample": false,
+  "results": [
+    { "candidateId": "mt-house-1-sam-forstag", "percent": 44 },
+    { "candidateId": "mt-house-1-aaron-flint", "percent": 44 }
+  ]
+}

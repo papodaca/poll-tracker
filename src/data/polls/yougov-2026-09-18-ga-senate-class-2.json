@@ -1,0 +1,16 @@
+{
+  "id": "yougov-2026-09-18-ga-senate-class-2",
+  "raceId": "2026-ga-senate-class-2",
+  "pollster": "YouGov",
+  "startDate": "2026-09-15",
+  "endDate": "2026-09-18",
+  "sampleSize": 3447,
+  "population": "registered voters",
+  "marginOfError": 2.7,
+  "url": "https://www.fox5atlanta.com/news/new-2026-georgia-poll-ossoff-leads-senate-race-governor-race-tied",
+  "sample": false,
+  "results": [
+    { "candidateId": "ga-senate-jon-ossoff", "percent": 51 },
+    { "candidateId": "ga-senate-mike-collins", "percent": 41 }
+  ]
+}

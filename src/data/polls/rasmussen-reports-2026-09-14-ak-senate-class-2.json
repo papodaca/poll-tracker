@@ -1,0 +1,18 @@
+{
+  "id": "rasmussen-reports-2026-09-14-ak-senate-class-2",
+  "raceId": "2026-ak-senate-class-2",
+  "pollster": "Rasmussen Reports",
+  "startDate": "2026-09-13",
+  "endDate": "2026-09-14",
+  "sampleSize": 1188,
+  "population": "Likely Voters",
+  "marginOfError": 3,
+  "url": "https://www.rasmussenreports.com/public_content/politics/elections/election_2026/election_2026_alaska_senate",
+  "sample": false,
+  "results": [
+    { "candidateId": "ak-senate-dan-sullivan", "percent": 39 },
+    { "candidateId": "ak-senate-mary-peltola", "percent": 39 },
+    { "candidateId": "ak-senate-daniel-j-sullivan-jr", "percent": 7 },
+    { "candidateId": "ak-senate-gerald-heikes", "percent": 6 }
+  ]
+}

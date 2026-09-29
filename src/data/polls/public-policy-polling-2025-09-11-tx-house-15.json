@@ -1,0 +1,16 @@
+{
+  "id": "public-policy-polling-2025-09-11-tx-house-15",
+  "raceId": "2026-tx-house-15",
+  "pollster": "Public Policy Polling",
+  "sponsor": "House Majority PAC",
+  "startDate": "2025-09-10",
+  "endDate": "2025-09-11",
+  "sampleSize": 533,
+  "population": "voters",
+  "url": "https://www.documentcloud.org/documents/26100755-tx15results1/",
+  "sample": false,
+  "results": [
+    { "candidateId": "tx-house-15-bobby-pulido", "percent": 38 },
+    { "candidateId": "tx-house-15-monica-de-la-cruz", "percent": 41 }
+  ]
+}

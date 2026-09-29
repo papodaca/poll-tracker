@@ -1,0 +1,19 @@
+{
+  "id": "bullfinch-group-2026-08-03-il-house-4",
+  "raceId": "2026-il-house-4",
+  "pollster": "The Bullfinch Group",
+  "sponsor": "The Independent Center",
+  "startDate": "2026-07-31",
+  "endDate": "2026-08-03",
+  "sampleSize": 653,
+  "population": "registered voters",
+  "marginOfError": 3.8,
+  "url": "https://independentcentervoice.com/insights/july-2026-district-survey-illinoiss-4th-congressional-district",
+  "sample": false,
+  "results": [
+    { "candidateId": "il-house-4-patty-garcia", "percent": 34 },
+    { "candidateId": "il-house-4-lupe-castillo", "percent": 15 },
+    { "candidateId": "il-house-4-chris-getty", "percent": 9 },
+    { "candidateId": "il-house-4-ed-hershey", "percent": 4 }
+  ]
+}

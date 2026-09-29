@@ -1,0 +1,23 @@
+{
+  "id": "beacon-research-shaw-company-2026-08-10-oh-senate-special",
+  "raceId": "2026-oh-senate-special",
+  "pollster": "Beacon Research / Shaw & Company Research",
+  "sponsor": "Fox News",
+  "startDate": "2026-08-06",
+  "endDate": "2026-08-10",
+  "sampleSize": 1008,
+  "population": "registered voters",
+  "marginOfError": 3,
+  "url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/fox_august-6-10-2026_ohio_topline_august-13-release.pdf",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "oh-senate-sherrod-brown",
+      "percent": 53
+    },
+    {
+      "candidateId": "oh-senate-jon-husted",
+      "percent": 45
+    }
+  ]
+}

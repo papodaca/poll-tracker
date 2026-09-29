@@ -1,0 +1,17 @@
+{
+  "id": "public-policy-polling-2026-07-18-fl-house-8",
+  "raceId": "2026-fl-house-8",
+  "pollster": "Public Policy Polling",
+  "sponsor": "Jennifer Jenkins' congressional campaign",
+  "startDate": "2026-07-17",
+  "endDate": "2026-07-18",
+  "sampleSize": 633,
+  "population": "registered voters",
+  "marginOfError": 3.9,
+  "url": "https://thespacecoastrocket.com/jenkins-haridopolos-fl8-poll-2026/",
+  "sample": false,
+  "results": [
+    { "candidateId": "fl-house-8-mike-haridopolos", "percent": 44 },
+    { "candidateId": "fl-house-8-jennifer-jenkins", "percent": 35 }
+  ]
+}

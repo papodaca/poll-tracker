@@ -1,0 +1,16 @@
+{
+  "id": "public-policy-polling-2025-10-15-az-house-6",
+  "raceId": "2026-az-house-6",
+  "pollster": "Public Policy Polling",
+  "sponsor": "House Majority PAC",
+  "startDate": "2025-10-14",
+  "endDate": "2025-10-15",
+  "sampleSize": 581,
+  "population": "voters",
+  "url": "https://data.ddhq.io/polls/2025/10/20/Public%20Policy%20Polling/House%20Majority%20PAC-Arizona-%206-2025-10-14-2025-10-15",
+  "sample": false,
+  "results": [
+    { "candidateId": "az-house-6-joanna-mendoza", "percent": 42 },
+    { "candidateId": "az-house-6-juan-ciscomani", "percent": 41 }
+  ]
+}

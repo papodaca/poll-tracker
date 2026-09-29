@@ -1,0 +1,15 @@
+{
+  "id": "peter-crosby-for-congress-2026-09-10-ut-house-2",
+  "raceId": "2026-ut-house-2",
+  "pollster": "Peter Crosby for Congress",
+  "sponsor": "Peter Crosby for Congress",
+  "startDate": "2026-09-08",
+  "endDate": "2026-09-10",
+  "population": "registered voters",
+  "url": "https://data.ddhq.io/polls/2026/09/16/Peter-Crosby/Peter-Crosby-for-Congress-Utah-2026-09-08-2026-09-10",
+  "sample": false,
+  "results": [
+    { "candidateId": "ut-house-2-blake-moore", "percent": 32.4 },
+    { "candidateId": "ut-house-2-peter-crosby", "percent": 30.71 }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "gbao-strategies-2026-06-01-mi-house-4",
+  "raceId": "2026-mi-house-4",
+  "pollster": "GBAO Strategies",
+  "sponsor": "Sean McCann's campaign",
+  "startDate": "2026-05-28",
+  "endDate": "2026-06-01",
+  "population": "likely 2026 general election voters",
+  "marginOfError": 4.4,
+  "url": "https://wkzo.com/2026/06/09/937600/",
+  "sample": false,
+  "results": [
+    { "candidateId": "mi-house-4-sean-mccann", "percent": 48 },
+    { "candidateId": "mi-house-4-bill-huizenga", "percent": 45 }
+  ]
+}

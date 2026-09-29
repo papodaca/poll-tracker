@@ -1,0 +1,23 @@
+{
+  "id": "emerson-college-2026-09-14-mi-governor",
+  "raceId": "2026-mi-governor",
+  "pollster": "Emerson College Polling",
+  "sponsor": "Nexstar Media",
+  "startDate": "2026-09-12",
+  "endDate": "2026-09-14",
+  "sampleSize": 1000,
+  "population": "likely voters",
+  "marginOfError": 3,
+  "url": "https://emersoncollegepolling.com/michigan-2026-poll-el-sayed-and-rogers-locked-in-close-election/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-governor-jocelyn-benson",
+      "percent": 49
+    },
+    {
+      "candidateId": "mi-governor-john-james",
+      "percent": 42
+    }
+  ]
+}

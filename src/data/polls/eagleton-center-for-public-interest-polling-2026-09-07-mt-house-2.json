@@ -1,0 +1,18 @@
+{
+  "id": "eagleton-center-for-public-interest-polling-2026-09-07-mt-house-2",
+  "raceId": "2026-mt-house-2",
+  "pollster": "Eagleton Center for Public Interest Polling",
+  "sponsor": "Montana Free Press",
+  "startDate": "2026-08-27",
+  "endDate": "2026-09-07",
+  "population": "registered voters",
+  "marginOfError": 5.8,
+  "url": "https://montanafreepress.org/2026/09/15/downing-favorite-eastern-house-district/",
+  "sample": false,
+  "results": [
+    { "candidateId": "mt-house-2-troy-downing", "percent": 48 },
+    { "candidateId": "mt-house-2-brian-miller", "percent": 26 },
+    { "candidateId": "mt-house-2-michael-eisenhauer", "percent": 9 },
+    { "candidateId": "mt-house-2-patrick-mccracken", "percent": 5 }
+  ]
+}

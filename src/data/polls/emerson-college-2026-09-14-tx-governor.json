@@ -1,0 +1,18 @@
+{
+  "id": "emerson-college-2026-09-14-tx-governor",
+  "raceId": "2026-tx-governor",
+  "pollster": "Emerson College Polling",
+  "sponsor": "Nexstar Media",
+  "startDate": "2026-09-12",
+  "endDate": "2026-09-14",
+  "sampleSize": 1000,
+  "population": "likely voters",
+  "marginOfError": 3,
+  "url": "https://emersoncollegepolling.com/texas-2026-poll-talarico-and-paxton-in-dead-heat-abbott-maintains-edge/",
+  "sample": false,
+  "results": [
+    { "candidateId": "tx-governor-greg-abbott", "percent": 49 },
+    { "candidateId": "tx-governor-gina-hinojosa", "percent": 46 },
+    { "candidateId": "tx-governor-pat-dixon", "percent": 2 }
+  ]
+}

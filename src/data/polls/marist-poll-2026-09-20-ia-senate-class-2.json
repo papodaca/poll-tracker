@@ -1,0 +1,16 @@
+{
+  "id": "marist-poll-2026-09-20-ia-senate-class-2",
+  "raceId": "2026-ia-senate-class-2",
+  "pollster": "Marist Poll",
+  "startDate": "2026-09-17",
+  "endDate": "2026-09-20",
+  "sampleSize": 1050,
+  "population": "registered voters",
+  "marginOfError": 4.4,
+  "url": "https://maristpoll.marist.edu/polls/2026-midterm-elections-in-iowa-september-2026/",
+  "sample": false,
+  "results": [
+    { "candidateId": "ia-senate-josh-turek", "percent": 50 },
+    { "candidateId": "ia-senate-ashley-hinson", "percent": 42 }
+  ]
+}

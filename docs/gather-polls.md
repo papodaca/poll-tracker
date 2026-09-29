@@ -12,7 +12,7 @@ Instructions for an agent adding polls to this repo. The site only stores what y
 
 Work Senate, then governor, then House. The file is already in that order. Do not add or remove rows.
 
-`lastUpdated` is null until you save that race. When you save it, set `lastUpdated` to the current UTC time, such as `2026-09-28T23:05:00Z`.
+`lastUpdated` is null until that race is saved. When it is saved, set `lastUpdated` to the current UTC time, such as `2026-09-28T23:05:00Z`.
 
 List the races that still need a pass. That is every row whose `lastUpdated` is null or older than 23 hours:
 
@@ -23,7 +23,17 @@ jq '[.[] | select(
 )]' docs/races-2026.json
 ```
 
-Take the first race from that list, gather it, save its files, and set its `lastUpdated`. Then run the filter again. Stop when the filter returns `[]`.
+One manager keeps five gatherers working. The manager does not search or write poll files. The manager assigns race ids and writes `lastUpdated`.
+
+Each gatherer gets the next 20 open races that no running gatherer already has. Open means the filter above, in file order. If fewer than 20 are left, assign those.
+
+A gatherer writes the candidate and poll files for its races. It does not edit `docs/races-2026.json`. It runs `npm run check` and fixes only files it added. It reports one line per race id, either the poll ids it wrote or `no public poll`. A race with no public poll is finished. Say a race could not be finished only when a page that might hold the toplines did not open.
+
+When a gatherer returns, the manager sets `lastUpdated` on every race that gatherer finished, including races with no public poll. Use one current UTC timestamp for that batch. Leave `lastUpdated` null when the gatherer could not finish it. That id stays at the top of the filter for the next assignment.
+
+Then the manager starts one new gatherer with the next unassigned open races, so five stay running. Do not start a gatherer when every remaining open id is already assigned.
+
+Stop when the filter returns `[]`. Do not commit unless asked.
 
 Regenerate the list after a roster change. Existing `lastUpdated` timestamps stay put.
 
@@ -120,9 +130,3 @@ Set `sample` to `false` for a real poll. Omit `sponsor`, `sampleSize`, `populati
 `results` follow the source table from top to bottom. Copy each percent as printed, including decimals. The total does not have to reach 100. Include each named candidate the table lists. Omit undecided, other, and refused. Do not allocate those shares onto the candidates.
 
 The district in a House poll has to match `district` on the race. Pennsylvania 7 is not Pennsylvania 17. An at-large state uses `house-at-large`, not district 1.
-
-## After each race
-
-Set that race's `lastUpdated` in `docs/races-2026.json` to the current UTC time before you move on. Do this even when the search finds no polls.
-
-Run `npm run check`. Fix a failing file before starting the next race. Do not commit unless you were asked to commit. Then run the filter again and take the next race.

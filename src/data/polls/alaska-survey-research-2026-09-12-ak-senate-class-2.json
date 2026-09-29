@@ -1,0 +1,18 @@
+{
+  "id": "alaska-survey-research-2026-09-12-ak-senate-class-2",
+  "raceId": "2026-ak-senate-class-2",
+  "pollster": "Alaska Survey Research",
+  "startDate": "2026-09-10",
+  "endDate": "2026-09-12",
+  "sampleSize": 1352,
+  "population": "likely voters",
+  "marginOfError": 3,
+  "url": "https://www.findglocal.com/US/Anchorage/585549851597652/Alaska-Survey-Research",
+  "sample": false,
+  "results": [
+    { "candidateId": "ak-senate-mary-peltola", "percent": 48.4 },
+    { "candidateId": "ak-senate-dan-sullivan", "percent": 43.8 },
+    { "candidateId": "ak-senate-gerald-heikes", "percent": 4 },
+    { "candidateId": "ak-senate-daniel-j-sullivan-jr", "percent": 3.7 }
+  ]
+}

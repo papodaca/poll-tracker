@@ -1,0 +1,16 @@
+{
+  "id": "public-policy-polling-2025-08-09-va-house-1",
+  "raceId": "2026-va-house-1",
+  "pollster": "Public Policy Polling",
+  "sponsor": "House Majority PAC",
+  "startDate": "2025-08-08",
+  "endDate": "2025-08-09",
+  "sampleSize": 541,
+  "population": "VA CD 1 voters",
+  "url": "https://data.ddhq.io/polls/2025/09/08/Public%20Policy%20Polling/House%20Majority%20PAC-Virginia-%201-2025-08-08-2025-08-09",
+  "sample": false,
+  "results": [
+    { "candidateId": "va-house-1-shannon-taylor", "percent": 40 },
+    { "candidateId": "va-house-1-rob-wittman", "percent": 41 }
+  ]
+}

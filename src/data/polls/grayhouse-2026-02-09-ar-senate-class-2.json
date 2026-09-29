@@ -1,0 +1,17 @@
+{
+  "id": "grayhouse-2026-02-09-ar-senate-class-2",
+  "raceId": "2026-ar-senate-class-2",
+  "pollster": "GrayHouse",
+  "sponsor": "America One Policies",
+  "startDate": "2026-02-07",
+  "endDate": "2026-02-09",
+  "sampleSize": 550,
+  "population": "likely general election voters",
+  "marginOfError": 4.2,
+  "url": "https://www.grayhouse.com/post/ar-senate",
+  "sample": false,
+  "results": [
+    { "candidateId": "ar-senate-tom-cotton", "percent": 58 },
+    { "candidateId": "ar-senate-hallie-shoffner", "percent": 36 }
+  ]
+}

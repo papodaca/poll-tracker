@@ -1,0 +1,16 @@
+{
+  "id": "impact-research-2026-06-25-al-house-2",
+  "raceId": "2026-al-house-2",
+  "pollster": "Impact Research",
+  "sponsor": "DCCC",
+  "startDate": "2026-06-22",
+  "endDate": "2026-06-25",
+  "sampleSize": 400,
+  "population": "likely voters",
+  "url": "https://aldailynews.com/democratic-poll-shows-potential-tight-race-in-al-2/",
+  "sample": false,
+  "results": [
+    { "candidateId": "al-house-2-rhett-marques", "percent": 45 },
+    { "candidateId": "al-house-2-shomari-figures", "percent": 44 }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "washington-post-schar-school-2026-09-14-mi-governor",
+  "raceId": "2026-mi-governor",
+  "pollster": "Washington Post-Schar School",
+  "startDate": "2026-09-10",
+  "endDate": "2026-09-14",
+  "sampleSize": 803,
+  "population": "LV",
+  "marginOfError": 3.9,
+  "url": "https://www.washingtonpost.com/documents/08fa9b5e-43ac-456c-a706-4c33ec6506dc.pdf?itid=lk_inline_manual_2",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-governor-jocelyn-benson",
+      "percent": 53
+    },
+    {
+      "candidateId": "mi-governor-john-james",
+      "percent": 41
+    }
+  ]
+}

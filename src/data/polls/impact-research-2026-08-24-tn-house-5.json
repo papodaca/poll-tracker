@@ -1,0 +1,15 @@
+{
+  "id": "impact-research-2026-08-24-tn-house-5",
+  "raceId": "2026-tn-house-5",
+  "pollster": "Impact Research",
+  "sponsor": "Chaz Molder",
+  "startDate": "2026-08-19",
+  "endDate": "2026-08-24",
+  "population": "LV",
+  "url": "https://hhrphoenix.com/2026/09/01/a-pile-of-tuesday-polls/",
+  "sample": false,
+  "results": [
+    { "candidateId": "tn-house-5-charles-hatcher", "percent": 48 },
+    { "candidateId": "tn-house-5-chaz-molder", "percent": 40 }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "suffolk-university-2026-09-20-mi-governor",
+  "raceId": "2026-mi-governor",
+  "pollster": "Suffolk University",
+  "startDate": "2026-09-16",
+  "endDate": "2026-09-20",
+  "sampleSize": 500,
+  "population": "likely voters",
+  "marginOfError": 4.4,
+  "url": "https://www.suffolk.edu/-/media/suffolk/documents/academics/research-at-suffolk/suprc/polls/other-states/2026/9_22_2026_michigan_press_release.pdf",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-governor-jocelyn-benson",
+      "percent": 51
+    },
+    {
+      "candidateId": "mi-governor-john-james",
+      "percent": 34
+    },
+    {
+      "candidateId": "mi-governor-douglas-campbell",
+      "percent": 2
+    },
+    {
+      "candidateId": "mi-governor-anthony-hudson",
+      "percent": 1
+    }
+  ]
+}

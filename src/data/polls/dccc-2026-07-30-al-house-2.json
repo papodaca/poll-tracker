@@ -1,0 +1,17 @@
+{
+  "id": "dccc-2026-07-30-al-house-2",
+  "raceId": "2026-al-house-2",
+  "pollster": "DCCC",
+  "sponsor": "DCCC",
+  "startDate": "2026-07-29",
+  "endDate": "2026-07-30",
+  "sampleSize": 421,
+  "population": "likely general election voters",
+  "marginOfError": 4.8,
+  "url": "https://dccc.org/wp-content/uploads/2026/08/DCCC-Polling-Memo-Rep.-Shomari-Figures-in-Toss-Up-Race-in-AL-02.pdf",
+  "sample": false,
+  "results": [
+    { "candidateId": "al-house-2-shomari-figures", "percent": 46 },
+    { "candidateId": "al-house-2-rhett-marques", "percent": 46 }
+  ]
+}

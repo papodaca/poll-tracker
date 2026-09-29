@@ -1,0 +1,16 @@
+{
+  "id": "bendixen-amandi-international-2026-08-30-fl-house-27",
+  "raceId": "2026-fl-house-27",
+  "pollster": "Bendixen & Amandi International",
+  "sponsor": "Eliott Rodríguez campaign",
+  "startDate": "2026-08-25",
+  "endDate": "2026-08-30",
+  "sampleSize": 600,
+  "population": "likely voters",
+  "url": "https://thefloridapundit.com/2026/09/15/eliott-rodriguez-maria-elvira-salazar-cd27-poll/",
+  "sample": false,
+  "results": [
+    { "candidateId": "fl-house-27-eliott-rodriguez", "percent": 45 },
+    { "candidateId": "fl-house-27-maria-elvira-salazar", "percent": 45 }
+  ]
+}

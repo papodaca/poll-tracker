@@ -1,0 +1,16 @@
+{
+  "id": "ragnar-research-partners-2026-03-16-wi-house-1",
+  "raceId": "2026-wi-house-1",
+  "pollster": "Ragnar Research Partners",
+  "startDate": "2026-03-14",
+  "endDate": "2026-03-16",
+  "sampleSize": 400,
+  "population": "Likely Voters",
+  "marginOfError": 5,
+  "url": "https://punchbowl.news/wp-content/uploads/RSC_WI-CD-1_Benchmark_MQ_v1.0_260316.pdf",
+  "sample": false,
+  "results": [
+    { "candidateId": "wi-house-1-bryan-steil", "percent": 50 },
+    { "candidateId": "wi-house-1-mitchell-berman", "percent": 41 }
+  ]
+}

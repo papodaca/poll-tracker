@@ -1,0 +1,17 @@
+{
+  "id": "change-research-2026-03-20-wi-house-6",
+  "raceId": "2026-wi-house-6",
+  "pollster": "Change Research",
+  "sponsor": "Independent Candidate Action",
+  "startDate": "2026-03-17",
+  "endDate": "2026-03-20",
+  "sampleSize": 640,
+  "population": "likely voters",
+  "marginOfError": 4.2,
+  "url": "https://docs.google.com/document/d/1dnBCsEXvbRIp-ClNd2SWrMKJ4r_6fxM7AEB7C-Iicno/",
+  "sample": false,
+  "results": [
+    { "candidateId": "wi-house-6-glenn-grothman", "percent": 42 },
+    { "candidateId": "wi-house-6-mike-thurow", "percent": 38 }
+  ]
+}

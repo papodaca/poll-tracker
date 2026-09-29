@@ -1,0 +1,16 @@
+{
+  "id": "university-of-new-hampshire-2026-02-16-me-house-2",
+  "raceId": "2026-me-house-2",
+  "pollster": "University of New Hampshire Survey Center",
+  "startDate": "2026-02-12",
+  "endDate": "2026-02-16",
+  "sampleSize": 521,
+  "population": "likely voters in the 2026 General Election",
+  "marginOfError": 4.3,
+  "url": "https://scholars.unh.edu/cgi/viewcontent.cgi?article=1929&context=survey_center_polls",
+  "sample": false,
+  "results": [
+    { "candidateId": "me-house-2-matthew-dunlap", "percent": 46 },
+    { "candidateId": "me-house-2-paul-lepage", "percent": 47 }
+  ]
+}

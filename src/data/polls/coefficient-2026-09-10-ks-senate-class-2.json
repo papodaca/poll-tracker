@@ -1,0 +1,17 @@
+{
+  "id": "coefficient-2026-09-10-ks-senate-class-2",
+  "raceId": "2026-ks-senate-class-2",
+  "pollster": "co/efficient",
+  "startDate": "2026-09-08",
+  "endDate": "2026-09-10",
+  "sampleSize": 915,
+  "population": "likely general election voters",
+  "marginOfError": 3.22,
+  "url": "https://battlegrounds.coefficient.org/ks/",
+  "sample": false,
+  "results": [
+    { "candidateId": "ks-senate-roger-marshall", "percent": 49 },
+    { "candidateId": "ks-senate-adam-hamilton", "percent": 44 },
+    { "candidateId": "ks-senate-david-graham", "percent": 2 }
+  ]
+}

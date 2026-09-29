@@ -1,0 +1,18 @@
+{
+  "id": "eagleton-center-for-public-interest-polling-2026-09-07-mt-house-1",
+  "raceId": "2026-mt-house-1",
+  "pollster": "Eagleton Center for Public Interest Polling",
+  "sponsor": "Montana Free Press",
+  "startDate": "2026-08-27",
+  "endDate": "2026-09-07",
+  "sampleSize": 375,
+  "population": "registered voters",
+  "marginOfError": 6.0,
+  "url": "https://montanafreepress.org/2026/09/14/flint-forstag-in-dead-heat-for-house-seat/",
+  "sample": false,
+  "results": [
+    { "candidateId": "mt-house-1-aaron-flint", "percent": 42 },
+    { "candidateId": "mt-house-1-sam-forstag", "percent": 41 },
+    { "candidateId": "mt-house-1-nick-sheedy", "percent": 5 }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "university-of-new-hampshire-survey-center-2026-07-20-vt-house-at-large",
+  "raceId": "2026-vt-house-at-large",
+  "pollster": "University of New Hampshire Survey Center",
+  "startDate": "2026-07-15",
+  "endDate": "2026-07-20",
+  "sampleSize": 954,
+  "population": "likely general election voters",
+  "marginOfError": 3.2,
+  "url": "https://scholars.unh.edu/cgi/viewcontent.cgi?article=1981&context=survey_center_polls",
+  "sample": false,
+  "results": [
+    { "candidateId": "vt-house-becca-balint", "percent": 63 },
+    { "candidateId": "vt-house-gerald-malloy", "percent": 25 },
+    { "candidateId": "vt-house-adam-ortiz", "percent": 2 }
+  ]
+}

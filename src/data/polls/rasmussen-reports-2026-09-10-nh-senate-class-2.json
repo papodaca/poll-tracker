@@ -1,0 +1,42 @@
+{
+  "id": "rasmussen-reports-2026-09-10-nh-senate-class-2",
+  "raceId": "2026-nh-senate-class-2",
+  "pollster": "Rasmussen Reports",
+  "startDate": "2026-09-08",
+  "endDate": "2026-09-10",
+  "sampleSize": 1000,
+  "population": "Likely Voters",
+  "marginOfError": 2,
+  "url": "https://www.rasmussenreports.com/public_content/politics/elections/election_2026/election_2026_new_hampshire_senate",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nh-senate-chris-pappas",
+      "percent": 45
+    },
+    {
+      "candidateId": "nh-senate-john-e-sununu",
+      "percent": 34
+    },
+    {
+      "candidateId": "nh-senate-edmond-laplante",
+      "percent": 2
+    },
+    {
+      "candidateId": "nh-senate-aaron-day",
+      "percent": 4
+    },
+    {
+      "candidateId": "nh-senate-tim-harris",
+      "percent": 4
+    },
+    {
+      "candidateId": "nh-senate-christine-lopez",
+      "percent": 2
+    },
+    {
+      "candidateId": "nh-senate-jeanne-logan-morrow",
+      "percent": 1
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "ragnar-research-partners-2026-03-12-nc-house-10",
+  "raceId": "2026-nc-house-10",
+  "pollster": "Ragnar Research Partners",
+  "startDate": "2026-03-10",
+  "endDate": "2026-03-12",
+  "sampleSize": 400,
+  "population": "Likely Voters (LVs)",
+  "marginOfError": 5,
+  "url": "https://punchbowl.news/wp-content/uploads/CFA_NC-CD-10_Benchmark_Analysis_v1.0_260320.pdf",
+  "sample": false,
+  "results": [
+    { "candidateId": "nc-house-10-pat-harrigan", "percent": 52 },
+    { "candidateId": "nc-house-10-ashley-bell", "percent": 37 }
+  ]
+}

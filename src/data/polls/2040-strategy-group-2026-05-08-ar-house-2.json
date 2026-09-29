@@ -1,0 +1,17 @@
+{
+  "id": "2040-strategy-group-2026-05-08-ar-house-2",
+  "raceId": "2026-ar-house-2",
+  "pollster": "2040 Strategy Group",
+  "sponsor": "Chris Jones for Arkansas",
+  "startDate": "2026-04-28",
+  "endDate": "2026-05-08",
+  "sampleSize": 660,
+  "population": "Likely voters",
+  "marginOfError": 3.5,
+  "url": "https://data.ddhq.io/polls/2026/08/05/2040-Strategy-Group/Chris-Jones-Arkansas--2-2026-04-28-2026-05-08",
+  "sample": false,
+  "results": [
+    { "candidateId": "ar-house-2-chris-jones", "percent": 46 },
+    { "candidateId": "ar-house-2-french-hill", "percent": 43 }
+  ]
+}

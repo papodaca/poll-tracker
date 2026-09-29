@@ -1,0 +1,17 @@
+{
+  "id": "coefficient-2026-04-29-nc-house-1",
+  "raceId": "2026-nc-house-1",
+  "pollster": "co/efficient",
+  "sponsor": "National Republican Congressional Committee",
+  "startDate": "2026-04-25",
+  "endDate": "2026-04-29",
+  "sampleSize": 842,
+  "population": "likely general election voters",
+  "marginOfError": 3.37,
+  "url": "https://www.nrcc.org/wp-content/uploads/2026/05/NRCC-NC-01-Survey-Memo-1.pdf",
+  "sample": false,
+  "results": [
+    { "candidateId": "nc-house-1-laurie-buckhout", "percent": 41 },
+    { "candidateId": "nc-house-1-don-davis", "percent": 41 }
+  ]
+}

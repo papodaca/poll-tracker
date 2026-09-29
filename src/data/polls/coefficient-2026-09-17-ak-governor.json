@@ -1,0 +1,30 @@
+{
+  "id": "coefficient-2026-09-17-ak-governor",
+  "raceId": "2026-ak-governor",
+  "pollster": "co/efficient",
+  "startDate": "2026-09-14",
+  "endDate": "2026-09-17",
+  "sampleSize": 799,
+  "population": "likely general election voters",
+  "marginOfError": 3.45,
+  "url": "https://battlegrounds.coefficient.org/ak/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ak-governor-jonathan-kreiss-tomkins",
+      "percent": 43
+    },
+    {
+      "candidateId": "ak-governor-bernadette-wilson",
+      "percent": 20
+    },
+    {
+      "candidateId": "ak-governor-dave-bronson",
+      "percent": 17
+    },
+    {
+      "candidateId": "ak-governor-treg-taylor",
+      "percent": 6
+    }
+  ]
+}

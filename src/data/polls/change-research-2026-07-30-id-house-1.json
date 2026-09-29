@@ -1,0 +1,17 @@
+{
+  "id": "change-research-2026-07-30-id-house-1",
+  "raceId": "2026-id-house-1",
+  "pollster": "Change Research",
+  "sponsor": "Stegner for Idaho",
+  "startDate": "2026-07-28",
+  "endDate": "2026-07-30",
+  "population": "Likely Voters",
+  "url": "https://data.ddhq.io/polls/2026/08/13/Change-Research/John-Stegner-Idaho-2026-07-28-2026-07-30",
+  "sample": false,
+  "results": [
+    { "candidateId": "id-house-1-russ-fulcher", "percent": 48 },
+    { "candidateId": "id-house-1-kaylee-peterson", "percent": 27 },
+    { "candidateId": "id-house-1-sarah-zabel", "percent": 5 },
+    { "candidateId": "id-house-1-brendan-gomez", "percent": 0 }
+  ]
+}

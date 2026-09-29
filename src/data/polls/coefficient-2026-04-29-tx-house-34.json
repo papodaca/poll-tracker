@@ -1,0 +1,17 @@
+{
+  "id": "coefficient-2026-04-29-tx-house-34",
+  "raceId": "2026-tx-house-34",
+  "pollster": "co/efficient",
+  "sponsor": "NRCC",
+  "startDate": "2026-04-25",
+  "endDate": "2026-04-29",
+  "sampleSize": 777,
+  "population": "likely general election voters",
+  "marginOfError": 3.5,
+  "url": "https://www.nrcc.org/wp-content/uploads/2026/05/NRCC-TX-34-Survey-Memo-1.pdf",
+  "sample": false,
+  "results": [
+    { "candidateId": "tx-house-34-eric-flores", "percent": 41 },
+    { "candidateId": "tx-house-34-vicente-gonzalez", "percent": 40 }
+  ]
+}

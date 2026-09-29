@@ -1,0 +1,17 @@
+{
+  "id": "bullfinch-group-2026-07-16-ca-house-6",
+  "raceId": "2026-ca-house-6",
+  "pollster": "The Bullfinch Group",
+  "sponsor": "Independent Center Voice",
+  "startDate": "2026-07-13",
+  "endDate": "2026-07-16",
+  "sampleSize": 741,
+  "population": "Likely 2026 General Voters",
+  "marginOfError": 3.59,
+  "url": "https://data.ddhq.io/polls/2026/07/28/The-Bullfinch-Group/Independent-Center-Voice-California--6-2026-07-13-2026-07-16",
+  "sample": false,
+  "results": [
+    { "candidateId": "ca-house-6-kevin-kiley", "percent": 35 },
+    { "candidateId": "ca-house-6-richard-pan", "percent": 39 }
+  ]
+}

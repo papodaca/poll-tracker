@@ -1,0 +1,20 @@
+{
+  "id": "unh-survey-center-2026-09-24-ma-governor",
+  "raceId": "2026-ma-governor",
+  "pollster": "UNH Survey Center",
+  "startDate": "2026-09-24",
+  "endDate": "2026-09-24",
+  "population": "likely voters",
+  "url": "https://hoodline.com/2026/09/minogue-narrows-gap-on-healey-in-new-poll-but-governor-still-holds-edge/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ma-governor-maura-healey",
+      "percent": 54
+    },
+    {
+      "candidateId": "ma-governor-mike-minogue",
+      "percent": 38
+    }
+  ]
+}

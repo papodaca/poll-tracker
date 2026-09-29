@@ -1,0 +1,16 @@
+{
+  "id": "wick-2026-06-30-ga-senate-class-2",
+  "raceId": "2026-ga-senate-class-2",
+  "pollster": "Wick",
+  "startDate": "2026-06-27",
+  "endDate": "2026-06-30",
+  "sampleSize": 1175,
+  "population": "likely voters",
+  "marginOfError": 2.9,
+  "url": "https://wick.io/research-georgia-election-survey-june-2026",
+  "sample": false,
+  "results": [
+    { "candidateId": "ga-senate-mike-collins", "percent": 42.9 },
+    { "candidateId": "ga-senate-jon-ossoff", "percent": 46.7 }
+  ]
+}

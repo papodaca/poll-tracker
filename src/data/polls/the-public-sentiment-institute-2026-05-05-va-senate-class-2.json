@@ -1,0 +1,26 @@
+{
+  "id": "the-public-sentiment-institute-2026-05-05-va-senate-class-2",
+  "raceId": "2026-va-senate-class-2",
+  "pollster": "The Public Sentiment Institute",
+  "sponsor": "The Virginia Project",
+  "startDate": "2026-05-01",
+  "endDate": "2026-05-05",
+  "sampleSize": 1047,
+  "population": "likely voters",
+  "url": "https://tpsiofficial.substack.com/p/the-virginia-project-the-public-sentiment",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "va-senate-mark-warner",
+      "percent": 54.6
+    },
+    {
+      "candidateId": "va-senate-bert-mizusawa",
+      "percent": 28.8
+    },
+    {
+      "candidateId": "va-senate-mark-moran",
+      "percent": 2.6
+    }
+  ]
+}

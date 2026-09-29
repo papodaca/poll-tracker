@@ -1,0 +1,17 @@
+{
+  "id": "emerson-college-2026-07-10-wa-house-3",
+  "raceId": "2026-wa-house-3",
+  "pollster": "Emerson College Polling",
+  "sponsor": "Northwest Progressive Institute",
+  "startDate": "2026-07-08",
+  "endDate": "2026-07-10",
+  "sampleSize": 500,
+  "population": "likely November 2026 voters",
+  "marginOfError": 4.4,
+  "url": "https://www.nwprogressive.org/weblog/2026/07/wa-03-is-still-washingtons-tossup-district-marie-gluesenkamp-perez-and-john-braun-are-tied-ahead-of-2026-top-two-election.html",
+  "sample": false,
+  "results": [
+    { "candidateId": "wa-house-3-john-braun", "percent": 43 },
+    { "candidateId": "wa-house-3-marie-gluesenkamp-perez", "percent": 42 }
+  ]
+}

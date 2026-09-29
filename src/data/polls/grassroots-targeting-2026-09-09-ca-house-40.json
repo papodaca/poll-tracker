@@ -1,0 +1,16 @@
+{
+  "id": "grassroots-targeting-2026-09-09-ca-house-40",
+  "raceId": "2026-ca-house-40",
+  "pollster": "Grassroots Targeting",
+  "sponsor": "California First Fund",
+  "startDate": "2026-09-05",
+  "endDate": "2026-09-09",
+  "sampleSize": 715,
+  "population": "likely voters",
+  "url": "https://data.ddhq.io/polls/2026/09/17/Grassroots-Targeting/Young-Kim-California--40-2026-09-05-2026-09-09",
+  "sample": false,
+  "results": [
+    { "candidateId": "ca-house-40-young-kim", "percent": 43 },
+    { "candidateId": "ca-house-40-ken-calvert", "percent": 34 }
+  ]
+}

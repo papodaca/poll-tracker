@@ -1,0 +1,16 @@
+{
+  "id": "hart-research-associates-2026-08-15-sc-governor",
+  "raceId": "2026-sc-governor",
+  "pollster": "Hart Research Associates",
+  "startDate": "2026-08-12",
+  "endDate": "2026-08-15",
+  "sampleSize": 600,
+  "population": "likely voters",
+  "marginOfError": 4,
+  "url": "https://data.ddhq.io/polls/2026/09/04/Hart-Research-Associates/Jermaine-Johnson-South-Carolina-2026-08-12-2026-08-15",
+  "sample": false,
+  "results": [
+    { "candidateId": "sc-governor-jermaine-johnson", "percent": 41 },
+    { "candidateId": "sc-governor-alan-wilson", "percent": 48 }
+  ]
+}

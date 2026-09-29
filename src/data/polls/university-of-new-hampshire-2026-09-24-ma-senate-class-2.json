@@ -1,0 +1,23 @@
+{
+  "id": "university-of-new-hampshire-2026-09-24-ma-senate-class-2",
+  "raceId": "2026-ma-senate-class-2",
+  "pollster": "University of New Hampshire Survey Center",
+  "startDate": "2026-09-24",
+  "endDate": "2026-09-24",
+  "url": "https://ballot-access.org/2026/09/25/new-poll-shows-massachusetts-top-two-initiative-is-barely-ahead/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ma-senate-ed-markey",
+      "percent": 53
+    },
+    {
+      "candidateId": "ma-senate-john-deaton",
+      "percent": 30
+    },
+    {
+      "candidateId": "ma-senate-joe-tache",
+      "percent": 9
+    }
+  ]
+}

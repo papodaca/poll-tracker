@@ -1,0 +1,17 @@
+{
+  "id": "franklin-and-marshall-college-2026-09-20-pa-house-7",
+  "raceId": "2026-pa-house-7",
+  "pollster": "Franklin & Marshall College",
+  "sponsor": "Brett Harwood",
+  "startDate": "2026-09-09",
+  "endDate": "2026-09-20",
+  "sampleSize": 357,
+  "population": "Registered Voters",
+  "marginOfError": 5.8,
+  "url": "https://data.ddhq.io/polls/2026/09/24/Franklin-&-Marshall-College-Center-for-Opinion-Research-Pennsylvania--7",
+  "sample": false,
+  "results": [
+    { "candidateId": "pa-house-7-bob-brooks", "percent": 41 },
+    { "candidateId": "pa-house-7-ryan-mackenzie", "percent": 37 }
+  ]
+}

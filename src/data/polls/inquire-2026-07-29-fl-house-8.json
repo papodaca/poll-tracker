@@ -1,0 +1,16 @@
+{
+  "id": "inquire-2026-07-29-fl-house-8",
+  "raceId": "2026-fl-house-8",
+  "pollster": "Inquire",
+  "startDate": "2026-07-27",
+  "endDate": "2026-07-29",
+  "sampleSize": 300,
+  "population": "likely November 2026 general election voters",
+  "marginOfError": 5.7,
+  "url": "https://data.ddhq.io/polls/2026/07/31/Inquire/Mike-Haridopolos-Florida--8-2026-07-27-2026-07-29",
+  "sample": false,
+  "results": [
+    { "candidateId": "fl-house-8-mike-haridopolos", "percent": 51 },
+    { "candidateId": "fl-house-8-jennifer-jenkins", "percent": 42 }
+  ]
+}

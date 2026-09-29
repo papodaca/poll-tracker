@@ -1,0 +1,16 @@
+{
+  "id": "tavern-research-2026-05-28-wi-house-6",
+  "raceId": "2026-wi-house-6",
+  "pollster": "Tavern Research",
+  "startDate": "2026-05-18",
+  "endDate": "2026-05-28",
+  "sampleSize": 437,
+  "population": "likely voters",
+  "marginOfError": 6.0,
+  "url": "https://242750075.fs1.hubspotusercontent-na2.net/hubfs/242750075/WI-06%20Toplines.pdf",
+  "sample": false,
+  "results": [
+    { "candidateId": "wi-house-6-glenn-grothman", "percent": 61 },
+    { "candidateId": "wi-house-6-brad-smith", "percent": 39 }
+  ]
+}

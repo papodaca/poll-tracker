@@ -1,0 +1,17 @@
+{
+  "id": "lake-research-partners-2026-07-19-ca-house-11",
+  "raceId": "2026-ca-house-11",
+  "pollster": "Lake Research Partners",
+  "sponsor": "Chan's campaign",
+  "startDate": "2026-07-14",
+  "endDate": "2026-07-19",
+  "sampleSize": 500,
+  "population": "likely voters",
+  "marginOfError": 4.4,
+  "url": "https://missionlocal.org/2026/07/wiener-chan-tight-race-congress-polls/",
+  "sample": false,
+  "results": [
+    { "candidateId": "ca-house-11-scott-wiener", "percent": 45 },
+    { "candidateId": "ca-house-11-connie-chan", "percent": 40 }
+  ]
+}

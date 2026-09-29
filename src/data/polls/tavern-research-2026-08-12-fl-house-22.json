@@ -1,0 +1,13 @@
+{
+  "id": "tavern-research-2026-08-12-fl-house-22",
+  "raceId": "2026-fl-house-22",
+  "pollster": "Tavern Research",
+  "startDate": "2026-08-10",
+  "endDate": "2026-08-12",
+  "url": "https://www.thehousemajoritypac.com/news/hmp-memo-polling-shows-path-to-a-larger-democratic-majority-exists-with-necessary-funding",
+  "sample": false,
+  "results": [
+    { "candidateId": "fl-house-22-pia-dandiya", "percent": 50 },
+    { "candidateId": "fl-house-22-casey-askar", "percent": 50 }
+  ]
+}

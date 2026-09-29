@@ -1,0 +1,16 @@
+{
+  "id": "tavern-research-2026-05-25-wa-house-5",
+  "raceId": "2026-wa-house-5",
+  "pollster": "Tavern Research",
+  "startDate": "2026-05-18",
+  "endDate": "2026-05-25",
+  "sampleSize": 578,
+  "population": "likely voters",
+  "marginOfError": 5.6,
+  "url": "https://242750075.fs1.hubspotusercontent-na2.net/hubfs/242750075/WA-05%20Crosstabs%20-%20Contours%20-%20WA5%2020260518_133809.pdf",
+  "sample": false,
+  "results": [
+    { "candidateId": "wa-house-5-michael-baumgartner", "percent": 53 },
+    { "candidateId": "wa-house-5-carmela-conroy", "percent": 47 }
+  ]
+}

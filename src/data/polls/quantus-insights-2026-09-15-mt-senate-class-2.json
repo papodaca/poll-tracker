@@ -1,0 +1,17 @@
+{
+  "id": "quantus-insights-2026-09-15-mt-senate-class-2",
+  "raceId": "2026-mt-senate-class-2",
+  "pollster": "Quantus Insights",
+  "startDate": "2026-09-14",
+  "endDate": "2026-09-15",
+  "sampleSize": 625,
+  "population": "likely Montana voters",
+  "marginOfError": 4.2,
+  "url": "https://www.breitbart.com/politics/2026/09/17/exclusive-poll-republican-kurt-alme-holds-19-point-lead-montana-senate-race/",
+  "sample": false,
+  "results": [
+    { "candidateId": "mt-senate-kurt-alme", "percent": 43.6 },
+    { "candidateId": "mt-senate-seth-bodnar", "percent": 24.3 },
+    { "candidateId": "mt-senate-alani-bankhead", "percent": 23.1 }
+  ]
+}

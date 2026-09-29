@@ -1,0 +1,14 @@
+{
+  "id": "tulchin-research-2026-06-21-ca-house-22",
+  "raceId": "2026-ca-house-22",
+  "pollster": "Tulchin Research",
+  "sponsor": "House Majority PAC",
+  "startDate": "2026-06-15",
+  "endDate": "2026-06-21",
+  "url": "https://data.ddhq.io/polls/2026/07/21/Tulchin-Research/House-Majority-PAC-California--22-2026-06-15-2026-06-21",
+  "sample": false,
+  "results": [
+    { "candidateId": "ca-house-22-randy-villegas", "percent": 48 },
+    { "candidateId": "ca-house-22-david-valadao", "percent": 44 }
+  ]
+}

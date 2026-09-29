@@ -1,0 +1,14 @@
+{
+  "id": "lake-research-partners-2026-08-23-ky-house-6",
+  "raceId": "2026-ky-house-6",
+  "pollster": "Lake Research Partners",
+  "sponsor": "House Majority PAC",
+  "startDate": "2026-08-17",
+  "endDate": "2026-08-23",
+  "url": "https://www.thehousemajoritypac.com/news/hmp-memo-polling-shows-path-to-a-larger-democratic-majority-exists-with-necessary-funding",
+  "sample": false,
+  "results": [
+    { "candidateId": "ky-house-6-zach-dembo", "percent": 45 },
+    { "candidateId": "ky-house-6-ralph-alvarado", "percent": 44 }
+  ]
+}

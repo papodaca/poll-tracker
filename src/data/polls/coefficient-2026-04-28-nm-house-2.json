@@ -1,0 +1,17 @@
+{
+  "id": "coefficient-2026-04-28-nm-house-2",
+  "raceId": "2026-nm-house-2",
+  "pollster": "co/efficient",
+  "sponsor": "NRCC",
+  "startDate": "2026-04-26",
+  "endDate": "2026-04-28",
+  "sampleSize": 879,
+  "population": "likely general election voters",
+  "marginOfError": 3.29,
+  "url": "https://www.nrcc.org/wp-content/uploads/2026/05/NRCC-NM-02-Survey-Memo-1.pdf",
+  "sample": false,
+  "results": [
+    { "candidateId": "nm-house-2-greg-cunningham", "percent": 41 },
+    { "candidateId": "nm-house-2-gabe-vasquez", "percent": 43 }
+  ]
+}

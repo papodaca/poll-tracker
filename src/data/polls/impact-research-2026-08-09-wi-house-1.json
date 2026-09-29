@@ -1,0 +1,16 @@
+{
+  "id": "impact-research-2026-08-09-wi-house-1",
+  "raceId": "2026-wi-house-1",
+  "pollster": "Impact Research",
+  "startDate": "2026-08-06",
+  "endDate": "2026-08-09",
+  "sampleSize": 400,
+  "population": "likely 2026 general election voters",
+  "marginOfError": 4.9,
+  "url": "https://data.ddhq.io/polls/2026/08/13/Impact-Research/Mitchell-Berman-Wisconsin--1-2026-08-06-2026-08-09",
+  "sample": false,
+  "results": [
+    { "candidateId": "wi-house-1-mitchell-berman", "percent": 48 },
+    { "candidateId": "wi-house-1-bryan-steil", "percent": 49 }
+  ]
+}

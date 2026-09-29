@@ -1,0 +1,14 @@
+{
+  "id": "abacus-data-2026-08-28-sc-senate-class-2",
+  "raceId": "2026-sc-senate-class-2",
+  "pollster": "Abacus Data",
+  "startDate": "2026-08-26",
+  "endDate": "2026-08-28",
+  "population": "likely voters",
+  "url": "https://data.ddhq.io/polls/2026/09/02/Abacus-Data-South-Carolina",
+  "sample": false,
+  "results": [
+    { "candidateId": "sc-senate-darline-graham", "percent": 55 },
+    { "candidateId": "sc-senate-annie-andrews", "percent": 42 }
+  ]
+}

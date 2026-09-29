@@ -1,0 +1,26 @@
+{
+  "id": "texas-southern-university-2026-09-18-tx-senate-class-2",
+  "raceId": "2026-tx-senate-class-2",
+  "pollster": "Texas Southern University",
+  "startDate": "2026-09-11",
+  "endDate": "2026-09-18",
+  "sampleSize": 1800,
+  "population": "likely voters",
+  "marginOfError": 2.3,
+  "url": "https://thetexan.news/elections/2026/tsu-poll-talarico-keeps-narrow-lead-over-paxton-french-loses-ground-after-controversy/article_0ae268f5-58b1-4575-9570-b626677505b4.html",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-senate-james-talarico",
+      "percent": 47
+    },
+    {
+      "candidateId": "tx-senate-ken-paxton",
+      "percent": 46
+    },
+    {
+      "candidateId": "tx-senate-ted-brown",
+      "percent": 3
+    }
+  ]
+}

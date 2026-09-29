@@ -1,0 +1,23 @@
+{
+  "id": "emerson-college-2026-09-14-mi-senate-class-2",
+  "raceId": "2026-mi-senate-class-2",
+  "pollster": "Emerson College Polling",
+  "sponsor": "Nexstar Media",
+  "startDate": "2026-09-12",
+  "endDate": "2026-09-14",
+  "sampleSize": 1000,
+  "population": "likely voters",
+  "marginOfError": 3,
+  "url": "https://emersoncollegepolling.com/michigan-2026-poll-el-sayed-and-rogers-locked-in-close-election/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-senate-abdul-el-sayed",
+      "percent": 48
+    },
+    {
+      "candidateId": "mi-senate-mike-rogers",
+      "percent": 46
+    }
+  ]
+}

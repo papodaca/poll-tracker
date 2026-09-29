@@ -1,0 +1,17 @@
+{
+  "id": "applecart-2026-05-25-tx-house-15",
+  "raceId": "2026-tx-house-15",
+  "pollster": "Applecart",
+  "sponsor": "WelcomePAC",
+  "startDate": "2026-05-18",
+  "endDate": "2026-05-25",
+  "sampleSize": 802,
+  "population": "likely voters",
+  "marginOfError": 4.1,
+  "url": "https://welcome.team/press-releases/Blog%20Post%20Title%20One-3zaa9-zlxng-67tfc-2sf8d",
+  "sample": false,
+  "results": [
+    { "candidateId": "tx-house-15-bobby-pulido", "percent": 48 },
+    { "candidateId": "tx-house-15-monica-de-la-cruz", "percent": 46 }
+  ]
+}

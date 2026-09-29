@@ -1,0 +1,23 @@
+{
+  "id": "fabrizio-ward-impact-research-2026-07-16-ga-governor",
+  "raceId": "2026-ga-governor",
+  "pollster": "Fabrizio Ward / Impact Research",
+  "sponsor": "AARP",
+  "startDate": "2026-07-13",
+  "endDate": "2026-07-16",
+  "sampleSize": 1060,
+  "population": "likely voters",
+  "marginOfError": 3,
+  "url": "https://www.aarp.org/press/releases/2026-07-22-new-aarp-georgia-poll-older-voters-poised-to-decide-tight-governor-senate-races.html",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ga-governor-keisha-lance-bottoms",
+      "percent": 48
+    },
+    {
+      "candidateId": "ga-governor-rick-jackson",
+      "percent": 46
+    }
+  ]
+}

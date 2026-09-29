@@ -1,0 +1,16 @@
+{
+  "id": "public-policy-polling-2025-11-21-mi-house-4",
+  "raceId": "2026-mi-house-4",
+  "pollster": "Public Policy Polling",
+  "startDate": "2025-11-20",
+  "endDate": "2025-11-21",
+  "sampleSize": 559,
+  "population": "registered voters",
+  "marginOfError": 4.1,
+  "url": "https://seanmccannforcongress.com/new-poll-bill-huizenga-and-sean-mccann-in-statistical-dead-heat-in-battleground-mi-04/",
+  "sample": false,
+  "results": [
+    { "candidateId": "mi-house-4-sean-mccann", "percent": 42 },
+    { "candidateId": "mi-house-4-bill-huizenga", "percent": 44 }
+  ]
+}

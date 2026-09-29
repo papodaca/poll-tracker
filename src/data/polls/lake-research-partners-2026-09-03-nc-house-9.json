@@ -1,0 +1,16 @@
+{
+  "id": "lake-research-partners-2026-09-03-nc-house-9",
+  "raceId": "2026-nc-house-9",
+  "pollster": "Lake Research Partners",
+  "startDate": "2026-08-31",
+  "endDate": "2026-09-03",
+  "sampleSize": 400,
+  "population": "likely 2026 general election voters",
+  "marginOfError": 4.9,
+  "url": "https://data.ddhq.io/polls/2026/09/17/Lake-Research-Partners-North-Carolina--9",
+  "sample": false,
+  "results": [
+    { "candidateId": "nc-house-9-richard-ojeda", "percent": 42 },
+    { "candidateId": "nc-house-9-richard-hudson", "percent": 46 }
+  ]
+}

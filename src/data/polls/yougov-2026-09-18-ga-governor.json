@@ -1,0 +1,22 @@
+{
+  "id": "yougov-2026-09-18-ga-governor",
+  "raceId": "2026-ga-governor",
+  "pollster": "YouGov",
+  "startDate": "2026-09-15",
+  "endDate": "2026-09-18",
+  "sampleSize": 3447,
+  "population": "registered voters",
+  "marginOfError": 2.7,
+  "url": "https://www.fox5atlanta.com/news/new-2026-georgia-poll-ossoff-leads-senate-race-governor-race-tied",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ga-governor-rick-jackson",
+      "percent": 45
+    },
+    {
+      "candidateId": "ga-governor-keisha-lance-bottoms",
+      "percent": 44
+    }
+  ]
+}

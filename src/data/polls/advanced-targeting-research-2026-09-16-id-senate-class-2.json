@@ -1,0 +1,17 @@
+{
+  "id": "advanced-targeting-research-2026-09-16-id-senate-class-2",
+  "raceId": "2026-id-senate-class-2",
+  "pollster": "Advanced Targeting Research",
+  "startDate": "2026-09-13",
+  "endDate": "2026-09-16",
+  "sampleSize": 700,
+  "population": "registered voters",
+  "marginOfError": 3.7,
+  "url": "https://data.ddhq.io/polls/2026/09/18/Advanced-Targeting-Research-Idaho",
+  "sample": false,
+  "results": [
+    { "candidateId": "id-senate-todd-achilles", "percent": 45.5 },
+    { "candidateId": "id-senate-jim-risch", "percent": 39.4 },
+    { "candidateId": "id-senate-matt-loesby", "percent": 4.5 }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "wedgewood-polls-2026-07-12-nv-house-2",
+  "raceId": "2026-nv-house-2",
+  "pollster": "Wedgewood Polls",
+  "startDate": "2026-07-09",
+  "endDate": "2026-07-12",
+  "sampleSize": 350,
+  "population": "likely voters",
+  "marginOfError": 5.2,
+  "url": "https://data.ddhq.io/polls/2026/07/13/Wedgewood-Polls-Nevada--2",
+  "sample": false,
+  "results": [
+    { "candidateId": "nv-house-2-teresa-benitez-thompson", "percent": 48 },
+    { "candidateId": "nv-house-2-david-flippo", "percent": 46 }
+  ]
+}

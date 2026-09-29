@@ -1,0 +1,22 @@
+{
+  "id": "university-of-new-hampshire-2026-07-20-me-senate-class-2",
+  "raceId": "2026-me-senate-class-2",
+  "pollster": "University of New Hampshire Survey Center",
+  "startDate": "2026-07-15",
+  "endDate": "2026-07-20",
+  "sampleSize": 1178,
+  "population": "likely general election voters",
+  "marginOfError": 2.9,
+  "url": "https://scholars.unh.edu/cgi/viewcontent.cgi?article=1980&context=survey_center_polls",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "me-senate-susan-collins",
+      "percent": 46
+    },
+    {
+      "candidateId": "me-senate-troy-jackson",
+      "percent": 49
+    }
+  ]
+}

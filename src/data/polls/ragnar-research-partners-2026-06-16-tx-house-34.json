@@ -1,0 +1,15 @@
+{
+  "id": "ragnar-research-partners-2026-06-16-tx-house-34",
+  "raceId": "2026-tx-house-34",
+  "pollster": "Ragnar Research Partners",
+  "startDate": "2026-06-14",
+  "endDate": "2026-06-16",
+  "sampleSize": 400,
+  "population": "likely voters",
+  "url": "https://www.ellisinsight.com/house/examining-redistrictings-impact-on-elections-in-california-texas/",
+  "sample": false,
+  "results": [
+    { "candidateId": "tx-house-34-eric-flores", "percent": 44 },
+    { "candidateId": "tx-house-34-vicente-gonzalez", "percent": 41 }
+  ]
+}

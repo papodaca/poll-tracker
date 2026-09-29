@@ -1,0 +1,18 @@
+{
+  "id": "alaska-survey-research-2026-08-05-ak-house-at-large",
+  "raceId": "2026-ak-house-at-large",
+  "pollster": "Alaska Survey Research",
+  "startDate": "2026-08-02",
+  "endDate": "2026-08-05",
+  "sampleSize": 1371,
+  "population": "likely general election voters",
+  "marginOfError": 3,
+  "url": "https://www.findglocal.com/US/Anchorage/585549851597652/Alaska-Survey-Research",
+  "sample": false,
+  "results": [
+    { "candidateId": "ak-house-nick-begich", "percent": 47.9 },
+    { "candidateId": "ak-house-bill-hill", "percent": 33.2 },
+    { "candidateId": "ak-house-eric-hafner", "percent": 14.7 },
+    { "candidateId": "ak-house-clay-strickland", "percent": 4.2 }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "global-strategy-group-2026-07-21-co-house-5",
+  "raceId": "2026-co-house-5",
+  "pollster": "Global Strategy Group",
+  "sponsor": "Jessica Killin's campaign",
+  "startDate": "2026-07-16",
+  "endDate": "2026-07-21",
+  "sampleSize": 450,
+  "population": "likely 2026 voters",
+  "marginOfError": 4.6,
+  "url": "https://coloradosun.com/2026/07/28/jessica-killin-jeff-crank-polling/",
+  "sample": false,
+  "results": [
+    { "candidateId": "co-house-5-jeff-crank", "percent": 45 },
+    { "candidateId": "co-house-5-jessica-killin", "percent": 44 }
+  ]
+}

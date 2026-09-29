@@ -1,0 +1,16 @@
+{
+  "id": "ragnar-research-partners-2026-03-12-va-house-1",
+  "raceId": "2026-va-house-1",
+  "pollster": "Ragnar Research Partners",
+  "startDate": "2026-03-10",
+  "endDate": "2026-03-12",
+  "sampleSize": 400,
+  "population": "Likely Voters",
+  "marginOfError": 5,
+  "url": "https://data.ddhq.io/polls/2026/04/30/Ragnar-Research-Partners/Conservatives-for-America-Virginia--1-2026-03-10-2026-03-12",
+  "sample": false,
+  "results": [
+    { "candidateId": "va-house-1-rob-wittman", "percent": 46 },
+    { "candidateId": "va-house-1-shannon-taylor", "percent": 42 }
+  ]
+}

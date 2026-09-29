@@ -1,0 +1,14 @@
+{
+  "id": "fm3-research-2026-07-01-ny-house-17",
+  "raceId": "2026-ny-house-17",
+  "pollster": "FM3 Research",
+  "sponsor": "House Majority PAC",
+  "startDate": "2026-06-27",
+  "endDate": "2026-07-01",
+  "url": "https://data.ddhq.io/polls/2026/07/08/FM3-Research/House-Majority-PAC-New-York--17-2026-06-27-2026-07-01",
+  "sample": false,
+  "results": [
+    { "candidateId": "ny-house-17-cait-conley", "percent": 51 },
+    { "candidateId": "ny-house-17-mike-lawler", "percent": 45 }
+  ]
+}

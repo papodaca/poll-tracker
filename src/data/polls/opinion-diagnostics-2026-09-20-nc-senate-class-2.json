@@ -1,0 +1,23 @@
+{
+  "id": "opinion-diagnostics-2026-09-20-nc-senate-class-2",
+  "raceId": "2026-nc-senate-class-2",
+  "pollster": "Opinion Diagnostics",
+  "sponsor": "Common Cause North Carolina",
+  "startDate": "2026-09-17",
+  "endDate": "2026-09-20",
+  "sampleSize": 857,
+  "population": "likely 2026 general election voters",
+  "marginOfError": 3.3,
+  "url": "https://www.commoncause.org/north-carolina/press/2026_poll_1/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nc-senate-roy-cooper",
+      "percent": 51
+    },
+    {
+      "candidateId": "nc-senate-michael-whatley",
+      "percent": 41
+    }
+  ]
+}

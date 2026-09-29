@@ -1,0 +1,17 @@
+{
+  "id": "public-opinion-strategies-2026-08-20-ca-house-40",
+  "raceId": "2026-ca-house-40",
+  "pollster": "Public Opinion Strategies",
+  "sponsor": "Young Kim for Congress",
+  "startDate": "2026-08-17",
+  "endDate": "2026-08-20",
+  "sampleSize": 400,
+  "population": "likely voters",
+  "marginOfError": 4.9,
+  "url": "https://data.ddhq.io/polls/2026/09/10/Public-Opinion-Strategies/Young-Kim-California--40-2026-08-17-2026-08-20",
+  "sample": false,
+  "results": [
+    { "candidateId": "ca-house-40-young-kim", "percent": 34 },
+    { "candidateId": "ca-house-40-ken-calvert", "percent": 35 }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "stimsight-research-2026-09-12-nj-house-7",
+  "raceId": "2026-nj-house-7",
+  "pollster": "StimSight Research",
+  "sponsor": "Insider NJ",
+  "startDate": "2026-09-08",
+  "endDate": "2026-09-12",
+  "sampleSize": 498,
+  "population": "likely voters",
+  "marginOfError": 4.7,
+  "url": "https://data.ddhq.io/polls/2026/09/14/StimSight-Research/InsiderNJ-New-Jersey-2026-09-08-2026-09-12",
+  "sample": false,
+  "results": [
+    { "candidateId": "nj-house-7-rebecca-bennett", "percent": 47 },
+    { "candidateId": "nj-house-7-tom-kean-jr", "percent": 42 },
+    { "candidateId": "nj-house-7-seamus-patrick-otoole", "percent": 1 }
+  ]
+}

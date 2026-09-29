@@ -1,0 +1,26 @@
+{
+  "id": "hendrix-college-2026-08-12-ar-governor",
+  "raceId": "2026-ar-governor",
+  "pollster": "Hendrix College",
+  "sponsor": "Talk Business & Politics",
+  "startDate": "2026-08-11",
+  "endDate": "2026-08-12",
+  "sampleSize": 1217,
+  "population": "likely voters",
+  "url": "https://talkbusiness.net/2026/08/poll-gov-sanders-holds-lead-over-two-opponents/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ar-governor-colt-shelby",
+      "percent": 7
+    },
+    {
+      "candidateId": "ar-governor-sarah-huckabee-sanders",
+      "percent": 45
+    },
+    {
+      "candidateId": "ar-governor-fredrick-love",
+      "percent": 40
+    }
+  ]
+}

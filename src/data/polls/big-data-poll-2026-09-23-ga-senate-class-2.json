@@ -1,0 +1,16 @@
+{
+  "id": "big-data-poll-2026-09-23-ga-senate-class-2",
+  "raceId": "2026-ga-senate-class-2",
+  "pollster": "BIG DATA POLL",
+  "startDate": "2026-09-21",
+  "endDate": "2026-09-23",
+  "sampleSize": 678,
+  "population": "likely voters",
+  "marginOfError": 4,
+  "url": "https://www.bigdatapoll.com/blog/peach-state-poll-jon-ossoff-opens-up-lead-over-mike-collins-in-georgia/",
+  "sample": false,
+  "results": [
+    { "candidateId": "ga-senate-jon-ossoff", "percent": 52.2 },
+    { "candidateId": "ga-senate-mike-collins", "percent": 41 }
+  ]
+}

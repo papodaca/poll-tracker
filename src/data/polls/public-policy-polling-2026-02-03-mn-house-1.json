@@ -1,0 +1,16 @@
+{
+  "id": "public-policy-polling-2026-02-03-mn-house-1",
+  "raceId": "2026-mn-house-1",
+  "pollster": "Public Policy Polling",
+  "startDate": "2026-02-02",
+  "endDate": "2026-02-03",
+  "sampleSize": 708,
+  "population": "registered voters",
+  "marginOfError": 3.7,
+  "url": "https://www.jakejohnsonforcongress.com/ppp-poll-mn01-feb-2026.pdf",
+  "sample": false,
+  "results": [
+    { "candidateId": "mn-house-1-brad-finstad", "percent": 44 },
+    { "candidateId": "mn-house-1-jake-johnson", "percent": 41 }
+  ]
+}

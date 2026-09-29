@@ -1,0 +1,16 @@
+{
+  "id": "gqr-2026-06-28-ky-house-6",
+  "raceId": "2026-ky-house-6",
+  "pollster": "GQR",
+  "sponsor": "Dembo campaign",
+  "startDate": "2026-06-24",
+  "endDate": "2026-06-28",
+  "sampleSize": 440,
+  "population": "V",
+  "url": "https://insideelections.com/kentucky-6-new-poll-fuels-democratic-optimism/",
+  "sample": false,
+  "results": [
+    { "candidateId": "ky-house-6-ralph-alvarado", "percent": 42 },
+    { "candidateId": "ky-house-6-zach-dembo", "percent": 39 }
+  ]
+}

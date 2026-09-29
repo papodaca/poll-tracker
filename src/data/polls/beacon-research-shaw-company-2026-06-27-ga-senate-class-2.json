@@ -1,0 +1,17 @@
+{
+  "id": "beacon-research-shaw-company-2026-06-27-ga-senate-class-2",
+  "raceId": "2026-ga-senate-class-2",
+  "pollster": "Beacon Research / Shaw & Company Research",
+  "sponsor": "Fox News",
+  "startDate": "2026-06-23",
+  "endDate": "2026-06-27",
+  "sampleSize": 1002,
+  "population": "registered voters",
+  "marginOfError": 3,
+  "url": "https://www.foxnews.com/politics/fox-news-poll-early-look-georgia-senate-race",
+  "sample": false,
+  "results": [
+    { "candidateId": "ga-senate-jon-ossoff", "percent": 56 },
+    { "candidateId": "ga-senate-mike-collins", "percent": 43 }
+  ]
+}

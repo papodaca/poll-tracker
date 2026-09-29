@@ -1,0 +1,21 @@
+{
+  "id": "public-policy-institute-of-california-2026-09-10-ca-governor",
+  "raceId": "2026-ca-governor",
+  "pollster": "Public Policy Institute of California",
+  "startDate": "2026-09-04",
+  "endDate": "2026-09-10",
+  "sampleSize": 1098,
+  "population": "likely voters",
+  "url": "https://www.newsweek.com/steve-hilton-vs-becerra-latest-california-polls-midterms-12456366",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ca-governor-xavier-becerra",
+      "percent": 60
+    },
+    {
+      "candidateId": "ca-governor-steve-hilton",
+      "percent": 38
+    }
+  ]
+}

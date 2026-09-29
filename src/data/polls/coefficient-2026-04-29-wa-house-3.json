@@ -1,0 +1,17 @@
+{
+  "id": "coefficient-2026-04-29-wa-house-3",
+  "raceId": "2026-wa-house-3",
+  "pollster": "co/efficient",
+  "sponsor": "National Republican Congressional Committee",
+  "startDate": "2026-04-25",
+  "endDate": "2026-04-29",
+  "sampleSize": 982,
+  "population": "likely general election voters",
+  "marginOfError": 3.12,
+  "url": "https://www.nrcc.org/wp-content/uploads/2026/05/NRCC-WA-03-Survey-Memo-1.pdf",
+  "sample": false,
+  "results": [
+    { "candidateId": "wa-house-3-john-braun", "percent": 41 },
+    { "candidateId": "wa-house-3-marie-gluesenkamp-perez", "percent": 34 }
+  ]
+}

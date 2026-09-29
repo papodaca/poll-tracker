@@ -1,0 +1,16 @@
+{
+  "id": "pulse-decision-science-2026-06-23-tx-house-28",
+  "raceId": "2026-tx-house-28",
+  "pollster": "Pulse Decision Science",
+  "sponsor": "the Tijerina campaign",
+  "startDate": "2026-06-21",
+  "endDate": "2026-06-23",
+  "sampleSize": 400,
+  "population": "likely TX-28 general election voters",
+  "url": "https://www.ellisinsight.com/2026/07/03/",
+  "sample": false,
+  "results": [
+    { "candidateId": "tx-house-28-tano-tijerina", "percent": 46 },
+    { "candidateId": "tx-house-28-henry-cuellar", "percent": 38 }
+  ]
+}

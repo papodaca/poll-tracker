@@ -1,0 +1,17 @@
+{
+  "id": "st-pete-polls-2026-07-15-fl-house-14",
+  "raceId": "2026-fl-house-14",
+  "pollster": "St. Pete Polls",
+  "sponsor": "FloridaPolitics.com",
+  "startDate": "2026-07-14",
+  "endDate": "2026-07-15",
+  "sampleSize": 469,
+  "population": "likely voters",
+  "marginOfError": 4.5,
+  "url": "http://stpetepolls.org/files/StPetePolls_2026_CD14_July15_R6B43DK.pdf",
+  "sample": false,
+  "results": [
+    { "candidateId": "fl-house-14-mike-beltran", "percent": 37.5 },
+    { "candidateId": "fl-house-14-kathy-castor", "percent": 46.2 }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "gbao-2026-09-20-ok-house-5",
+  "raceId": "2026-ok-house-5",
+  "pollster": "GBAO",
+  "sponsor": "Jena Nelson's campaign",
+  "startDate": "2026-09-17",
+  "endDate": "2026-09-20",
+  "sampleSize": 500,
+  "population": "likely 2026 general election voters",
+  "marginOfError": 4.4,
+  "url": "https://www.the-downballot.com/p/morning-digest-the-site-of-2018s",
+  "sample": false,
+  "results": [
+    { "candidateId": "ok-house-5-stephanie-bice", "percent": 48 },
+    { "candidateId": "ok-house-5-jena-nelson", "percent": 43 }
+  ]
+}

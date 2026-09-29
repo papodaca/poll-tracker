@@ -1,0 +1,17 @@
+{
+  "id": "public-policy-polling-2026-08-19-mn-house-6",
+  "raceId": "2026-mn-house-6",
+  "pollster": "Public Policy Polling",
+  "sponsor": "Chapin campaign",
+  "startDate": "2026-08-18",
+  "endDate": "2026-08-19",
+  "sampleSize": 643,
+  "population": "CD6 voters",
+  "marginOfError": 3.9,
+  "url": "https://www.stcloudlive.com/news/local/poll-commissioned-by-chapin-campaign-shows-emmer-leading-by-10-points-in-6th-district",
+  "sample": false,
+  "results": [
+    { "candidateId": "mn-house-6-tom-emmer", "percent": 50 },
+    { "candidateId": "mn-house-6-doug-chapin", "percent": 40 }
+  ]
+}

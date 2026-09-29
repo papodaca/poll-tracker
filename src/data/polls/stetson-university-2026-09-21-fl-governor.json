@@ -1,0 +1,21 @@
+{
+  "id": "stetson-university-2026-09-21-fl-governor",
+  "raceId": "2026-fl-governor",
+  "pollster": "Stetson University",
+  "startDate": "2026-09-14",
+  "endDate": "2026-09-21",
+  "population": "likely voters",
+  "marginOfError": 4.3,
+  "url": "https://www2.stetson.edu/today/2026/09/poll-republicans-hold-double-digit-leads-in-florida-governor-u-s-senate-races/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-governor-byron-donalds",
+      "percent": 51
+    },
+    {
+      "candidateId": "fl-governor-david-jolly",
+      "percent": 39
+    }
+  ]
+}

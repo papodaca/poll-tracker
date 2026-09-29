@@ -1,0 +1,18 @@
+{
+  "id": "surveyusa-2026-08-08-ny-house-21",
+  "raceId": "2026-ny-house-21",
+  "pollster": "SurveyUSA",
+  "sponsor": "WNYT-TV",
+  "startDate": "2026-08-04",
+  "endDate": "2026-08-08",
+  "sampleSize": 612,
+  "population": "Likely Voters",
+  "marginOfError": 4.1,
+  "url": "https://data.ddhq.io/polls/2026/08/14/SurveyUSA/WNYT-New-York--21-2026-08-04-2026-08-08",
+  "sample": false,
+  "results": [
+    { "candidateId": "ny-house-21-anthony-constantino", "percent": 39 },
+    { "candidateId": "ny-house-21-blake-gendebien", "percent": 43 },
+    { "candidateId": "ny-house-21-chris-schmidt", "percent": 5 }
+  ]
+}

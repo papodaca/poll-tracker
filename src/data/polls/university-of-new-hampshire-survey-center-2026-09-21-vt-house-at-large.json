@@ -1,0 +1,15 @@
+{
+  "id": "university-of-new-hampshire-survey-center-2026-09-21-vt-house-at-large",
+  "raceId": "2026-vt-house-at-large",
+  "pollster": "University of New Hampshire Survey Center",
+  "startDate": "2026-09-17",
+  "endDate": "2026-09-21",
+  "sampleSize": 835,
+  "population": "likely voters",
+  "url": "https://vermontbiz.com/news/2026/september/25/unh-poll-janoo-edges-scott-partisan-headwinds-tighten-governors-race",
+  "sample": false,
+  "results": [
+    { "candidateId": "vt-house-becca-balint", "percent": 66 },
+    { "candidateId": "vt-house-gerald-malloy", "percent": 30 }
+  ]
+}

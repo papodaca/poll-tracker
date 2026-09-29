@@ -1,0 +1,22 @@
+{
+  "id": "coefficient-2026-09-10-ks-governor",
+  "raceId": "2026-ks-governor",
+  "pollster": "co/efficient",
+  "startDate": "2026-09-08",
+  "endDate": "2026-09-10",
+  "sampleSize": 915,
+  "population": "likely general election voters",
+  "marginOfError": 3.22,
+  "url": "https://battlegrounds.coefficient.org/ks/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ks-governor-ty-masterson",
+      "percent": 51
+    },
+    {
+      "candidateId": "ks-governor-cindy-holscher",
+      "percent": 43
+    }
+  ]
+}

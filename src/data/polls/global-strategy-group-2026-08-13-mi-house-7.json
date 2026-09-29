@@ -1,0 +1,14 @@
+{
+  "id": "global-strategy-group-2026-08-13-mi-house-7",
+  "raceId": "2026-mi-house-7",
+  "pollster": "Global Strategy Group",
+  "sponsor": "House Majority PAC",
+  "startDate": "2026-08-11",
+  "endDate": "2026-08-13",
+  "url": "https://www.thehousemajoritypac.com/news/hmp-poll-william-lawrence-leads-tom-barrett-in-mi-07",
+  "sample": false,
+  "results": [
+    { "candidateId": "mi-house-7-william-lawrence", "percent": 49 },
+    { "candidateId": "mi-house-7-tom-barrett", "percent": 47 }
+  ]
+}

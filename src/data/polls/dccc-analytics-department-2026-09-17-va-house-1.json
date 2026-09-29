@@ -1,0 +1,17 @@
+{
+  "id": "dccc-analytics-department-2026-09-17-va-house-1",
+  "raceId": "2026-va-house-1",
+  "pollster": "DCCC Analytics Department",
+  "sponsor": "DCCC",
+  "startDate": "2026-09-15",
+  "endDate": "2026-09-17",
+  "sampleSize": 519,
+  "population": "likely general election voters",
+  "marginOfError": 4.3,
+  "url": "https://dccc.org/dccc-polling-memo-va-01-is-a-dead-heat/",
+  "sample": false,
+  "results": [
+    { "candidateId": "va-house-1-shannon-taylor", "percent": 46 },
+    { "candidateId": "va-house-1-rob-wittman", "percent": 47 }
+  ]
+}

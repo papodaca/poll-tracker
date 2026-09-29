@@ -1,0 +1,23 @@
+{
+  "id": "st-pete-polls-2026-09-17-fl-governor",
+  "raceId": "2026-fl-governor",
+  "pollster": "St. Pete Polls",
+  "sponsor": "Florida Politics",
+  "startDate": "2026-09-15",
+  "endDate": "2026-09-17",
+  "sampleSize": 913,
+  "population": "likely voters",
+  "marginOfError": 3.2,
+  "url": "https://stpetepolls.org/files/StPetePolls_2026_State_Gov_September17_G7V29BPN.pdf",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-governor-byron-donalds",
+      "percent": 43.5
+    },
+    {
+      "candidateId": "fl-governor-david-jolly",
+      "percent": 43.4
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "wedgewood-polls-2026-09-16-ne-senate-class-2",
+  "raceId": "2026-ne-senate-class-2",
+  "pollster": "Wedgewood Polls",
+  "sponsor": "independent election Twitter crowdfund",
+  "startDate": "2026-09-14",
+  "endDate": "2026-09-16",
+  "sampleSize": 500,
+  "population": "likely voters",
+  "marginOfError": 4.4,
+  "url": "https://data.ddhq.io/polls/2026/09/16/Wedgewood-Polls-Nebraska",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ne-senate-pete-ricketts",
+      "percent": 52
+    },
+    {
+      "candidateId": "ne-senate-dan-osborn",
+      "percent": 48
+    }
+  ]
+}

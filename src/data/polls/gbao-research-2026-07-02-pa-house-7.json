@@ -1,0 +1,14 @@
+{
+  "id": "gbao-research-2026-07-02-pa-house-7",
+  "raceId": "2026-pa-house-7",
+  "pollster": "GBAO Research",
+  "sponsor": "House Majority PAC",
+  "startDate": "2026-06-29",
+  "endDate": "2026-07-02",
+  "url": "https://www.thehousemajoritypac.com/news/hmp-poll-bob-brooks-leads-ryan-mackenzie",
+  "sample": false,
+  "results": [
+    { "candidateId": "pa-house-7-bob-brooks", "percent": 47 },
+    { "candidateId": "pa-house-7-ryan-mackenzie", "percent": 43 }
+  ]
+}

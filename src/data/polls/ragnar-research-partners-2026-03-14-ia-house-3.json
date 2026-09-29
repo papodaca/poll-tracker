@@ -1,0 +1,16 @@
+{
+  "id": "ragnar-research-partners-2026-03-14-ia-house-3",
+  "raceId": "2026-ia-house-3",
+  "pollster": "Ragnar Research Partners",
+  "startDate": "2026-03-12",
+  "endDate": "2026-03-14",
+  "sampleSize": 400,
+  "population": "Likely Voters (LVs)",
+  "marginOfError": 5,
+  "url": "https://data.ddhq.io/polls/2026/04/29/Ragnar-Research-Partners/Conservatives-for-America-Iowa--3-2026-03-12-2026-03-14",
+  "sample": false,
+  "results": [
+    { "candidateId": "ia-house-3-zach-nunn", "percent": 48 },
+    { "candidateId": "ia-house-3-sarah-trone-garriott", "percent": 42 }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "impact-research-2025-06-22-ms-senate-class-2",
+  "raceId": "2026-ms-senate-class-2",
+  "pollster": "Impact Research",
+  "sponsor": "SPLC Action Fund",
+  "startDate": "2025-06-22",
+  "endDate": "2025-06-22",
+  "sampleSize": 500,
+  "url": "https://www.splcactionfund.org/wp-content/uploads/sites/2/2026/04/2026-04-IMPACT-Baseline-MS-Statewide-Senate-GE-Bench-Apr-2026.pdf",
+  "sample": false,
+  "results": [
+    { "candidateId": "ms-senate-scott-colom", "percent": 38 },
+    { "candidateId": "ms-senate-cindy-hyde-smith", "percent": 51 }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "hendrix-college-2026-08-12-ar-senate-class-2",
+  "raceId": "2026-ar-senate-class-2",
+  "pollster": "Hendrix College",
+  "sponsor": "Talk Business & Politics",
+  "startDate": "2026-08-11",
+  "endDate": "2026-08-12",
+  "sampleSize": 1217,
+  "population": "likely voters",
+  "marginOfError": 4.7,
+  "url": "https://talkbusiness.net/2026/08/poll-tight-race-for-us-senate-between-cotton-shoffner/",
+  "sample": false,
+  "results": [
+    { "candidateId": "ar-senate-tom-cotton", "percent": 44 },
+    { "candidateId": "ar-senate-hallie-shoffner", "percent": 47.4 },
+    { "candidateId": "ar-senate-jeff-wadlin", "percent": 2.95 }
+  ]
+}

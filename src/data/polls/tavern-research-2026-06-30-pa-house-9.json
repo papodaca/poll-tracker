@@ -1,0 +1,16 @@
+{
+  "id": "tavern-research-2026-06-30-pa-house-9",
+  "raceId": "2026-pa-house-9",
+  "pollster": "Tavern Research",
+  "sponsor": "Rachel Wallace",
+  "startDate": "2026-06-30",
+  "endDate": "2026-06-30",
+  "sampleSize": 618,
+  "population": "likely voters",
+  "url": "https://politicspa.com/could-pa-09-be-an-indicator-in-the-fall/149446/",
+  "sample": false,
+  "results": [
+    { "candidateId": "pa-house-9-dan-meuser", "percent": 53 },
+    { "candidateId": "pa-house-9-rachel-wallace", "percent": 28 }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "eagleton-center-for-public-interest-polling-2026-09-07-mt-senate-class-2",
+  "raceId": "2026-mt-senate-class-2",
+  "pollster": "Eagleton Center for Public Interest Polling",
+  "sponsor": "Montana Free Press",
+  "startDate": "2026-08-27",
+  "endDate": "2026-09-07",
+  "sampleSize": 845,
+  "population": "registered voters",
+  "marginOfError": 4.2,
+  "url": "https://montanafreepress.org/2026/09/11/alme-holds-an-8-point-lead-over-bodnar-in-senate-race/",
+  "sample": false,
+  "results": [
+    { "candidateId": "mt-senate-kurt-alme", "percent": 38 },
+    { "candidateId": "mt-senate-seth-bodnar", "percent": 30 },
+    { "candidateId": "mt-senate-alani-bankhead", "percent": 16 },
+    { "candidateId": "mt-senate-kyle-austin", "percent": 5 }
+  ]
+}

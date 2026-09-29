@@ -1,0 +1,16 @@
+{
+  "id": "emerson-college-2026-03-31-fl-senate-special",
+  "raceId": "2026-fl-senate-special",
+  "pollster": "Emerson College Polling",
+  "startDate": "2026-03-29",
+  "endDate": "2026-03-31",
+  "sampleSize": 1125,
+  "population": "likely voters",
+  "marginOfError": 2.8,
+  "url": "https://emersoncollegepolling.com/florida-2026-poll/",
+  "sample": false,
+  "results": [
+    { "candidateId": "fl-senate-ashley-moody", "percent": 47 },
+    { "candidateId": "fl-senate-angie-nixon", "percent": 36 }
+  ]
+}

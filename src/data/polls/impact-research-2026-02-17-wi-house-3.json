@@ -1,0 +1,17 @@
+{
+  "id": "impact-research-2026-02-17-wi-house-3",
+  "raceId": "2026-wi-house-3",
+  "pollster": "Impact Research",
+  "sponsor": "Cooke for Congress",
+  "startDate": "2026-02-12",
+  "endDate": "2026-02-17",
+  "sampleSize": 500,
+  "population": "likely general election voters",
+  "marginOfError": 4.4,
+  "url": "https://drive.google.com/file/d/1iNmbcsNYlPvxu_q6Za5CrngdWc2u3lZ4/view",
+  "sample": false,
+  "results": [
+    { "candidateId": "wi-house-3-rebecca-cooke", "percent": 49 },
+    { "candidateId": "wi-house-3-derrick-van-orden", "percent": 48 }
+  ]
+}

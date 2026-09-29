@@ -1,0 +1,17 @@
+{
+  "id": "trafalgar-group-2026-09-18-ia-senate-class-2",
+  "raceId": "2026-ia-senate-class-2",
+  "pollster": "Trafalgar Group",
+  "startDate": "2026-09-16",
+  "endDate": "2026-09-18",
+  "sampleSize": 1089,
+  "population": "Likely General Election Voters",
+  "marginOfError": 2.9,
+  "url": "https://www.thetrafalgargroup.org/wp-content/uploads/2026/09/IA-Midterms-Full-Report-0918.pdf",
+  "sample": false,
+  "results": [
+    { "candidateId": "ia-senate-ashley-hinson", "percent": 44 },
+    { "candidateId": "ia-senate-josh-turek", "percent": 42.1 },
+    { "candidateId": "ia-senate-thomas-laehn", "percent": 3.4 }
+  ]
+}

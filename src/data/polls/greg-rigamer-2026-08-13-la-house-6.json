@@ -1,0 +1,20 @@
+{
+  "id": "greg-rigamer-2026-08-13-la-house-6",
+  "raceId": "2026-la-house-6",
+  "pollster": "Greg Rigamer",
+  "sponsor": "Alton Ashy",
+  "startDate": "2026-08-12",
+  "endDate": "2026-08-13",
+  "sampleSize": 500,
+  "population": "registered voters",
+  "marginOfError": 4.4,
+  "url": "https://www.theadvocate.com/baton_rouge/news/politics/3-democrats-think-they-can-win-gop-tilted-congressional-seat/article_d789c80e-041f-5789-9d40-154014395efc.html",
+  "sample": false,
+  "results": [
+    { "candidateId": "la-house-6-chauna-banks", "percent": 18.8 },
+    { "candidateId": "la-house-6-rick-edmonds", "percent": 15.6 },
+    { "candidateId": "la-house-6-blake-miguez", "percent": 8.6 },
+    { "candidateId": "la-house-6-pat-forbes", "percent": 8.4 },
+    { "candidateId": "la-house-6-larry-davis", "percent": 6 }
+  ]
+}

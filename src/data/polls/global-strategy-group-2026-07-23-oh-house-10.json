@@ -1,0 +1,17 @@
+{
+  "id": "global-strategy-group-2026-07-23-oh-house-10",
+  "raceId": "2026-oh-house-10",
+  "pollster": "Global Strategy Group",
+  "startDate": "2026-07-20",
+  "endDate": "2026-07-23",
+  "sampleSize": 700,
+  "population": "likely general election voters",
+  "marginOfError": 3.7,
+  "url": "https://data.ddhq.io/polls/2026/07/29/Global-Strategy-Group-Ohio--10",
+  "sample": false,
+  "results": [
+    { "candidateId": "oh-house-10-kristina-knickerbocker", "percent": 40 },
+    { "candidateId": "oh-house-10-mike-turner", "percent": 45 },
+    { "candidateId": "oh-house-10-thomas-mcmasters", "percent": 4 }
+  ]
+}

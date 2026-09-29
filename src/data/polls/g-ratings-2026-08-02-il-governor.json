@@ -1,0 +1,25 @@
+{
+  "id": "g-ratings-2026-08-02-il-governor",
+  "raceId": "2026-il-governor",
+  "pollster": "G Ratings",
+  "startDate": "2026-07-28",
+  "endDate": "2026-08-02",
+  "sampleSize": 850,
+  "population": "registered voters",
+  "url": "https://g-ratings.com/governor-general-election-illinois-august-5-2026/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "il-governor-jb-pritzker",
+      "percent": 50.6
+    },
+    {
+      "candidateId": "il-governor-darren-bailey",
+      "percent": 32.5
+    },
+    {
+      "candidateId": "il-governor-collin-corbett",
+      "percent": 3.5
+    }
+  ]
+}

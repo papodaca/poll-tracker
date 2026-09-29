@@ -1,0 +1,14 @@
+{
+  "id": "impact-research-2026-07-20-in-house-5",
+  "raceId": "2026-in-house-5",
+  "pollster": "Impact Research",
+  "sponsor": "J.D. Ford's campaign",
+  "startDate": "2026-07-16",
+  "endDate": "2026-07-20",
+  "url": "https://www.larryinfishers.com/2026/08/06/spartz-ford-5th-district-poll/",
+  "sample": false,
+  "results": [
+    { "candidateId": "in-house-5-victoria-spartz", "percent": 48 },
+    { "candidateId": "in-house-5-jd-ford", "percent": 46 }
+  ]
+}

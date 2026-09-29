@@ -1,0 +1,17 @@
+{
+  "id": "insideradvantage-2026-08-17-ga-senate-class-2",
+  "raceId": "2026-ga-senate-class-2",
+  "pollster": "InsiderAdvantage",
+  "sponsor": "James Magazine",
+  "startDate": "2026-08-16",
+  "endDate": "2026-08-17",
+  "sampleSize": 800,
+  "population": "likely voters",
+  "marginOfError": 3.46,
+  "url": "https://jamesmagazinega.com/2026/08/18/exclusive-jmo-insideradvantage-georgia-survey-ossoff-leads-jackson-lance-bottoms-tied/",
+  "sample": false,
+  "results": [
+    { "candidateId": "ga-senate-jon-ossoff", "percent": 50 },
+    { "candidateId": "ga-senate-mike-collins", "percent": 43 }
+  ]
+}

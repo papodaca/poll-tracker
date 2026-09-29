@@ -1,0 +1,17 @@
+{
+  "id": "impact-research-2026-09-02-ny-house-21",
+  "raceId": "2026-ny-house-21",
+  "pollster": "Impact Research",
+  "sponsor": "Blake Gendebien's campaign",
+  "startDate": "2026-08-30",
+  "endDate": "2026-09-02",
+  "sampleSize": 500,
+  "population": "likely 2026 general election voters",
+  "marginOfError": 4.4,
+  "url": "https://data.ddhq.io/polls/2026/09/08/Impact-Research/Blake-Gendebien-New-York--21-2026-08-30-2026-09-02",
+  "sample": false,
+  "results": [
+    { "candidateId": "ny-house-21-blake-gendebien", "percent": 44 },
+    { "candidateId": "ny-house-21-anthony-constantino", "percent": 47 }
+  ]
+}

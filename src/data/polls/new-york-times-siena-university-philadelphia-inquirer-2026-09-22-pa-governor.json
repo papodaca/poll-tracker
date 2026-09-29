@@ -1,0 +1,15 @@
+{
+  "id": "new-york-times-siena-university-philadelphia-inquirer-2026-09-22-pa-governor",
+  "raceId": "2026-pa-governor",
+  "pollster": "New York Times/Siena University/Philadelphia Inquirer",
+  "startDate": "2026-09-15",
+  "endDate": "2026-09-22",
+  "sampleSize": 615,
+  "population": "voters",
+  "url": "https://www.cityandstatepa.com/politics/2026/09/pennsylvania-polls-show-democrats-leading-midterm-election-nears/416229/",
+  "sample": false,
+  "results": [
+    { "candidateId": "pa-governor-josh-shapiro", "percent": 58 },
+    { "candidateId": "pa-governor-stacy-garrity", "percent": 38 }
+  ]
+}

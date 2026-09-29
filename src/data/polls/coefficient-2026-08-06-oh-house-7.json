@@ -1,0 +1,16 @@
+{
+  "id": "coefficient-2026-08-06-oh-house-7",
+  "raceId": "2026-oh-house-7",
+  "pollster": "co/efficient",
+  "startDate": "2026-08-05",
+  "endDate": "2026-08-06",
+  "sampleSize": 615,
+  "population": "likely general election voters",
+  "marginOfError": 3.94,
+  "url": "https://www.newsweek.com/poll-shows-max-miller-down-double-digits-as-he-loans-campaign-1-million-12294903",
+  "sample": false,
+  "results": [
+    { "candidateId": "oh-house-7-max-miller", "percent": 33 },
+    { "candidateId": "oh-house-7-brian-poindexter", "percent": 47 }
+  ]
+}

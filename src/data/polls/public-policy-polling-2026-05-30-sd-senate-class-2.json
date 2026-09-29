@@ -1,0 +1,15 @@
+{
+  "id": "public-policy-polling-2026-05-30-sd-senate-class-2",
+  "raceId": "2026-sd-senate-class-2",
+  "pollster": "Public Policy Polling",
+  "sponsor": "Brian Bengs",
+  "startDate": "2026-05-29",
+  "endDate": "2026-05-30",
+  "sampleSize": 726,
+  "url": "https://www.sdstandardnow.com/home/bengs-touts-poll-showing-him-running-close-to-rounds",
+  "sample": false,
+  "results": [
+    { "candidateId": "sd-senate-mike-rounds", "percent": 44 },
+    { "candidateId": "sd-senate-brian-bengs", "percent": 40 }
+  ]
+}

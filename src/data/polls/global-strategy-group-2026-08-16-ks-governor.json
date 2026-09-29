@@ -1,0 +1,22 @@
+{
+  "id": "global-strategy-group-2026-08-16-ks-governor",
+  "raceId": "2026-ks-governor",
+  "pollster": "Global Strategy Group",
+  "startDate": "2026-08-13",
+  "endDate": "2026-08-16",
+  "sampleSize": 600,
+  "population": "likely 2026 General Election voters",
+  "marginOfError": 4,
+  "url": "https://data.ddhq.io/polls/2026/08/28/Global-Strategy-Group/Cindy-Holscher-Kansas-2026-08-13-2026-08-16",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ks-governor-cindy-holscher",
+      "percent": 47
+    },
+    {
+      "candidateId": "ks-governor-ty-masterson",
+      "percent": 46
+    }
+  ]
+}

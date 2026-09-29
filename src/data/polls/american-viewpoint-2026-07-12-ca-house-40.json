@@ -1,0 +1,16 @@
+{
+  "id": "american-viewpoint-2026-07-12-ca-house-40",
+  "raceId": "2026-ca-house-40",
+  "pollster": "American Viewpoint",
+  "sponsor": "California First Fund",
+  "startDate": "2026-07-08",
+  "endDate": "2026-07-12",
+  "population": "likely general election voters",
+  "marginOfError": 4.9,
+  "url": "https://data.ddhq.io/polls/2026/09/10/American-Viewpoint-California--40",
+  "sample": false,
+  "results": [
+    { "candidateId": "ca-house-40-young-kim", "percent": 32 },
+    { "candidateId": "ca-house-40-ken-calvert", "percent": 33 }
+  ]
+}

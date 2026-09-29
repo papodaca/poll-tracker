@@ -1,0 +1,17 @@
+{
+  "id": "global-strategy-group-2026-07-26-ny-house-18",
+  "raceId": "2026-ny-house-18",
+  "pollster": "Global Strategy Group",
+  "sponsor": "Pat Ryan's campaign",
+  "startDate": "2026-07-23",
+  "endDate": "2026-07-26",
+  "sampleSize": 500,
+  "population": "likely general election voters",
+  "marginOfError": 4.4,
+  "url": "https://data.ddhq.io/polls/2026/08/14/Global-Strategy-Group-New-York--18",
+  "sample": false,
+  "results": [
+    { "candidateId": "ny-house-18-pat-ryan", "percent": 53 },
+    { "candidateId": "ny-house-18-jackie-auringer", "percent": 39 }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "jmc-analytics-and-polling-2026-09-21-la-house-6",
+  "raceId": "2026-la-house-6",
+  "pollster": "JMC Analytics and Polling",
+  "sponsor": "Greater Baton Rouge Economic Foundation",
+  "startDate": "2026-09-19",
+  "endDate": "2026-09-21",
+  "sampleSize": 790,
+  "population": "likely voters",
+  "marginOfError": 3.5,
+  "url": "https://www.wbrz.com/news/wbrz-to-host-6th-district-congressional-debate-in-october/",
+  "sample": false,
+  "results": [
+    { "candidateId": "la-house-6-rick-edmonds", "percent": 13.8 },
+    { "candidateId": "la-house-6-chauna-banks", "percent": 13.2 },
+    { "candidateId": "la-house-6-blake-miguez", "percent": 9.7 },
+    { "candidateId": "la-house-6-lindsay-garcia", "percent": 7.7 },
+    { "candidateId": "la-house-6-pat-forbes", "percent": 7.6 }
+  ]
+}

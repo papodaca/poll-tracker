@@ -1,0 +1,15 @@
+{
+  "id": "university-of-new-hampshire-survey-center-2026-09-21-vt-governor",
+  "raceId": "2026-vt-governor",
+  "pollster": "University of New Hampshire Survey Center",
+  "startDate": "2026-09-17",
+  "endDate": "2026-09-21",
+  "population": "likely general election voters",
+  "marginOfError": 3.4,
+  "url": "https://www.sevendaysvt.com/news/gov-scott-leads-janoo-by-10-points-in-new-poll/",
+  "sample": false,
+  "results": [
+    { "candidateId": "vt-governor-amanda-janoo", "percent": 49 },
+    { "candidateId": "vt-governor-phil-scott", "percent": 43 }
+  ]
+}

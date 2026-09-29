@@ -1,0 +1,16 @@
+{
+  "id": "remington-research-group-2026-07-28-tx-house-23",
+  "raceId": "2026-tx-house-23",
+  "pollster": "Remington Research Group",
+  "startDate": "2026-07-25",
+  "endDate": "2026-07-28",
+  "sampleSize": 572,
+  "population": "likely general election voters",
+  "marginOfError": 4.3,
+  "url": "https://bearingarms.com/camedwards/2026/08/20/poll-shows-herrera-leading-in-tx-23-but-gun-owners-shouldnt-get-cocky-n1233566",
+  "sample": false,
+  "results": [
+    { "candidateId": "tx-house-23-brandon-herrera", "percent": 47 },
+    { "candidateId": "tx-house-23-katy-padilla-stout", "percent": 41 }
+  ]
+}

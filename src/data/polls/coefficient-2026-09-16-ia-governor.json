@@ -1,0 +1,22 @@
+{
+  "id": "coefficient-2026-09-16-ia-governor",
+  "raceId": "2026-ia-governor",
+  "pollster": "co/efficient",
+  "startDate": "2026-09-14",
+  "endDate": "2026-09-16",
+  "sampleSize": 831,
+  "population": "likely general election voters",
+  "marginOfError": 3.39,
+  "url": "https://battlegrounds.coefficient.org/ia/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ia-governor-rob-sand",
+      "percent": 46
+    },
+    {
+      "candidateId": "ia-governor-zach-lahn",
+      "percent": 42
+    }
+  ]
+}

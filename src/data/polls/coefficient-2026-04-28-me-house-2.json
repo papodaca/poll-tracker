@@ -1,0 +1,17 @@
+{
+  "id": "coefficient-2026-04-28-me-house-2",
+  "raceId": "2026-me-house-2",
+  "pollster": "co/efficient",
+  "sponsor": "NRCC",
+  "startDate": "2026-04-26",
+  "endDate": "2026-04-28",
+  "sampleSize": 918,
+  "population": "likely general election voters",
+  "marginOfError": 3.22,
+  "url": "https://www.nrcc.org/wp-content/uploads/2026/05/NRCC-ME-02-Survey-Memo-1.pdf",
+  "sample": false,
+  "results": [
+    { "candidateId": "me-house-2-paul-lepage", "percent": 50 },
+    { "candidateId": "me-house-2-matthew-dunlap", "percent": 40 }
+  ]
+}

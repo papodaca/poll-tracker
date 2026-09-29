@@ -1,0 +1,30 @@
+{
+  "id": "surveyusa-2026-09-14-mn-senate-class-2",
+  "raceId": "2026-mn-senate-class-2",
+  "pollster": "SurveyUSA",
+  "sponsor": "KSTP-TV, KAAL-TV, and WDIO-TV",
+  "startDate": "2026-09-09",
+  "endDate": "2026-09-14",
+  "population": "likely voters",
+  "marginOfError": 4.4,
+  "url": "https://kstp.com/wp-content/uploads/2026/09/Election-Poll-9-16.pdf",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mn-senate-michele-tafoya",
+      "percent": 42
+    },
+    {
+      "candidateId": "mn-senate-peggy-flanagan",
+      "percent": 42
+    },
+    {
+      "candidateId": "mn-senate-rebecca-whiting",
+      "percent": 2
+    },
+    {
+      "candidateId": "mn-senate-marisa-simonetti",
+      "percent": 2
+    }
+  ]
+}

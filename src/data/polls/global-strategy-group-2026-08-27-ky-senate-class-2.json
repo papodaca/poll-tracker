@@ -1,0 +1,17 @@
+{
+  "id": "global-strategy-group-2026-08-27-ky-senate-class-2",
+  "raceId": "2026-ky-senate-class-2",
+  "pollster": "Global Strategy Group",
+  "sponsor": "Charles Booker campaign",
+  "startDate": "2026-08-24",
+  "endDate": "2026-08-27",
+  "sampleSize": 600,
+  "population": "likely voters",
+  "marginOfError": 4,
+  "url": "https://www.newsweek.com/mitch-mcconnell-kentucky-senator-retirement-replacement-race-polls-12446228",
+  "sample": false,
+  "results": [
+    { "candidateId": "ky-senate-andy-barr", "percent": 49 },
+    { "candidateId": "ky-senate-charles-booker", "percent": 40 }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "elon-university-2026-08-31-nc-senate-class-2",
+  "raceId": "2026-nc-senate-class-2",
+  "pollster": "Elon University Poll",
+  "startDate": "2026-08-21",
+  "endDate": "2026-08-31",
+  "population": "Likely voters",
+  "marginOfError": 5.6,
+  "url": "https://eloncdn.blob.core.windows.net/eu3/sites/819/2026/09/Elon-University-Poll-charts-9-10-26.pdf",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nc-senate-roy-cooper",
+      "percent": 49
+    },
+    {
+      "candidateId": "nc-senate-michael-whatley",
+      "percent": 38
+    },
+    {
+      "candidateId": "nc-senate-shannon-bray",
+      "percent": 2
+    },
+    {
+      "candidateId": "nc-senate-michael-dublin",
+      "percent": 2
+    }
+  ]
+}

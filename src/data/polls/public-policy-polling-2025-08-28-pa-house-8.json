@@ -1,0 +1,16 @@
+{
+  "id": "public-policy-polling-2025-08-28-pa-house-8",
+  "raceId": "2026-pa-house-8",
+  "pollster": "Public Policy Polling",
+  "sponsor": "House Majority PAC",
+  "startDate": "2025-08-27",
+  "endDate": "2025-08-28",
+  "sampleSize": 615,
+  "population": "PA CD 8 voters",
+  "url": "https://data.ddhq.io/polls/2025/09/02/Public%20Policy%20Polling/House%20Majority%20PAC-Pennsylvania-%208-2025-08-27-2025-08-28",
+  "sample": false,
+  "results": [
+    { "candidateId": "pa-house-8-paige-cognetti", "percent": 45 },
+    { "candidateId": "pa-house-8-rob-bresnahan", "percent": 43 }
+  ]
+}

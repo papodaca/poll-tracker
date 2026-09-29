@@ -1,0 +1,18 @@
+{
+  "id": "mclaughlin-and-associates-2026-04-20-oh-house-9",
+  "raceId": "2026-oh-house-9",
+  "pollster": "McLaughlin & Associates",
+  "sponsor": "NRCC",
+  "startDate": "2026-04-18",
+  "endDate": "2026-04-20",
+  "sampleSize": 400,
+  "population": "likely November 2026 General Election voters",
+  "marginOfError": 4.9,
+  "url": "https://www.nrcc.org/wp-content/uploads/2026/05/OH-CD-9-GEN-Executive-Summary-Kaptur-v-Merrin-May-2026.pdf",
+  "sample": false,
+  "results": [
+    { "candidateId": "oh-house-9-derek-merrin", "percent": 47 },
+    { "candidateId": "oh-house-9-marcy-kaptur", "percent": 43 },
+    { "candidateId": "oh-house-9-david-gedert", "percent": 3 }
+  ]
+}

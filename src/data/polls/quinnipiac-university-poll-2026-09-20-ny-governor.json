@@ -1,0 +1,16 @@
+{
+  "id": "quinnipiac-university-poll-2026-09-20-ny-governor",
+  "raceId": "2026-ny-governor",
+  "pollster": "Quinnipiac University Poll",
+  "startDate": "2026-09-17",
+  "endDate": "2026-09-20",
+  "sampleSize": 1026,
+  "population": "likely voters",
+  "marginOfError": 4.1,
+  "url": "https://poll.qu.edu/poll-release?releaseid=3967",
+  "sample": false,
+  "results": [
+    { "candidateId": "ny-governor-kathy-hochul", "percent": 58 },
+    { "candidateId": "ny-governor-bruce-blakeman", "percent": 39 }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "research-and-polling-2026-08-28-nm-governor",
+  "raceId": "2026-nm-governor",
+  "pollster": "Research & Polling",
+  "sponsor": "Albuquerque Journal",
+  "startDate": "2026-08-21",
+  "endDate": "2026-08-28",
+  "sampleSize": 516,
+  "population": "likely voters",
+  "marginOfError": 4.3,
+  "url": "https://www.abqjournal.com/news/journal-poll-haaland-leads-hull-by-closer-than-expected-margin-in-new-mexicos-race-for-governor/3111874",
+  "sample": false,
+  "results": [
+    { "candidateId": "nm-governor-deb-haaland", "percent": 49 },
+    { "candidateId": "nm-governor-gregg-hull", "percent": 43 }
+  ]
+}

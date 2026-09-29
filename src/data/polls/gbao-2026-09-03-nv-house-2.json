@@ -1,0 +1,17 @@
+{
+  "id": "gbao-2026-09-03-nv-house-2",
+  "raceId": "2026-nv-house-2",
+  "pollster": "GBAO",
+  "sponsor": "Nevada Alliance",
+  "startDate": "2026-08-31",
+  "endDate": "2026-09-03",
+  "sampleSize": 500,
+  "population": "likely voters",
+  "url": "https://thenevadaindependent.com/article/does-teresa-benitez-thompson-stand-a-chance-in-deep-red-northern-nevada",
+  "sample": false,
+  "results": [
+    { "candidateId": "nv-house-2-teresa-benitez-thompson", "percent": 38 },
+    { "candidateId": "nv-house-2-david-flippo", "percent": 37 },
+    { "candidateId": "nv-house-2-lynn-chapman", "percent": 14 }
+  ]
+}

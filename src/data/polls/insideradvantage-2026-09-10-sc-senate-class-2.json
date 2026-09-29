@@ -1,0 +1,16 @@
+{
+  "id": "insideradvantage-2026-09-10-sc-senate-class-2",
+  "raceId": "2026-sc-senate-class-2",
+  "pollster": "InsiderAdvantage",
+  "startDate": "2026-09-10",
+  "endDate": "2026-09-10",
+  "sampleSize": 1200,
+  "population": "LV",
+  "marginOfError": 2.83,
+  "url": "https://insideradvantage.com/insideradvantage-u-s-senate-surveys-texas-talarico-47-paxton-46-south-carolina-graham-45-andrews-43-ohio-brown-47-husted-42/",
+  "sample": false,
+  "results": [
+    { "candidateId": "sc-senate-darline-graham", "percent": 45 },
+    { "candidateId": "sc-senate-annie-andrews", "percent": 43 }
+  ]
+}

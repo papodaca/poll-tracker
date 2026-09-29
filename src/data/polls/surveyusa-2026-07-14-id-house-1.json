@@ -1,0 +1,18 @@
+{
+  "id": "surveyusa-2026-07-14-id-house-1",
+  "raceId": "2026-id-house-1",
+  "pollster": "SurveyUSA",
+  "sponsor": "Zabel for Congress",
+  "startDate": "2026-07-07",
+  "endDate": "2026-07-14",
+  "sampleSize": 480,
+  "population": "Likely Voters",
+  "marginOfError": 4.9,
+  "url": "https://data.ddhq.io/polls/2026/07/23/SurveyUSA-Idaho--1",
+  "sample": false,
+  "results": [
+    { "candidateId": "id-house-1-russ-fulcher", "percent": 45 },
+    { "candidateId": "id-house-1-kaylee-peterson", "percent": 35 },
+    { "candidateId": "id-house-1-sarah-zabel", "percent": 6 }
+  ]
+}

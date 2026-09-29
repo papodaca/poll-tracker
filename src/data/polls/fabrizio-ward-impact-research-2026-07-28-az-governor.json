@@ -1,0 +1,23 @@
+{
+  "id": "fabrizio-ward-impact-research-2026-07-28-az-governor",
+  "raceId": "2026-az-governor",
+  "pollster": "Fabrizio Ward / Impact Research",
+  "sponsor": "AARP",
+  "startDate": "2026-07-26",
+  "endDate": "2026-07-28",
+  "sampleSize": 913,
+  "population": "likely voters",
+  "marginOfError": 3.2,
+  "url": "https://www.aarp.org/press/releases/2026-08-06-new-aarp-arizona-poll-close-governors-race-could-hinge-on-older-voters.html",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "az-governor-katie-hobbs",
+      "percent": 52
+    },
+    {
+      "candidateId": "az-governor-andy-biggs",
+      "percent": 44
+    }
+  ]
+}

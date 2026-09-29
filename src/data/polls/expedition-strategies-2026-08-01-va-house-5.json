@@ -1,0 +1,16 @@
+{
+  "id": "expedition-strategies-2026-08-01-va-house-5",
+  "raceId": "2026-va-house-5",
+  "pollster": "Expedition Strategies",
+  "startDate": "2026-07-29",
+  "endDate": "2026-08-01",
+  "sampleSize": 602,
+  "population": "likely 2026 general election voters",
+  "marginOfError": 3.99,
+  "url": "https://bluevirginia.us/2026/08/new-poll-tom-perriello-moves-virginias-5th-district-into-a-toss-up-race/",
+  "sample": false,
+  "results": [
+    { "candidateId": "va-house-5-john-mcguire", "percent": 47 },
+    { "candidateId": "va-house-5-tom-perriello", "percent": 44 }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "texas-southern-university-2026-08-22-tx-house-15",
+  "raceId": "2026-tx-house-15",
+  "pollster": "Texas Southern University",
+  "startDate": "2026-08-18",
+  "endDate": "2026-08-22",
+  "sampleSize": 700,
+  "population": "November 2026 likely voters",
+  "marginOfError": 3.7,
+  "url": "https://data.ddhq.io/polls/2026/08/26/Texas-Southern-University-School-of-Public-Affairs-Texas--15",
+  "sample": false,
+  "results": [
+    { "candidateId": "tx-house-15-bobby-pulido", "percent": 50 },
+    { "candidateId": "tx-house-15-monica-de-la-cruz", "percent": 45 }
+  ]
+}

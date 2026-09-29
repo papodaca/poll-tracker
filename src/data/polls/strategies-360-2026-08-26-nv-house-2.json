@@ -1,0 +1,18 @@
+{
+  "id": "strategies-360-2026-08-26-nv-house-2",
+  "raceId": "2026-nv-house-2",
+  "pollster": "Strategies 360",
+  "sponsor": "Elect Teresa",
+  "startDate": "2026-08-22",
+  "endDate": "2026-08-26",
+  "sampleSize": 400,
+  "population": "Likely General Election 2026 Voters",
+  "marginOfError": 4.9,
+  "url": "https://data.ddhq.io/polls/2026/09/07/Strategies-360-Nevada--2",
+  "sample": false,
+  "results": [
+    { "candidateId": "nv-house-2-teresa-benitez-thompson", "percent": 42 },
+    { "candidateId": "nv-house-2-david-flippo", "percent": 45 },
+    { "candidateId": "nv-house-2-lynn-chapman", "percent": 7 }
+  ]
+}

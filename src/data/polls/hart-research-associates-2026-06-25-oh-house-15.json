@@ -1,0 +1,16 @@
+{
+  "id": "hart-research-associates-2026-06-25-oh-house-15",
+  "raceId": "2026-oh-house-15",
+  "pollster": "Hart Research Associates",
+  "sponsor": "House Majority PAC",
+  "startDate": "2026-06-23",
+  "endDate": "2026-06-25",
+  "population": "OH-15 voters",
+  "url": "https://www.thehousemajoritypac.com/news/hmp-poll-don-leonard-within-striking-distance-of-mike-carey-in-oh-15",
+  "sample": false,
+  "results": [
+    { "candidateId": "oh-house-15-don-leonard", "percent": 40 },
+    { "candidateId": "oh-house-15-mike-carey", "percent": 45 },
+    { "candidateId": "oh-house-15-brennan-barrington", "percent": 3 }
+  ]
+}

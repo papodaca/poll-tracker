@@ -1,0 +1,17 @@
+{
+  "id": "trafalgar-group-2026-09-12-ga-senate-class-2",
+  "raceId": "2026-ga-senate-class-2",
+  "pollster": "Trafalgar Group",
+  "startDate": "2026-09-10",
+  "endDate": "2026-09-12",
+  "sampleSize": 1091,
+  "population": "Likely General Election Voters",
+  "marginOfError": 2.9,
+  "url": "https://www.thetrafalgargroup.org/wp-content/uploads/2026/09/GA-General-Full-Report-0912.pdf",
+  "sample": false,
+  "results": [
+    { "candidateId": "ga-senate-jon-ossoff", "percent": 49.4 },
+    { "candidateId": "ga-senate-mike-collins", "percent": 42.8 },
+    { "candidateId": "ga-senate-allen-buckley", "percent": 1.3 }
+  ]
+}

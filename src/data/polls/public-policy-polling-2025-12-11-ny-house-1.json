@@ -1,0 +1,16 @@
+{
+  "id": "public-policy-polling-2025-12-11-ny-house-1",
+  "raceId": "2026-ny-house-1",
+  "pollster": "Public Policy Polling",
+  "sponsor": "House Majority PAC",
+  "startDate": "2025-12-10",
+  "endDate": "2025-12-11",
+  "sampleSize": 579,
+  "population": "voters",
+  "url": "https://data.ddhq.io/polls/2026/01/08/Public-Policy-Polling/House-Majority-PAC-New-York--1-2025-12-10-2025-12-11",
+  "sample": false,
+  "results": [
+    { "candidateId": "ny-house-1-chris-gallant", "percent": 38 },
+    { "candidateId": "ny-house-1-nick-lalota", "percent": 41 }
+  ]
+}

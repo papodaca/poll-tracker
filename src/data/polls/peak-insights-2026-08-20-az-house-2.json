@@ -1,0 +1,16 @@
+{
+  "id": "peak-insights-2026-08-20-az-house-2",
+  "raceId": "2026-az-house-2",
+  "pollster": "Peak Insights",
+  "startDate": "2026-08-17",
+  "endDate": "2026-08-20",
+  "sampleSize": 400,
+  "population": "2026 general election voters",
+  "marginOfError": 5,
+  "url": "https://azfreenews.com/2026/08/new-poll-shows-eli-crane-with-double-digit-lead-over-jonathan-nez-in-cd2-rematch/",
+  "sample": false,
+  "results": [
+    { "candidateId": "az-house-2-eli-crane", "percent": 53 },
+    { "candidateId": "az-house-2-jonathan-nez", "percent": 42 }
+  ]
+}

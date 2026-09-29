@@ -1,0 +1,15 @@
+{
+  "id": "remington-research-group-2026-09-15-mo-house-2",
+  "raceId": "2026-mo-house-2",
+  "pollster": "Remington Research Group",
+  "startDate": "2026-09-14",
+  "endDate": "2026-09-15",
+  "sampleSize": 565,
+  "url": "https://moscout.com/daily-updates-1/2026/9/25/moscout-daily-update-cd-2-poll-and-what-it-means-mosleys-defamation-suit-the-hit-on-fogle-and-more",
+  "sample": false,
+  "results": [
+    { "candidateId": "mo-house-2-ann-wagner", "percent": 43 },
+    { "candidateId": "mo-house-2-fred-wellman", "percent": 42 },
+    { "candidateId": "mo-house-2-brandon-daugherty", "percent": 3 }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "fm3-research-2026-05-31-mo-house-2",
+  "raceId": "2026-mo-house-2",
+  "pollster": "FM3 Research",
+  "startDate": "2026-05-26",
+  "endDate": "2026-05-31",
+  "sampleSize": 600,
+  "population": "likely to vote",
+  "marginOfError": 4.0,
+  "url": "https://themissouritimes.com/wp-content/uploads/2026/06/220-7670-Wellman-MO-02-Summary-Memo.pdf",
+  "sample": false,
+  "results": [
+    { "candidateId": "mo-house-2-fred-wellman", "percent": 41 },
+    { "candidateId": "mo-house-2-ann-wagner", "percent": 44 }
+  ]
+}

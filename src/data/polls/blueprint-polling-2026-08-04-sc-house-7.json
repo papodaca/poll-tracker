@@ -1,0 +1,14 @@
+{
+  "id": "blueprint-polling-2026-08-04-sc-house-7",
+  "raceId": "2026-sc-house-7",
+  "pollster": "Blueprint Polling",
+  "sponsor": "John Vincent for Congress",
+  "startDate": "2026-08-04",
+  "endDate": "2026-08-04",
+  "url": "https://holycitysinner.com/politics/new-poll-vincent-and-fry-in-statistical-dead-heat-in-south-c/",
+  "sample": false,
+  "results": [
+    { "candidateId": "sc-house-7-john-vincent", "percent": 37 },
+    { "candidateId": "sc-house-7-russell-fry", "percent": 41 }
+  ]
+}

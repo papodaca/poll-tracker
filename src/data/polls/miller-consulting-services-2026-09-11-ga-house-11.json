@@ -1,0 +1,17 @@
+{
+  "id": "miller-consulting-services-2026-09-11-ga-house-11",
+  "raceId": "2026-ga-house-11",
+  "pollster": "Miller Consulting Services",
+  "sponsor": "Chris Harden for Congress",
+  "startDate": "2026-08-28",
+  "endDate": "2026-09-11",
+  "sampleSize": 402,
+  "population": "likely voters",
+  "marginOfError": 4.98,
+  "url": "https://www.prlog.org/13170875-new-poll-shows-chris-harden-leading-john-cowan-in-georgias-11th-congressional-district.html",
+  "sample": false,
+  "results": [
+    { "candidateId": "ga-house-11-chris-harden", "percent": 42 },
+    { "candidateId": "ga-house-11-john-cowan", "percent": 40 }
+  ]
+}

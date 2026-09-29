@@ -1,0 +1,18 @@
+{
+  "id": "university-of-new-hampshire-survey-center-2026-09-21-ri-governor",
+  "raceId": "2026-ri-governor",
+  "pollster": "University of New Hampshire Survey Center",
+  "startDate": "2026-09-17",
+  "endDate": "2026-09-21",
+  "sampleSize": 598,
+  "population": "likely general election voters",
+  "marginOfError": 4,
+  "url": "https://rhodeislandcurrent.com/wp-content/uploads/2026/09/Democrats-Foulkes-Reed-Enjoy-Wide-Leads-in-Rhode-Island-While-M.pdf",
+  "sample": false,
+  "results": [
+    { "candidateId": "ri-governor-helena-foulkes", "percent": 44 },
+    { "candidateId": "ri-governor-ken-block", "percent": 25 },
+    { "candidateId": "ri-governor-aaron-guckian", "percent": 17 },
+    { "candidateId": "ri-governor-cd-reynolds", "percent": 2 }
+  ]
+}
