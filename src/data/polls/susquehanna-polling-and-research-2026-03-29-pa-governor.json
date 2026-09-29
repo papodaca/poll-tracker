@@ -1,0 +1,21 @@
+{
+  "id": "susquehanna-polling-and-research-2026-03-29-pa-governor",
+  "raceId": "2026-pa-governor",
+  "pollster": "Susquehanna Polling & Research",
+  "startDate": "2026-03-18",
+  "endDate": "2026-03-29",
+  "sampleSize": 700,
+  "population": "LV",
+  "url": "https://x.com/SusquehannaPR/status/2039323234047340873?s=20",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "pa-governor-josh-shapiro",
+      "percent": 58
+    },
+    {
+      "candidateId": "pa-governor-stacy-garrity",
+      "percent": 36
+    }
+  ]
+}

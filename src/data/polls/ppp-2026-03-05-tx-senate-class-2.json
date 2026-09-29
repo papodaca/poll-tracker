@@ -1,0 +1,22 @@
+{
+  "id": "ppp-2026-03-05-tx-senate-class-2",
+  "raceId": "2026-tx-senate-class-2",
+  "pollster": "PPP",
+  "sponsor": "Dem",
+  "startDate": "2026-03-04",
+  "endDate": "2026-03-05",
+  "sampleSize": 576,
+  "population": "LV",
+  "url": "https://punchbowl.news/article/campaigns/paxton-cornyn-poll/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-senate-james-talarico",
+      "percent": 44
+    },
+    {
+      "candidateId": "tx-senate-john-cornyn",
+      "percent": 43
+    }
+  ]
+}

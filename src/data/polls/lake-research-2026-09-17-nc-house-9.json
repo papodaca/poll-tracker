@@ -1,0 +1,19 @@
+{
+  "id": "lake-research-2026-09-17-nc-house-9",
+  "raceId": "2026-nc-house-9",
+  "pollster": "Lake Research",
+  "startDate": "2026-09-17",
+  "endDate": "2026-09-17",
+  "url": "https://www.nationaljournal.com/s/732888/democrat-sets-sights-on-nrcc-chair/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nc-house-9-richard-ojeda",
+      "percent": 42
+    },
+    {
+      "candidateId": "nc-house-9-richard-hudson",
+      "percent": 46
+    }
+  ]
+}

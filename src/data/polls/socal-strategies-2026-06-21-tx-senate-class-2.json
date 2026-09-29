@@ -1,0 +1,22 @@
+{
+  "id": "socal-strategies-2026-06-21-tx-senate-class-2",
+  "raceId": "2026-tx-senate-class-2",
+  "pollster": "SoCal Strategies",
+  "sponsor": "Red Eagle Politics",
+  "startDate": "2026-06-21",
+  "endDate": "2026-06-21",
+  "sampleSize": 800,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/06/22/SoCal-Strategies/Red-Eagle-Politics-Texas-2026-06-21-2026-06-21",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-senate-james-talarico",
+      "percent": 47
+    },
+    {
+      "candidateId": "tx-senate-ken-paxton",
+      "percent": 49
+    }
+  ]
+}

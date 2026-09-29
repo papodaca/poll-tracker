@@ -1,0 +1,26 @@
+{
+  "id": "big-data-poll-2026-09-26-tx-governor-2",
+  "raceId": "2026-tx-governor",
+  "pollster": "Big Data Poll",
+  "sponsor": "Public Polling Project",
+  "startDate": "2026-09-24",
+  "endDate": "2026-09-26",
+  "sampleSize": 698,
+  "population": "LV",
+  "url": "https://www.bigdatapoll.com/blog/lone-star-state-poll-talarico-paxton-in-close-race-us-senate-in-texas/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-governor-gina-hinojosa",
+      "percent": 44.4
+    },
+    {
+      "candidateId": "tx-governor-greg-abbott",
+      "percent": 48.9
+    },
+    {
+      "candidateId": "tx-governor-pat-dixon",
+      "percent": 6.6
+    }
+  ]
+}

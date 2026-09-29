@@ -1,0 +1,22 @@
+{
+  "id": "torchlight-strategies-2026-09-19-mi-senate-class-2",
+  "raceId": "2026-mi-senate-class-2",
+  "pollster": "Torchlight Strategies",
+  "sponsor": "Common Sense for America PAC",
+  "startDate": "2026-09-15",
+  "endDate": "2026-09-19",
+  "sampleSize": 643,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/09/25/Torchlight-Strategies/Common-Sense-for-America-PAC-Michigan-2026-09-15-2026-09-19",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-senate-abdul-el-sayed",
+      "percent": 43.1
+    },
+    {
+      "candidateId": "mi-senate-mike-rogers",
+      "percent": 44.4
+    }
+  ]
+}

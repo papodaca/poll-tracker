@@ -1,0 +1,21 @@
+{
+  "id": "quantus-insights-2026-06-11-me-senate-class-2",
+  "raceId": "2026-me-senate-class-2",
+  "pollster": "Quantus Insights",
+  "startDate": "2026-06-09",
+  "endDate": "2026-06-11",
+  "sampleSize": 870,
+  "population": "LV",
+  "url": "https://quantusinsights.org/f/maine-senate-race-narrows-to-toss-up-as-collins-closes-gap",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "me-senate-graham-platner",
+      "percent": 46
+    },
+    {
+      "candidateId": "me-senate-susan-collins",
+      "percent": 45
+    }
+  ]
+}

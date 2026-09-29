@@ -1,0 +1,21 @@
+{
+  "id": "suffolk-2025-11-23-ma-senate-class-2",
+  "raceId": "2026-ma-senate-class-2",
+  "pollster": "Suffolk",
+  "startDate": "2025-11-19",
+  "endDate": "2025-11-23",
+  "sampleSize": 500,
+  "population": "RV",
+  "url": "https://www.suffolk.edu/-/media/suffolk/documents/academics/research-at-suffolk/suprc/polls/massachusetts2/2025/11_25_2025_massachusetts_marginals_embargoed.pdf?la=en&hash=7A268DEC6084E7409420F65AE409AF2E4031A313",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ma-senate-ed-markey",
+      "percent": 54
+    },
+    {
+      "candidateId": "ma-senate-john-deaton",
+      "percent": 31
+    }
+  ]
+}

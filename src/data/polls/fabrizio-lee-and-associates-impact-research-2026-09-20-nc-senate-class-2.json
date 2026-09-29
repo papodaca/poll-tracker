@@ -1,0 +1,22 @@
+{
+  "id": "fabrizio-lee-and-associates-impact-research-2026-09-20-nc-senate-class-2",
+  "raceId": "2026-nc-senate-class-2",
+  "pollster": "Fabrizio, Lee & Associates/Impact Research",
+  "sponsor": "AARP",
+  "startDate": "2026-09-17",
+  "endDate": "2026-09-20",
+  "sampleSize": 1115,
+  "population": "LV",
+  "url": "https://www.aarp.org/pri/topics/voter-research/politics/2026-midterm-election-poll-north-carolina/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nc-senate-roy-cooper",
+      "percent": 53
+    },
+    {
+      "candidateId": "nc-senate-michael-whatley",
+      "percent": 42
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "aspect-strategic-2026-09-15-mt-senate-class-2-2",
+  "raceId": "2026-mt-senate-class-2",
+  "pollster": "Aspect Strategic",
+  "sponsor": "Montana Freedom PAC (super PAC)",
+  "startDate": "2026-09-07",
+  "endDate": "2026-09-15",
+  "sampleSize": 715,
+  "population": "LV",
+  "url": "https://x.com/burgessev/status/2102451722702442813?s=20",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mt-senate-kurt-alme",
+      "percent": 44
+    },
+    {
+      "candidateId": "mt-senate-seth-bodnar",
+      "percent": 32
+    },
+    {
+      "candidateId": "mt-senate-alani-bankhead",
+      "percent": 14
+    },
+    {
+      "candidateId": "mt-senate-kyle-austin",
+      "percent": 3
+    }
+  ]
+}

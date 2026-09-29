@@ -1,0 +1,26 @@
+{
+  "id": "gqr-2026-07-26-mt-senate-class-2",
+  "raceId": "2026-mt-senate-class-2",
+  "pollster": "GQR",
+  "sponsor": "Contours Inc.",
+  "startDate": "2026-07-23",
+  "endDate": "2026-07-26",
+  "sampleSize": 500,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/07/28/GQR/Contours-Inc.-Montana-2026-07-23-2026-07-26",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mt-senate-kurt-alme",
+      "percent": 41
+    },
+    {
+      "candidateId": "mt-senate-seth-bodnar",
+      "percent": 27
+    },
+    {
+      "candidateId": "mt-senate-alani-bankhead",
+      "percent": 22
+    }
+  ]
+}

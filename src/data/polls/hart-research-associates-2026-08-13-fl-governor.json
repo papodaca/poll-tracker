@@ -1,0 +1,22 @@
+{
+  "id": "hart-research-associates-2026-08-13-fl-governor",
+  "raceId": "2026-fl-governor",
+  "pollster": "Hart Research Associates",
+  "sponsor": "Democratic Governors Association",
+  "startDate": "2026-08-10",
+  "endDate": "2026-08-13",
+  "sampleSize": 600,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/08/19/Hart-Research-Associates/Democratic-Governors-Association-Florida-2026-08-10-2026-08-13",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-governor-byron-donalds",
+      "percent": 45
+    },
+    {
+      "candidateId": "fl-governor-david-jolly",
+      "percent": 46
+    }
+  ]
+}

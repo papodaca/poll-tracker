@@ -1,0 +1,22 @@
+{
+  "id": "fm3-research-2026-02-04-or-governor-2-2",
+  "raceId": "2026-or-governor",
+  "pollster": "FM3 Research",
+  "sponsor": "Charlie Health",
+  "startDate": "2026-01-28",
+  "endDate": "2026-02-04",
+  "sampleSize": 1065,
+  "population": "LV",
+  "url": "https://www.oregonlive.com/politics/2026/02/who-will-be-oregons-next-governor-first-poll-of-2026-names-this-candidate.html",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "or-governor-chris-dudley",
+      "percent": 35
+    },
+    {
+      "candidateId": "or-governor-tina-kotek",
+      "percent": 45
+    }
+  ]
+}

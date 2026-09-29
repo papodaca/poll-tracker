@@ -1,0 +1,22 @@
+{
+  "id": "tavern-research-2026-05-11-ne-senate-class-2-2-2",
+  "raceId": "2026-ne-senate-class-2",
+  "pollster": "Tavern Research",
+  "sponsor": "Contours Inc.",
+  "startDate": "2026-05-08",
+  "endDate": "2026-05-11",
+  "sampleSize": 1165,
+  "population": "LV",
+  "url": "https://www.tavernresearch.com/research-and-writings/nebraska-senate-poll",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ne-senate-pete-ricketts",
+      "percent": 50
+    },
+    {
+      "candidateId": "ne-senate-william-j-forbes",
+      "percent": 34
+    }
+  ]
+}

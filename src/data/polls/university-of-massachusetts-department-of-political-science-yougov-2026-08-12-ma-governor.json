@@ -1,0 +1,22 @@
+{
+  "id": "university-of-massachusetts-department-of-political-science-yougov-2026-08-12-ma-governor",
+  "raceId": "2026-ma-governor",
+  "pollster": "University of Massachusetts Department of Political Science/YouGov",
+  "sponsor": "WCVB-TV (Boston)",
+  "startDate": "2026-08-05",
+  "endDate": "2026-08-12",
+  "sampleSize": 800,
+  "population": "RV",
+  "url": "https://www.wcvb.com/article/2026-ballot-question-poll-aug-17-massachusetts/73458471",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ma-governor-brian-shortsleeve",
+      "percent": 32
+    },
+    {
+      "candidateId": "ma-governor-maura-healey",
+      "percent": 51
+    }
+  ]
+}

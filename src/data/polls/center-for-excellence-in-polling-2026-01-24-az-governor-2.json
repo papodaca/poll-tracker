@@ -1,0 +1,22 @@
+{
+  "id": "center-for-excellence-in-polling-2026-01-24-az-governor-2",
+  "raceId": "2026-az-governor",
+  "pollster": "Center for Excellence in Polling",
+  "sponsor": "Foundation for Government Accountability",
+  "startDate": "2026-01-22",
+  "endDate": "2026-01-24",
+  "sampleSize": 519,
+  "population": "LV",
+  "url": "https://excellenceinpolling.com/poll/arizona-voters-support-commonsense-work-requirements-welfare-reform/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "az-governor-david-schweikert",
+      "percent": 38
+    },
+    {
+      "candidateId": "az-governor-katie-hobbs",
+      "percent": 51
+    }
+  ]
+}

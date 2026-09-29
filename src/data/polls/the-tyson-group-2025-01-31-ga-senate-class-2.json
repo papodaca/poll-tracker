@@ -1,0 +1,20 @@
+{
+  "id": "the-tyson-group-2025-01-31-ga-senate-class-2",
+  "raceId": "2026-ga-senate-class-2",
+  "pollster": "The Tyson Group",
+  "startDate": "2025-01-30",
+  "endDate": "2025-01-31",
+  "sampleSize": 600,
+  "population": "LV",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ga-senate-jon-ossoff",
+      "percent": 47
+    },
+    {
+      "candidateId": "ga-senate-earl-l-buddy-carter",
+      "percent": 39
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "quantus-insights-2025-03-19-nh-senate-class-2",
+  "raceId": "2026-nh-senate-class-2",
+  "pollster": "Quantus Insights",
+  "sponsor": "TrendingPolitics",
+  "startDate": "2025-03-17",
+  "endDate": "2025-03-19",
+  "sampleSize": 650,
+  "population": "RV",
+  "url": "https://data.ddhq.io/polls/2025/07/09/Quantus Insights/TrendingPolitics-New Hampshire-2025-03-17-2025-03-19",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nh-senate-john-sununu",
+      "percent": 53
+    },
+    {
+      "candidateId": "nh-senate-chris-pappas",
+      "percent": 44
+    }
+  ]
+}

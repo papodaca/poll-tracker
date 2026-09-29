@@ -1,0 +1,25 @@
+{
+  "id": "kaplan-strategies-2026-06-09-fl-governor",
+  "raceId": "2026-fl-governor",
+  "pollster": "Kaplan Strategies",
+  "startDate": "2026-06-08",
+  "endDate": "2026-06-09",
+  "sampleSize": 668,
+  "population": "LV",
+  "url": "https://drive.google.com/file/d/1rdg2a3YECKWxNJshHZAK1wKB_n2PLOXC/view?usp=sharing",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-governor-byron-donalds",
+      "percent": 34.9
+    },
+    {
+      "candidateId": "fl-governor-david-jolly",
+      "percent": 29.8
+    },
+    {
+      "candidateId": "fl-governor-frank-j-russo",
+      "percent": 7.1
+    }
+  ]
+}

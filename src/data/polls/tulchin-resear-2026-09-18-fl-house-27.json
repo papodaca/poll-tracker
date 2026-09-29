@@ -1,0 +1,19 @@
+{
+  "id": "tulchin-resear-2026-09-18-fl-house-27",
+  "raceId": "2026-fl-house-27",
+  "pollster": "Tulchin Resear.",
+  "startDate": "2026-09-18",
+  "endDate": "2026-09-18",
+  "url": "https://x.com/cjwarnke/status/2100648029678170342",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-house-27-eliott-rodriguez",
+      "percent": 46
+    },
+    {
+      "candidateId": "fl-house-27-maria-elvira-salazar",
+      "percent": 47
+    }
+  ]
+}

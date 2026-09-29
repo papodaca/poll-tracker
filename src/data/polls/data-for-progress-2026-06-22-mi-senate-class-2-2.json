@@ -1,0 +1,22 @@
+{
+  "id": "data-for-progress-2026-06-22-mi-senate-class-2-2",
+  "raceId": "2026-mi-senate-class-2",
+  "pollster": "Data for Progress",
+  "sponsor": "Working Families Party",
+  "startDate": "2026-06-15",
+  "endDate": "2026-06-22",
+  "sampleSize": 709,
+  "population": "LV",
+  "url": "https://workingfamilies.org/wp-content/uploads/2026/07/DFP-__-WFP-Michigan-Senate-Race-Memorandum.pdf",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-senate-haley-stevens",
+      "percent": 45
+    },
+    {
+      "candidateId": "mi-senate-mike-rogers",
+      "percent": 46
+    }
+  ]
+}

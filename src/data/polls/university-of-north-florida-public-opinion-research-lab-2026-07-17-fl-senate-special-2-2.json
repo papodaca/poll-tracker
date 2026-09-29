@@ -1,0 +1,21 @@
+{
+  "id": "university-of-north-florida-public-opinion-research-lab-2026-07-17-fl-senate-special-2-2",
+  "raceId": "2026-fl-senate-special",
+  "pollster": "University of North Florida Public Opinion Research Lab",
+  "startDate": "2026-07-08",
+  "endDate": "2026-07-17",
+  "sampleSize": 848,
+  "population": "LV",
+  "url": "https://www.unfporl.org/presser-page",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-senate-ashley-moody",
+      "percent": 50
+    },
+    {
+      "candidateId": "fl-senate-angela-nixon",
+      "percent": 42
+    }
+  ]
+}

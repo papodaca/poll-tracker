@@ -1,0 +1,22 @@
+{
+  "id": "targoz-market-research-2026-07-26-fl-governor-2",
+  "raceId": "2026-fl-governor",
+  "pollster": "Targoz Market Research",
+  "sponsor": "The James Madison Institute",
+  "startDate": "2026-07-20",
+  "endDate": "2026-07-26",
+  "sampleSize": 1026,
+  "population": "LV",
+  "url": "https://jmipoll.com/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-governor-jay-collins",
+      "percent": 44
+    },
+    {
+      "candidateId": "fl-governor-david-jolly",
+      "percent": 39
+    }
+  ]
+}

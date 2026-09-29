@@ -1,0 +1,21 @@
+{
+  "id": "quantus-insights-2026-09-10-fl-senate-special",
+  "raceId": "2026-fl-senate-special",
+  "pollster": "Quantus Insights",
+  "startDate": "2026-09-08",
+  "endDate": "2026-09-10",
+  "sampleSize": 733,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/09/11/Quantus-Insights-Florida",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-senate-ashley-moody",
+      "percent": 50.1
+    },
+    {
+      "candidateId": "fl-senate-angie-nixon",
+      "percent": 42.7
+    }
+  ]
+}

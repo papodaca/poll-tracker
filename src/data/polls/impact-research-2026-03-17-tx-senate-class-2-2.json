@@ -1,0 +1,25 @@
+{
+  "id": "impact-research-2026-03-17-tx-senate-class-2-2",
+  "raceId": "2026-tx-senate-class-2",
+  "pollster": "Impact Research",
+  "startDate": "2026-03-12",
+  "endDate": "2026-03-17",
+  "sampleSize": 900,
+  "population": "LV",
+  "url": "https://www.politico.com/newsletters/playbook/2026/03/20/buttigieg-is-running-all-over-the-place-00837326",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-senate-james-talarico",
+      "percent": 44
+    },
+    {
+      "candidateId": "tx-senate-ken-paxton",
+      "percent": 43
+    },
+    {
+      "candidateId": "tx-senate-ted-brown",
+      "percent": 5
+    }
+  ]
+}

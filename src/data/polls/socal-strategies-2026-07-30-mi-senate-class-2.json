@@ -1,0 +1,22 @@
+{
+  "id": "socal-strategies-2026-07-30-mi-senate-class-2",
+  "raceId": "2026-mi-senate-class-2",
+  "pollster": "SoCal Strategies",
+  "sponsor": "Red Eagle Politics",
+  "startDate": "2026-07-28",
+  "endDate": "2026-07-30",
+  "sampleSize": 640,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/07/31/SoCal-Strategies-Michigan",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-senate-mike-rogers",
+      "percent": 42
+    },
+    {
+      "candidateId": "mi-senate-abdul-el-sayed",
+      "percent": 41
+    }
+  ]
+}

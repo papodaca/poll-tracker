@@ -1,0 +1,21 @@
+{
+  "id": "impact-research-2026-05-31-ny-house-21",
+  "raceId": "2026-ny-house-21",
+  "pollster": "Impact Research",
+  "startDate": "2026-05-26",
+  "endDate": "2026-05-31",
+  "sampleSize": 500,
+  "population": "LV",
+  "url": "https://www.politico.com/news/2026/06/25/a-district-that-went-20-for-trump-now-in-play-for-democrats-00976934",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ny-house-21-blake-gendebien",
+      "percent": 44
+    },
+    {
+      "candidateId": "ny-house-21-anthony-constantino",
+      "percent": 45
+    }
+  ]
+}

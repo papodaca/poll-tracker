@@ -1,0 +1,21 @@
+{
+  "id": "wash-post-schar-2026-09-14-mi-senate-class-2",
+  "raceId": "2026-mi-senate-class-2",
+  "pollster": "Wash. Post/Schar",
+  "startDate": "2026-09-10",
+  "endDate": "2026-09-14",
+  "sampleSize": 803,
+  "population": "LV",
+  "url": "https://www.washingtonpost.com/documents/08fa9b5e-43ac-456c-a706-4c33ec6506dc.pdf?itid=lk_inline_manual_2",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-senate-abdul-el-sayed",
+      "percent": 48
+    },
+    {
+      "candidateId": "mi-senate-mike-rogers",
+      "percent": 45
+    }
+  ]
+}

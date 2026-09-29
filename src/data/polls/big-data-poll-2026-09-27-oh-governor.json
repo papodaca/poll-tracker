@@ -1,0 +1,26 @@
+{
+  "id": "big-data-poll-2026-09-27-oh-governor",
+  "raceId": "2026-oh-governor",
+  "pollster": "Big Data Poll",
+  "sponsor": "Public Polling Project",
+  "startDate": "2026-09-26",
+  "endDate": "2026-09-27",
+  "sampleSize": 680,
+  "population": "LV",
+  "url": "https://www.bigdatapoll.com/blog/buckeye-state-poll-sherrod-brown-leads-jon-husted-for-us-senate-in-ohio/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "oh-governor-vivek-ramaswamy",
+      "percent": 47.9
+    },
+    {
+      "candidateId": "oh-governor-amy-acton",
+      "percent": 46.8
+    },
+    {
+      "candidateId": "oh-governor-don-kissick",
+      "percent": 5.3
+    }
+  ]
+}

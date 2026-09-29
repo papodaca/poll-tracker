@@ -1,0 +1,21 @@
+{
+  "id": "pan-atlantic-research-2025-12-07-me-senate-class-2",
+  "raceId": "2026-me-senate-class-2",
+  "pollster": "Pan Atlantic Research",
+  "startDate": "2025-11-29",
+  "endDate": "2025-12-07",
+  "sampleSize": 820,
+  "population": "LV",
+  "url": "https://hs-21701012.f.hubspotstarter.net/hubfs/21701012/67th%20Omnibus%20Poll%20December%202025.pdf",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "me-senate-susan-collins",
+      "percent": 43
+    },
+    {
+      "candidateId": "me-senate-janet-t-mills",
+      "percent": 43
+    }
+  ]
+}

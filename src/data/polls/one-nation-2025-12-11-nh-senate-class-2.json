@@ -1,0 +1,22 @@
+{
+  "id": "one-nation-2025-12-11-nh-senate-class-2",
+  "raceId": "2026-nh-senate-class-2",
+  "pollster": "One Nation",
+  "sponsor": "Sununu",
+  "startDate": "2025-12-09",
+  "endDate": "2025-12-11",
+  "sampleSize": 600,
+  "population": "LV",
+  "url": "https://www.politico.com/f/?id=0000019b-9106-d651-a1ff-bf668d720000",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nh-senate-chris-pappas",
+      "percent": 49
+    },
+    {
+      "candidateId": "nh-senate-scott-brown",
+      "percent": 38
+    }
+  ]
+}

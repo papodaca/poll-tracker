@@ -1,0 +1,21 @@
+{
+  "id": "siena-university-2025-08-07-ny-governor",
+  "raceId": "2026-ny-governor",
+  "pollster": "Siena University",
+  "startDate": "2025-08-04",
+  "endDate": "2025-08-07",
+  "sampleSize": 813,
+  "population": "RV",
+  "url": "https://sri.siena.edu/2025/08/12/hochul-approval-favorability-ratings-up-a-little-hochul-lead-over-stefanik-in-2026-race-falls-to-14-points-45-31-from-23-points-47-24-in-june-voters-say-if-stefanik-runs-is-elected-g/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ny-governor-kathy-hochul",
+      "percent": 45
+    },
+    {
+      "candidateId": "ny-governor-elise-m-stefanik",
+      "percent": 31
+    }
+  ]
+}

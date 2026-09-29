@@ -1,0 +1,21 @@
+{
+  "id": "university-of-new-hampshire-survey-center-2026-01-19-nh-governor",
+  "raceId": "2026-nh-governor",
+  "pollster": "University of New Hampshire Survey Center",
+  "startDate": "2026-01-15",
+  "endDate": "2026-01-19",
+  "sampleSize": 2053,
+  "population": "LV",
+  "url": "https://scholars.unh.edu/survey_center_polls/922/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nh-governor-jon-kiper",
+      "percent": 39
+    },
+    {
+      "candidateId": "nh-governor-kelly-ayotte",
+      "percent": 50
+    }
+  ]
+}

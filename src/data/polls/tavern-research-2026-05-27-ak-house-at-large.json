@@ -1,0 +1,21 @@
+{
+  "id": "tavern-research-2026-05-27-ak-house-at-large",
+  "raceId": "2026-ak-house-at-large",
+  "pollster": "Tavern Research",
+  "startDate": "2026-05-18",
+  "endDate": "2026-05-27",
+  "sampleSize": 452,
+  "population": "LV",
+  "url": "https://www.tavernresearch.com/research-and-writings/ak-al-begich-leads-independent-runs-closest",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ak-house-bill-hill",
+      "percent": 48
+    },
+    {
+      "candidateId": "ak-house-nick-begich",
+      "percent": 52
+    }
+  ]
+}

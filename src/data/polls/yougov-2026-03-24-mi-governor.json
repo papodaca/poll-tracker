@@ -1,0 +1,22 @@
+{
+  "id": "yougov-2026-03-24-mi-governor",
+  "raceId": "2026-mi-governor",
+  "pollster": "YouGov",
+  "sponsor": "Michigan State University Institute for Public Policy and Social Research",
+  "startDate": "2026-03-02",
+  "endDate": "2026-03-24",
+  "sampleSize": 1000,
+  "population": "Adults",
+  "url": "https://data.ddhq.io/polls/2026/04/20/Michigan-State-University-Institute-for-Public-Policy-and-Social-Research/YouGov-Michigan",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-governor-jocelyn-benson",
+      "percent": 27
+    },
+    {
+      "candidateId": "mi-governor-john-james",
+      "percent": 18.7
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "surveyusa-2026-01-30-mn-governor-2-2-2-2-2-2-2-2-2",
+  "raceId": "2026-mn-governor",
+  "pollster": "SurveyUSA",
+  "sponsor": "KSTP-TV (St. Paul, Minn.) / KAAL-TV (Austin, Minn.) / WDIO-DT (Duluth, Minn.)",
+  "startDate": "2026-01-27",
+  "endDate": "2026-01-30",
+  "sampleSize": 575,
+  "population": "RV",
+  "url": "https://kstp.com/kstp-news/top-news/kstp-surveyusa-klobuchar-leads-all-gop-candidates-by-double-digits/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mn-governor-peggy-bennett",
+      "percent": 30
+    },
+    {
+      "candidateId": "mn-governor-amy-klobuchar",
+      "percent": 50
+    }
+  ]
+}

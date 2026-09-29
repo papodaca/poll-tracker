@@ -1,0 +1,21 @@
+{
+  "id": "franklin-and-marshall-college-center-for-opinion-research-2026-06-14-pa-governor",
+  "raceId": "2026-pa-governor",
+  "pollster": "Franklin & Marshall College Center for Opinion Research",
+  "startDate": "2026-06-08",
+  "endDate": "2026-06-14",
+  "sampleSize": 546,
+  "population": "RV",
+  "url": "https://data.ddhq.io/polls/2026/06/18/Franklin-&-Marshall-College-Center-for-Opinion-Research-Pennsylvania",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "pa-governor-stacy-garrity",
+      "percent": 28
+    },
+    {
+      "candidateId": "pa-governor-josh-shapiro",
+      "percent": 50
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "gbao-2026-02-03-tx-governor-2",
+  "raceId": "2026-tx-governor",
+  "pollster": "GBAO",
+  "startDate": "2026-01-26",
+  "endDate": "2026-02-03",
+  "sampleSize": 1000,
+  "population": "LV",
+  "url": "https://www.the-downballot.com/p/morning-digest-how-maine-democrats",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-governor-gina-hinojosa",
+      "percent": 43
+    },
+    {
+      "candidateId": "tx-governor-greg-abbott",
+      "percent": 46
+    },
+    {
+      "candidateId": "tx-governor-pat-dixon",
+      "percent": 6
+    }
+  ]
+}

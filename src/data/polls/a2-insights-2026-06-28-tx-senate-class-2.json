@@ -1,0 +1,21 @@
+{
+  "id": "a2-insights-2026-06-28-tx-senate-class-2",
+  "raceId": "2026-tx-senate-class-2",
+  "pollster": "A2 Insights",
+  "startDate": "2026-06-23",
+  "endDate": "2026-06-28",
+  "sampleSize": 618,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/07/01/A2-Insights-Texas",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-senate-james-talarico",
+      "percent": 48.4
+    },
+    {
+      "candidateId": "tx-senate-ken-paxton",
+      "percent": 46.1
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "the-new-york-times-siena-university-2026-09-22-nh-governor",
+  "raceId": "2026-nh-governor",
+  "pollster": "The New York Times/Siena University",
+  "startDate": "2026-09-15",
+  "endDate": "2026-09-22",
+  "sampleSize": 613,
+  "population": "LV",
+  "url": "https://www.nytimes.com/interactive/2026/09/25/polls/times-siena-poll-nh-crosstabs.html",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nh-governor-cinde-warmington",
+      "percent": 41
+    },
+    {
+      "candidateId": "nh-governor-kelly-ayotte",
+      "percent": 52
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "pan-atlantic-research-2025-12-07-me-house-2",
+  "raceId": "2026-me-house-2",
+  "pollster": "Pan Atlantic Research",
+  "startDate": "2025-11-29",
+  "endDate": "2025-12-07",
+  "sampleSize": 387,
+  "population": "LV",
+  "url": "https://punchbowl.news/wp-content/uploads/baldacci-poll.pdf",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "me-house-2-joseph-baldacci",
+      "percent": 43
+    },
+    {
+      "candidateId": "me-house-2-paul-lepage",
+      "percent": 44
+    }
+  ]
+}

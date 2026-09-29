@@ -1,0 +1,21 @@
+{
+  "id": "public-policy-polling-2026-07-17-sc-governor",
+  "raceId": "2026-sc-governor",
+  "pollster": "Public Policy Polling",
+  "startDate": "2026-07-16",
+  "endDate": "2026-07-17",
+  "sampleSize": 577,
+  "population": "V",
+  "url": "https://data.ddhq.io/polls/2026/07/30/Public-Policy-Polling/Annie-Andrews-South-Carolina-2026-07-16-2026-07-17",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "sc-governor-alan-wilson",
+      "percent": 45
+    },
+    {
+      "candidateId": "sc-governor-jermaine-johnson",
+      "percent": 37
+    }
+  ]
+}

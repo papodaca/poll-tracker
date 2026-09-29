@@ -1,0 +1,21 @@
+{
+  "id": "siena-university-2026-08-06-ny-governor",
+  "raceId": "2026-ny-governor",
+  "pollster": "Siena University",
+  "startDate": "2026-08-03",
+  "endDate": "2026-08-06",
+  "sampleSize": 811,
+  "population": "LV",
+  "url": "https://sri.siena.edu/2026/08/12/siena-poll-of-likely-new-york-state-voters-hochul-49-blakeman-39/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ny-governor-bruce-blakeman",
+      "percent": 39
+    },
+    {
+      "candidateId": "ny-governor-kathy-hochul",
+      "percent": 49
+    }
+  ]
+}

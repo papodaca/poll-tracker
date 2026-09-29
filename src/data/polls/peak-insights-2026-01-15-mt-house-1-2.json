@@ -1,0 +1,22 @@
+{
+  "id": "peak-insights-2026-01-15-mt-house-1-2",
+  "raceId": "2026-mt-house-1",
+  "pollster": "Peak Insights",
+  "sponsor": "Leadership In Action (super PAC)",
+  "startDate": "2026-01-12",
+  "endDate": "2026-01-15",
+  "sampleSize": 400,
+  "population": "LV",
+  "url": "https://x.com/JacobRubashkin/status/2014435352384082320?s=20",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mt-house-1-sam-forstag",
+      "percent": 38
+    },
+    {
+      "candidateId": "mt-house-1-ryan-k-zinke",
+      "percent": 48
+    }
+  ]
+}

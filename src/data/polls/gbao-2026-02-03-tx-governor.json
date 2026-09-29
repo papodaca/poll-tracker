@@ -1,0 +1,22 @@
+{
+  "id": "gbao-2026-02-03-tx-governor",
+  "raceId": "2026-tx-governor",
+  "pollster": "GBAO",
+  "sponsor": "Gina Hinojosa",
+  "startDate": "2026-01-26",
+  "endDate": "2026-02-03",
+  "sampleSize": 1000,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/02/12/GBAO-Texas",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-governor-greg-abbott",
+      "percent": 46
+    },
+    {
+      "candidateId": "tx-governor-gina-hinojosa",
+      "percent": 43
+    }
+  ]
+}

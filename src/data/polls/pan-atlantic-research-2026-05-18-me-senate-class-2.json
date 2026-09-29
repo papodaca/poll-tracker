@@ -1,0 +1,21 @@
+{
+  "id": "pan-atlantic-research-2026-05-18-me-senate-class-2",
+  "raceId": "2026-me-senate-class-2",
+  "pollster": "Pan Atlantic Research",
+  "startDate": "2026-05-08",
+  "endDate": "2026-05-18",
+  "sampleSize": 827,
+  "population": "LV",
+  "url": "https://21701012.fs1.hubspotusercontent-na1.net/hubfs/21701012/20260520%2069th%20PAR%20Omnibus%20Poll%20May%202026.pdf",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "me-senate-graham-platner",
+      "percent": 48
+    },
+    {
+      "candidateId": "me-senate-susan-collins",
+      "percent": 41
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "beacon-research-shaw-and-co-research-2026-08-10-oh-governor",
+  "raceId": "2026-oh-governor",
+  "pollster": "Beacon Research/Shaw & Co. Research",
+  "sponsor": "Fox News",
+  "startDate": "2026-08-06",
+  "endDate": "2026-08-10",
+  "sampleSize": 1008,
+  "population": "RV",
+  "url": "https://www.foxnews.com/politics/fox-news-poll-economic-anxiety-candidate-concerns-define-ohio-senate-race",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "oh-governor-vivek-ramaswamy",
+      "percent": 50
+    },
+    {
+      "candidateId": "oh-governor-amy-acton",
+      "percent": 48
+    }
+  ]
+}

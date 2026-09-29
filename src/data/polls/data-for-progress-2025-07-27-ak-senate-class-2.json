@@ -1,0 +1,21 @@
+{
+  "id": "data-for-progress-2025-07-27-ak-senate-class-2",
+  "raceId": "2026-ak-senate-class-2",
+  "pollster": "Data for Progress",
+  "startDate": "2025-07-21",
+  "endDate": "2025-07-27",
+  "sampleSize": 678,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2025/08/08/Data for Progress-Alaska",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ak-senate-dan-sullivan",
+      "percent": 46
+    },
+    {
+      "candidateId": "ak-senate-mary-peltola",
+      "percent": 45
+    }
+  ]
+}

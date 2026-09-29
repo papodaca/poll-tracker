@@ -1,0 +1,22 @@
+{
+  "id": "siena-research-institute-2026-09-22-mi-governor",
+  "raceId": "2026-mi-governor",
+  "pollster": "Siena Research Institute",
+  "sponsor": "The New York Times",
+  "startDate": "2026-09-15",
+  "endDate": "2026-09-22",
+  "sampleSize": 605,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/09/24/Siena-Research-Institute/The-New-York-Times-Michigan-2026-09-15-2026-09-22",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-governor-jocelyn-benson",
+      "percent": 48
+    },
+    {
+      "candidateId": "mi-governor-john-james",
+      "percent": 43
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "surveyusa-2026-08-17-mn-senate-class-2",
+  "raceId": "2026-mn-senate-class-2",
+  "pollster": "SurveyUSA",
+  "sponsor": "KSTP-TV",
+  "startDate": "2026-08-13",
+  "endDate": "2026-08-17",
+  "sampleSize": 661,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/08/19/SurveyUSA/KSTP-TV-Minnesota-2026-08-13-2026-08-17",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mn-senate-peggy-flanagan",
+      "percent": 46
+    },
+    {
+      "candidateId": "mn-senate-michele-tafoya",
+      "percent": 41
+    }
+  ]
+}

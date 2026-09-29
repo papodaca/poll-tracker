@@ -1,0 +1,22 @@
+{
+  "id": "echelon-insights-2026-04-09-me-senate-class-2-2",
+  "raceId": "2026-me-senate-class-2",
+  "pollster": "Echelon Insights",
+  "sponsor": "NetChoice",
+  "startDate": "2026-04-03",
+  "endDate": "2026-04-09",
+  "sampleSize": 378,
+  "population": "LV",
+  "url": "https://netchoice.org/new-72-of-americans-want-regulators-to-focus-on-lowering-prices-ahead-of-midterms-not-punishing-success/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "me-senate-susan-collins",
+      "percent": 46
+    },
+    {
+      "candidateId": "me-senate-janet-t-mills",
+      "percent": 48
+    }
+  ]
+}

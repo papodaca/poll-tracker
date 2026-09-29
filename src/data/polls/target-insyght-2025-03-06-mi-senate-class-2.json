@@ -1,0 +1,21 @@
+{
+  "id": "target-insyght-2025-03-06-mi-senate-class-2",
+  "raceId": "2026-mi-senate-class-2",
+  "pollster": "Target Insyght",
+  "startDate": "2025-03-03",
+  "endDate": "2025-03-06",
+  "sampleSize": 600,
+  "population": "V",
+  "url": "https://www.deadlinedetroit.com/articles/32917/poll_jocelyn_benson_dominates_mike_duggan_in_governor_s_race",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-senate-haley-stevens",
+      "percent": 35
+    },
+    {
+      "candidateId": "mi-senate-mike-rogers",
+      "percent": 41
+    }
+  ]
+}

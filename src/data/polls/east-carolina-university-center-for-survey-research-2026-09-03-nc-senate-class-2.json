@@ -1,0 +1,21 @@
+{
+  "id": "east-carolina-university-center-for-survey-research-2026-09-03-nc-senate-class-2",
+  "raceId": "2026-nc-senate-class-2",
+  "pollster": "East Carolina University Center for Survey Research",
+  "startDate": "2026-08-31",
+  "endDate": "2026-09-03",
+  "sampleSize": 675,
+  "population": "RV",
+  "url": "https://data.ddhq.io/polls/2026/09/10/East-Carolina-University-Center-for-Survey-Research-North-Carolina",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nc-senate-roy-cooper",
+      "percent": 45.7
+    },
+    {
+      "candidateId": "nc-senate-michael-whatley",
+      "percent": 38.5
+    }
+  ]
+}

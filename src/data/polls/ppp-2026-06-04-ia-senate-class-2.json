@@ -1,0 +1,22 @@
+{
+  "id": "ppp-2026-06-04-ia-senate-class-2",
+  "raceId": "2026-ia-senate-class-2",
+  "pollster": "PPP",
+  "sponsor": "Dem",
+  "startDate": "2026-06-03",
+  "endDate": "2026-06-04",
+  "sampleSize": 557,
+  "population": "RV",
+  "url": "https://www.politico.com/f/?id=0000019e-a539-d916-a39f-ef7da0f30000",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ia-senate-josh-turek",
+      "percent": 46
+    },
+    {
+      "candidateId": "ia-senate-ashley-hinson",
+      "percent": 46
+    }
+  ]
+}

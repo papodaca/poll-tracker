@@ -1,0 +1,26 @@
+{
+  "id": "mitchell-research-and-communications-2026-05-07-mi-governor-2-2-2",
+  "raceId": "2026-mi-governor",
+  "pollster": "Mitchell Research & Communications",
+  "sponsor": "Michigan Information & Research Service",
+  "startDate": "2026-05-01",
+  "endDate": "2026-05-07",
+  "sampleSize": 607,
+  "population": "LV",
+  "url": "https://www.dropbox.com/scl/fi/852uovvc2zfsqrnphdn9q/MIRS-MITCHELL-DEM-Primary-Press-Release-5-11-26-150PM_A.docx?rlkey=v522wmle6zvzlajt6m6nfoj78&e=3&st=l7aslgpl&dl=0",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-governor-john-james",
+      "percent": 30
+    },
+    {
+      "candidateId": "mi-governor-jocelyn-benson",
+      "percent": 42
+    },
+    {
+      "candidateId": "mi-governor-mike-duggan",
+      "percent": 13
+    }
+  ]
+}

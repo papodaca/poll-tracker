@@ -1,0 +1,21 @@
+{
+  "id": "texas-public-opinion-research-2026-04-20-tx-governor",
+  "raceId": "2026-tx-governor",
+  "pollster": "Texas Public Opinion Research",
+  "startDate": "2026-04-17",
+  "endDate": "2026-04-20",
+  "sampleSize": 1018,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/04/28/Texas-Public-Opinion-Research-Texas",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-governor-gina-hinojosa",
+      "percent": 43
+    },
+    {
+      "candidateId": "tx-governor-greg-abbott",
+      "percent": 48
+    }
+  ]
+}

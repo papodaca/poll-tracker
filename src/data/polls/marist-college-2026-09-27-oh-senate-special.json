@@ -1,0 +1,21 @@
+{
+  "id": "marist-college-2026-09-27-oh-senate-special",
+  "raceId": "2026-oh-senate-special",
+  "pollster": "Marist College",
+  "startDate": "2026-09-24",
+  "endDate": "2026-09-27",
+  "sampleSize": 1298,
+  "population": "RV",
+  "url": "https://data.ddhq.io/polls/2026/09/29/Marist-College-Ohio",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "oh-senate-sherrod-brown",
+      "percent": 51
+    },
+    {
+      "candidateId": "oh-senate-jon-husted",
+      "percent": 43
+    }
+  ]
+}

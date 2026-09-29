@@ -1,0 +1,22 @@
+{
+  "id": "onmessage-inc-2026-03-08-oh-senate-special",
+  "raceId": "2026-oh-senate-special",
+  "pollster": "OnMessage Inc.",
+  "sponsor": "Insurance Watchdog Coalition",
+  "startDate": "2026-03-03",
+  "endDate": "2026-03-08",
+  "sampleSize": 600,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/03/11/OnMessage-Inc./Insurance-Watchdog-Coalition-Maine-2026-03-03-2026-03-08",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "oh-senate-jon-husted",
+      "percent": 45
+    },
+    {
+      "candidateId": "oh-senate-sherrod-brown",
+      "percent": 47
+    }
+  ]
+}

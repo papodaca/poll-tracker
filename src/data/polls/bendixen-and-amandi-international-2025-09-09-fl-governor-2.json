@@ -1,0 +1,21 @@
+{
+  "id": "bendixen-and-amandi-international-2025-09-09-fl-governor-2",
+  "raceId": "2026-fl-governor",
+  "pollster": "Bendixen & Amandi International",
+  "startDate": "2025-09-07",
+  "endDate": "2025-09-09",
+  "sampleSize": 631,
+  "population": "LV",
+  "url": "https://x.com/JuliaManch/status/1965840731484139896",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-governor-david-jolly",
+      "percent": 40
+    },
+    {
+      "candidateId": "fl-governor-paul-renner",
+      "percent": 42
+    }
+  ]
+}

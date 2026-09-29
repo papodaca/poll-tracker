@@ -1,0 +1,21 @@
+{
+  "id": "university-of-texas-at-tyler-center-for-opinion-research-2026-02-22-tx-governor",
+  "raceId": "2026-tx-governor",
+  "pollster": "University of Texas at Tyler Center for Opinion Research",
+  "startDate": "2026-02-13",
+  "endDate": "2026-02-22",
+  "sampleSize": 1117,
+  "population": "RV",
+  "url": "https://data.ddhq.io/polls/2026/02/27/University-of-Texas-at-Tyler-Center-for-Opinion-Research-Texas",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-governor-gina-hinojosa",
+      "percent": 41
+    },
+    {
+      "candidateId": "tx-governor-greg-abbott",
+      "percent": 49
+    }
+  ]
+}

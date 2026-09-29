@@ -1,0 +1,25 @@
+{
+  "id": "tulchin-research-2026-06-04-oh-senate-special-2",
+  "raceId": "2026-oh-senate-special",
+  "pollster": "Tulchin Research",
+  "startDate": "2026-06-02",
+  "endDate": "2026-06-04",
+  "sampleSize": 600,
+  "population": "LV",
+  "url": "https://x.com/AndrewJTobias/status/2067239157999567347?s=20",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "oh-senate-sherrod-brown",
+      "percent": 46
+    },
+    {
+      "candidateId": "oh-senate-jon-husted",
+      "percent": 42
+    },
+    {
+      "candidateId": "oh-senate-bill-redpath",
+      "percent": 4
+    }
+  ]
+}

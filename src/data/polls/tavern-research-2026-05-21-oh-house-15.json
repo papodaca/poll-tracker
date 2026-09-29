@@ -1,0 +1,25 @@
+{
+  "id": "tavern-research-2026-05-21-oh-house-15",
+  "raceId": "2026-oh-house-15",
+  "pollster": "Tavern Research",
+  "startDate": "2026-05-16",
+  "endDate": "2026-05-21",
+  "sampleSize": 1141,
+  "population": "LV",
+  "url": "https://x.com/JacobRubashkin/status/2066643488330911994?s=20",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "oh-house-15-don-leonard",
+      "percent": 36
+    },
+    {
+      "candidateId": "oh-house-15-mike-carey",
+      "percent": 39
+    },
+    {
+      "candidateId": "oh-house-15-brennan-barrington",
+      "percent": 2
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "manhattan-institute-2025-10-28-ny-governor-2",
+  "raceId": "2026-ny-governor",
+  "pollster": "Manhattan Institute",
+  "startDate": "2025-10-22",
+  "endDate": "2025-10-28",
+  "sampleSize": 900,
+  "population": "LV",
+  "url": "https://manhattan.institute/article/blue-city-purple-state-new-york-poll-shows-mamdani-ahead-despite-unpopular-agenda-stefanik-leads-democrats-statewide",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ny-governor-antonio-delgado",
+      "percent": 37
+    },
+    {
+      "candidateId": "ny-governor-elise-m-stefanik",
+      "percent": 43
+    }
+  ]
+}

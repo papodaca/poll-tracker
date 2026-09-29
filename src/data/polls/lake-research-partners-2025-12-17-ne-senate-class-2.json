@@ -1,0 +1,21 @@
+{
+  "id": "lake-research-partners-2025-12-17-ne-senate-class-2",
+  "raceId": "2026-ne-senate-class-2",
+  "pollster": "Lake Research Partners",
+  "startDate": "2025-12-11",
+  "endDate": "2025-12-17",
+  "sampleSize": 900,
+  "population": "LV",
+  "url": "https://drive.google.com/file/d/1Izlk1L3prsXm04d-1ZRi8cLSliHvySnC/view?usp=sharing",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ne-senate-dan-osborn",
+      "percent": 47
+    },
+    {
+      "candidateId": "ne-senate-pete-ricketts",
+      "percent": 48
+    }
+  ]
+}

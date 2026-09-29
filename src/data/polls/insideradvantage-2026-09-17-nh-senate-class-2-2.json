@@ -1,0 +1,33 @@
+{
+  "id": "insideradvantage-2026-09-17-nh-senate-class-2-2",
+  "raceId": "2026-nh-senate-class-2",
+  "pollster": "InsiderAdvantage",
+  "startDate": "2026-09-16",
+  "endDate": "2026-09-17",
+  "sampleSize": 1200,
+  "population": "LV",
+  "url": "https://insideradvantage.com/insideradvantage-national-u-s-senate-surveys-n-c-cooper-48-whatley-43-mi-elsayed-47-rogers-45-nh-pappas-48-sununu-40/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nh-senate-chris-pappas",
+      "percent": 47.8
+    },
+    {
+      "candidateId": "nh-senate-john-sununu",
+      "percent": 39.9
+    },
+    {
+      "candidateId": "nh-senate-tim-harris",
+      "percent": 0.8
+    },
+    {
+      "candidateId": "nh-senate-edmond-laplante",
+      "percent": 1.4
+    },
+    {
+      "candidateId": "nh-senate-matt-giovonizzi",
+      "percent": 1
+    }
+  ]
+}

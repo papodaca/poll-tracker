@@ -1,0 +1,25 @@
+{
+  "id": "public-opinion-strategies-2026-06-11-mt-senate-class-2",
+  "raceId": "2026-mt-senate-class-2",
+  "pollster": "Public Opinion Strategies",
+  "startDate": "2026-06-08",
+  "endDate": "2026-06-11",
+  "sampleSize": 500,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/06/18/Public-Opinion-Strategies-Montana",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mt-senate-kurt-alme",
+      "percent": 44
+    },
+    {
+      "candidateId": "mt-senate-alani-bankhead",
+      "percent": 25
+    },
+    {
+      "candidateId": "mt-senate-seth-bodnar",
+      "percent": 20
+    }
+  ]
+}

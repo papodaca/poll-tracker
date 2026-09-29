@@ -1,0 +1,22 @@
+{
+  "id": "ssrs-2026-09-06-mi-senate-class-2",
+  "raceId": "2026-mi-senate-class-2",
+  "pollster": "SSRS",
+  "sponsor": "CNN",
+  "startDate": "2026-08-31",
+  "endDate": "2026-09-06",
+  "sampleSize": 843,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/09/09/SSRS/CNN-Michigan-2026-08-31-2026-09-06",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-senate-mike-rogers",
+      "percent": 44
+    },
+    {
+      "candidateId": "mi-senate-abdul-el-sayed",
+      "percent": 47
+    }
+  ]
+}

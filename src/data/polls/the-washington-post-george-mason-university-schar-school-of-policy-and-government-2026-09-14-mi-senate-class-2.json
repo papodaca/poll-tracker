@@ -1,0 +1,21 @@
+{
+  "id": "the-washington-post-george-mason-university-schar-school-of-policy-and-government-2026-09-14-mi-senate-class-2",
+  "raceId": "2026-mi-senate-class-2",
+  "pollster": "The Washington Post/George Mason University Schar School of Policy and Government",
+  "startDate": "2026-09-10",
+  "endDate": "2026-09-14",
+  "sampleSize": 803,
+  "population": "LV",
+  "url": "https://www.washingtonpost.com/tablet/2026/09/17/sept-10-14-2026-washington-post-schar-school-michigan-poll/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-senate-abdul-el-sayed",
+      "percent": 48
+    },
+    {
+      "candidateId": "mi-senate-mike-rogers",
+      "percent": 45
+    }
+  ]
+}

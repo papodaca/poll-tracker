@@ -1,0 +1,22 @@
+{
+  "id": "1892-polling-2025-09-04-nh-senate-class-2",
+  "raceId": "2026-nh-senate-class-2",
+  "pollster": "1892 Polling",
+  "sponsor": "One Nation",
+  "startDate": "2025-09-02",
+  "endDate": "2025-09-04",
+  "sampleSize": 500,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2025/09/09/1892 Polling/One Nation-New Hampshire-2025-09-02-2025-09-04",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nh-senate-john-sununu",
+      "percent": 43
+    },
+    {
+      "candidateId": "nh-senate-chris-pappas",
+      "percent": 45
+    }
+  ]
+}

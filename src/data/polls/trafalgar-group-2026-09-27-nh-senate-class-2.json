@@ -1,0 +1,25 @@
+{
+  "id": "trafalgar-group-2026-09-27-nh-senate-class-2",
+  "raceId": "2026-nh-senate-class-2",
+  "pollster": "Trafalgar Group",
+  "startDate": "2026-09-26",
+  "endDate": "2026-09-27",
+  "sampleSize": 1082,
+  "population": "LV",
+  "url": "https://www.thetrafalgargroup.org/news/nh-gen-senate-0926/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nh-senate-chris-pappas",
+      "percent": 47.4
+    },
+    {
+      "candidateId": "nh-senate-john-sununu",
+      "percent": 40.5
+    },
+    {
+      "candidateId": "nh-senate-edmond-laplante",
+      "percent": 1.1
+    }
+  ]
+}

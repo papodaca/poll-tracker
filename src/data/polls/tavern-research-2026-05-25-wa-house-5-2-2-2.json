@@ -1,0 +1,21 @@
+{
+  "id": "tavern-research-2026-05-25-wa-house-5-2-2-2",
+  "raceId": "2026-wa-house-5",
+  "pollster": "Tavern Research",
+  "startDate": "2026-05-18",
+  "endDate": "2026-05-25",
+  "sampleSize": 578,
+  "population": "LV",
+  "url": "https://www.tavernresearch.com/research-and-writings//wa-05-baumgartner-leads-democrats-trails-independent",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "wa-house-5-michael-baumgartner",
+      "percent": 54
+    },
+    {
+      "candidateId": "wa-house-5-david-womack",
+      "percent": 46
+    }
+  ]
+}

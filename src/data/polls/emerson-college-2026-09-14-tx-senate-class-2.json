@@ -1,0 +1,22 @@
+{
+  "id": "emerson-college-2026-09-14-tx-senate-class-2",
+  "raceId": "2026-tx-senate-class-2",
+  "pollster": "Emerson College",
+  "sponsor": "Nexstar",
+  "startDate": "2026-09-12",
+  "endDate": "2026-09-14",
+  "sampleSize": 1000,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/09/17/Emerson-College/Nexstar-Texas-2026-09-12-2026-09-14",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-senate-james-talarico",
+      "percent": 47.3
+    },
+    {
+      "candidateId": "tx-senate-ken-paxton",
+      "percent": 46.3
+    }
+  ]
+}

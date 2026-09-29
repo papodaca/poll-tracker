@@ -1,0 +1,21 @@
+{
+  "id": "public-opinion-strategies-2026-06-24-or-governor",
+  "raceId": "2026-or-governor",
+  "pollster": "Public Opinion Strategies",
+  "startDate": "2026-06-22",
+  "endDate": "2026-06-24",
+  "sampleSize": 600,
+  "population": "RV",
+  "url": "https://www.oregonlive.com/politics/2026/07/new-poll-shows-oregon-governors-race-is-far-from-settled.html",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "or-governor-christine-drazan",
+      "percent": 48
+    },
+    {
+      "candidateId": "or-governor-tina-kotek",
+      "percent": 44
+    }
+  ]
+}

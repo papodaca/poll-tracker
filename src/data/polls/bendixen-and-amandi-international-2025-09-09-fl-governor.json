@@ -1,0 +1,22 @@
+{
+  "id": "bendixen-and-amandi-international-2025-09-09-fl-governor",
+  "raceId": "2026-fl-governor",
+  "pollster": "Bendixen & Amandi International",
+  "sponsor": "David Jolly",
+  "startDate": "2025-09-07",
+  "endDate": "2025-09-09",
+  "sampleSize": 631,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2025/09/10/Bendixen & Amandi International-Florida",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-governor-david-jolly",
+      "percent": 41
+    },
+    {
+      "candidateId": "fl-governor-byron-donalds",
+      "percent": 40
+    }
+  ]
+}

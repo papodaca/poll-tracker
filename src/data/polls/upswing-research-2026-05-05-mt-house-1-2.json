@@ -1,0 +1,22 @@
+{
+  "id": "upswing-research-2026-05-05-mt-house-1-2",
+  "raceId": "2026-mt-house-1",
+  "pollster": "Upswing Research",
+  "sponsor": "314 Action (hybrid PAC)",
+  "startDate": "2026-04-30",
+  "endDate": "2026-05-05",
+  "sampleSize": 401,
+  "population": "LV",
+  "url": "https://x.com/PatrickSvitek/status/2054609849439199263?s=20",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mt-house-1-sam-forstag",
+      "percent": 43
+    },
+    {
+      "candidateId": "mt-house-1-aaron-flint",
+      "percent": 48
+    }
+  ]
+}

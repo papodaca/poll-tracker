@@ -1,0 +1,25 @@
+{
+  "id": "co-efficient-2026-09-11-nh-governor",
+  "raceId": "2026-nh-governor",
+  "pollster": "co/efficient",
+  "startDate": "2026-09-09",
+  "endDate": "2026-09-11",
+  "sampleSize": 958,
+  "population": "LV",
+  "url": "https://battlegrounds.coefficient.org/nh/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nh-governor-cinde-warmington",
+      "percent": 34
+    },
+    {
+      "candidateId": "nh-governor-kelly-ayotte",
+      "percent": 55
+    },
+    {
+      "candidateId": "nh-governor-stephen-villee",
+      "percent": 3
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "beacon-research-shaw-and-co-research-2026-08-10-me-senate-class-2",
+  "raceId": "2026-me-senate-class-2",
+  "pollster": "Beacon Research/Shaw & Co. Research",
+  "sponsor": "Fox News",
+  "startDate": "2026-08-06",
+  "endDate": "2026-08-10",
+  "sampleSize": 1000,
+  "population": "RV",
+  "url": "https://www.foxnews.com/politics/fox-news-poll-new-matchup-same-result-maine-senate-race-stays-locked",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "me-senate-susan-collins",
+      "percent": 46
+    },
+    {
+      "candidateId": "me-senate-troy-jackson",
+      "percent": 48
+    }
+  ]
+}

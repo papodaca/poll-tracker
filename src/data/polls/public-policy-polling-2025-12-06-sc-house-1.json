@@ -1,0 +1,21 @@
+{
+  "id": "public-policy-polling-2025-12-06-sc-house-1",
+  "raceId": "2026-sc-house-1",
+  "pollster": "Public Policy Polling",
+  "startDate": "2025-12-05",
+  "endDate": "2025-12-06",
+  "sampleSize": 645,
+  "population": "LV",
+  "url": "https://s3.documentcloud.org/documents/26379733/sc-01-ppp-for-mac-deford-dec-2025.pdf",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "sc-house-1-mac-deford",
+      "percent": 36
+    },
+    {
+      "candidateId": "sc-house-1-marvin-m-smith",
+      "percent": 39
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "siena-university-2026-01-28-ny-governor",
+  "raceId": "2026-ny-governor",
+  "pollster": "Siena University",
+  "startDate": "2026-01-26",
+  "endDate": "2026-01-28",
+  "sampleSize": 800,
+  "population": "RV",
+  "url": "https://sri.siena.edu/2026/02/03/hochul-with-her-best-ever-favorability-rating-49-40-continues-to-hold-commanding-leads-over-blakeman-54-28-among-dems-delgado-64-11/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ny-governor-bruce-blakeman",
+      "percent": 28
+    },
+    {
+      "candidateId": "ny-governor-kathy-hochul",
+      "percent": 54
+    }
+  ]
+}

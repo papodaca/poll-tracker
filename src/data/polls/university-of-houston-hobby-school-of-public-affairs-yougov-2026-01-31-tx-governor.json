@@ -1,0 +1,25 @@
+{
+  "id": "university-of-houston-hobby-school-of-public-affairs-yougov-2026-01-31-tx-governor",
+  "raceId": "2026-tx-governor",
+  "pollster": "University of Houston Hobby School of Public Affairs/YouGov",
+  "startDate": "2026-01-20",
+  "endDate": "2026-01-31",
+  "sampleSize": 1502,
+  "population": "LV",
+  "url": "https://www.uh.edu/hobby/primary2026/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-governor-gina-hinojosa",
+      "percent": 42
+    },
+    {
+      "candidateId": "tx-governor-greg-abbott",
+      "percent": 49
+    },
+    {
+      "candidateId": "tx-governor-pat-dixon",
+      "percent": 3
+    }
+  ]
+}

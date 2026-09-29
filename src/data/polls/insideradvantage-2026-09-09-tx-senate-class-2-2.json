@@ -1,0 +1,25 @@
+{
+  "id": "insideradvantage-2026-09-09-tx-senate-class-2-2",
+  "raceId": "2026-tx-senate-class-2",
+  "pollster": "InsiderAdvantage",
+  "startDate": "2026-09-08",
+  "endDate": "2026-09-09",
+  "sampleSize": 1200,
+  "population": "LV",
+  "url": "https://insideradvantage.com/top-line-tabs-texas/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-senate-james-talarico",
+      "percent": 47.1
+    },
+    {
+      "candidateId": "tx-senate-ken-paxton",
+      "percent": 45.6
+    },
+    {
+      "candidateId": "tx-senate-ted-brown",
+      "percent": 2.2
+    }
+  ]
+}

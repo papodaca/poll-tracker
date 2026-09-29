@@ -1,0 +1,22 @@
+{
+  "id": "texas-public-opinion-research-2026-07-17-tx-senate-class-2",
+  "raceId": "2026-tx-senate-class-2",
+  "pollster": "Texas Public Opinion Research",
+  "sponsor": "Slingshot Strategies",
+  "startDate": "2026-07-15",
+  "endDate": "2026-07-17",
+  "sampleSize": 1048,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/07/28/Texas-Public-Opinion-Research-Texas",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-senate-james-talarico",
+      "percent": 45
+    },
+    {
+      "candidateId": "tx-senate-ken-paxton",
+      "percent": 40
+    }
+  ]
+}

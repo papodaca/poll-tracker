@@ -1,0 +1,21 @@
+{
+  "id": "saint-anselm-college-survey-center-2026-06-25-nh-governor",
+  "raceId": "2026-nh-governor",
+  "pollster": "Saint Anselm College Survey Center",
+  "startDate": "2026-06-24",
+  "endDate": "2026-06-25",
+  "sampleSize": 1614,
+  "population": "RV",
+  "url": "https://www.anselm.edu/about/anselmian-hub/news/saint-anselm-college-survey-center-june-poll-finds-democrats-expand-generic-ballot-lead",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nh-governor-cinde-warmington",
+      "percent": 37
+    },
+    {
+      "candidateId": "nh-governor-kelly-ayotte",
+      "percent": 45
+    }
+  ]
+}

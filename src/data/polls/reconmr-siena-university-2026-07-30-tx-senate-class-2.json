@@ -1,0 +1,22 @@
+{
+  "id": "reconmr-siena-university-2026-07-30-tx-senate-class-2",
+  "raceId": "2026-tx-senate-class-2",
+  "pollster": "ReconMR/Siena University",
+  "sponsor": "Texas A&M University Bush School of Government & Public Service",
+  "startDate": "2026-07-27",
+  "endDate": "2026-07-30",
+  "sampleSize": 619,
+  "population": "LV",
+  "url": "https://reconmr.com/wp-content/uploads/2026/08/Texas-Pulse-August-Release-August-7-2026-Final.pdf",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-senate-james-talarico",
+      "percent": 47
+    },
+    {
+      "candidateId": "tx-senate-ken-paxton",
+      "percent": 43
+    }
+  ]
+}

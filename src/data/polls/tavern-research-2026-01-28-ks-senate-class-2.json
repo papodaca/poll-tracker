@@ -1,0 +1,21 @@
+{
+  "id": "tavern-research-2026-01-28-ks-senate-class-2",
+  "raceId": "2026-ks-senate-class-2",
+  "pollster": "Tavern Research",
+  "startDate": "2026-01-26",
+  "endDate": "2026-01-28",
+  "sampleSize": 1013,
+  "population": "LV",
+  "url": "https://mailchi.mp/noahforkansas/041726icymi?e=eabd966005",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ks-senate-adam-hamilton",
+      "percent": 51
+    },
+    {
+      "candidateId": "ks-senate-roger-marshall",
+      "percent": 49
+    }
+  ]
+}

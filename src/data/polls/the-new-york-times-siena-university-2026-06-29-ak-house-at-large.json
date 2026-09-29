@@ -1,0 +1,21 @@
+{
+  "id": "the-new-york-times-siena-university-2026-06-29-ak-house-at-large",
+  "raceId": "2026-ak-house-at-large",
+  "pollster": "The New York Times/Siena University",
+  "startDate": "2026-06-15",
+  "endDate": "2026-06-29",
+  "sampleSize": 593,
+  "population": "LV",
+  "url": "https://www.nytimes.com/2026/07/01/upshot/polls-ohio-iowa-alaska-carolina.html",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ak-house-nick-begich",
+      "percent": 51
+    },
+    {
+      "candidateId": "ak-house-at-large-matt-schultz",
+      "percent": 39
+    }
+  ]
+}

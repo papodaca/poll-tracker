@@ -1,0 +1,21 @@
+{
+  "id": "university-of-massachusetts-lowell-center-for-public-opinion-yougov-2026-09-14-me-governor",
+  "raceId": "2026-me-governor",
+  "pollster": "University of Massachusetts Lowell Center for Public Opinion/YouGov",
+  "startDate": "2026-08-28",
+  "endDate": "2026-09-14",
+  "sampleSize": 650,
+  "population": "LV",
+  "url": "https://www.uml.edu/news/press-releases/2026/09242026-maine-poll.aspx",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "me-governor-bobby-charles",
+      "percent": 38
+    },
+    {
+      "candidateId": "me-governor-hannah-pingree",
+      "percent": 49
+    }
+  ]
+}

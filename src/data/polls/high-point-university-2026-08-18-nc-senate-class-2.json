@@ -1,0 +1,21 @@
+{
+  "id": "high-point-university-2026-08-18-nc-senate-class-2",
+  "raceId": "2026-nc-senate-class-2",
+  "pollster": "High Point University",
+  "startDate": "2026-08-14",
+  "endDate": "2026-08-18",
+  "sampleSize": 1119,
+  "population": "LV",
+  "url": "https://www.highpoint.edu/src/files/2023/08/HPU-Poll-126-Memo-08192026.pdf",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nc-senate-roy-cooper",
+      "percent": 50
+    },
+    {
+      "candidateId": "nc-senate-michael-whatley",
+      "percent": 45
+    }
+  ]
+}

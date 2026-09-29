@@ -1,0 +1,22 @@
+{
+  "id": "hart-research-associates-2026-09-24-oh-house-15",
+  "raceId": "2026-oh-house-15",
+  "pollster": "Hart Research Associates",
+  "sponsor": "House Majority PAC (hybrid PAC)",
+  "startDate": "2026-09-22",
+  "endDate": "2026-09-24",
+  "sampleSize": 500,
+  "population": "LV",
+  "url": "https://x.com/cjwarnke/status/2104619061556457603",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "oh-house-15-don-leonard",
+      "percent": 46
+    },
+    {
+      "candidateId": "oh-house-15-mike-carey",
+      "percent": 45
+    }
+  ]
+}

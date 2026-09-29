@@ -1,0 +1,22 @@
+{
+  "id": "university-of-massachusetts-department-of-political-science-yougov-2025-10-29-ma-governor-2-2",
+  "raceId": "2026-ma-governor",
+  "pollster": "University of Massachusetts Department of Political Science/YouGov",
+  "sponsor": "WCVB-TV (Boston)",
+  "startDate": "2025-10-21",
+  "endDate": "2025-10-29",
+  "sampleSize": 800,
+  "population": "A",
+  "url": "https://www.wcvb.com/article/gop-challenger-healey-umass-poll-nov-2025/69253709",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ma-governor-michael-minogue",
+      "percent": 26
+    },
+    {
+      "candidateId": "ma-governor-maura-healey",
+      "percent": 51
+    }
+  ]
+}

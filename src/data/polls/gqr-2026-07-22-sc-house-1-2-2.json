@@ -1,0 +1,30 @@
+{
+  "id": "gqr-2026-07-22-sc-house-1-2-2",
+  "raceId": "2026-sc-house-1",
+  "pollster": "GQR",
+  "sponsor": "House Majority PAC (hybrid PAC)",
+  "startDate": "2026-07-15",
+  "endDate": "2026-07-22",
+  "sampleSize": 400,
+  "population": "LV",
+  "url": "https://www.thehousemajoritypac.com/news/hmp-poll-nancy-lacore-has-a-clear-path-to-victory-in-sc-01",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "sc-house-1-jenny-costa-honeycutt",
+      "percent": 43
+    },
+    {
+      "candidateId": "sc-house-1-nancy-lacore",
+      "percent": 41
+    },
+    {
+      "candidateId": "sc-house-1-bill-reeside",
+      "percent": 5
+    },
+    {
+      "candidateId": "sc-house-1-margo-ellis",
+      "percent": 2
+    }
+  ]
+}

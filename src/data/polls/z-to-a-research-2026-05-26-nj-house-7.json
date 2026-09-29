@@ -1,0 +1,22 @@
+{
+  "id": "z-to-a-research-2026-05-26-nj-house-7",
+  "raceId": "2026-nj-house-7",
+  "pollster": "Z to A Research",
+  "sponsor": "314 Action (hybrid PAC)",
+  "startDate": "2026-05-24",
+  "endDate": "2026-05-26",
+  "sampleSize": 430,
+  "population": "LV",
+  "url": "https://mailchi.mp/314action/new-poll-engineer-and-healthcare-leader-rebecca-bennett-leads-republican-tom-kean-jr-in-new-jerseys-7th-congressional-district",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nj-house-7-rebecca-bennett",
+      "percent": 47
+    },
+    {
+      "candidateId": "nj-house-7-tom-kean",
+      "percent": 43
+    }
+  ]
+}

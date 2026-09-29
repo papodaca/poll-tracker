@@ -1,0 +1,22 @@
+{
+  "id": "surveyusa-2025-09-18-mn-governor-2-2-2",
+  "raceId": "2026-mn-governor",
+  "pollster": "SurveyUSA",
+  "sponsor": "KSTP-TV (St. Paul, Minn.) / KAAL-TV (Austin, Minn.) / WDIO-DT (Duluth, Minn.)",
+  "startDate": "2025-09-15",
+  "endDate": "2025-09-18",
+  "sampleSize": 568,
+  "population": "LV",
+  "url": "https://kstp.com/kstp-news/top-news/kstp-surveyusa-poll-walz-has-net-approval-of-zero-as-he-begins-campaign-for-3rd-term/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mn-governor-phillip-parrish",
+      "percent": 38
+    },
+    {
+      "candidateId": "mn-governor-tim-walz",
+      "percent": 49
+    }
+  ]
+}

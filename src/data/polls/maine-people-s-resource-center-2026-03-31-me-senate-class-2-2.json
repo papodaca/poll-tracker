@@ -1,0 +1,21 @@
+{
+  "id": "maine-people-s-resource-center-2026-03-31-me-senate-class-2-2",
+  "raceId": "2026-me-senate-class-2",
+  "pollster": "Maine People's Resource Center",
+  "startDate": "2026-03-20",
+  "endDate": "2026-03-31",
+  "sampleSize": 1167,
+  "population": "LV",
+  "url": "https://mailchi.mp/notus/y6qmt08bkd?e=206bab609c",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "me-senate-susan-collins",
+      "percent": 45
+    },
+    {
+      "candidateId": "me-senate-janet-t-mills",
+      "percent": 41.9
+    }
+  ]
+}

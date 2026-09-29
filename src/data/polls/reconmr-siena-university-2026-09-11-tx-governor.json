@@ -1,0 +1,25 @@
+{
+  "id": "reconmr-siena-university-2026-09-11-tx-governor",
+  "raceId": "2026-tx-governor",
+  "pollster": "ReconMR/Siena University",
+  "startDate": "2026-09-08",
+  "endDate": "2026-09-11",
+  "sampleSize": 614,
+  "population": "LV",
+  "url": "https://sri.siena.edu/2026/09/17/hinojosa-now-leads-abbott-by-4-points-talarico-widens-lead-to-6-points/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-governor-gina-hinojosa",
+      "percent": 49
+    },
+    {
+      "candidateId": "tx-governor-greg-abbott",
+      "percent": 45
+    },
+    {
+      "candidateId": "tx-governor-pat-dixon",
+      "percent": 0
+    }
+  ]
+}

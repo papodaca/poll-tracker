@@ -1,0 +1,21 @@
+{
+  "id": "tavern-research-2026-07-06-me-senate-class-2",
+  "raceId": "2026-me-senate-class-2",
+  "pollster": "Tavern Research",
+  "startDate": "2026-07-03",
+  "endDate": "2026-07-06",
+  "sampleSize": 1074,
+  "population": "LV",
+  "url": "https://242750075.fs1.hubspotusercontent-na2.net/hubfs/242750075/Toplines%20-%20Maine%20Senate%2007062026.pdf",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "me-senate-graham-platner",
+      "percent": 52
+    },
+    {
+      "candidateId": "me-senate-susan-collins",
+      "percent": 48
+    }
+  ]
+}

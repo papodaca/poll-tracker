@@ -1,0 +1,25 @@
+{
+  "id": "gqr-2026-08-06-fl-house-13",
+  "raceId": "2026-fl-house-13",
+  "pollster": "GQR",
+  "startDate": "2026-08-04",
+  "endDate": "2026-08-06",
+  "sampleSize": 500,
+  "population": "LV",
+  "url": "https://www.semafor.com/article/08/14/2026/democrats-eye-republican-held-florida-district",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-house-13-leela-gray",
+      "percent": 44
+    },
+    {
+      "candidateId": "fl-house-13-anna-paulina-luna",
+      "percent": 47
+    },
+    {
+      "candidateId": "fl-house-13-tony-darrigo",
+      "percent": 4
+    }
+  ]
+}

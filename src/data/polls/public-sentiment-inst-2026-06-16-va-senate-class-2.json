@@ -1,0 +1,21 @@
+{
+  "id": "public-sentiment-inst-2026-06-16-va-senate-class-2",
+  "raceId": "2026-va-senate-class-2",
+  "pollster": "Public Sentiment Inst.",
+  "startDate": "2026-06-12",
+  "endDate": "2026-06-16",
+  "sampleSize": 996,
+  "population": "LV",
+  "url": "https://tpsiofficial.substack.com/p/tpsi-new-tpsi-senate-poll-confirms",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "va-senate-mark-warner",
+      "percent": 50
+    },
+    {
+      "candidateId": "va-senate-bert-mizusawa",
+      "percent": 33
+    }
+  ]
+}

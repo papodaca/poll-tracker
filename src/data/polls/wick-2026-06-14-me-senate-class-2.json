@@ -1,0 +1,22 @@
+{
+  "id": "wick-2026-06-14-me-senate-class-2",
+  "raceId": "2026-me-senate-class-2",
+  "pollster": "Wick",
+  "sponsor": "2Way",
+  "startDate": "2026-06-11",
+  "endDate": "2026-06-14",
+  "sampleSize": 1008,
+  "population": "LV",
+  "url": "https://www.wick.io/post/maine-2026-senate-race",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "me-senate-graham-platner",
+      "percent": 47.6
+    },
+    {
+      "candidateId": "me-senate-susan-collins",
+      "percent": 45.4
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "mitchell-research-and-communications-2025-11-21-mi-senate-class-2-2-2",
+  "raceId": "2026-mi-senate-class-2",
+  "pollster": "Mitchell Research & Communications",
+  "sponsor": "Michigan Information & Research Service",
+  "startDate": "2025-11-18",
+  "endDate": "2025-11-21",
+  "sampleSize": 1456,
+  "population": "RV",
+  "url": "https://mirs-polls.s3.us-east-2.amazonaws.com/c7ba70f28c3812c553cbf07db509f469.pdf",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-senate-haley-stevens",
+      "percent": 40
+    },
+    {
+      "candidateId": "mi-senate-mike-rogers",
+      "percent": 42
+    }
+  ]
+}

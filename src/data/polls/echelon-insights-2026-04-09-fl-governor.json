@@ -1,0 +1,22 @@
+{
+  "id": "echelon-insights-2026-04-09-fl-governor",
+  "raceId": "2026-fl-governor",
+  "pollster": "Echelon Insights",
+  "sponsor": "NetChoice",
+  "startDate": "2026-04-03",
+  "endDate": "2026-04-09",
+  "sampleSize": 406,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/04/20/Echelon-Insights/NetChoice-National-2026-04-03-2026-04-09",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-governor-david-jolly",
+      "percent": 42
+    },
+    {
+      "candidateId": "fl-governor-byron-donalds",
+      "percent": 47
+    }
+  ]
+}

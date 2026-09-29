@@ -1,0 +1,22 @@
+{
+  "id": "wpai-2025-01-15-ga-senate-class-2",
+  "raceId": "2026-ga-senate-class-2",
+  "pollster": "WPAi",
+  "sponsor": "Kemp",
+  "startDate": "2025-01-14",
+  "endDate": "2025-01-15",
+  "sampleSize": 500,
+  "population": "LV",
+  "url": "https://www.politico.com/news/2025/01/16/kemp-ossoff-poll-georgia-senate-00198719",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ga-senate-jon-ossoff",
+      "percent": 44
+    },
+    {
+      "candidateId": "ga-senate-mike-collins",
+      "percent": 34
+    }
+  ]
+}

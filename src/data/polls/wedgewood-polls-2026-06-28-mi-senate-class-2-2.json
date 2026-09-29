@@ -1,0 +1,21 @@
+{
+  "id": "wedgewood-polls-2026-06-28-mi-senate-class-2-2",
+  "raceId": "2026-mi-senate-class-2",
+  "pollster": "Wedgewood Polls",
+  "startDate": "2026-06-25",
+  "endDate": "2026-06-28",
+  "sampleSize": 602,
+  "population": "LV",
+  "url": "https://drive.google.com/file/d/1iEKQAzMPzob0T4GK2_ev-w8OuMVXVALu/view?usp=sharing",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-senate-haley-stevens",
+      "percent": 46
+    },
+    {
+      "candidateId": "mi-senate-mike-rogers",
+      "percent": 46
+    }
+  ]
+}

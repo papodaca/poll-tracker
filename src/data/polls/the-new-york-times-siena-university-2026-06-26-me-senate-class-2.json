@@ -1,0 +1,22 @@
+{
+  "id": "the-new-york-times-siena-university-2026-06-26-me-senate-class-2",
+  "raceId": "2026-me-senate-class-2",
+  "pollster": "The New York Times/Siena University",
+  "sponsor": "Portland Press Herald",
+  "startDate": "2026-06-19",
+  "endDate": "2026-06-26",
+  "sampleSize": 608,
+  "population": "LV",
+  "url": "https://www.nytimes.com/2026/06/29/us/politics/collins-platner-maine-senate-poll.html",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "me-senate-graham-platner",
+      "percent": 49
+    },
+    {
+      "candidateId": "me-senate-susan-collins",
+      "percent": 47
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "polity-research-consulting-2026-05-07-ma-governor-2",
+  "raceId": "2026-ma-governor",
+  "pollster": "Polity Research Consulting",
+  "sponsor": "Retailers Association of Massachusetts",
+  "startDate": "2026-04-19",
+  "endDate": "2026-05-07",
+  "sampleSize": 608,
+  "population": "RV",
+  "url": "https://www.wwlp.com/news/massachusetts/poll-voters-support-healey-but-unsure-of-states-future/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ma-governor-michael-minogue",
+      "percent": 31
+    },
+    {
+      "candidateId": "ma-governor-maura-healey",
+      "percent": 58
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "public-policy-polling-2026-03-05-tx-senate-class-2-2",
+  "raceId": "2026-tx-senate-class-2",
+  "pollster": "Public Policy Polling",
+  "sponsor": "Senate Majority PAC (super PAC)",
+  "startDate": "2026-03-04",
+  "endDate": "2026-03-05",
+  "sampleSize": 576,
+  "population": "V",
+  "url": "https://senatemajority.com/news/polling-talarico-leads-cornyn-and-paxton-in-texas-u-s-senate-matchups/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-senate-james-talarico",
+      "percent": 44
+    },
+    {
+      "candidateId": "tx-senate-john-cornyn",
+      "percent": 43
+    }
+  ]
+}

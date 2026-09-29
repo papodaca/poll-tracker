@@ -1,0 +1,21 @@
+{
+  "id": "impact-research-2026-08-17-sd-senate-class-2",
+  "raceId": "2026-sd-senate-class-2",
+  "pollster": "Impact Research",
+  "startDate": "2026-08-13",
+  "endDate": "2026-08-17",
+  "sampleSize": 500,
+  "population": "LV",
+  "url": "https://www.documentcloud.org/documents/28585312-sd-sen-impact-research-for-brian-bengs",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "sd-senate-brian-bengs",
+      "percent": 44
+    },
+    {
+      "candidateId": "sd-senate-mike-rounds",
+      "percent": 44
+    }
+  ]
+}

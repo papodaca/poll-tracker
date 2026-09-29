@@ -1,0 +1,21 @@
+{
+  "id": "university-of-new-hampshire-survey-center-2026-06-23-ma-senate-class-2-2",
+  "raceId": "2026-ma-senate-class-2",
+  "pollster": "University of New Hampshire Survey Center",
+  "startDate": "2026-06-18",
+  "endDate": "2026-06-23",
+  "sampleSize": 623,
+  "population": "LV",
+  "url": "https://scholars.unh.edu/survey_center_polls/973/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ma-senate-john-deaton",
+      "percent": 30
+    },
+    {
+      "candidateId": "ma-senate-seth-moulton",
+      "percent": 50
+    }
+  ]
+}

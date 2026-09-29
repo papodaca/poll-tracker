@@ -1,0 +1,21 @@
+{
+  "id": "z-to-a-research-2026-07-27-md-house-1",
+  "raceId": "2026-md-house-1",
+  "pollster": "Z to A Research",
+  "startDate": "2026-07-23",
+  "endDate": "2026-07-27",
+  "sampleSize": 482,
+  "population": "LV",
+  "url": "https://drive.google.com/file/d/1h21eJZ-tzlqNhbsPP3YFvqFUC5kGcd8B/view?usp=sharing",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "md-house-1-dan-schwartz",
+      "percent": 39
+    },
+    {
+      "candidateId": "md-house-1-andy-harris",
+      "percent": 52
+    }
+  ]
+}

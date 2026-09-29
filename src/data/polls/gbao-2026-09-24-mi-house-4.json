@@ -1,0 +1,19 @@
+{
+  "id": "gbao-2026-09-24-mi-house-4",
+  "raceId": "2026-mi-house-4",
+  "pollster": "GBAO",
+  "startDate": "2026-09-24",
+  "endDate": "2026-09-24",
+  "url": "https://x.com/zachblackburn23/status/2103156697699430856?s=20",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-house-4-sean-mccann",
+      "percent": 47
+    },
+    {
+      "candidateId": "mi-house-4-bill-huizenga",
+      "percent": 46
+    }
+  ]
+}

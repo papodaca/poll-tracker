@@ -1,0 +1,25 @@
+{
+  "id": "data-for-progress-2026-08-04-ak-senate-class-2-2-2",
+  "raceId": "2026-ak-senate-class-2",
+  "pollster": "Data for Progress",
+  "startDate": "2026-07-28",
+  "endDate": "2026-08-04",
+  "sampleSize": 575,
+  "population": "LV",
+  "url": "https://www.dataforprogress.org/blog/2026/8/17/as-alaskas-affordability-crisis-deepens-peltola-leads-in-senate-race",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ak-senate-dan-sullivan",
+      "percent": 45
+    },
+    {
+      "candidateId": "ak-senate-mary-peltola",
+      "percent": 50
+    },
+    {
+      "candidateId": "ak-senate-daniel-j-sullivan-jr",
+      "percent": 4
+    }
+  ]
+}

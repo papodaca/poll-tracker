@@ -1,0 +1,22 @@
+{
+  "id": "global-strategy-group-2026-08-13-mi-house-10-2",
+  "raceId": "2026-mi-house-10",
+  "pollster": "Global Strategy Group",
+  "sponsor": "House Majority PAC (hybrid PAC)",
+  "startDate": "2026-08-10",
+  "endDate": "2026-08-13",
+  "sampleSize": 600,
+  "population": "LV",
+  "url": "https://hub.nationaljournal.com/welcome-to-the-trump-midterms",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-house-10-christina-hines",
+      "percent": 45
+    },
+    {
+      "candidateId": "mi-house-10-mike-bouchard",
+      "percent": 45
+    }
+  ]
+}

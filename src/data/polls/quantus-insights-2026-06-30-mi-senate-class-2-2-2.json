@@ -1,0 +1,21 @@
+{
+  "id": "quantus-insights-2026-06-30-mi-senate-class-2-2-2",
+  "raceId": "2026-mi-senate-class-2",
+  "pollster": "Quantus Insights",
+  "startDate": "2026-06-29",
+  "endDate": "2026-06-30",
+  "sampleSize": 947,
+  "population": "LV",
+  "url": "https://quantusinsights.org/f/michigan-senate-el-sayed-leads-primary-fall-race-remains-tight",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-senate-mallory-mcmorrow",
+      "percent": 44.4
+    },
+    {
+      "candidateId": "mi-senate-mike-rogers",
+      "percent": 45.3
+    }
+  ]
+}

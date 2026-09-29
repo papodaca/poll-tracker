@@ -1,0 +1,22 @@
+{
+  "id": "tulchin-research-2026-08-04-oh-governor",
+  "raceId": "2026-oh-governor",
+  "pollster": "Tulchin Research",
+  "sponsor": "John Kulewicz",
+  "startDate": "2026-07-29",
+  "endDate": "2026-08-04",
+  "sampleSize": 600,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/08/12/Tulchin-Research/John-Kulewicz-Ohio-2026-07-29-2026-08-04",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "oh-governor-amy-acton",
+      "percent": 46
+    },
+    {
+      "candidateId": "oh-governor-vivek-ramaswamy",
+      "percent": 44
+    }
+  ]
+}

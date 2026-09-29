@@ -1,0 +1,22 @@
+{
+  "id": "tipp-insights-2026-03-19-wi-governor",
+  "raceId": "2026-wi-governor",
+  "pollster": "TIPP Insights",
+  "sponsor": "League of American Workers",
+  "startDate": "2026-03-13",
+  "endDate": "2026-03-19",
+  "sampleSize": 1168,
+  "population": "LV",
+  "url": "https://tippinsights.com/league-of-american-workers-survey-wisconsin-3/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "wi-governor-mandela-barnes",
+      "percent": 43
+    },
+    {
+      "candidateId": "wi-governor-tom-tiffany",
+      "percent": 41
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "gqr-2026-07-26-mt-senate-class-2-2",
+  "raceId": "2026-mt-senate-class-2",
+  "pollster": "GQR",
+  "sponsor": "Contours Inc.",
+  "startDate": "2026-07-23",
+  "endDate": "2026-07-26",
+  "sampleSize": 500,
+  "population": "LV",
+  "url": "https://www.gelliottmorris.com/p/2026-07-28-exclusive-independent-leads-democrat-against-republican-montana",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mt-senate-kurt-alme",
+      "percent": 52
+    },
+    {
+      "candidateId": "mt-senate-alani-bankhead",
+      "percent": 44
+    }
+  ]
+}

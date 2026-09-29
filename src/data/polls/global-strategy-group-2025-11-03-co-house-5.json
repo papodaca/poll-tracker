@@ -1,0 +1,25 @@
+{
+  "id": "global-strategy-group-2025-11-03-co-house-5",
+  "raceId": "2026-co-house-5",
+  "pollster": "Global Strategy Group",
+  "startDate": "2025-10-30",
+  "endDate": "2025-11-03",
+  "sampleSize": 450,
+  "population": "LV",
+  "url": "https://www.denvergazette.com/2025/11/05/jeff-crank-challenger-jessica-killins-internal-poll-shows-toss-up-race-in-colorados-5th-cd/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "co-house-5-jessica-killin",
+      "percent": 40
+    },
+    {
+      "candidateId": "co-house-5-jeff-crank",
+      "percent": 43
+    },
+    {
+      "candidateId": "co-house-5-matt-cavanaugh",
+      "percent": 5
+    }
+  ]
+}

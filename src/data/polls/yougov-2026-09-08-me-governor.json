@@ -1,0 +1,25 @@
+{
+  "id": "yougov-2026-09-08-me-governor",
+  "raceId": "2026-me-governor",
+  "pollster": "YouGov",
+  "startDate": "2026-09-02",
+  "endDate": "2026-09-08",
+  "sampleSize": 1335,
+  "population": "LV",
+  "url": "https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_me_20260902.pdf",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "me-governor-bobby-charles",
+      "percent": 36
+    },
+    {
+      "candidateId": "me-governor-hannah-pingree",
+      "percent": 47
+    },
+    {
+      "candidateId": "me-governor-rick-bennett",
+      "percent": 2
+    }
+  ]
+}

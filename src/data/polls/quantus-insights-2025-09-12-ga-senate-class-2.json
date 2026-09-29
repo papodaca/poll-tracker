@@ -1,0 +1,21 @@
+{
+  "id": "quantus-insights-2025-09-12-ga-senate-class-2",
+  "raceId": "2026-ga-senate-class-2",
+  "pollster": "Quantus Insights",
+  "startDate": "2025-09-09",
+  "endDate": "2025-09-12",
+  "sampleSize": 624,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2025/09/15/Quantus Insights-Georgia",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ga-senate-mike-collins",
+      "percent": 37.7
+    },
+    {
+      "candidateId": "ga-senate-jon-ossoff",
+      "percent": 37.8
+    }
+  ]
+}

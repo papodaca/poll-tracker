@@ -1,0 +1,21 @@
+{
+  "id": "yes-every-kid-2026-01-29-nh-senate-class-2",
+  "raceId": "2026-nh-senate-class-2",
+  "pollster": "yes. every kid.",
+  "startDate": "2026-01-28",
+  "endDate": "2026-01-29",
+  "sampleSize": 563,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/02/13/yes.-every-kid.-New-Hampshire",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nh-senate-chris-pappas",
+      "percent": 45
+    },
+    {
+      "candidateId": "nh-senate-john-sununu",
+      "percent": 41
+    }
+  ]
+}

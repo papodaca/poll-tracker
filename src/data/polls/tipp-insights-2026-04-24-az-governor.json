@@ -1,0 +1,22 @@
+{
+  "id": "tipp-insights-2026-04-24-az-governor",
+  "raceId": "2026-az-governor",
+  "pollster": "TIPP Insights",
+  "sponsor": "League of American Workers",
+  "startDate": "2026-04-20",
+  "endDate": "2026-04-24",
+  "sampleSize": 1189,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/04/29/TIPP-Insights/League-of-American-Workers-Arizona-2026-04-20-2026-04-24",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "az-governor-katie-hobbs",
+      "percent": 48
+    },
+    {
+      "candidateId": "az-governor-andy-biggs",
+      "percent": 38
+    }
+  ]
+}

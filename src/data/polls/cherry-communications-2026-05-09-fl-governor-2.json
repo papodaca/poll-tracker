@@ -1,0 +1,22 @@
+{
+  "id": "cherry-communications-2026-05-09-fl-governor-2",
+  "raceId": "2026-fl-governor",
+  "pollster": "Cherry Communications",
+  "sponsor": "Florida Chamber of Commerce",
+  "startDate": "2026-05-01",
+  "endDate": "2026-05-09",
+  "sampleSize": 604,
+  "population": "LV",
+  "url": "https://www.flchamber.com/new-florida-chamber-statewide-poll-shows-ashley-moody-byron-donalds-leading-potential-democratic-opponents-in-november-ballot-test/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-governor-byron-donalds",
+      "percent": 48
+    },
+    {
+      "candidateId": "fl-governor-jerry-l-demings",
+      "percent": 39
+    }
+  ]
+}

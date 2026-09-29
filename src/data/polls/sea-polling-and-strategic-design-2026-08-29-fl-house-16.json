@@ -1,0 +1,21 @@
+{
+  "id": "sea-polling-and-strategic-design-2026-08-29-fl-house-16",
+  "raceId": "2026-fl-house-16",
+  "pollster": "SEA Polling & Strategic Design",
+  "startDate": "2026-08-25",
+  "endDate": "2026-08-29",
+  "sampleSize": 400,
+  "population": "LV",
+  "url": "https://kellykirschner.com/press/new-poll-kirschner-and-gruters-dead-heat-fl-16/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-house-16-kelly-kirschner",
+      "percent": 40
+    },
+    {
+      "candidateId": "fl-house-16-sydney-gruters",
+      "percent": 39
+    }
+  ]
+}

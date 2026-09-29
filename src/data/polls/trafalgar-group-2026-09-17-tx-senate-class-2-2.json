@@ -1,0 +1,25 @@
+{
+  "id": "trafalgar-group-2026-09-17-tx-senate-class-2-2",
+  "raceId": "2026-tx-senate-class-2",
+  "pollster": "Trafalgar Group",
+  "startDate": "2026-09-15",
+  "endDate": "2026-09-17",
+  "sampleSize": 1079,
+  "population": "LV",
+  "url": "https://www.thetrafalgargroup.org/news/tx-general-0918/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-senate-james-talarico",
+      "percent": 46.4
+    },
+    {
+      "candidateId": "tx-senate-ken-paxton",
+      "percent": 45.2
+    },
+    {
+      "candidateId": "tx-senate-ted-brown",
+      "percent": 2.5
+    }
+  ]
+}

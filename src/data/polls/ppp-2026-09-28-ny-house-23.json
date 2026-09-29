@@ -1,0 +1,19 @@
+{
+  "id": "ppp-2026-09-28-ny-house-23",
+  "raceId": "2026-ny-house-23",
+  "pollster": "PPP",
+  "startDate": "2026-09-28",
+  "endDate": "2026-09-28",
+  "url": "https://www.politico.com/newsletters/new-york-playbook/2026/09/28/the-jacobs-challenge-01094565",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ny-house-23-aaron-gies",
+      "percent": 35
+    },
+    {
+      "candidateId": "ny-house-23-nick-langworthy",
+      "percent": 52
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "glengariff-group-2026-01-06-mi-governor-2-2",
+  "raceId": "2026-mi-governor",
+  "pollster": "Glengariff Group",
+  "sponsor": "The Detroit News / WDIV-TV (Detroit)",
+  "startDate": "2026-01-02",
+  "endDate": "2026-01-06",
+  "sampleSize": 600,
+  "population": "LV",
+  "url": "https://www.detroitnews.com/story/news/politics/2026/01/13/michigan-race-for-governor-polling-john-james-jocelyn-benson-mike-duggan/88134923007/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-governor-jocelyn-benson",
+      "percent": 35
+    },
+    {
+      "candidateId": "mi-governor-mike-duggan",
+      "percent": 31.7
+    },
+    {
+      "candidateId": "mi-governor-aric-nesbitt",
+      "percent": 24.4
+    }
+  ]
+}

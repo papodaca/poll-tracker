@@ -1,0 +1,21 @@
+{
+  "id": "emerson-college-2025-08-12-tx-senate-class-2",
+  "raceId": "2026-tx-senate-class-2",
+  "pollster": "Emerson College",
+  "startDate": "2025-08-11",
+  "endDate": "2025-08-12",
+  "sampleSize": 1000,
+  "population": "RV",
+  "url": "https://emersoncollegepolling.com/texas-2026-poll-cornyn-and-paxton-in-dead-heat-for-gop-senate-nomination/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-senate-colin-allred",
+      "percent": 38.1
+    },
+    {
+      "candidateId": "tx-senate-john-cornyn",
+      "percent": 45.2
+    }
+  ]
+}

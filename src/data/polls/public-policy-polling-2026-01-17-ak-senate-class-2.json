@@ -1,0 +1,22 @@
+{
+  "id": "public-policy-polling-2026-01-17-ak-senate-class-2",
+  "raceId": "2026-ak-senate-class-2",
+  "pollster": "Public Policy Polling",
+  "sponsor": "Democratic Senatorial Campaign Committee",
+  "startDate": "2026-01-16",
+  "endDate": "2026-01-17",
+  "sampleSize": 611,
+  "population": "RV",
+  "url": "https://data.ddhq.io/polls/2026/01/21/Public-Policy-Polling-Alaska",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ak-senate-dan-sullivan",
+      "percent": 47
+    },
+    {
+      "candidateId": "ak-senate-mary-peltola",
+      "percent": 49
+    }
+  ]
+}

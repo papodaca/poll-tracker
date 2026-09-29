@@ -1,0 +1,22 @@
+{
+  "id": "public-policy-polling-2026-09-11-nc-house-11",
+  "raceId": "2026-nc-house-11",
+  "pollster": "Public Policy Polling",
+  "sponsor": "The Bench (hybrid PAC)",
+  "startDate": "2026-09-10",
+  "endDate": "2026-09-11",
+  "sampleSize": 531,
+  "population": "RV",
+  "url": "https://x.com/zachblackburn23/status/2100002534383358350",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nc-house-11-jamie-ager",
+      "percent": 47
+    },
+    {
+      "candidateId": "nc-house-11-jennifer-balkcom",
+      "percent": 44
+    }
+  ]
+}

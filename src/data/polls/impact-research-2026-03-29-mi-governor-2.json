@@ -1,0 +1,25 @@
+{
+  "id": "impact-research-2026-03-29-mi-governor-2",
+  "raceId": "2026-mi-governor",
+  "pollster": "Impact Research",
+  "startDate": "2026-03-23",
+  "endDate": "2026-03-29",
+  "sampleSize": 800,
+  "population": "LV",
+  "url": "https://x.com/daveweigel/status/2043764693118988670?s=20",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-governor-john-james",
+      "percent": 36
+    },
+    {
+      "candidateId": "mi-governor-jocelyn-benson",
+      "percent": 40
+    },
+    {
+      "candidateId": "mi-governor-mike-duggan",
+      "percent": 20
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "impact-research-2025-10-08-wi-governor-2",
+  "raceId": "2026-wi-governor",
+  "pollster": "Impact Research",
+  "sponsor": "The Long Run PAC (leadership PAC)",
+  "startDate": "2025-10-02",
+  "endDate": "2025-10-08",
+  "sampleSize": 500,
+  "population": "LV",
+  "url": "https://www.the-downballot.com/p/morning-digest-as-ilhan-omar-boosts",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "wi-governor-mandela-barnes",
+      "percent": 51
+    },
+    {
+      "candidateId": "wi-governor-tim-michels",
+      "percent": 44
+    }
+  ]
+}

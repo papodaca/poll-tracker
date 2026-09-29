@@ -1,0 +1,21 @@
+{
+  "id": "hoffman-research-group-2026-05-12-or-governor-2",
+  "raceId": "2026-or-governor",
+  "pollster": "Hoffman Research Group",
+  "startDate": "2026-05-11",
+  "endDate": "2026-05-12",
+  "sampleSize": 603,
+  "population": "LV",
+  "url": "https://www.oregonlive.com/politics/2026/05/how-would-these-republican-candidates-for-governor-fare-against-kotek-in-november-what-new-poll-shows.html",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "or-governor-christine-drazan",
+      "percent": 45
+    },
+    {
+      "candidateId": "or-governor-tina-kotek",
+      "percent": 45
+    }
+  ]
+}

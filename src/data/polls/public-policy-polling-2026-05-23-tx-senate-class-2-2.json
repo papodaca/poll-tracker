@@ -1,0 +1,26 @@
+{
+  "id": "public-policy-polling-2026-05-23-tx-senate-class-2-2",
+  "raceId": "2026-tx-senate-class-2",
+  "pollster": "Public Policy Polling",
+  "sponsor": "Lone Star Rising PAC (super PAC)",
+  "startDate": "2026-05-22",
+  "endDate": "2026-05-23",
+  "sampleSize": 643,
+  "population": "V",
+  "url": "https://www.politico.com/news/2026/05/27/talarico-exclusive-interview-paxton-fundraising-texas-00937600",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-senate-james-talarico",
+      "percent": 45
+    },
+    {
+      "candidateId": "tx-senate-ken-paxton",
+      "percent": 38
+    },
+    {
+      "candidateId": "tx-senate-ted-brown",
+      "percent": 3
+    }
+  ]
+}

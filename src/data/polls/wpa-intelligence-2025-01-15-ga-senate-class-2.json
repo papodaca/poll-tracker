@@ -1,0 +1,22 @@
+{
+  "id": "wpa-intelligence-2025-01-15-ga-senate-class-2",
+  "raceId": "2026-ga-senate-class-2",
+  "pollster": "WPA Intelligence",
+  "sponsor": "Club for Growth",
+  "startDate": "2025-01-14",
+  "endDate": "2025-01-15",
+  "sampleSize": 500,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2025/06/24/WPA Intelligence/Club for Growth-Georgia-2025-01-14-2025-01-15",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ga-senate-mike-collins",
+      "percent": 32
+    },
+    {
+      "candidateId": "ga-senate-jon-ossoff",
+      "percent": 42
+    }
+  ]
+}

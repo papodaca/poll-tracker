@@ -1,0 +1,22 @@
+{
+  "id": "change-research-2026-06-14-fl-senate-special",
+  "raceId": "2026-fl-senate-special",
+  "pollster": "Change Research",
+  "sponsor": "Freedom Project USA",
+  "startDate": "2026-06-11",
+  "endDate": "2026-06-14",
+  "sampleSize": 1015,
+  "population": "LV",
+  "url": "https://floridapolitics.com/archives/802382-poll-finds-david-jolly-in-good-position-against-byron-donalds-even-as-democrats-struggle-elsewhere/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-senate-alexander-vindman",
+      "percent": 46
+    },
+    {
+      "candidateId": "fl-senate-ashley-moody",
+      "percent": 46
+    }
+  ]
+}

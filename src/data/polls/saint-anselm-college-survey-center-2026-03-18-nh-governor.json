@@ -1,0 +1,21 @@
+{
+  "id": "saint-anselm-college-survey-center-2026-03-18-nh-governor",
+  "raceId": "2026-nh-governor",
+  "pollster": "Saint Anselm College Survey Center",
+  "startDate": "2026-03-16",
+  "endDate": "2026-03-18",
+  "sampleSize": 1491,
+  "population": "RV",
+  "url": "https://www.anselm.edu/about/anselmian-hub/news/new-poll-saint-anselm-college-survey-shows-democrats-gaining-ground-republicans-face-political-headwinds",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nh-governor-jon-kiper",
+      "percent": 31
+    },
+    {
+      "candidateId": "nh-governor-kelly-ayotte",
+      "percent": 45
+    }
+  ]
+}

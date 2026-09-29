@@ -1,0 +1,21 @@
+{
+  "id": "john-zogby-strategies-2026-01-08-ny-governor",
+  "raceId": "2026-ny-governor",
+  "pollster": "John Zogby Strategies",
+  "startDate": "2026-01-06",
+  "endDate": "2026-01-08",
+  "sampleSize": 844,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/01/13/John-Zogby-Strategies-New-York",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ny-governor-kathy-hochul",
+      "percent": 53
+    },
+    {
+      "candidateId": "ny-governor-bruce-blakeman",
+      "percent": 39
+    }
+  ]
+}

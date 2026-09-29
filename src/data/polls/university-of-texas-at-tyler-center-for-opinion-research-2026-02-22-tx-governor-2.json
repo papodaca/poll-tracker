@@ -1,0 +1,21 @@
+{
+  "id": "university-of-texas-at-tyler-center-for-opinion-research-2026-02-22-tx-governor-2",
+  "raceId": "2026-tx-governor",
+  "pollster": "University of Texas at Tyler Center for Opinion Research",
+  "startDate": "2026-02-13",
+  "endDate": "2026-02-22",
+  "sampleSize": 1117,
+  "population": "RV",
+  "url": "https://www.uttyler.edu/academics/colleges-schools/arts-sciences/departments/political-science/files/ut-tyler-poll-cor-feb-2026-poll-final-topline-report.pdf",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-governor-chris-bell",
+      "percent": 39
+    },
+    {
+      "candidateId": "tx-governor-greg-abbott",
+      "percent": 51
+    }
+  ]
+}

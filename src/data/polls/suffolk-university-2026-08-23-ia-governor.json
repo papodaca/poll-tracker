@@ -1,0 +1,21 @@
+{
+  "id": "suffolk-university-2026-08-23-ia-governor",
+  "raceId": "2026-ia-governor",
+  "pollster": "Suffolk University",
+  "startDate": "2026-08-20",
+  "endDate": "2026-08-23",
+  "sampleSize": 500,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/08/26/Suffolk-University-Iowa",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ia-governor-rob-sand",
+      "percent": 48
+    },
+    {
+      "candidateId": "ia-governor-zach-lahn",
+      "percent": 44
+    }
+  ]
+}

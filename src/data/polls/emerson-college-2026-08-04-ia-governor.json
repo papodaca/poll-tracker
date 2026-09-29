@@ -1,0 +1,22 @@
+{
+  "id": "emerson-college-2026-08-04-ia-governor",
+  "raceId": "2026-ia-governor",
+  "pollster": "Emerson College",
+  "sponsor": "Nexstar",
+  "startDate": "2026-08-02",
+  "endDate": "2026-08-04",
+  "sampleSize": 712,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/08/06/Emerson-College-Iowa",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ia-governor-rob-sand",
+      "percent": 48.4
+    },
+    {
+      "candidateId": "ia-governor-zach-lahn",
+      "percent": 42.7
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "epic-mra-2026-07-31-mi-senate-class-2",
+  "raceId": "2026-mi-senate-class-2",
+  "pollster": "EPIC-MRA",
+  "sponsor": "Michigan Information & Research Service",
+  "startDate": "2026-07-24",
+  "endDate": "2026-07-31",
+  "sampleSize": 600,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/08/03/EPIC-MRA/Michigan-Information-&-Research-Service-Michigan-2026-07-24-2026-07-31",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-senate-abdul-el-sayed",
+      "percent": 43
+    },
+    {
+      "candidateId": "mi-senate-mike-rogers",
+      "percent": 46
+    }
+  ]
+}

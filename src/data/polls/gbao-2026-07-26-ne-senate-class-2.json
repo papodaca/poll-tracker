@@ -1,0 +1,22 @@
+{
+  "id": "gbao-2026-07-26-ne-senate-class-2",
+  "raceId": "2026-ne-senate-class-2",
+  "pollster": "GBAO",
+  "sponsor": "Working Class Majority PAC (hybrid PAC)",
+  "startDate": "2026-07-22",
+  "endDate": "2026-07-26",
+  "sampleSize": 800,
+  "population": "LV",
+  "url": "https://www.washingtonsun.com/newsletters/panic-week",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ne-senate-dan-osborn",
+      "percent": 47
+    },
+    {
+      "candidateId": "ne-senate-pete-ricketts",
+      "percent": 47
+    }
+  ]
+}

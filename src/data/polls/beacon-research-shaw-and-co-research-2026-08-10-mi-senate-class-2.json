@@ -1,0 +1,22 @@
+{
+  "id": "beacon-research-shaw-and-co-research-2026-08-10-mi-senate-class-2",
+  "raceId": "2026-mi-senate-class-2",
+  "pollster": "Beacon Research/Shaw & Co. Research",
+  "sponsor": "Fox News",
+  "startDate": "2026-08-06",
+  "endDate": "2026-08-10",
+  "sampleSize": 1006,
+  "population": "RV",
+  "url": "https://www.foxnews.com/politics/fox-news-poll-senate-battle-looms-michigan",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-senate-abdul-el-sayed",
+      "percent": 47
+    },
+    {
+      "candidateId": "mi-senate-mike-rogers",
+      "percent": 51
+    }
+  ]
+}

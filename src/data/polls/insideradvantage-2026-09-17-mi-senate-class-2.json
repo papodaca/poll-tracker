@@ -1,0 +1,21 @@
+{
+  "id": "insideradvantage-2026-09-17-mi-senate-class-2",
+  "raceId": "2026-mi-senate-class-2",
+  "pollster": "InsiderAdvantage",
+  "startDate": "2026-09-16",
+  "endDate": "2026-09-17",
+  "sampleSize": 1200,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/09/18/InsiderAdvantage-Michigan",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-senate-abdul-el-sayed",
+      "percent": 46.6
+    },
+    {
+      "candidateId": "mi-senate-mike-rogers",
+      "percent": 44.7
+    }
+  ]
+}

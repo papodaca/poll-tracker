@@ -1,0 +1,22 @@
+{
+  "id": "zenith-research-2026-06-14-mi-senate-class-2",
+  "raceId": "2026-mi-senate-class-2",
+  "pollster": "Zenith Research",
+  "sponsor": "Common Defense",
+  "startDate": "2026-06-11",
+  "endDate": "2026-06-14",
+  "sampleSize": 602,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/06/18/Zenith-Research-Michigan",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-senate-abdul-el-sayed",
+      "percent": 45
+    },
+    {
+      "candidateId": "mi-senate-mike-rogers",
+      "percent": 42
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "remington-research-group-2026-09-15-mo-house-2-2",
+  "raceId": "2026-mo-house-2",
+  "pollster": "Remington Research Group",
+  "startDate": "2026-09-14",
+  "endDate": "2026-09-15",
+  "sampleSize": 565,
+  "population": "LV",
+  "url": "https://x.com/MarkMaxwellTV/status/2103501820840534440?s=20",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mo-house-2-fred-wellman",
+      "percent": 42
+    },
+    {
+      "candidateId": "mo-house-2-ann-wagner",
+      "percent": 43
+    }
+  ]
+}

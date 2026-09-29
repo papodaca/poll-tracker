@@ -1,0 +1,22 @@
+{
+  "id": "beacon-research-shaw-and-company-research-2026-07-27-nc-senate-class-2",
+  "raceId": "2026-nc-senate-class-2",
+  "pollster": "Beacon Research / Shaw & Company Research",
+  "sponsor": "Fox News",
+  "startDate": "2026-07-23",
+  "endDate": "2026-07-27",
+  "sampleSize": 1005,
+  "population": "RV",
+  "url": "https://data.ddhq.io/polls/2026/07/29/Beacon-Research/Shaw-&-Company-Research/Fox-News-National-2026-07-23-2026-07-27",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nc-senate-roy-cooper",
+      "percent": 53
+    },
+    {
+      "candidateId": "nc-senate-michael-whatley",
+      "percent": 44
+    }
+  ]
+}

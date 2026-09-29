@@ -1,0 +1,25 @@
+{
+  "id": "michigan-state-university-institute-for-public-policy-and-social-research-yougov-2026-03-24-mi-governor",
+  "raceId": "2026-mi-governor",
+  "pollster": "Michigan State University Institute for Public Policy and Social Research/YouGov",
+  "startDate": "2026-03-02",
+  "endDate": "2026-03-24",
+  "sampleSize": 1000,
+  "population": "A",
+  "url": "https://ippsr.msu.edu/news/msu-governors-poll-shows-slight-benson-lead-no-clear-cut-frontrunner",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-governor-john-james",
+      "percent": 23
+    },
+    {
+      "candidateId": "mi-governor-jocelyn-benson",
+      "percent": 30
+    },
+    {
+      "candidateId": "mi-governor-mike-duggan",
+      "percent": 19
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "impact-research-2026-09-12-me-house-2",
+  "raceId": "2026-me-house-2",
+  "pollster": "Impact Research",
+  "sponsor": "House Majority PAC (hybrid PAC)",
+  "startDate": "2026-09-08",
+  "endDate": "2026-09-12",
+  "sampleSize": 500,
+  "population": "LV",
+  "url": "https://x.com/cjwarnke/status/2099903179022340565?s=20",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "me-house-2-matt-dunlap",
+      "percent": 49
+    },
+    {
+      "candidateId": "me-house-2-paul-lepage",
+      "percent": 49
+    }
+  ]
+}

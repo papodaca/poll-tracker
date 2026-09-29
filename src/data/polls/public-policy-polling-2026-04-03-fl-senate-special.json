@@ -1,0 +1,21 @@
+{
+  "id": "public-policy-polling-2026-04-03-fl-senate-special",
+  "raceId": "2026-fl-senate-special",
+  "pollster": "Public Policy Polling",
+  "startDate": "2026-04-02",
+  "endDate": "2026-04-03",
+  "sampleSize": 574,
+  "population": "RV",
+  "url": "https://floridapolitics.com/archives/789481-alex-vindman-internal-poll-shows-him-within-striking-distance-of-ashley-moody/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-senate-alexander-vindman",
+      "percent": 40
+    },
+    {
+      "candidateId": "fl-senate-ashley-moody",
+      "percent": 43
+    }
+  ]
+}

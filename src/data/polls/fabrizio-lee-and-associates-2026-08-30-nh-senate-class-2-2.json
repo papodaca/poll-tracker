@@ -1,0 +1,42 @@
+{
+  "id": "fabrizio-lee-and-associates-2026-08-30-nh-senate-class-2-2",
+  "raceId": "2026-nh-senate-class-2",
+  "pollster": "Fabrizio, Lee & Associates",
+  "sponsor": "NRSC",
+  "startDate": "2026-08-27",
+  "endDate": "2026-08-30",
+  "sampleSize": 600,
+  "population": "LV",
+  "url": "https://drive.google.com/file/d/1nKTIRsj3KvXAR4o5qOquoXP-POJ0I_6H/view",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nh-senate-chris-pappas",
+      "percent": 36
+    },
+    {
+      "candidateId": "nh-senate-john-sununu",
+      "percent": 37
+    },
+    {
+      "candidateId": "nh-senate-aaron-day",
+      "percent": 1
+    },
+    {
+      "candidateId": "nh-senate-christine-lopez",
+      "percent": 1
+    },
+    {
+      "candidateId": "nh-senate-tim-harris",
+      "percent": 1
+    },
+    {
+      "candidateId": "nh-senate-jeanne-logan-morrow",
+      "percent": 0
+    },
+    {
+      "candidateId": "nh-senate-edmond-laplante",
+      "percent": 0
+    }
+  ]
+}

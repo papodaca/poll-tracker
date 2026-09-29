@@ -1,0 +1,19 @@
+{
+  "id": "impact-research-2026-09-24-mn-house-2",
+  "raceId": "2026-mn-house-2",
+  "pollster": "Impact Research",
+  "startDate": "2026-09-24",
+  "endDate": "2026-09-24",
+  "url": "https://x.com/LittleCongress/status/2103102085076066771",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mn-house-2-matthew-little",
+      "percent": 52
+    },
+    {
+      "candidateId": "mn-house-2-eric-pratt",
+      "percent": 40
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "gbao-2026-08-10-mi-senate-class-2",
+  "raceId": "2026-mi-senate-class-2",
+  "pollster": "GBAO",
+  "sponsor": "Senate Majority PAC",
+  "startDate": "2026-08-06",
+  "endDate": "2026-08-10",
+  "sampleSize": 800,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/08/15/GBAO/Senate-Majority-PAC-Michigan-2026-08-06-2026-08-10",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-senate-mike-rogers",
+      "percent": 44
+    },
+    {
+      "candidateId": "mi-senate-abdul-el-sayed",
+      "percent": 50
+    }
+  ]
+}

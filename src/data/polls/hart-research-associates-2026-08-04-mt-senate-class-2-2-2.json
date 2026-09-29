@@ -1,0 +1,22 @@
+{
+  "id": "hart-research-associates-2026-08-04-mt-senate-class-2-2-2",
+  "raceId": "2026-mt-senate-class-2",
+  "pollster": "Hart Research Associates",
+  "sponsor": "Forward Montana",
+  "startDate": "2026-08-01",
+  "endDate": "2026-08-04",
+  "sampleSize": 800,
+  "population": "LV",
+  "url": "https://forwardmontana.org/results-of-new-polling-on-the-montana-u-s-senate-election/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mt-senate-kurt-alme",
+      "percent": 46
+    },
+    {
+      "candidateId": "mt-senate-seth-bodnar",
+      "percent": 46
+    }
+  ]
+}

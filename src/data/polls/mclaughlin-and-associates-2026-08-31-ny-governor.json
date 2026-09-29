@@ -1,0 +1,22 @@
+{
+  "id": "mclaughlin-and-associates-2026-08-31-ny-governor",
+  "raceId": "2026-ny-governor",
+  "pollster": "McLaughlin & Associates",
+  "sponsor": "Bruce Blakeman",
+  "startDate": "2026-08-27",
+  "endDate": "2026-08-31",
+  "sampleSize": 800,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/09/08/McLaughlin-&-Associates/Bruce-Blakeman-New-York-2026-08-27-2026-08-31",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ny-governor-bruce-blakeman",
+      "percent": 45.7
+    },
+    {
+      "candidateId": "ny-governor-kathy-hochul",
+      "percent": 49.6
+    }
+  ]
+}

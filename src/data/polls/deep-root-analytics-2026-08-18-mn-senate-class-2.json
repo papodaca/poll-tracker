@@ -1,0 +1,22 @@
+{
+  "id": "deep-root-analytics-2026-08-18-mn-senate-class-2",
+  "raceId": "2026-mn-senate-class-2",
+  "pollster": "Deep Root Analytics",
+  "sponsor": "Michele Tafoya",
+  "startDate": "2026-08-17",
+  "endDate": "2026-08-18",
+  "sampleSize": 597,
+  "population": "RV",
+  "url": "https://data.ddhq.io/polls/2026/08/20/Deep-Root-Analytics/Michele-Tafoya-Minnesota-2026-08-17-2026-08-18",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mn-senate-michele-tafoya",
+      "percent": 45
+    },
+    {
+      "candidateId": "mn-senate-peggy-flanagan",
+      "percent": 50
+    }
+  ]
+}

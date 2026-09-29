@@ -1,0 +1,21 @@
+{
+  "id": "cygnal-2025-06-18-ga-senate-class-2",
+  "raceId": "2026-ga-senate-class-2",
+  "pollster": "Cygnal",
+  "startDate": "2025-06-16",
+  "endDate": "2025-06-18",
+  "sampleSize": 610,
+  "population": "LV",
+  "url": "https://x.com/bluestein/status/1939633570688938308?t=l9wx4iC8_Nx01gq-PMOEPw&s=19",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ga-senate-jon-ossoff",
+      "percent": 49
+    },
+    {
+      "candidateId": "ga-senate-earl-l-buddy-carter",
+      "percent": 42
+    }
+  ]
+}

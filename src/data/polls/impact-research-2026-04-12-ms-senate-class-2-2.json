@@ -1,0 +1,22 @@
+{
+  "id": "impact-research-2026-04-12-ms-senate-class-2-2",
+  "raceId": "2026-ms-senate-class-2",
+  "pollster": "Impact Research",
+  "sponsor": "SPLC Action Fund",
+  "startDate": "2026-04-08",
+  "endDate": "2026-04-12",
+  "sampleSize": 500,
+  "population": "LV",
+  "url": "https://www.splcactionfund.org/news/new-poll-of-likely-voters-shows-mississippi-senate-race-tightening-as-voters-continue-to-sour-on-sen-cindy-hyde-smith/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ms-senate-scott-colom",
+      "percent": 44
+    },
+    {
+      "candidateId": "ms-senate-cindy-hyde-smith",
+      "percent": 47
+    }
+  ]
+}

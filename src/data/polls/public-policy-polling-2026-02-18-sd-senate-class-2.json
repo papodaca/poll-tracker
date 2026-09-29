@@ -1,0 +1,21 @@
+{
+  "id": "public-policy-polling-2026-02-18-sd-senate-class-2",
+  "raceId": "2026-sd-senate-class-2",
+  "pollster": "Public Policy Polling",
+  "startDate": "2026-02-17",
+  "endDate": "2026-02-18",
+  "sampleSize": 685,
+  "population": "RV",
+  "url": "https://hub.nationaljournal.com/a-midterm-emergency?ecid=ACsprvumhAFEMge3XoSW8SesUhJlS3zOWiQ5k_YCnxHYG_pijlCdsfx0ZpaOByGlvnSo4pxS7MMA&utm_campaign=36387909-%5BNJ%5D%202026%20Wake%20Up%20Call&utm_medium=email&_hsenc=p2ANqtz-8thoai7naUuFsAmZAaShC5DrQzDUBrp5icfIQlevHX7UzuWmw8N82J8ik2FBQ49IUpeWToGjc5zWT0ZnBEgUDbVGVv9OD3bn46rh55QY-TciCY3Mc&_hsmi=406051685&utm_content=406051685&utm_source=hs_email",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "sd-senate-brian-bengs",
+      "percent": 35
+    },
+    {
+      "candidateId": "sd-senate-mike-rounds",
+      "percent": 47
+    }
+  ]
+}

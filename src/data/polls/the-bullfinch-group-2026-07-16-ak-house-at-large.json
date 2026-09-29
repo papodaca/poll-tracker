@@ -1,0 +1,26 @@
+{
+  "id": "the-bullfinch-group-2026-07-16-ak-house-at-large",
+  "raceId": "2026-ak-house-at-large",
+  "pollster": "The Bullfinch Group",
+  "sponsor": "The Independent Center",
+  "startDate": "2026-07-13",
+  "endDate": "2026-07-16",
+  "sampleSize": 546,
+  "population": "LV",
+  "url": "https://www.semafor.com/article/07/28/2026/independent-group-eyes-delbenes-seat",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ak-house-bill-hill",
+      "percent": 20
+    },
+    {
+      "candidateId": "ak-house-nick-begich",
+      "percent": 46
+    },
+    {
+      "candidateId": "ak-house-at-large-matt-schultz",
+      "percent": 32
+    }
+  ]
+}

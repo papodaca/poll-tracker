@@ -1,0 +1,25 @@
+{
+  "id": "tulchin-research-2026-08-04-oh-senate-special-2",
+  "raceId": "2026-oh-senate-special",
+  "pollster": "Tulchin Research",
+  "startDate": "2026-07-29",
+  "endDate": "2026-08-04",
+  "sampleSize": 600,
+  "population": "LV",
+  "url": "https://www.the-downballot.com/p/morning-digest-sponsored-by-the-michigan-a7b",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "oh-senate-sherrod-brown",
+      "percent": 47
+    },
+    {
+      "candidateId": "oh-senate-jon-husted",
+      "percent": 43
+    },
+    {
+      "candidateId": "oh-senate-bill-redpath",
+      "percent": 4
+    }
+  ]
+}

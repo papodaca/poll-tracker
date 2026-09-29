@@ -1,0 +1,21 @@
+{
+  "id": "alaska-survey-research-2026-08-05-ak-house-at-large-2-2",
+  "raceId": "2026-ak-house-at-large",
+  "pollster": "Alaska Survey Research",
+  "startDate": "2026-08-02",
+  "endDate": "2026-08-05",
+  "sampleSize": 1371,
+  "population": "LV",
+  "url": "https://x.com/The_Real_ASR/status/2088053315502498055",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ak-house-bill-hill",
+      "percent": 46.5
+    },
+    {
+      "candidateId": "ak-house-nick-begich",
+      "percent": 53.5
+    }
+  ]
+}

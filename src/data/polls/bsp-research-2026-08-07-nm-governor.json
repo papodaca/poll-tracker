@@ -1,0 +1,21 @@
+{
+  "id": "bsp-research-2026-08-07-nm-governor",
+  "raceId": "2026-nm-governor",
+  "pollster": "BSP Research",
+  "startDate": "2026-07-22",
+  "endDate": "2026-08-07",
+  "sampleSize": 800,
+  "population": "RV",
+  "url": "https://bspresearch.substack.com/p/deb-haaland-has-a-commanding-17-advantage",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nm-governor-deb-haaland",
+      "percent": 41
+    },
+    {
+      "candidateId": "nm-governor-gregg-hull",
+      "percent": 24
+    }
+  ]
+}

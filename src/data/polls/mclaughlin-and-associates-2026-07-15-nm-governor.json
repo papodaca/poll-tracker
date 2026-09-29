@@ -1,0 +1,21 @@
+{
+  "id": "mclaughlin-and-associates-2026-07-15-nm-governor",
+  "raceId": "2026-nm-governor",
+  "pollster": "McLaughlin & Associates",
+  "startDate": "2026-07-13",
+  "endDate": "2026-07-15",
+  "sampleSize": 400,
+  "population": "LV",
+  "url": "https://www.santafenewmexican.com/news/elections/hull-campaigns-poll-race-for-governor-of-new-mexico-statistically-tied/article_60922cf5-4d63-46e0-842b-fea10d355c53.html",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nm-governor-deb-haaland",
+      "percent": 46
+    },
+    {
+      "candidateId": "nm-governor-gregg-hull",
+      "percent": 45
+    }
+  ]
+}

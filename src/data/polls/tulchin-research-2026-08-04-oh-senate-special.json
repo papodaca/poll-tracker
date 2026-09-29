@@ -1,0 +1,22 @@
+{
+  "id": "tulchin-research-2026-08-04-oh-senate-special",
+  "raceId": "2026-oh-senate-special",
+  "pollster": "Tulchin Research",
+  "sponsor": "John Kulewicz",
+  "startDate": "2026-07-29",
+  "endDate": "2026-08-04",
+  "sampleSize": 600,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/08/12/Tulchin-Research/John-Kulewicz-Ohio-2026-07-29-2026-08-04",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "oh-senate-jon-husted",
+      "percent": 43
+    },
+    {
+      "candidateId": "oh-senate-sherrod-brown",
+      "percent": 47
+    }
+  ]
+}

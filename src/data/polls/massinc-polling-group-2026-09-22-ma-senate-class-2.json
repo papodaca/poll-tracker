@@ -1,0 +1,30 @@
+{
+  "id": "massinc-polling-group-2026-09-22-ma-senate-class-2",
+  "raceId": "2026-ma-senate-class-2",
+  "pollster": "MassINC Polling Group",
+  "sponsor": "CommonWealth Beacon",
+  "startDate": "2026-09-14",
+  "endDate": "2026-09-22",
+  "sampleSize": 800,
+  "population": "LV",
+  "url": "https://commonwealthbeacon.org/politics/poll-healey-cruising-in-reelection-bid-with-trump-high-on-voters-mind/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ma-senate-john-deaton",
+      "percent": 28
+    },
+    {
+      "candidateId": "ma-senate-ed-markey",
+      "percent": 54
+    },
+    {
+      "candidateId": "ma-senate-joe-tache",
+      "percent": 2
+    },
+    {
+      "candidateId": "ma-senate-shiva-ayyadurai",
+      "percent": 3
+    }
+  ]
+}

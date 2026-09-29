@@ -1,0 +1,21 @@
+{
+  "id": "public-policy-polling-2026-06-03-me-senate-class-2",
+  "raceId": "2026-me-senate-class-2",
+  "pollster": "Public Policy Polling",
+  "startDate": "2026-06-02",
+  "endDate": "2026-06-03",
+  "sampleSize": 670,
+  "population": "RV",
+  "url": "https://drive.google.com/file/d/1sKlb0NNxUIQWQghegeCBjVyOgHhAepGk/view",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "me-senate-graham-platner",
+      "percent": 49
+    },
+    {
+      "candidateId": "me-senate-susan-collins",
+      "percent": 45
+    }
+  ]
+}

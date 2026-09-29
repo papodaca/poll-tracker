@@ -1,0 +1,21 @@
+{
+  "id": "emerson-college-2025-11-10-az-governor-2-2",
+  "raceId": "2026-az-governor",
+  "pollster": "Emerson College",
+  "startDate": "2025-11-08",
+  "endDate": "2025-11-10",
+  "sampleSize": 850,
+  "population": "RV",
+  "url": "https://emersoncollegepolling.com/arizona-2026-governor/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "az-governor-david-schweikert",
+      "percent": 39.45
+    },
+    {
+      "candidateId": "az-governor-katie-hobbs",
+      "percent": 44.1
+    }
+  ]
+}

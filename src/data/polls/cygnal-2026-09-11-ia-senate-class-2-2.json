@@ -1,0 +1,26 @@
+{
+  "id": "cygnal-2026-09-11-ia-senate-class-2-2",
+  "raceId": "2026-ia-senate-class-2",
+  "pollster": "Cygnal",
+  "sponsor": "Iowans for Tax Relief Foundation",
+  "startDate": "2026-09-09",
+  "endDate": "2026-09-11",
+  "sampleSize": 500,
+  "population": "LV",
+  "url": "https://itrfoundation.org/new-poll-iowa-voters-support-supermajority-requirement-to-raise-income-taxes/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ia-senate-josh-turek",
+      "percent": 42.9
+    },
+    {
+      "candidateId": "ia-senate-ashley-hinson",
+      "percent": 42.9
+    },
+    {
+      "candidateId": "ia-senate-thomas-laehn",
+      "percent": 3.6
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "insideradvantage-2026-09-17-nh-senate-class-2",
+  "raceId": "2026-nh-senate-class-2",
+  "pollster": "InsiderAdvantage",
+  "startDate": "2026-09-16",
+  "endDate": "2026-09-17",
+  "sampleSize": 1200,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/09/18/InsiderAdvantage-New-Hampshire",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nh-senate-chris-pappas",
+      "percent": 47.8
+    },
+    {
+      "candidateId": "nh-senate-john-sununu",
+      "percent": 39.9
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "lake-research-partners-2025-12-17-ne-governor",
+  "raceId": "2026-ne-governor",
+  "pollster": "Lake Research Partners",
+  "startDate": "2025-12-11",
+  "endDate": "2025-12-17",
+  "sampleSize": 900,
+  "population": "LV",
+  "url": "https://drive.google.com/file/d/1wV-lUKPfH16Ke16fX63fjMeAMzNQxzhA/view",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ne-governor-lynne-walz",
+      "percent": 43
+    },
+    {
+      "candidateId": "ne-governor-jim-pillen",
+      "percent": 48
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "the-tyson-group-2025-10-03-fl-senate-special",
+  "raceId": "2026-fl-senate-special",
+  "pollster": "The Tyson Group",
+  "sponsor": "Plymouth Union Public Advocacy",
+  "startDate": "2025-10-01",
+  "endDate": "2025-10-03",
+  "sampleSize": 800,
+  "population": "LV",
+  "url": "https://pup-advocacy.com/news/polling-memo/moodys-position-on-the-enhanced-premium-tax-credits-will-have-key-impact-on-senate-race/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-senate-jennifer-jenkins",
+      "percent": 37
+    },
+    {
+      "candidateId": "fl-senate-ashley-moody",
+      "percent": 44
+    }
+  ]
+}

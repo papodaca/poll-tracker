@@ -1,0 +1,38 @@
+{
+  "id": "slingshot-strategies-2026-08-24-tx-senate-class-2-2",
+  "raceId": "2026-tx-senate-class-2",
+  "pollster": "Slingshot Strategies",
+  "sponsor": "Texas Public Opinion Research",
+  "startDate": "2026-08-21",
+  "endDate": "2026-08-24",
+  "sampleSize": 1000,
+  "population": "LV",
+  "url": "https://texaspublicopinionresearch.substack.com/p/new-poll-in-texas-general-election",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-senate-james-talarico",
+      "percent": 48
+    },
+    {
+      "candidateId": "tx-senate-ken-paxton",
+      "percent": 42
+    },
+    {
+      "candidateId": "tx-senate-ted-brown",
+      "percent": 1
+    },
+    {
+      "candidateId": "tx-senate-joshua-cain",
+      "percent": 0
+    },
+    {
+      "candidateId": "tx-senate-camencia-ford",
+      "percent": 0
+    },
+    {
+      "candidateId": "tx-senate-hans-truelson",
+      "percent": 0
+    }
+  ]
+}

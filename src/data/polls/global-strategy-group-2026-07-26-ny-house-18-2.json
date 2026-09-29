@@ -1,0 +1,21 @@
+{
+  "id": "global-strategy-group-2026-07-26-ny-house-18-2",
+  "raceId": "2026-ny-house-18",
+  "pollster": "Global Strategy Group",
+  "startDate": "2026-07-23",
+  "endDate": "2026-07-26",
+  "sampleSize": 500,
+  "population": "LV",
+  "url": "https://www.politico.com/newsletters/new-york-playbook/2026/08/14/republicans-revisit-the-22-crime-playbook-01037591",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ny-house-18-pat-ryan",
+      "percent": 53
+    },
+    {
+      "candidateId": "ny-house-18-jacqueline-auringer",
+      "percent": 39
+    }
+  ]
+}

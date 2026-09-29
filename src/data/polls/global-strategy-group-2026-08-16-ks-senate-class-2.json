@@ -1,0 +1,26 @@
+{
+  "id": "global-strategy-group-2026-08-16-ks-senate-class-2",
+  "raceId": "2026-ks-senate-class-2",
+  "pollster": "Global Strategy Group",
+  "sponsor": "People Over Politics Action Fund (super PAC)",
+  "startDate": "2026-08-12",
+  "endDate": "2026-08-16",
+  "sampleSize": 800,
+  "population": "LV",
+  "url": "https://x.com/maxpcohen/status/2095160008849625176",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ks-senate-adam-hamilton",
+      "percent": 44
+    },
+    {
+      "candidateId": "ks-senate-roger-marshall",
+      "percent": 43
+    },
+    {
+      "candidateId": "ks-senate-david-c-graham",
+      "percent": 5
+    }
+  ]
+}

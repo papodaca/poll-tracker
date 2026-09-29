@@ -1,0 +1,22 @@
+{
+  "id": "st-pete-polls-2026-09-17-fl-senate-special-2",
+  "raceId": "2026-fl-senate-special",
+  "pollster": "St. Pete Polls",
+  "sponsor": "Florida Politics",
+  "startDate": "2026-09-15",
+  "endDate": "2026-09-17",
+  "sampleSize": 913,
+  "population": "LV",
+  "url": "https://floridapolitics.com/archives/820643-poll-ashley-moody-45-angie-nixon-45-and-florida-now-has-two-toss-ups-at-the-top-of-the-ticket/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-senate-ashley-moody",
+      "percent": 45.2
+    },
+    {
+      "candidateId": "fl-senate-angela-nixon",
+      "percent": 44.8
+    }
+  ]
+}

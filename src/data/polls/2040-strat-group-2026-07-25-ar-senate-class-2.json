@@ -1,0 +1,21 @@
+{
+  "id": "2040-strat-group-2026-07-25-ar-senate-class-2",
+  "raceId": "2026-ar-senate-class-2",
+  "pollster": "2040 Strat. Group",
+  "startDate": "2026-07-17",
+  "endDate": "2026-07-25",
+  "sampleSize": 586,
+  "population": "LV",
+  "url": "https://drive.google.com/file/d/1xl5CVWv-W49Lo1iPOweW9Mm78u0xUsvU/view",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ar-senate-hallie-shoffner",
+      "percent": 43
+    },
+    {
+      "candidateId": "ar-senate-tom-cotton",
+      "percent": 46
+    }
+  ]
+}

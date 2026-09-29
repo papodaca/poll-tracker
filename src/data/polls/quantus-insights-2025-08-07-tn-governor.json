@@ -1,0 +1,21 @@
+{
+  "id": "quantus-insights-2025-08-07-tn-governor",
+  "raceId": "2026-tn-governor",
+  "pollster": "Quantus Insights",
+  "startDate": "2025-08-05",
+  "endDate": "2025-08-07",
+  "sampleSize": 600,
+  "population": "RV",
+  "url": "https://quantusinsights.org/f/tennessee-2026-blackburn-in-command-of-gop%E2%80%99s-fortress-state",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tn-governor-john-rose",
+      "percent": 43
+    },
+    {
+      "candidateId": "tn-governor-jerri-green",
+      "percent": 27
+    }
+  ]
+}

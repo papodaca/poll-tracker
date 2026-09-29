@@ -1,0 +1,21 @@
+{
+  "id": "pan-atlantic-research-2026-05-18-me-house-2",
+  "raceId": "2026-me-house-2",
+  "pollster": "Pan Atlantic Research",
+  "startDate": "2026-05-08",
+  "endDate": "2026-05-18",
+  "sampleSize": 418,
+  "population": "LV",
+  "url": "https://www.politico.com/newsletters/playbook/2026/06/02/how-spencer-pratt-could-shake-up-2028-00946273",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "me-house-2-joseph-baldacci",
+      "percent": 49
+    },
+    {
+      "candidateId": "me-house-2-paul-lepage",
+      "percent": 41
+    }
+  ]
+}

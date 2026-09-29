@@ -1,0 +1,22 @@
+{
+  "id": "targoz-market-research-2026-04-27-tn-governor",
+  "raceId": "2026-tn-governor",
+  "pollster": "Targoz Market Research",
+  "sponsor": "Beacon Center of Tennessee",
+  "startDate": "2026-04-20",
+  "endDate": "2026-04-27",
+  "sampleSize": 1200,
+  "population": "RV",
+  "url": "https://tennsight.com/polls/may-2026/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tn-governor-marsha-blackburn",
+      "percent": 51
+    },
+    {
+      "candidateId": "tn-governor-jerri-green",
+      "percent": 27
+    }
+  ]
+}

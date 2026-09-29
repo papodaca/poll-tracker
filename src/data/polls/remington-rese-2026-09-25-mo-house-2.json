@@ -1,0 +1,19 @@
+{
+  "id": "remington-rese-2026-09-25-mo-house-2",
+  "raceId": "2026-mo-house-2",
+  "pollster": "Remington Rese.",
+  "startDate": "2026-09-25",
+  "endDate": "2026-09-25",
+  "url": "https://x.com/MarkMaxwellTV/status/2103501820840534440?s=20",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mo-house-2-fred-wellman",
+      "percent": 42
+    },
+    {
+      "candidateId": "mo-house-2-ann-wagner",
+      "percent": 43
+    }
+  ]
+}

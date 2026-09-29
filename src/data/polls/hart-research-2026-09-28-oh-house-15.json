@@ -1,0 +1,19 @@
+{
+  "id": "hart-research-2026-09-28-oh-house-15",
+  "raceId": "2026-oh-house-15",
+  "pollster": "Hart Research",
+  "startDate": "2026-09-28",
+  "endDate": "2026-09-28",
+  "url": "https://x.com/cjwarnke/status/2104619061556457603",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "oh-house-15-don-leonard",
+      "percent": 46
+    },
+    {
+      "candidateId": "oh-house-15-mike-carey",
+      "percent": 45
+    }
+  ]
+}

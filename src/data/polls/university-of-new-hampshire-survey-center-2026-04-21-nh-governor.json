@@ -1,0 +1,21 @@
+{
+  "id": "university-of-new-hampshire-survey-center-2026-04-21-nh-governor",
+  "raceId": "2026-nh-governor",
+  "pollster": "University of New Hampshire Survey Center",
+  "startDate": "2026-04-17",
+  "endDate": "2026-04-21",
+  "sampleSize": 1129,
+  "population": "LV",
+  "url": "https://scholars.unh.edu/survey_center_polls/944/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nh-governor-cinde-warmington",
+      "percent": 39
+    },
+    {
+      "candidateId": "nh-governor-kelly-ayotte",
+      "percent": 47
+    }
+  ]
+}

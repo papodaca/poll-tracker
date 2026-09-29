@@ -1,0 +1,21 @@
+{
+  "id": "wedgewood-polls-2026-07-06-me-senate-class-2-2-2",
+  "raceId": "2026-me-senate-class-2",
+  "pollster": "Wedgewood Polls",
+  "startDate": "2026-07-04",
+  "endDate": "2026-07-06",
+  "sampleSize": 405,
+  "population": "LV",
+  "url": "https://drive.google.com/file/d/1D7onbq7aV59X8lq2-YatdLNakqqCYTnB/view",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "me-senate-susan-collins",
+      "percent": 47
+    },
+    {
+      "candidateId": "me-senate-janet-t-mills",
+      "percent": 47
+    }
+  ]
+}

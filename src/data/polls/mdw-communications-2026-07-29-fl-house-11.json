@@ -1,0 +1,21 @@
+{
+  "id": "mdw-communications-2026-07-29-fl-house-11",
+  "raceId": "2026-fl-house-11",
+  "pollster": "MDW Communications",
+  "startDate": "2026-07-28",
+  "endDate": "2026-07-29",
+  "sampleSize": 1044,
+  "population": "LV",
+  "url": "https://floridapolitics.com/archives/811237-poll-shows-james-pericola-leading-cd-11-dem-field-in-potential-dead-heat-with-joe-strada/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-house-11-james-pericola",
+      "percent": 41.8
+    },
+    {
+      "candidateId": "fl-house-11-joe-strada",
+      "percent": 42.1
+    }
+  ]
+}

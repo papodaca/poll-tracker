@@ -1,0 +1,21 @@
+{
+  "id": "yougov-2026-09-08-me-senate-class-2",
+  "raceId": "2026-me-senate-class-2",
+  "pollster": "YouGov",
+  "startDate": "2026-09-02",
+  "endDate": "2026-09-08",
+  "sampleSize": 1335,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/09/10/YouGov-Maine",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "me-senate-susan-collins",
+      "percent": 44
+    },
+    {
+      "candidateId": "me-senate-troy-jackson",
+      "percent": 48
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "quantus-insights-2026-08-01-ga-governor",
+  "raceId": "2026-ga-governor",
+  "pollster": "Quantus Insights",
+  "sponsor": "Natural Gas Association of Georgia",
+  "startDate": "2026-07-29",
+  "endDate": "2026-08-01",
+  "sampleSize": 815,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/08/10/Quantus-Insights/Natural-Gas-Association-of-Georgia-Georgia-2026-07-29-2026-08-01",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ga-governor-rick-jackson",
+      "percent": 44.9
+    },
+    {
+      "candidateId": "ga-governor-keisha-lance-bottoms",
+      "percent": 46.4
+    }
+  ]
+}

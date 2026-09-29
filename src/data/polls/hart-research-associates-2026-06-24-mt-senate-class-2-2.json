@@ -1,0 +1,22 @@
+{
+  "id": "hart-research-associates-2026-06-24-mt-senate-class-2-2",
+  "raceId": "2026-mt-senate-class-2",
+  "pollster": "Hart Research Associates",
+  "sponsor": "Montana Freedom PAC (super PAC)",
+  "startDate": "2026-06-18",
+  "endDate": "2026-06-24",
+  "sampleSize": 800,
+  "population": "LV",
+  "url": "https://www.mtfreedompac.org/press-releases",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mt-senate-kurt-alme",
+      "percent": 49
+    },
+    {
+      "candidateId": "mt-senate-alani-bankhead",
+      "percent": 43
+    }
+  ]
+}

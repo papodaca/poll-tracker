@@ -1,0 +1,25 @@
+{
+  "id": "texas-southern-university-barbara-jordan-public-policy-research-and-survey-center-2026-07-30-tx-house-28",
+  "raceId": "2026-tx-house-28",
+  "pollster": "Texas Southern University Barbara Jordan Public Policy Research and Survey Center",
+  "startDate": "2026-07-27",
+  "endDate": "2026-07-30",
+  "sampleSize": 600,
+  "population": "LV",
+  "url": "https://static1.squarespace.com/static/67aa7aa3e284b002cd6a420e/t/6a8debe648e3721adb0534b6/1787685864204/SouthTexasCDs2026.pdf",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-house-28-tano-tijerina",
+      "percent": 34
+    },
+    {
+      "candidateId": "tx-house-28-henry-cuellar",
+      "percent": 45
+    },
+    {
+      "candidateId": "tx-house-28-marlon-duran",
+      "percent": 6
+    }
+  ]
+}

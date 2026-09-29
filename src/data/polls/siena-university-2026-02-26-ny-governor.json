@@ -1,0 +1,21 @@
+{
+  "id": "siena-university-2026-02-26-ny-governor",
+  "raceId": "2026-ny-governor",
+  "pollster": "Siena University",
+  "startDate": "2026-02-23",
+  "endDate": "2026-02-26",
+  "sampleSize": 805,
+  "population": "RV",
+  "url": "https://sri.siena.edu/2026/03/04/strong-majorities-of-democrats-nyc-voters-support-gov-leg-giving-nyc-ability-to-raise-income-tax-on-its-residents-earning-at-least-1m/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ny-governor-bruce-blakeman",
+      "percent": 31
+    },
+    {
+      "candidateId": "ny-governor-kathy-hochul",
+      "percent": 51
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "slingshot-strategies-2026-07-17-tx-senate-class-2-2",
+  "raceId": "2026-tx-senate-class-2",
+  "pollster": "Slingshot Strategies",
+  "sponsor": "Texas Public Opinion Research",
+  "startDate": "2026-07-15",
+  "endDate": "2026-07-17",
+  "sampleSize": 1048,
+  "population": "LV",
+  "url": "https://texaspublicopinionresearch.substack.com/p/new-poll-james-talaricos-lead-over",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-senate-james-talarico",
+      "percent": 45
+    },
+    {
+      "candidateId": "tx-senate-ken-paxton",
+      "percent": 40
+    },
+    {
+      "candidateId": "tx-senate-ted-brown",
+      "percent": 1
+    }
+  ]
+}

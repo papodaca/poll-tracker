@@ -1,0 +1,22 @@
+{
+  "id": "public-policy-polling-2025-10-15-wi-house-3",
+  "raceId": "2026-wi-house-3",
+  "pollster": "Public Policy Polling",
+  "sponsor": "House Majority PAC (hybrid PAC)",
+  "startDate": "2025-10-14",
+  "endDate": "2025-10-15",
+  "sampleSize": 609,
+  "population": "V",
+  "url": "https://www.politico.com/newsletters/weekly-score/2025/10/20/how-one-dem-group-is-rethinking-canvassing-00615012",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "wi-house-3-rebecca-cooke",
+      "percent": 44
+    },
+    {
+      "candidateId": "wi-house-3-derrick-van-orden",
+      "percent": 42
+    }
+  ]
+}

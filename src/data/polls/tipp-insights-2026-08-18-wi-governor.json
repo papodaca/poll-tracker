@@ -1,0 +1,22 @@
+{
+  "id": "tipp-insights-2026-08-18-wi-governor",
+  "raceId": "2026-wi-governor",
+  "pollster": "TIPP Insights",
+  "sponsor": "League of American Workers",
+  "startDate": "2026-08-14",
+  "endDate": "2026-08-18",
+  "sampleSize": 1119,
+  "population": "LV",
+  "url": "https://tippinsights.com/league-of-american-workers-survey-wisconsin-4/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "wi-governor-david-crowley",
+      "percent": 47
+    },
+    {
+      "candidateId": "wi-governor-tom-tiffany",
+      "percent": 43
+    }
+  ]
+}

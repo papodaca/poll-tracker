@@ -1,0 +1,25 @@
+{
+  "id": "tavern-research-2026-06-19-mt-senate-class-2",
+  "raceId": "2026-mt-senate-class-2",
+  "pollster": "Tavern Research",
+  "startDate": "2026-06-16",
+  "endDate": "2026-06-19",
+  "sampleSize": 400,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/06/30/Tavern-Research-Montana",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mt-senate-alani-bankhead",
+      "percent": 26
+    },
+    {
+      "candidateId": "mt-senate-seth-bodnar",
+      "percent": 24
+    },
+    {
+      "candidateId": "mt-senate-kurt-alme",
+      "percent": 49
+    }
+  ]
+}

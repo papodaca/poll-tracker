@@ -1,0 +1,33 @@
+{
+  "id": "peak-insights-2026-06-07-id-senate-class-2",
+  "raceId": "2026-id-senate-class-2",
+  "pollster": "Peak Insights",
+  "startDate": "2026-06-06",
+  "endDate": "2026-06-07",
+  "sampleSize": 500,
+  "population": "LV",
+  "url": "https://senatorrisch.com/polling/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "id-senate-todd-achilles",
+      "percent": 7
+    },
+    {
+      "candidateId": "id-senate-jim-risch",
+      "percent": 55
+    },
+    {
+      "candidateId": "id-senate-david-roth",
+      "percent": 15
+    },
+    {
+      "candidateId": "id-senate-natalie-m-fleming",
+      "percent": 5
+    },
+    {
+      "candidateId": "id-senate-matt-loesby",
+      "percent": 2
+    }
+  ]
+}

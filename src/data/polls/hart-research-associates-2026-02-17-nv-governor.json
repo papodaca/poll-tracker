@@ -1,0 +1,22 @@
+{
+  "id": "hart-research-associates-2026-02-17-nv-governor",
+  "raceId": "2026-nv-governor",
+  "pollster": "Hart Research Associates",
+  "sponsor": "The Majority Institute",
+  "startDate": "2026-02-11",
+  "endDate": "2026-02-17",
+  "sampleSize": 800,
+  "population": "LV",
+  "url": "https://crookedmedia.substack.com/p/what-a-day-mar-a-uh-oh",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nv-governor-aaron-ford",
+      "percent": 43
+    },
+    {
+      "candidateId": "nv-governor-joe-lombardo",
+      "percent": 46
+    }
+  ]
+}

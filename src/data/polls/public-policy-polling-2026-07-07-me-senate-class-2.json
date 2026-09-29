@@ -1,0 +1,22 @@
+{
+  "id": "public-policy-polling-2026-07-07-me-senate-class-2",
+  "raceId": "2026-me-senate-class-2",
+  "pollster": "Public Policy Polling",
+  "sponsor": "Graham Platner",
+  "startDate": "2026-07-07",
+  "endDate": "2026-07-07",
+  "sampleSize": 785,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/07/08/Public-Policy-Polling/Graham-Platner-Maine-2026-07-07-2026-07-07",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "me-senate-susan-collins",
+      "percent": 44
+    },
+    {
+      "candidateId": "me-senate-troy-jackson",
+      "percent": 49
+    }
+  ]
+}

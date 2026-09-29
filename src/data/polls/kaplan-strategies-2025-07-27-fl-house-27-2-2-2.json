@@ -1,0 +1,21 @@
+{
+  "id": "kaplan-strategies-2025-07-27-fl-house-27-2-2-2",
+  "raceId": "2026-fl-house-27",
+  "pollster": "Kaplan Strategies",
+  "startDate": "2025-07-25",
+  "endDate": "2025-07-27",
+  "sampleSize": 804,
+  "population": "LV",
+  "url": "https://floridapolitics.com/archives/750168-poll-daniella-levine-cava-poses-strong-threat-to-maria-elvira-salazar-in-cd-27/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-house-27-maria-elvira-salazar",
+      "percent": 45
+    },
+    {
+      "candidateId": "fl-house-27-richard-lamondin-jr",
+      "percent": 34
+    }
+  ]
+}

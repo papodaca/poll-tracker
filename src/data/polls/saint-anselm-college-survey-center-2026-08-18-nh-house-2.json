@@ -1,0 +1,21 @@
+{
+  "id": "saint-anselm-college-survey-center-2026-08-18-nh-house-2",
+  "raceId": "2026-nh-house-2",
+  "pollster": "Saint Anselm College Survey Center",
+  "startDate": "2026-08-17",
+  "endDate": "2026-08-18",
+  "sampleSize": 701,
+  "population": "LV",
+  "url": "https://www.anselm.edu/about/anselmian-hub/news/new-saint-anselm-college-poll-finds-republicans-facing-midterm-headwinds-democratic-lead-widens",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nh-house-2-maggie-goodlander",
+      "percent": 50
+    },
+    {
+      "candidateId": "nh-house-2-lily-tang-williams",
+      "percent": 35
+    }
+  ]
+}

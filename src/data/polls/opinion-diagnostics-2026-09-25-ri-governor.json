@@ -1,0 +1,21 @@
+{
+  "id": "opinion-diagnostics-2026-09-25-ri-governor",
+  "raceId": "2026-ri-governor",
+  "pollster": "Opinion Diagnostics",
+  "startDate": "2026-09-23",
+  "endDate": "2026-09-25",
+  "sampleSize": 800,
+  "population": "LV",
+  "url": "https://www.golocalprov.com/politics/new-blocks-campaign-poll-shows-he-leads-foulkes-head-to-head-in-race-for-gov-guckian-on-track-for-the-worst-gop-result-on-record",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ri-governor-ken-block",
+      "percent": 44
+    },
+    {
+      "candidateId": "ri-governor-helena-foulkes",
+      "percent": 39
+    }
+  ]
+}

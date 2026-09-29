@@ -1,0 +1,21 @@
+{
+  "id": "data-for-progress-2026-08-04-ak-house-at-large",
+  "raceId": "2026-ak-house-at-large",
+  "pollster": "Data for Progress",
+  "startDate": "2026-07-28",
+  "endDate": "2026-08-04",
+  "sampleSize": 605,
+  "population": "LV",
+  "url": "https://www.dataforprogress.org/blog/2026/8/17/as-alaskas-affordability-crisis-deepens-peltola-leads-in-senate-race",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ak-house-bill-hill",
+      "percent": 37
+    },
+    {
+      "candidateId": "ak-house-nick-begich",
+      "percent": 47
+    }
+  ]
+}

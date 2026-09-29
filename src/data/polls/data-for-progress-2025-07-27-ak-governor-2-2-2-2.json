@@ -1,0 +1,29 @@
+{
+  "id": "data-for-progress-2025-07-27-ak-governor-2-2-2-2",
+  "raceId": "2026-ak-governor",
+  "pollster": "Data for Progress",
+  "startDate": "2025-07-21",
+  "endDate": "2025-07-27",
+  "sampleSize": 562,
+  "population": "LV",
+  "url": "https://www.dataforprogress.org/blog/2025/8/8/mary-peltola-would-be-front-runner-for-alaska-governor",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ak-governor-click-bishop",
+      "percent": 10
+    },
+    {
+      "candidateId": "ak-governor-nancy-a-dahlstrom",
+      "percent": 19
+    },
+    {
+      "candidateId": "ak-governor-bernadette-wilson",
+      "percent": 16
+    },
+    {
+      "candidateId": "ak-governor-mary-peltola",
+      "percent": 54
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "public-policy-polling-2025-09-09-me-senate-class-2",
+  "raceId": "2026-me-senate-class-2",
+  "pollster": "Public Policy Polling",
+  "startDate": "2025-09-08",
+  "endDate": "2025-09-09",
+  "sampleSize": 642,
+  "population": "V",
+  "url": "https://www.the-downballot.com/p/morning-digest-why-democrats-think-be5",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "me-senate-dan-kleban",
+      "percent": 44
+    },
+    {
+      "candidateId": "me-senate-susan-collins",
+      "percent": 35
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "marist-university-2026-02-19-ny-governor",
+  "raceId": "2026-ny-governor",
+  "pollster": "Marist University",
+  "startDate": "2026-02-16",
+  "endDate": "2026-02-19",
+  "sampleSize": 1442,
+  "population": "RV",
+  "url": "https://maristpoll.marist.edu/polls/the-state-of-new-york-in-an-election-year-february-2026/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ny-governor-bruce-blakeman",
+      "percent": 33
+    },
+    {
+      "candidateId": "ny-governor-kathy-hochul",
+      "percent": 50
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "patriot-polling-2026-07-26-fl-house-2-2-2-2",
+  "raceId": "2026-fl-house-2",
+  "pollster": "Patriot Polling",
+  "startDate": "2026-07-22",
+  "endDate": "2026-07-26",
+  "sampleSize": 922,
+  "population": "LV",
+  "url": "https://washingtonreporter.news/exclusive-floridas-2nd-district-out-of-play-for-democrats-according-to-gop-candidate-keith-grosss-polling/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-house-2-keith-gross",
+      "percent": 58.5
+    },
+    {
+      "candidateId": "fl-house-2-nic-zateslo",
+      "percent": 39.1
+    }
+  ]
+}

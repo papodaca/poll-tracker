@@ -1,0 +1,21 @@
+{
+  "id": "tulchin-research-2025-11-25-mt-house-1",
+  "raceId": "2026-mt-house-1",
+  "pollster": "Tulchin Research",
+  "startDate": "2025-11-22",
+  "endDate": "2025-11-25",
+  "sampleSize": 424,
+  "population": "LV",
+  "url": "https://dailymontanan.com/2026/01/08/ryan-busse-joins-race-to-challenge-zinke/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mt-house-1-ryan-busse",
+      "percent": 47
+    },
+    {
+      "candidateId": "mt-house-1-ryan-k-zinke",
+      "percent": 43
+    }
+  ]
+}

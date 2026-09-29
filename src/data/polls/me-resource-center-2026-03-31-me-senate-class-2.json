@@ -1,0 +1,21 @@
+{
+  "id": "me-resource-center-2026-03-31-me-senate-class-2",
+  "raceId": "2026-me-senate-class-2",
+  "pollster": "ME Resource Center",
+  "startDate": "2026-03-20",
+  "endDate": "2026-03-31",
+  "sampleSize": 1167,
+  "population": "LV",
+  "url": "https://static.notus.org/0b/9f/97515a054eaa89882d18ab798388/poll.pdf",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "me-senate-janet-t-mills",
+      "percent": 42
+    },
+    {
+      "candidateId": "me-senate-susan-collins",
+      "percent": 45
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "quantus-insights-2026-09-10-mn-senate-class-2",
+  "raceId": "2026-mn-senate-class-2",
+  "pollster": "Quantus Insights",
+  "startDate": "2026-09-08",
+  "endDate": "2026-09-10",
+  "sampleSize": 720,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/09/11/Quantus-Insights-Minnesota",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mn-senate-peggy-flanagan",
+      "percent": 48.2
+    },
+    {
+      "candidateId": "mn-senate-michele-tafoya",
+      "percent": 44.4
+    }
+  ]
+}

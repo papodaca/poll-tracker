@@ -1,0 +1,22 @@
+{
+  "id": "university-of-california-berkeley-institute-of-governmental-studies-2026-09-20-ca-governor",
+  "raceId": "2026-ca-governor",
+  "pollster": "University of California Berkeley Institute of Governmental Studies",
+  "sponsor": "Los Angeles Times",
+  "startDate": "2026-09-15",
+  "endDate": "2026-09-20",
+  "sampleSize": 4512,
+  "population": "LV",
+  "url": "https://www.latimes.com/california/story/2026-09-24/high-cost-of-living-tops-voter-concerns-becerra-remains-front-runner-in-governors-race-new-poll-shows",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ca-governor-xavier-becerra",
+      "percent": 58
+    },
+    {
+      "candidateId": "ca-governor-steve-hilton",
+      "percent": 33
+    }
+  ]
+}

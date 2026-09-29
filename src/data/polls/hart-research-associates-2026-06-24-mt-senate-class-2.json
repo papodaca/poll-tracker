@@ -1,0 +1,26 @@
+{
+  "id": "hart-research-associates-2026-06-24-mt-senate-class-2",
+  "raceId": "2026-mt-senate-class-2",
+  "pollster": "Hart Research Associates",
+  "sponsor": "The Majority Institute",
+  "startDate": "2026-06-18",
+  "endDate": "2026-06-24",
+  "sampleSize": 800,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/07/21/Hart-Research-Associates/The-Majority-Institute-Montana-2026-06-18-2026-06-24",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mt-senate-kurt-alme",
+      "percent": 47
+    },
+    {
+      "candidateId": "mt-senate-alani-bankhead",
+      "percent": 22
+    },
+    {
+      "candidateId": "mt-senate-seth-bodnar",
+      "percent": 25
+    }
+  ]
+}

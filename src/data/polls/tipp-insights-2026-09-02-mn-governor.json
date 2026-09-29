@@ -1,0 +1,26 @@
+{
+  "id": "tipp-insights-2026-09-02-mn-governor",
+  "raceId": "2026-mn-governor",
+  "pollster": "TIPP Insights",
+  "sponsor": "League of American Workers",
+  "startDate": "2026-08-31",
+  "endDate": "2026-09-02",
+  "sampleSize": 1201,
+  "population": "LV",
+  "url": "https://tippinsights.com/league-of-american-workers-survey-minnesota/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mn-governor-lisa-demuth",
+      "percent": 40
+    },
+    {
+      "candidateId": "mn-governor-amy-klobuchar",
+      "percent": 50
+    },
+    {
+      "candidateId": "mn-governor-steven-young",
+      "percent": 3
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "trafalgar-group-2026-09-10-ga-senate-class-2",
+  "raceId": "2026-ga-senate-class-2",
+  "pollster": "Trafalgar Group",
+  "startDate": "2026-09-08",
+  "endDate": "2026-09-10",
+  "sampleSize": 1091,
+  "population": "LV",
+  "url": "https://www.thetrafalgargroup.org/news/ga-sen-general-0913/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ga-senate-jon-ossoff",
+      "percent": 49
+    },
+    {
+      "candidateId": "ga-senate-mike-collins",
+      "percent": 43
+    }
+  ]
+}

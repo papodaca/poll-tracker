@@ -1,0 +1,22 @@
+{
+  "id": "co-efficient-2026-04-28-me-house-2",
+  "raceId": "2026-me-house-2",
+  "pollster": "co/efficient",
+  "sponsor": "NRCC",
+  "startDate": "2026-04-26",
+  "endDate": "2026-04-28",
+  "sampleSize": 918,
+  "population": "LV",
+  "url": "https://www.politico.com/news/2026/05/08/gop-polls-show-they-have-a-shot-at-flipping-house-dem-districts-trump-won-00910791",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "me-house-2-joseph-baldacci",
+      "percent": 40
+    },
+    {
+      "candidateId": "me-house-2-paul-lepage",
+      "percent": 50
+    }
+  ]
+}

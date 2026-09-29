@@ -1,0 +1,21 @@
+{
+  "id": "dccc-targeting-and-analytics-department-2026-09-23-oh-house-9",
+  "raceId": "2026-oh-house-9",
+  "pollster": "DCCC Targeting and Analytics Department",
+  "startDate": "2026-09-22",
+  "endDate": "2026-09-23",
+  "sampleSize": 481,
+  "population": "LV",
+  "url": "https://dccc.org/dccc-polling-memo-oh-09-is-a-dead-heat/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "oh-house-9-marcy-kaptur",
+      "percent": 48
+    },
+    {
+      "candidateId": "oh-house-9-derek-merrin",
+      "percent": 48
+    }
+  ]
+}

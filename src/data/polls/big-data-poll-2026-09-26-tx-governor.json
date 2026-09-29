@@ -1,0 +1,22 @@
+{
+  "id": "big-data-poll-2026-09-26-tx-governor",
+  "raceId": "2026-tx-governor",
+  "pollster": "Big Data Poll",
+  "sponsor": "Public Polling Project",
+  "startDate": "2026-09-24",
+  "endDate": "2026-09-26",
+  "sampleSize": 698,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/09/27/Big-Data-Poll/Public-Polling-Project-Texas-2026-09-24-2026-09-26",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-governor-gina-hinojosa",
+      "percent": 43.5
+    },
+    {
+      "candidateId": "tx-governor-greg-abbott",
+      "percent": 47.1
+    }
+  ]
+}

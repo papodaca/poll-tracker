@@ -1,0 +1,22 @@
+{
+  "id": "mad-global-strategy-2026-06-11-pa-governor",
+  "raceId": "2026-pa-governor",
+  "pollster": "MAD Global Strategy",
+  "sponsor": "Natural Allies for a Clean Energy Future",
+  "startDate": "2026-06-09",
+  "endDate": "2026-06-11",
+  "sampleSize": 600,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/07/01/MAD-Global-Strategy/Natural-Allies-for-a-Clean-Energy-Future-Pennsylvania-2026-06-09-2026-06-11",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "pa-governor-josh-shapiro",
+      "percent": 48
+    },
+    {
+      "candidateId": "pa-governor-stacy-garrity",
+      "percent": 31
+    }
+  ]
+}

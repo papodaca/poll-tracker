@@ -1,0 +1,21 @@
+{
+  "id": "trafalgar-group-2026-09-10-nc-senate-class-2",
+  "raceId": "2026-nc-senate-class-2",
+  "pollster": "Trafalgar Group",
+  "startDate": "2026-09-08",
+  "endDate": "2026-09-10",
+  "sampleSize": 1084,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/09/13/Trafalgar-Group-North-Carolina",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nc-senate-roy-cooper",
+      "percent": 48.2
+    },
+    {
+      "candidateId": "nc-senate-michael-whatley",
+      "percent": 42.3
+    }
+  ]
+}

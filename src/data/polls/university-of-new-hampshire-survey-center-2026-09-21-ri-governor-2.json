@@ -1,0 +1,33 @@
+{
+  "id": "university-of-new-hampshire-survey-center-2026-09-21-ri-governor-2",
+  "raceId": "2026-ri-governor",
+  "pollster": "University of New Hampshire Survey Center",
+  "startDate": "2026-09-17",
+  "endDate": "2026-09-21",
+  "sampleSize": 598,
+  "population": "LV",
+  "url": "https://scholars.unh.edu/survey_center_polls/1009/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ri-governor-ken-block",
+      "percent": 25
+    },
+    {
+      "candidateId": "ri-governor-helena-foulkes",
+      "percent": 44
+    },
+    {
+      "candidateId": "ri-governor-aaron-guckian",
+      "percent": 17
+    },
+    {
+      "candidateId": "ri-governor-cd-reynolds",
+      "percent": 2
+    },
+    {
+      "candidateId": "ri-governor-jasjit-s-gotra",
+      "percent": 0
+    }
+  ]
+}

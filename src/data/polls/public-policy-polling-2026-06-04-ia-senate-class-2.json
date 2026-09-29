@@ -1,0 +1,22 @@
+{
+  "id": "public-policy-polling-2026-06-04-ia-senate-class-2",
+  "raceId": "2026-ia-senate-class-2",
+  "pollster": "Public Policy Polling",
+  "sponsor": "Democratic Senatorial Campaign Committee",
+  "startDate": "2026-06-03",
+  "endDate": "2026-06-04",
+  "sampleSize": 557,
+  "population": "RV",
+  "url": "https://data.ddhq.io/polls/2026/06/08/Public-Policy-Polling/Democratic-Senatorial-Campaign-Committee-Iowa-2026-06-03-2026-06-04",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ia-senate-josh-turek",
+      "percent": 46
+    },
+    {
+      "candidateId": "ia-senate-ashley-hinson",
+      "percent": 46
+    }
+  ]
+}

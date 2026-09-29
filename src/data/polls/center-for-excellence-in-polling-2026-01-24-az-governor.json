@@ -1,0 +1,22 @@
+{
+  "id": "center-for-excellence-in-polling-2026-01-24-az-governor",
+  "raceId": "2026-az-governor",
+  "pollster": "Center for Excellence in Polling",
+  "sponsor": "FGA Action",
+  "startDate": "2026-01-22",
+  "endDate": "2026-01-24",
+  "sampleSize": 519,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/02/19/Center-for-Excellence-in-Polling/FGA-Action-Arizona-2026-01-22-2026-01-24",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "az-governor-katie-hobbs",
+      "percent": 50
+    },
+    {
+      "candidateId": "az-governor-andy-biggs",
+      "percent": 41
+    }
+  ]
+}

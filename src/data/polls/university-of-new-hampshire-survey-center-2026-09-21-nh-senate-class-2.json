@@ -1,0 +1,25 @@
+{
+  "id": "university-of-new-hampshire-survey-center-2026-09-21-nh-senate-class-2",
+  "raceId": "2026-nh-senate-class-2",
+  "pollster": "University of New Hampshire Survey Center",
+  "startDate": "2026-09-17",
+  "endDate": "2026-09-21",
+  "sampleSize": 1418,
+  "population": "LV",
+  "url": "https://scholars.unh.edu/survey_center_polls/1005/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nh-senate-chris-pappas",
+      "percent": 50
+    },
+    {
+      "candidateId": "nh-senate-john-sununu",
+      "percent": 42
+    },
+    {
+      "candidateId": "nh-senate-edmond-laplante",
+      "percent": 2
+    }
+  ]
+}

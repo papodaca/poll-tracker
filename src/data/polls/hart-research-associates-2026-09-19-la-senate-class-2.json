@@ -1,0 +1,21 @@
+{
+  "id": "hart-research-associates-2026-09-19-la-senate-class-2",
+  "raceId": "2026-la-senate-class-2",
+  "pollster": "Hart Research Associates",
+  "startDate": "2026-09-17",
+  "endDate": "2026-09-19",
+  "sampleSize": 500,
+  "population": "LV",
+  "url": "https://bsky.app/profile/deecherrywriter.bsky.social/post/3mw7hmiyunc2g",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "la-senate-jamie-davis",
+      "percent": 44
+    },
+    {
+      "candidateId": "la-senate-julia-letlow",
+      "percent": 48
+    }
+  ]
+}

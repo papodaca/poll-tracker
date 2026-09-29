@@ -1,0 +1,21 @@
+{
+  "id": "nyt-siena-2026-09-22-mi-senate-class-2",
+  "raceId": "2026-mi-senate-class-2",
+  "pollster": "NYT/Siena",
+  "startDate": "2026-09-15",
+  "endDate": "2026-09-22",
+  "sampleSize": 619,
+  "population": "LV",
+  "url": "https://www.nytimes.com/2026/09/24/us/politics/democrats-show-strength-in-michigan-senate-race-but-trail-in-maine-polls-find.html",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-senate-abdul-el-sayed",
+      "percent": 49
+    },
+    {
+      "candidateId": "mi-senate-mike-rogers",
+      "percent": 44
+    }
+  ]
+}

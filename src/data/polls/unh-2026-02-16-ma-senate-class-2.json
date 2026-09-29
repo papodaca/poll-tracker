@@ -1,0 +1,21 @@
+{
+  "id": "unh-2026-02-16-ma-senate-class-2",
+  "raceId": "2026-ma-senate-class-2",
+  "pollster": "UNH",
+  "startDate": "2026-02-12",
+  "endDate": "2026-02-16",
+  "sampleSize": 620,
+  "population": "LV",
+  "url": "https://scholars.unh.edu/survey_center_polls/931/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ma-senate-ed-markey",
+      "percent": 56
+    },
+    {
+      "candidateId": "ma-senate-john-deaton",
+      "percent": 27
+    }
+  ]
+}

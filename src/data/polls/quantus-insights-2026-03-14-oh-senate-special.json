@@ -1,0 +1,21 @@
+{
+  "id": "quantus-insights-2026-03-14-oh-senate-special",
+  "raceId": "2026-oh-senate-special",
+  "pollster": "Quantus Insights",
+  "startDate": "2026-03-13",
+  "endDate": "2026-03-14",
+  "sampleSize": 784,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/03/16/Quantus-Insights-Ohio",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "oh-senate-sherrod-brown",
+      "percent": 44.4
+    },
+    {
+      "candidateId": "oh-senate-jon-husted",
+      "percent": 45.5
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "tipp-insights-2025-08-01-ga-senate-class-2",
+  "raceId": "2026-ga-senate-class-2",
+  "pollster": "TIPP Insights",
+  "sponsor": "League of American Workers",
+  "startDate": "2025-07-28",
+  "endDate": "2025-08-01",
+  "sampleSize": 2956,
+  "population": "RV",
+  "url": "https://data.ddhq.io/polls/2025/08/07/TIPP Insights/League of American Workers-Georgia-2025-07-28-2025-08-01",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ga-senate-mike-collins",
+      "percent": 41
+    },
+    {
+      "candidateId": "ga-senate-jon-ossoff",
+      "percent": 44
+    }
+  ]
+}

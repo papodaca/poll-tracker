@@ -1,0 +1,21 @@
+{
+  "id": "gqr-2026-04-27-ks-senate-class-2",
+  "raceId": "2026-ks-senate-class-2",
+  "pollster": "GQR",
+  "startDate": "2026-04-23",
+  "endDate": "2026-04-27",
+  "sampleSize": 500,
+  "population": "LV",
+  "url": "https://x.com/JacobRubashkin/status/2052495746461471175?s=20",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ks-senate-patrick-schmidt",
+      "percent": 45
+    },
+    {
+      "candidateId": "ks-senate-roger-marshall",
+      "percent": 49
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "pulse-decision-science-2025-04-09-az-governor",
+  "raceId": "2026-az-governor",
+  "pollster": "Pulse Decision Science",
+  "sponsor": "Club for Growth",
+  "startDate": "2025-04-06",
+  "endDate": "2025-04-09",
+  "sampleSize": 501,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2025/07/01/Pulse Decision Science/Club for Growth-Arizona-2025-04-06-2025-04-09",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "az-governor-katie-hobbs",
+      "percent": 46
+    },
+    {
+      "candidateId": "az-governor-andy-biggs",
+      "percent": 42
+    }
+  ]
+}

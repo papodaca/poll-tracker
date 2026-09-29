@@ -1,0 +1,22 @@
+{
+  "id": "fabrizio-ward-impact-research-2026-06-16-oh-governor",
+  "raceId": "2026-oh-governor",
+  "pollster": "Fabrizio Ward / Impact Research",
+  "sponsor": "AARP",
+  "startDate": "2026-06-14",
+  "endDate": "2026-06-16",
+  "sampleSize": 800,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/06/28/Fabrizio-Ward/Impact-Research/AARP-Ohio-2026-06-14-2026-06-16",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "oh-governor-amy-acton",
+      "percent": 47
+    },
+    {
+      "candidateId": "oh-governor-vivek-ramaswamy",
+      "percent": 44
+    }
+  ]
+}

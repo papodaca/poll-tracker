@@ -1,0 +1,21 @@
+{
+  "id": "emerson-college-2026-03-23-nh-senate-class-2-2",
+  "raceId": "2026-nh-senate-class-2",
+  "pollster": "Emerson College",
+  "startDate": "2026-03-21",
+  "endDate": "2026-03-23",
+  "sampleSize": 1000,
+  "population": "LV",
+  "url": "https://emersoncollegepolling.com/new-hampshire-2026-sununu-leads-gop-nomination-ties-pappas-for-senate/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nh-senate-chris-pappas",
+      "percent": 47.8
+    },
+    {
+      "candidateId": "nh-senate-scott-brown",
+      "percent": 39.3
+    }
+  ]
+}

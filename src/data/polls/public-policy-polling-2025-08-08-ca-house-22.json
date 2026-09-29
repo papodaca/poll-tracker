@@ -1,0 +1,22 @@
+{
+  "id": "public-policy-polling-2025-08-08-ca-house-22",
+  "raceId": "2026-ca-house-22",
+  "pollster": "Public Policy Polling",
+  "sponsor": "SEIU / ASPIRE PAC",
+  "startDate": "2025-08-06",
+  "endDate": "2025-08-08",
+  "sampleSize": 547,
+  "population": "V",
+  "url": "https://drive.google.com/file/d/17PXmZuLGO-dCy0sVWH0aorf-afpaRHEO/view",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ca-house-22-jasmeet-kaur-bains",
+      "percent": 42
+    },
+    {
+      "candidateId": "ca-house-22-david-valadao",
+      "percent": 42
+    }
+  ]
+}

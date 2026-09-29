@@ -1,0 +1,21 @@
+{
+  "id": "susquehanna-polling-and-research-2025-09-28-pa-governor-2",
+  "raceId": "2026-pa-governor",
+  "pollster": "Susquehanna Polling & Research",
+  "startDate": "2025-09-22",
+  "endDate": "2025-09-28",
+  "sampleSize": 704,
+  "population": "LV",
+  "url": "https://x.com/SusquehannaPR/status/1975656184393666735",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "pa-governor-douglas-v-mastriano",
+      "percent": 37
+    },
+    {
+      "candidateId": "pa-governor-josh-shapiro",
+      "percent": 55
+    }
+  ]
+}

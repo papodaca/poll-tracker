@@ -1,0 +1,21 @@
+{
+  "id": "siena-university-2025-12-12-ny-governor-2",
+  "raceId": "2026-ny-governor",
+  "pollster": "Siena University",
+  "startDate": "2025-12-08",
+  "endDate": "2025-12-12",
+  "sampleSize": 801,
+  "population": "RV",
+  "url": "https://sri.siena.edu/2025/12/16/hochul-holds-19-point-lead-over-stefanik-leads-blakeman-by-25-points",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ny-governor-bruce-blakeman",
+      "percent": 25
+    },
+    {
+      "candidateId": "ny-governor-kathy-hochul",
+      "percent": 50
+    }
+  ]
+}

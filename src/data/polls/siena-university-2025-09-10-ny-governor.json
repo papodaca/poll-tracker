@@ -1,0 +1,21 @@
+{
+  "id": "siena-university-2025-09-10-ny-governor",
+  "raceId": "2026-ny-governor",
+  "pollster": "Siena University",
+  "startDate": "2025-09-08",
+  "endDate": "2025-09-10",
+  "sampleSize": 802,
+  "population": "RV",
+  "url": "https://sri.siena.edu/2025/09/16/hochul-approval-favorability-ratings-up-a-little-favorability-best-since-jan-24-majority-hochul-works-hard-demonstrates-honesty-integrity-plurality-gets-things-done-provides-dec/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ny-governor-kathy-hochul",
+      "percent": 52
+    },
+    {
+      "candidateId": "ny-governor-elise-m-stefanik",
+      "percent": 27
+    }
+  ]
+}

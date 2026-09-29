@@ -1,0 +1,22 @@
+{
+  "id": "suffolk-university-2026-09-27-oh-governor",
+  "raceId": "2026-oh-governor",
+  "pollster": "Suffolk University",
+  "sponsor": "USA Today",
+  "startDate": "2026-09-23",
+  "endDate": "2026-09-27",
+  "sampleSize": 500,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/09/29/Suffolk-University/USA-Today-Ohio-2026-09-23-2026-09-27",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "oh-governor-vivek-ramaswamy",
+      "percent": 41
+    },
+    {
+      "candidateId": "oh-governor-amy-acton",
+      "percent": 50
+    }
+  ]
+}

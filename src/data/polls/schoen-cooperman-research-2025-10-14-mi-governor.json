@@ -1,0 +1,22 @@
+{
+  "id": "schoen-cooperman-research-2025-10-14-mi-governor",
+  "raceId": "2026-mi-governor",
+  "pollster": "Schoen Cooperman Research",
+  "sponsor": "Mike Duggan",
+  "startDate": "2025-10-09",
+  "endDate": "2025-10-14",
+  "sampleSize": 600,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2025/10/24/Schoen Cooperman Research-Michigan",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-governor-jocelyn-benson",
+      "percent": 30
+    },
+    {
+      "candidateId": "mi-governor-john-james",
+      "percent": 29
+    }
+  ]
+}

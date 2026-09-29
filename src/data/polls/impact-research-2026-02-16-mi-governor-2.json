@@ -1,0 +1,25 @@
+{
+  "id": "impact-research-2026-02-16-mi-governor-2",
+  "raceId": "2026-mi-governor",
+  "pollster": "Impact Research",
+  "startDate": "2026-02-09",
+  "endDate": "2026-02-16",
+  "sampleSize": 800,
+  "population": "LV",
+  "url": "https://www.metrotimes.com/news/new-poll-shows-benson-pulling-ahead-as-duggan-slips-despite-big-spending/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-governor-john-james",
+      "percent": 36
+    },
+    {
+      "candidateId": "mi-governor-jocelyn-benson",
+      "percent": 39
+    },
+    {
+      "candidateId": "mi-governor-mike-duggan",
+      "percent": 20
+    }
+  ]
+}

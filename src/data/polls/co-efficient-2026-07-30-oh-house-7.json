@@ -1,0 +1,19 @@
+{
+  "id": "co-efficient-2026-07-30-oh-house-7",
+  "raceId": "2026-oh-house-7",
+  "pollster": "co/efficient",
+  "startDate": "2026-07-30",
+  "endDate": "2026-07-30",
+  "url": "https://x.com/ShaneGoldmacher/status/2085444495479337152",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "oh-house-7-brian-poindexter",
+      "percent": 44
+    },
+    {
+      "candidateId": "oh-house-7-max-miller",
+      "percent": 39
+    }
+  ]
+}

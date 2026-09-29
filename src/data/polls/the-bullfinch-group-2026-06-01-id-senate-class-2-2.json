@@ -1,0 +1,21 @@
+{
+  "id": "the-bullfinch-group-2026-06-01-id-senate-class-2-2",
+  "raceId": "2026-id-senate-class-2",
+  "pollster": "The Bullfinch Group",
+  "startDate": "2026-05-29",
+  "endDate": "2026-06-01",
+  "sampleSize": 774,
+  "population": "RV",
+  "url": "https://www.thebullfinchgroup.com/post/for-immediate-release-independent-todd-achilles-surges-on-informed-ballot",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "id-senate-jim-risch",
+      "percent": 50
+    },
+    {
+      "candidateId": "id-senate-david-roth",
+      "percent": 33
+    }
+  ]
+}

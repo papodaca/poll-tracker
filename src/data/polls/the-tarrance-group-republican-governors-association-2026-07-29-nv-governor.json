@@ -1,0 +1,22 @@
+{
+  "id": "the-tarrance-group-republican-governors-association-2026-07-29-nv-governor",
+  "raceId": "2026-nv-governor",
+  "pollster": "The Tarrance Group / Republican Governors Association",
+  "sponsor": "Better Nevada PAC",
+  "startDate": "2026-07-25",
+  "endDate": "2026-07-29",
+  "sampleSize": 550,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/08/05/The-Tarrance-Group/Better-Nevada-PAC/Republican-Governors-Association-Nevada-2026-07-25-2026-07-29",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nv-governor-joe-lombardo",
+      "percent": 50
+    },
+    {
+      "candidateId": "nv-governor-aaron-ford",
+      "percent": 43
+    }
+  ]
+}

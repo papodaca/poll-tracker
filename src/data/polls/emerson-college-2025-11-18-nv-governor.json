@@ -1,0 +1,21 @@
+{
+  "id": "emerson-college-2025-11-18-nv-governor",
+  "raceId": "2026-nv-governor",
+  "pollster": "Emerson College",
+  "startDate": "2025-11-16",
+  "endDate": "2025-11-18",
+  "sampleSize": 800,
+  "population": "RV",
+  "url": "https://data.ddhq.io/polls/2025/11/21/Emerson College-Nevada",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nv-governor-joe-lombardo",
+      "percent": 41.1
+    },
+    {
+      "candidateId": "nv-governor-aaron-ford",
+      "percent": 41.1
+    }
+  ]
+}

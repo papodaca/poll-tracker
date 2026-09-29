@@ -1,0 +1,21 @@
+{
+  "id": "quinnipiac-university-2026-07-13-pa-governor",
+  "raceId": "2026-pa-governor",
+  "pollster": "Quinnipiac University",
+  "startDate": "2026-07-09",
+  "endDate": "2026-07-13",
+  "sampleSize": 895,
+  "population": "RV",
+  "url": "https://data.ddhq.io/polls/2026/07/15/Quinnipiac-University-Pennsylvania",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "pa-governor-josh-shapiro",
+      "percent": 53
+    },
+    {
+      "candidateId": "pa-governor-stacy-garrity",
+      "percent": 40
+    }
+  ]
+}

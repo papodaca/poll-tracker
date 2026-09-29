@@ -1,0 +1,22 @@
+{
+  "id": "gsg-2026-08-31-ia-senate-class-2",
+  "raceId": "2026-ia-senate-class-2",
+  "pollster": "GSG",
+  "sponsor": "Dem",
+  "startDate": "2026-08-27",
+  "endDate": "2026-08-31",
+  "sampleSize": 800,
+  "population": "LV",
+  "url": "https://www.semafor.com/article/09/09/2026/democratic-turek-holds-narrow-lead-in-iowa-senate-race-internal-polling-shows",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ia-senate-josh-turek",
+      "percent": 46
+    },
+    {
+      "candidateId": "ia-senate-ashley-hinson",
+      "percent": 42
+    }
+  ]
+}

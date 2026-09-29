@@ -1,0 +1,21 @@
+{
+  "id": "tavern-research-2026-05-19-ne-house-1-2",
+  "raceId": "2026-ne-house-1",
+  "pollster": "Tavern Research",
+  "startDate": "2026-05-16",
+  "endDate": "2026-05-19",
+  "sampleSize": 1079,
+  "population": "LV",
+  "url": "https://242750075.fs1.hubspotusercontent-na2.net/hubfs/242750075/NE-01%20General%20Election%20-%20Toplines.pdf",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ne-house-1-mike-flood",
+      "percent": 41
+    },
+    {
+      "candidateId": "ne-house-1-austin-ahlman",
+      "percent": 36
+    }
+  ]
+}

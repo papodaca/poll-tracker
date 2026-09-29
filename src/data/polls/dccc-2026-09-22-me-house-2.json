@@ -1,0 +1,19 @@
+{
+  "id": "dccc-2026-09-22-me-house-2",
+  "raceId": "2026-me-house-2",
+  "pollster": "DCCC",
+  "startDate": "2026-09-22",
+  "endDate": "2026-09-22",
+  "url": "https://dccc.org/%F0%9F%9A%A8-new-polls-dead-heat-in-me-02-as-matt-dunlap-gains-momentum/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "me-house-2-matthew-dunlap",
+      "percent": 48
+    },
+    {
+      "candidateId": "me-house-2-paul-lepage",
+      "percent": 49
+    }
+  ]
+}

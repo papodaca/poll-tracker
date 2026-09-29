@@ -1,0 +1,22 @@
+{
+  "id": "ragnar-research-partners-2026-03-12-co-house-3",
+  "raceId": "2026-co-house-3",
+  "pollster": "Ragnar Research Partners",
+  "sponsor": "Conservatives For America (super PAC)",
+  "startDate": "2026-03-10",
+  "endDate": "2026-03-12",
+  "sampleSize": 400,
+  "population": "LV",
+  "url": "https://punchbowl.news/article/campaigns/bad-gop-polls/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "co-house-3-alex-kelloff",
+      "percent": 41
+    },
+    {
+      "candidateId": "co-house-3-jeff-hurd",
+      "percent": 46
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "alaska-survey-research-2026-04-19-ak-senate-class-2-2",
+  "raceId": "2026-ak-senate-class-2",
+  "pollster": "Alaska Survey Research",
+  "startDate": "2026-04-16",
+  "endDate": "2026-04-19",
+  "sampleSize": 1946,
+  "population": "LV",
+  "url": "https://alaskasurveyresearch.com/peltola-vs-sullivan-april-2026/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ak-senate-dan-sullivan",
+      "percent": 42.5
+    },
+    {
+      "candidateId": "ak-senate-mary-peltola",
+      "percent": 49.1
+    },
+    {
+      "candidateId": "ak-senate-james-ryan",
+      "percent": 5.2
+    },
+    {
+      "candidateId": "ak-senate-sidney-hill",
+      "percent": 3.2
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "echelon-insights-2026-04-09-fl-governor-2",
+  "raceId": "2026-fl-governor",
+  "pollster": "Echelon Insights",
+  "sponsor": "NetChoice",
+  "startDate": "2026-04-03",
+  "endDate": "2026-04-09",
+  "sampleSize": 406,
+  "population": "LV",
+  "url": "https://netchoice.org/new-72-of-americans-want-regulators-to-focus-on-lowering-prices-ahead-of-midterms-not-punishing-success/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-governor-byron-donalds",
+      "percent": 48
+    },
+    {
+      "candidateId": "fl-governor-jerry-l-demings",
+      "percent": 44
+    }
+  ]
+}

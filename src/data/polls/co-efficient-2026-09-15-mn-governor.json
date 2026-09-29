@@ -1,0 +1,21 @@
+{
+  "id": "co-efficient-2026-09-15-mn-governor",
+  "raceId": "2026-mn-governor",
+  "pollster": "co/efficient",
+  "startDate": "2026-09-14",
+  "endDate": "2026-09-15",
+  "sampleSize": 833,
+  "population": "LV",
+  "url": "https://battlegrounds.coefficient.org/mn/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mn-governor-lisa-demuth",
+      "percent": 45
+    },
+    {
+      "candidateId": "mn-governor-amy-klobuchar",
+      "percent": 47
+    }
+  ]
+}

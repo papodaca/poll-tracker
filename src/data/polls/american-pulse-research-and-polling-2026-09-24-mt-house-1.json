@@ -1,0 +1,26 @@
+{
+  "id": "american-pulse-research-and-polling-2026-09-24-mt-house-1",
+  "raceId": "2026-mt-house-1",
+  "pollster": "American Pulse Research & Polling",
+  "sponsor": "KULR-TV (Billings, Mont.)",
+  "startDate": "2026-09-19",
+  "endDate": "2026-09-24",
+  "sampleSize": 314,
+  "population": "LV",
+  "url": "https://www.montanarightnow.com/elections/aaron-flint-sam-forstag-nearly-tied-for-montana-congressional-district-1/article_96a2f7e1-334a-46c7-9a92-84ccc4c44171.html",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mt-house-1-sam-forstag",
+      "percent": 45.4
+    },
+    {
+      "candidateId": "mt-house-1-aaron-flint",
+      "percent": 45.9
+    },
+    {
+      "candidateId": "mt-house-1-nick-sheedy",
+      "percent": 5.4
+    }
+  ]
+}

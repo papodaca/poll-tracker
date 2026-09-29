@@ -1,0 +1,21 @@
+{
+  "id": "wedgewood-polls-2026-06-28-mi-senate-class-2",
+  "raceId": "2026-mi-senate-class-2",
+  "pollster": "Wedgewood Polls",
+  "startDate": "2026-06-25",
+  "endDate": "2026-06-28",
+  "sampleSize": 602,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/06/29/Wedgewood-Polls-Michigan",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-senate-mike-rogers",
+      "percent": 44
+    },
+    {
+      "candidateId": "mi-senate-abdul-el-sayed",
+      "percent": 49
+    }
+  ]
+}

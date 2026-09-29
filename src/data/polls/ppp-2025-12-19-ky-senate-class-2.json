@@ -1,0 +1,22 @@
+{
+  "id": "ppp-2025-12-19-ky-senate-class-2",
+  "raceId": "2026-ky-senate-class-2",
+  "pollster": "PPP",
+  "sponsor": "Dem",
+  "startDate": "2025-12-18",
+  "endDate": "2025-12-19",
+  "sampleSize": 650,
+  "population": "V",
+  "url": "https://www.documentcloud.org/documents/26448522-kentuckyresults-1/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ky-senate-charles-booker",
+      "percent": 38
+    },
+    {
+      "candidateId": "ky-senate-andy-barr",
+      "percent": 49
+    }
+  ]
+}

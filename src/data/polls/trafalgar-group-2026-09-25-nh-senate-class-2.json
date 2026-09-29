@@ -1,0 +1,21 @@
+{
+  "id": "trafalgar-group-2026-09-25-nh-senate-class-2",
+  "raceId": "2026-nh-senate-class-2",
+  "pollster": "Trafalgar Group",
+  "startDate": "2026-09-23",
+  "endDate": "2026-09-25",
+  "sampleSize": 1082,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/09/28/Trafalgar-Group-New-Hampshire",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nh-senate-chris-pappas",
+      "percent": 47.4
+    },
+    {
+      "candidateId": "nh-senate-john-sununu",
+      "percent": 40.5
+    }
+  ]
+}

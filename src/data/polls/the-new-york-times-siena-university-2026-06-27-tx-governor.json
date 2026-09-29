@@ -1,0 +1,21 @@
+{
+  "id": "the-new-york-times-siena-university-2026-06-27-tx-governor",
+  "raceId": "2026-tx-governor",
+  "pollster": "The New York Times/Siena University",
+  "startDate": "2026-06-19",
+  "endDate": "2026-06-27",
+  "sampleSize": 656,
+  "population": "LV",
+  "url": "https://www.nytimes.com/2026/06/30/us/politics/texas-senate-poll-talarico-paxton.html",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-governor-gina-hinojosa",
+      "percent": 44
+    },
+    {
+      "candidateId": "tx-governor-greg-abbott",
+      "percent": 51
+    }
+  ]
+}

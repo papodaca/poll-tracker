@@ -1,0 +1,22 @@
+{
+  "id": "tipp-insights-2026-09-02-mn-senate-class-2",
+  "raceId": "2026-mn-senate-class-2",
+  "pollster": "TIPP Insights",
+  "sponsor": "League of American Workers",
+  "startDate": "2026-08-31",
+  "endDate": "2026-09-02",
+  "sampleSize": 1192,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/09/08/TIPP-Insights/League-of-American-Workers-Minnesota-2026-08-31-2026-09-02",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mn-senate-michele-tafoya",
+      "percent": 42
+    },
+    {
+      "candidateId": "mn-senate-peggy-flanagan",
+      "percent": 44
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "co-efficient-2025-07-14-nc-senate-class-2-2",
+  "raceId": "2026-nc-senate-class-2",
+  "pollster": "co/efficient",
+  "startDate": "2025-07-10",
+  "endDate": "2025-07-14",
+  "sampleSize": 694,
+  "population": "LV",
+  "url": "https://coefficient.org/wp-content/uploads/2025/07/250443-NC-2026-General-Election-Poll-7.14.pdf",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nc-senate-thomas-roland-tillis",
+      "percent": 31
+    },
+    {
+      "candidateId": "nc-senate-roy-cooper",
+      "percent": 49
+    }
+  ]
+}

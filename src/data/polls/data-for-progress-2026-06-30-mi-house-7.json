@@ -1,0 +1,21 @@
+{
+  "id": "data-for-progress-2026-06-30-mi-house-7",
+  "raceId": "2026-mi-house-7",
+  "pollster": "Data for Progress",
+  "startDate": "2026-06-24",
+  "endDate": "2026-06-30",
+  "sampleSize": 772,
+  "population": "LV",
+  "url": "https://www.semafor.com/article/07/06/2026/progressives-see-polling-candidate-momentum-in-michigan",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-house-7-william-lawrence",
+      "percent": 48
+    },
+    {
+      "candidateId": "mi-house-7-tom-barrett",
+      "percent": 46
+    }
+  ]
+}

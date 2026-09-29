@@ -1,0 +1,19 @@
+{
+  "id": "gbao-2026-09-23-ok-house-5",
+  "raceId": "2026-ok-house-5",
+  "pollster": "GBAO",
+  "startDate": "2026-09-23",
+  "endDate": "2026-09-23",
+  "url": "https://www.oklahoman.com/story/news/politics/elections/2026/09/23/oklahoma-elections-2026-5th-district-jena-nelson-national-democrat-support-race-stephanie-bice/91894158007/?gnt-cfr=1&gca-cat=p&gca-uir=false&gca-epti=z11xx33p117750c117750e1140xxv11xx33&gca-ft=10&gca-ds=sophi",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ok-house-5-jena-nelson",
+      "percent": 43
+    },
+    {
+      "candidateId": "ok-house-5-stephanie-bice",
+      "percent": 48
+    }
+  ]
+}

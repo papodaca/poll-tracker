@@ -1,0 +1,20 @@
+{
+  "id": "abacus-data-2026-08-28-sc-senate-class-2-2",
+  "raceId": "2026-sc-senate-class-2",
+  "pollster": "Abacus Data",
+  "startDate": "2026-08-26",
+  "endDate": "2026-08-28",
+  "population": "LV",
+  "url": "https://abacusdata.ca/the-trade-war-next-door-what-american-voters-think-about-tariffs-canada-and-the-battle-for-the-u-s-senate/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "sc-senate-annie-andrews",
+      "percent": 42
+    },
+    {
+      "candidateId": "sc-senate-darline-graham-nordone",
+      "percent": 55
+    }
+  ]
+}

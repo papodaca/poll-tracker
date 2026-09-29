@@ -1,0 +1,21 @@
+{
+  "id": "tavern-research-2026-06-19-mt-senate-class-2-2",
+  "raceId": "2026-mt-senate-class-2",
+  "pollster": "Tavern Research",
+  "startDate": "2026-06-16",
+  "endDate": "2026-06-19",
+  "sampleSize": 400,
+  "population": "LV",
+  "url": "https://www.insideelections.com/news/article/montana-senate-new-poll-confirms-gop-edge",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mt-senate-kurt-alme",
+      "percent": 50
+    },
+    {
+      "candidateId": "mt-senate-seth-bodnar",
+      "percent": 50
+    }
+  ]
+}

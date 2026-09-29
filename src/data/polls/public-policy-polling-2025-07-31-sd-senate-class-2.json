@@ -1,0 +1,21 @@
+{
+  "id": "public-policy-polling-2025-07-31-sd-senate-class-2",
+  "raceId": "2026-sd-senate-class-2",
+  "pollster": "Public Policy Polling",
+  "startDate": "2025-07-30",
+  "endDate": "2025-07-31",
+  "sampleSize": 552,
+  "population": "LV",
+  "url": "https://x.com/NenoNicolosio/status/1983855337141850313?s=20",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "sd-senate-brian-bengs",
+      "percent": 28
+    },
+    {
+      "candidateId": "sd-senate-mike-rounds",
+      "percent": 41
+    }
+  ]
+}

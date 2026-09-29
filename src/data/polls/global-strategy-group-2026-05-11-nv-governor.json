@@ -1,0 +1,22 @@
+{
+  "id": "global-strategy-group-2026-05-11-nv-governor",
+  "raceId": "2026-nv-governor",
+  "pollster": "Global Strategy Group",
+  "sponsor": "Aaron Ford",
+  "startDate": "2026-05-05",
+  "endDate": "2026-05-11",
+  "sampleSize": 700,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/06/10/Global-Strategy-Group-Nevada",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nv-governor-joe-lombardo",
+      "percent": 45
+    },
+    {
+      "candidateId": "nv-governor-aaron-ford",
+      "percent": 42
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "susquehanna-polling-and-research-2025-09-28-pa-governor",
+  "raceId": "2026-pa-governor",
+  "pollster": "Susquehanna Polling & Research",
+  "startDate": "2025-09-22",
+  "endDate": "2025-09-28",
+  "sampleSize": 700,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2025/10/07/Susquehanna Polling & Research-Pennsylvania",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "pa-governor-josh-shapiro",
+      "percent": 54
+    },
+    {
+      "candidateId": "pa-governor-stacy-garrity",
+      "percent": 36
+    }
+  ]
+}

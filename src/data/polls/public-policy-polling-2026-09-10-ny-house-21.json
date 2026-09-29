@@ -1,0 +1,22 @@
+{
+  "id": "public-policy-polling-2026-09-10-ny-house-21",
+  "raceId": "2026-ny-house-21",
+  "pollster": "Public Policy Polling",
+  "sponsor": "The Bench (hybrid PAC)",
+  "startDate": "2026-09-09",
+  "endDate": "2026-09-10",
+  "sampleSize": 557,
+  "population": "RV",
+  "url": "https://x.com/zachblackburn23/status/2100002534383358350",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ny-house-21-blake-gendebien",
+      "percent": 43
+    },
+    {
+      "candidateId": "ny-house-21-anthony-constantino",
+      "percent": 48
+    }
+  ]
+}

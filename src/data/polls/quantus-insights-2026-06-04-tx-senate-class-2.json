@@ -1,0 +1,21 @@
+{
+  "id": "quantus-insights-2026-06-04-tx-senate-class-2",
+  "raceId": "2026-tx-senate-class-2",
+  "pollster": "Quantus Insights",
+  "startDate": "2026-06-03",
+  "endDate": "2026-06-04",
+  "sampleSize": 800,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/06/06/Quantus-Insights-Texas",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-senate-ken-paxton",
+      "percent": 45
+    },
+    {
+      "candidateId": "tx-senate-james-talarico",
+      "percent": 43
+    }
+  ]
+}

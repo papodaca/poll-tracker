@@ -1,0 +1,26 @@
+{
+  "id": "stimsight-research-2026-09-12-nj-house-7-2",
+  "raceId": "2026-nj-house-7",
+  "pollster": "StimSight Research",
+  "sponsor": "Insider NJ",
+  "startDate": "2026-09-08",
+  "endDate": "2026-09-12",
+  "sampleSize": 498,
+  "population": "LV",
+  "url": "https://www.insidernj.com/insider-nj-stimsight-poll-finds-bennett-leads-kean-in-new-jerseys-7th-district-affordability-of-household-goods-is-a-crucial-factor-for-persuadable-voters/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nj-house-7-rebecca-bennett",
+      "percent": 47
+    },
+    {
+      "candidateId": "nj-house-7-tom-kean",
+      "percent": 42
+    },
+    {
+      "candidateId": "nj-house-7-seamus-patrick-otoole",
+      "percent": 1
+    }
+  ]
+}

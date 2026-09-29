@@ -1,0 +1,22 @@
+{
+  "id": "grassroots-targeting-republican-governors-association-2026-07-16-nv-governor",
+  "raceId": "2026-nv-governor",
+  "pollster": "Grassroots Targeting / Republican Governors Association",
+  "sponsor": "Better Nevada PAC",
+  "startDate": "2026-07-08",
+  "endDate": "2026-07-16",
+  "sampleSize": 2500,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/08/05/Grassroots-Targeting/Better-Nevada-PAC/Republican-Governors-Association-Nevada-2026-07-08-2026-07-16",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nv-governor-aaron-ford",
+      "percent": 40
+    },
+    {
+      "candidateId": "nv-governor-joe-lombardo",
+      "percent": 52
+    }
+  ]
+}

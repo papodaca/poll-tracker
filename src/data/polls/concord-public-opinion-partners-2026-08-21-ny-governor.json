@@ -1,0 +1,22 @@
+{
+  "id": "concord-public-opinion-partners-2026-08-21-ny-governor",
+  "raceId": "2026-ny-governor",
+  "pollster": "Concord Public Opinion Partners",
+  "sponsor": "Education Reform Now Advocacy",
+  "startDate": "2026-08-19",
+  "endDate": "2026-08-21",
+  "sampleSize": 505,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/09/03/Concord-Public-Opinion-Partners/Education-Reform-Now-Advocacy-New-York-2026-08-19-2026-08-21",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ny-governor-bruce-blakeman",
+      "percent": 34
+    },
+    {
+      "candidateId": "ny-governor-kathy-hochul",
+      "percent": 50
+    }
+  ]
+}

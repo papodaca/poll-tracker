@@ -1,0 +1,22 @@
+{
+  "id": "university-of-massachusetts-lowell-center-for-public-opinion-2026-09-14-me-senate-class-2",
+  "raceId": "2026-me-senate-class-2",
+  "pollster": "University of Massachusetts Lowell Center for Public Opinion",
+  "sponsor": "YouGov",
+  "startDate": "2026-08-28",
+  "endDate": "2026-09-14",
+  "sampleSize": 650,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/09/24/University-of-Massachusetts-Lowell-Center-for-Public-Opinion/YouGov-Maine",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "me-senate-troy-jackson",
+      "percent": 48
+    },
+    {
+      "candidateId": "me-senate-susan-collins",
+      "percent": 43
+    }
+  ]
+}

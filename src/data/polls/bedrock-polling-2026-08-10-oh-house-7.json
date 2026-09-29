@@ -1,0 +1,22 @@
+{
+  "id": "bedrock-polling-2026-08-10-oh-house-7",
+  "raceId": "2026-oh-house-7",
+  "pollster": "Bedrock Polling",
+  "sponsor": "The Next 50 (hybrid PAC) / Iron Workers International",
+  "startDate": "2026-08-07",
+  "endDate": "2026-08-10",
+  "sampleSize": 866,
+  "population": "LV",
+  "url": "https://www.axios.com/2026/08/11/max-miller-ohio-brian-poindexter-democrats-2026",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "oh-house-7-brian-poindexter",
+      "percent": 43
+    },
+    {
+      "candidateId": "oh-house-7-max-miller",
+      "percent": 35
+    }
+  ]
+}

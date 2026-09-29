@@ -1,0 +1,21 @@
+{
+  "id": "university-of-new-hampshire-survey-center-2026-01-19-nh-senate-class-2",
+  "raceId": "2026-nh-senate-class-2",
+  "pollster": "University of New Hampshire Survey Center",
+  "startDate": "2026-01-15",
+  "endDate": "2026-01-19",
+  "sampleSize": 2038,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/01/21/University-of-New-Hampshire-Survey-Center-New-Hampshire",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nh-senate-john-sununu",
+      "percent": 45
+    },
+    {
+      "candidateId": "nh-senate-chris-pappas",
+      "percent": 50
+    }
+  ]
+}

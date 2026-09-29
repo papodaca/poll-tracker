@@ -1,0 +1,22 @@
+{
+  "id": "tipp-insights-2025-08-01-ga-senate-class-2-2-2",
+  "raceId": "2026-ga-senate-class-2",
+  "pollster": "TIPP Insights",
+  "sponsor": "League of American Workers",
+  "startDate": "2025-07-28",
+  "endDate": "2025-08-01",
+  "sampleSize": 2395,
+  "population": "LV",
+  "url": "https://tippinsights.com/league-of-american-workers-georgia-survey-july-2025/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ga-senate-jon-ossoff",
+      "percent": 45
+    },
+    {
+      "candidateId": "ga-senate-derek-dooley",
+      "percent": 42
+    }
+  ]
+}

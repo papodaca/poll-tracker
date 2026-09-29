@@ -1,0 +1,22 @@
+{
+  "id": "siena-research-institute-2026-06-28-oh-governor",
+  "raceId": "2026-oh-governor",
+  "pollster": "Siena Research Institute",
+  "sponsor": "The New York Times",
+  "startDate": "2026-06-15",
+  "endDate": "2026-06-28",
+  "sampleSize": 601,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/07/01/Siena-Research-Institute/The-New-York-Times-Ohio-2026-06-15-2026-06-28",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "oh-governor-amy-acton",
+      "percent": 47
+    },
+    {
+      "candidateId": "oh-governor-vivek-ramaswamy",
+      "percent": 47
+    }
+  ]
+}

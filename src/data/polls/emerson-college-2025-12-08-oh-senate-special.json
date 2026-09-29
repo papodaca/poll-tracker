@@ -1,0 +1,21 @@
+{
+  "id": "emerson-college-2025-12-08-oh-senate-special",
+  "raceId": "2026-oh-senate-special",
+  "pollster": "Emerson College",
+  "startDate": "2025-12-06",
+  "endDate": "2025-12-08",
+  "sampleSize": 850,
+  "population": "RV",
+  "url": "https://data.ddhq.io/polls/2025/12/11/Emerson-College-Ohio",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "oh-senate-jon-husted",
+      "percent": 48.8
+    },
+    {
+      "candidateId": "oh-senate-sherrod-brown",
+      "percent": 46.3
+    }
+  ]
+}

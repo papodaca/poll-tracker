@@ -1,0 +1,22 @@
+{
+  "id": "glengariff-group-business-leaders-for-michigan-2026-07-24-mi-senate-class-2",
+  "raceId": "2026-mi-senate-class-2",
+  "pollster": "Glengariff Group / Business Leaders for Michigan",
+  "sponsor": "Michigan Education Association",
+  "startDate": "2026-07-22",
+  "endDate": "2026-07-24",
+  "sampleSize": 600,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/07/28/Glengariff-Group/Business-Leaders-for-Michigan/Michigan-Education-Association-Michigan-2026-07-22-2026-07-24",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-senate-mike-rogers",
+      "percent": 49
+    },
+    {
+      "candidateId": "mi-senate-abdul-el-sayed",
+      "percent": 38.7
+    }
+  ]
+}

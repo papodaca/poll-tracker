@@ -1,0 +1,22 @@
+{
+  "id": "mitchell-research-and-communications-2026-06-13-mi-governor",
+  "raceId": "2026-mi-governor",
+  "pollster": "Mitchell Research & Communications",
+  "sponsor": "Michigan Information & Research Service",
+  "startDate": "2026-06-11",
+  "endDate": "2026-06-13",
+  "sampleSize": 827,
+  "population": "LV",
+  "url": "https://www.realclearpolitics.com/docs/2026/MITCHELL_MI_Poll_Press_Release_6-17-2026_7PM.pdf",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-governor-jocelyn-benson",
+      "percent": 48
+    },
+    {
+      "candidateId": "mi-governor-mike-cox",
+      "percent": 41
+    }
+  ]
+}

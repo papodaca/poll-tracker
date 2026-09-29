@@ -1,0 +1,21 @@
+{
+  "id": "change-research-2026-01-11-ia-senate-class-2-2-2",
+  "raceId": "2026-ia-senate-class-2",
+  "pollster": "Change Research",
+  "startDate": "2026-01-08",
+  "endDate": "2026-01-11",
+  "sampleSize": 1108,
+  "population": "LV",
+  "url": "https://x.com/Bencjacobs/status/2020894441196663099",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ia-senate-nathan-sage",
+      "percent": 41
+    },
+    {
+      "candidateId": "ia-senate-ashley-hinson",
+      "percent": 44
+    }
+  ]
+}

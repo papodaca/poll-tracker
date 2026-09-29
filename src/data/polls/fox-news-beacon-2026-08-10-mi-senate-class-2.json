@@ -1,0 +1,21 @@
+{
+  "id": "fox-news-beacon-2026-08-10-mi-senate-class-2",
+  "raceId": "2026-mi-senate-class-2",
+  "pollster": "Fox News/Beacon",
+  "startDate": "2026-08-06",
+  "endDate": "2026-08-10",
+  "sampleSize": 1006,
+  "population": "RV",
+  "url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/fox_august-6-10-2026_michigan_topline_august-13-release.pdf",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-senate-abdul-el-sayed",
+      "percent": 47
+    },
+    {
+      "candidateId": "mi-senate-mike-rogers",
+      "percent": 51
+    }
+  ]
+}

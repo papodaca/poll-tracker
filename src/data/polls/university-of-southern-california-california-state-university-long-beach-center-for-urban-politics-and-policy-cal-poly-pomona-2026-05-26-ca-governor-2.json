@@ -1,0 +1,21 @@
+{
+  "id": "university-of-southern-california-california-state-university-long-beach-center-for-urban-politics-and-policy-cal-poly-pomona-2026-05-26-ca-governor-2",
+  "raceId": "2026-ca-governor",
+  "pollster": "University of Southern California/California State University Long Beach Center for Urban Politics and Policy/Cal Poly Pomona",
+  "startDate": "2026-05-23",
+  "endDate": "2026-05-26",
+  "sampleSize": 735,
+  "population": "LV",
+  "url": "https://www.politico.com/newsletters/california-playbook/2026/06/01/unbending-becerra-and-the-primarys-bitter-close-00943970",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ca-governor-katie-porter",
+      "percent": 30
+    },
+    {
+      "candidateId": "ca-governor-tom-steyer",
+      "percent": 31
+    }
+  ]
+}

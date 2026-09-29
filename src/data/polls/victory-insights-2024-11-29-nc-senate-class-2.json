@@ -1,0 +1,21 @@
+{
+  "id": "victory-insights-2024-11-29-nc-senate-class-2",
+  "raceId": "2026-nc-senate-class-2",
+  "pollster": "Victory Insights",
+  "startDate": "2024-11-26",
+  "endDate": "2024-11-29",
+  "sampleSize": 800,
+  "population": "LV",
+  "url": "https://irp.cdn-website.com/07e08705/files/uploaded/PollReport_NC-2026_12-2-24.pdf",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nc-senate-roy-cooper",
+      "percent": 45
+    },
+    {
+      "candidateId": "nc-senate-thomas-roland-tillis",
+      "percent": 44
+    }
+  ]
+}

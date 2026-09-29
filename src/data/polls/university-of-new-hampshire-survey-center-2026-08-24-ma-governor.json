@@ -1,0 +1,21 @@
+{
+  "id": "university-of-new-hampshire-survey-center-2026-08-24-ma-governor",
+  "raceId": "2026-ma-governor",
+  "pollster": "University of New Hampshire Survey Center",
+  "startDate": "2026-08-20",
+  "endDate": "2026-08-24",
+  "sampleSize": 881,
+  "population": "LV",
+  "url": "https://scholars.unh.edu/survey_center_polls/992/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ma-governor-michael-minogue",
+      "percent": 30
+    },
+    {
+      "candidateId": "ma-governor-maura-healey",
+      "percent": 54
+    }
+  ]
+}

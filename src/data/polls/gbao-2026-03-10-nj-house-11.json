@@ -1,0 +1,21 @@
+{
+  "id": "gbao-2026-03-10-nj-house-11",
+  "raceId": "2026-nj-house-11",
+  "pollster": "GBAO",
+  "startDate": "2026-03-08",
+  "endDate": "2026-03-10",
+  "sampleSize": 500,
+  "population": "LV",
+  "url": "https://x.com/daveweigel/status/2034358014396744051",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nj-house-11-analilia-mejia",
+      "percent": 53
+    },
+    {
+      "candidateId": "nj-house-11-joe-hathaway",
+      "percent": 36
+    }
+  ]
+}

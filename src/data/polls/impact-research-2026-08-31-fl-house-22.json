@@ -1,0 +1,22 @@
+{
+  "id": "impact-research-2026-08-31-fl-house-22",
+  "raceId": "2026-fl-house-22",
+  "pollster": "Impact Research",
+  "sponsor": "House Majority PAC (hybrid PAC)",
+  "startDate": "2026-08-24",
+  "endDate": "2026-08-31",
+  "sampleSize": 500,
+  "population": "LV",
+  "url": "https://www.thehousemajoritypac.com/news/hmp-poll-pia-dandiya-leads-casey-askar-in-fl-22",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-house-22-pia-dandiya",
+      "percent": 46
+    },
+    {
+      "candidateId": "fl-house-22-casey-askar",
+      "percent": 44
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "impact-research-2025-07-11-mn-senate-class-2-2",
+  "raceId": "2026-mn-senate-class-2",
+  "pollster": "Impact Research",
+  "startDate": "2025-07-08",
+  "endDate": "2025-07-11",
+  "sampleSize": 604,
+  "population": "LV",
+  "url": "https://x.com/NenoNicolosio/status/2000509589566210355?s=20",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mn-senate-angie-craig",
+      "percent": 49
+    },
+    {
+      "candidateId": "mn-senate-michele-tafoya",
+      "percent": 45
+    }
+  ]
+}

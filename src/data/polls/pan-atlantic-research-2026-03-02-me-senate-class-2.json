@@ -1,0 +1,21 @@
+{
+  "id": "pan-atlantic-research-2026-03-02-me-senate-class-2",
+  "raceId": "2026-me-senate-class-2",
+  "pollster": "Pan Atlantic Research",
+  "startDate": "2026-02-13",
+  "endDate": "2026-03-02",
+  "sampleSize": 810,
+  "population": "LV",
+  "url": "https://drive.google.com/viewerng/viewer?url=https://21701012.fs1.hubspotusercontent-na1.net/hubfs/21701012/20260304%252068th%2520Omnibus%2520Poll%2520March%25202026.pdf&wmode=opaque",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "me-senate-susan-collins",
+      "percent": 44
+    },
+    {
+      "candidateId": "me-senate-janet-t-mills",
+      "percent": 44
+    }
+  ]
+}

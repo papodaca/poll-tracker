@@ -1,0 +1,22 @@
+{
+  "id": "fabrizio-lee-and-associates-impact-research-2026-09-01-tx-governor",
+  "raceId": "2026-tx-governor",
+  "pollster": "Fabrizio, Lee & Associates/Impact Research",
+  "sponsor": "AARP",
+  "startDate": "2026-08-30",
+  "endDate": "2026-09-01",
+  "sampleSize": 895,
+  "population": "LV",
+  "url": "https://www.aarp.org/pri/topics/voter-research/politics/2026-midterm-election-poll-texas/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-governor-gina-hinojosa",
+      "percent": 46
+    },
+    {
+      "candidateId": "tx-governor-greg-abbott",
+      "percent": 49
+    }
+  ]
+}

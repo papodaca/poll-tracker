@@ -1,0 +1,22 @@
+{
+  "id": "mason-dixon-polling-and-strategy-2026-09-10-tx-senate-class-2",
+  "raceId": "2026-tx-senate-class-2",
+  "pollster": "Mason-Dixon Polling & Strategy",
+  "sponsor": "Telemundo",
+  "startDate": "2026-09-08",
+  "endDate": "2026-09-10",
+  "sampleSize": 625,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/09/15/Mason-Dixon-Polling-&-Strategy-Texas",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-senate-ken-paxton",
+      "percent": 43
+    },
+    {
+      "candidateId": "tx-senate-james-talarico",
+      "percent": 46
+    }
+  ]
+}

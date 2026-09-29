@@ -1,0 +1,21 @@
+{
+  "id": "nyt-siena-2026-06-27-tx-senate-class-2",
+  "raceId": "2026-tx-senate-class-2",
+  "pollster": "NYT/Siena",
+  "startDate": "2026-06-19",
+  "endDate": "2026-06-27",
+  "sampleSize": 656,
+  "population": "LV",
+  "url": "https://www.nytimes.com/2026/06/30/us/politics/texas-senate-poll-talarico-paxton.html",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-senate-james-talarico",
+      "percent": 47
+    },
+    {
+      "candidateId": "tx-senate-ken-paxton",
+      "percent": 47
+    }
+  ]
+}

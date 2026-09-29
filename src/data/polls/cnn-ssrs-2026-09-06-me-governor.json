@@ -1,0 +1,21 @@
+{
+  "id": "cnn-ssrs-2026-09-06-me-governor",
+  "raceId": "2026-me-governor",
+  "pollster": "CNN/SSRS",
+  "startDate": "2026-08-31",
+  "endDate": "2026-09-06",
+  "sampleSize": 880,
+  "population": "LV",
+  "url": "https://www.cnn.com/2026/09/09/politics/cnn-polls-maine-senate-michigan-senate-abdul-el-sayed-susan-collins",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "me-governor-bobby-charles",
+      "percent": 39
+    },
+    {
+      "candidateId": "me-governor-hannah-pingree",
+      "percent": 52
+    }
+  ]
+}

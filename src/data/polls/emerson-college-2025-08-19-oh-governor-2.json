@@ -1,0 +1,21 @@
+{
+  "id": "emerson-college-2025-08-19-oh-governor-2",
+  "raceId": "2026-oh-governor",
+  "pollster": "Emerson College",
+  "startDate": "2025-08-18",
+  "endDate": "2025-08-19",
+  "sampleSize": 1000,
+  "population": "RV",
+  "url": "https://emersoncollegepolling.com/ohio-2026/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "oh-governor-vivek-ramaswamy",
+      "percent": 48.8
+    },
+    {
+      "candidateId": "oh-governor-tim-ryan",
+      "percent": 41
+    }
+  ]
+}

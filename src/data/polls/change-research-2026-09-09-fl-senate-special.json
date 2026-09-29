@@ -1,0 +1,22 @@
+{
+  "id": "change-research-2026-09-09-fl-senate-special",
+  "raceId": "2026-fl-senate-special",
+  "pollster": "Change Research",
+  "sponsor": "Freedom Project USA",
+  "startDate": "2026-09-07",
+  "endDate": "2026-09-09",
+  "sampleSize": 1107,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/09/10/Change-Research/Freedom-Project-USA-Florida-2026-09-07-2026-09-09",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-senate-angie-nixon",
+      "percent": 47
+    },
+    {
+      "candidateId": "fl-senate-ashley-moody",
+      "percent": 47
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "public-policy-polling-2026-04-07-ne-governor",
+  "raceId": "2026-ne-governor",
+  "pollster": "Public Policy Polling",
+  "startDate": "2026-04-06",
+  "endDate": "2026-04-07",
+  "sampleSize": 670,
+  "population": "RV",
+  "url": "https://drive.google.com/file/d/1TUXG_5ISv8mlXVn9mM6FcPQwvPQehn2S/view",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ne-governor-lynne-walz",
+      "percent": 33
+    },
+    {
+      "candidateId": "ne-governor-jim-pillen",
+      "percent": 38
+    },
+    {
+      "candidateId": "ne-governor-rick-beard",
+      "percent": 12
+    }
+  ]
+}

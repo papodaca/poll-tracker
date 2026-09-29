@@ -1,0 +1,22 @@
+{
+  "id": "fabrizio-lee-and-associates-impact-research-2026-09-01-tx-senate-class-2",
+  "raceId": "2026-tx-senate-class-2",
+  "pollster": "Fabrizio, Lee & Associates/Impact Research",
+  "sponsor": "AARP",
+  "startDate": "2026-08-30",
+  "endDate": "2026-09-01",
+  "sampleSize": 895,
+  "population": "LV",
+  "url": "https://www.aarp.org/pri/topics/voter-research/politics/2026-midterm-election-poll-texas/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-senate-james-talarico",
+      "percent": 48
+    },
+    {
+      "candidateId": "tx-senate-ken-paxton",
+      "percent": 44
+    }
+  ]
+}

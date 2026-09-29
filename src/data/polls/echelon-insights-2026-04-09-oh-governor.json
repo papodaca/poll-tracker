@@ -1,0 +1,22 @@
+{
+  "id": "echelon-insights-2026-04-09-oh-governor",
+  "raceId": "2026-oh-governor",
+  "pollster": "Echelon Insights",
+  "sponsor": "NetChoice",
+  "startDate": "2026-04-03",
+  "endDate": "2026-04-09",
+  "sampleSize": 413,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/04/20/Echelon-Insights/NetChoice-National-2026-04-03-2026-04-09",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "oh-governor-vivek-ramaswamy",
+      "percent": 50
+    },
+    {
+      "candidateId": "oh-governor-amy-acton",
+      "percent": 43
+    }
+  ]
+}

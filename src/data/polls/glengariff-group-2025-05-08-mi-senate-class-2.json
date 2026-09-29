@@ -1,0 +1,22 @@
+{
+  "id": "glengariff-group-2025-05-08-mi-senate-class-2",
+  "raceId": "2026-mi-senate-class-2",
+  "pollster": "Glengariff Group",
+  "sponsor": "Detroit Regional Chamber",
+  "startDate": "2025-05-05",
+  "endDate": "2025-05-08",
+  "sampleSize": 600,
+  "population": "RV",
+  "url": "https://data.ddhq.io/polls/2025/07/18/Glengariff Group/Detroit Regional Chamber-Michigan-2025-05-05-2025-05-08",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-senate-abdul-el-sayed",
+      "percent": 40.8
+    },
+    {
+      "candidateId": "mi-senate-mike-rogers",
+      "percent": 46.9
+    }
+  ]
+}

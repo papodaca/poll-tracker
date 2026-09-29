@@ -1,0 +1,21 @@
+{
+  "id": "university-of-new-hampshire-survey-center-2026-02-16-ma-governor-2",
+  "raceId": "2026-ma-governor",
+  "pollster": "University of New Hampshire Survey Center",
+  "startDate": "2026-02-12",
+  "endDate": "2026-02-16",
+  "sampleSize": 620,
+  "population": "LV",
+  "url": "https://scholars.unh.edu/survey_center_polls/931/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ma-governor-brian-shortsleeve",
+      "percent": 28
+    },
+    {
+      "candidateId": "ma-governor-maura-healey",
+      "percent": 58
+    }
+  ]
+}

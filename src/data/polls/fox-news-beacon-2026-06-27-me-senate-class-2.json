@@ -1,0 +1,21 @@
+{
+  "id": "fox-news-beacon-2026-06-27-me-senate-class-2",
+  "raceId": "2026-me-senate-class-2",
+  "pollster": "Fox News/Beacon",
+  "startDate": "2026-06-23",
+  "endDate": "2026-06-27",
+  "sampleSize": 1003,
+  "population": "RV",
+  "url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/06/fox_june-23-27-2026_complete_maine_topline_june-30-release.pdf",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "me-senate-graham-platner",
+      "percent": 47
+    },
+    {
+      "candidateId": "me-senate-susan-collins",
+      "percent": 50
+    }
+  ]
+}

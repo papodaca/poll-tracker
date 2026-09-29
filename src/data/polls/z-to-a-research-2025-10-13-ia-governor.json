@@ -1,0 +1,21 @@
+{
+  "id": "z-to-a-research-2025-10-13-ia-governor",
+  "raceId": "2026-ia-governor",
+  "pollster": "Z to A Research",
+  "startDate": "2025-10-09",
+  "endDate": "2025-10-13",
+  "sampleSize": 1351,
+  "population": "LV",
+  "url": "https://docs.google.com/document/d/1HUjmkP8wl8fiZfh3pzRVts-fKT0QM9fMW9slGjueOB8/edit?tab=t.0",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ia-governor-randy-feenstra",
+      "percent": 43
+    },
+    {
+      "candidateId": "ia-governor-rob-sand",
+      "percent": 45
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "yes-every-kid-2026-07-11-al-senate-class-2-2",
+  "raceId": "2026-al-senate-class-2",
+  "pollster": "yes. every kid.",
+  "startDate": "2026-07-08",
+  "endDate": "2026-07-11",
+  "sampleSize": 601,
+  "population": "LV",
+  "url": "https://yeseverykidfoundation.org/alabama-likely-voters-support-fully-funding-the-choose-act/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "al-senate-barry-moore",
+      "percent": 47
+    },
+    {
+      "candidateId": "al-senate-everett-w-wess",
+      "percent": 32
+    }
+  ]
+}

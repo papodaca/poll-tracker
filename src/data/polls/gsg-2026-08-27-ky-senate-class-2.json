@@ -1,0 +1,22 @@
+{
+  "id": "gsg-2026-08-27-ky-senate-class-2",
+  "raceId": "2026-ky-senate-class-2",
+  "pollster": "GSG",
+  "sponsor": "Dem",
+  "startDate": "2026-08-24",
+  "endDate": "2026-08-27",
+  "sampleSize": 600,
+  "population": "LV",
+  "url": "https://fox56news.com/news/kentucky/new-poll-shows-charles-booker-trailing-just-behind-andy-barr-in-race-for-senate/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ky-senate-charles-booker",
+      "percent": 40
+    },
+    {
+      "candidateId": "ky-senate-andy-barr",
+      "percent": 49
+    }
+  ]
+}

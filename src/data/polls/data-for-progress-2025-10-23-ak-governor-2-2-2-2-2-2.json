@@ -1,0 +1,25 @@
+{
+  "id": "data-for-progress-2025-10-23-ak-governor-2-2-2-2-2-2",
+  "raceId": "2026-ak-governor",
+  "pollster": "Data for Progress",
+  "startDate": "2025-10-17",
+  "endDate": "2025-10-23",
+  "sampleSize": 642,
+  "population": "LV",
+  "url": "https://alaskapublic.org/news/politics/2025-10-31/new-poll-shows-peltola-neck-and-neck-with-sullivan-if-she-were-to-run-for-u-s-senate",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ak-governor-dave-bronson",
+      "percent": 23
+    },
+    {
+      "candidateId": "ak-governor-bernadette-wilson",
+      "percent": 18
+    },
+    {
+      "candidateId": "ak-governor-mary-peltola",
+      "percent": 59
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "data-for-progress-2026-08-13-ms-senate-class-2",
+  "raceId": "2026-ms-senate-class-2",
+  "pollster": "Data for Progress",
+  "startDate": "2026-08-05",
+  "endDate": "2026-08-13",
+  "sampleSize": 1018,
+  "population": "LV",
+  "url": "https://fiftyplusone.news/polls/senate/general/mississippi",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ms-senate-scott-colom",
+      "percent": 38
+    },
+    {
+      "candidateId": "ms-senate-cindy-hyde-smith",
+      "percent": 44
+    }
+  ]
+}

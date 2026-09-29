@@ -1,0 +1,22 @@
+{
+  "id": "epic-mra-2026-07-31-mi-governor",
+  "raceId": "2026-mi-governor",
+  "pollster": "EPIC-MRA",
+  "sponsor": "Michigan Information & Research Service",
+  "startDate": "2026-07-24",
+  "endDate": "2026-07-31",
+  "sampleSize": 600,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/08/03/EPIC-MRA/Michigan-Information-&-Research-Service-Michigan-2026-07-24-2026-07-31",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-governor-john-james",
+      "percent": 38
+    },
+    {
+      "candidateId": "mi-governor-jocelyn-benson",
+      "percent": 47
+    }
+  ]
+}

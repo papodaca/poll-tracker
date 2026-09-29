@@ -1,0 +1,21 @@
+{
+  "id": "emerson-college-2026-03-23-nh-senate-class-2",
+  "raceId": "2026-nh-senate-class-2",
+  "pollster": "Emerson College",
+  "startDate": "2026-03-21",
+  "endDate": "2026-03-23",
+  "sampleSize": 1100,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/03/26/Emerson-College-New-Hampshire",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nh-senate-john-sununu",
+      "percent": 43.7
+    },
+    {
+      "candidateId": "nh-senate-chris-pappas",
+      "percent": 45.4
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "gbao-2026-09-24-mn-house-1",
+  "raceId": "2026-mn-house-1",
+  "pollster": "GBAO",
+  "startDate": "2026-09-24",
+  "endDate": "2026-09-24",
+  "url": "https://bsky.app/profile/the-downballot.com/post/3mwbqbuzrn22f",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mn-house-1-jake-johnson",
+      "percent": 47
+    },
+    {
+      "candidateId": "mn-house-1-brad-finstad",
+      "percent": 46
+    }
+  ]
+}

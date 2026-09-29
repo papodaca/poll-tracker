@@ -1,0 +1,25 @@
+{
+  "id": "yes-every-kid-2026-01-26-mt-senate-class-2",
+  "raceId": "2026-mt-senate-class-2",
+  "pollster": "yes. every kid.",
+  "startDate": "2026-01-23",
+  "endDate": "2026-01-26",
+  "sampleSize": 500,
+  "population": "RV",
+  "url": "https://yeseverykidfoundation.org/montana-voters-want-more-education-freedom/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mt-senate-reilly-neill",
+      "percent": 19
+    },
+    {
+      "candidateId": "mt-senate-steve-daines",
+      "percent": 43
+    },
+    {
+      "candidateId": "mt-senate-seth-bodnar",
+      "percent": 15
+    }
+  ]
+}

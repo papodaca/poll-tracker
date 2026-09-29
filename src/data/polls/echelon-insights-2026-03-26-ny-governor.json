@@ -1,0 +1,22 @@
+{
+  "id": "echelon-insights-2026-03-26-ny-governor",
+  "raceId": "2026-ny-governor",
+  "pollster": "Echelon Insights",
+  "sponsor": "Tusk Strategies",
+  "startDate": "2026-03-24",
+  "endDate": "2026-03-26",
+  "sampleSize": 500,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/03/30/Echelon-Insights/Tusk-Strategies-New-York-2026-03-24-2026-03-26",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ny-governor-kathy-hochul",
+      "percent": 54
+    },
+    {
+      "candidateId": "ny-governor-bruce-blakeman",
+      "percent": 38
+    }
+  ]
+}

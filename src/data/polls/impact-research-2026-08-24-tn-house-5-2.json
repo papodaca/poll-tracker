@@ -1,0 +1,29 @@
+{
+  "id": "impact-research-2026-08-24-tn-house-5-2",
+  "raceId": "2026-tn-house-5",
+  "pollster": "Impact Research",
+  "startDate": "2026-08-19",
+  "endDate": "2026-08-24",
+  "sampleSize": 500,
+  "population": "LV",
+  "url": "https://www.nationaljournal.com/s/732752/exclusive-a-new-look-at-tennessees-lone-competitive-race/?unlock=L9D7IO7PXNI40OWK",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tn-house-5-chaz-molder",
+      "percent": 40
+    },
+    {
+      "candidateId": "tn-house-5-charlie-hatcher",
+      "percent": 48
+    },
+    {
+      "candidateId": "tn-house-5-james-a-johnson",
+      "percent": 1
+    },
+    {
+      "candidateId": "tn-house-5-micheal-o-leary",
+      "percent": 0
+    }
+  ]
+}

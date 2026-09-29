@@ -1,0 +1,22 @@
+{
+  "id": "emerson-college-2026-01-12-tx-senate-class-2-2-2-2-2",
+  "raceId": "2026-tx-senate-class-2",
+  "pollster": "Emerson College",
+  "sponsor": "Nexstar",
+  "startDate": "2026-01-10",
+  "endDate": "2026-01-12",
+  "sampleSize": 1165,
+  "population": "RV",
+  "url": "https://emersoncollegepolling.com/texas-2026-poll/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-senate-james-talarico",
+      "percent": 44.1
+    },
+    {
+      "candidateId": "tx-senate-john-cornyn",
+      "percent": 46.9
+    }
+  ]
+}

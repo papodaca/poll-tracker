@@ -1,0 +1,22 @@
+{
+  "id": "yougov-2026-01-21-tx-senate-class-2",
+  "raceId": "2026-tx-senate-class-2",
+  "pollster": "YouGov",
+  "sponsor": "TSU/UH",
+  "startDate": "2026-01-20",
+  "endDate": "2026-01-21",
+  "sampleSize": 1502,
+  "population": "LV",
+  "url": "https://www.uh.edu/hobby/primary2026/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-senate-jasmine-crockett",
+      "percent": 43
+    },
+    {
+      "candidateId": "tx-senate-john-cornyn",
+      "percent": 45
+    }
+  ]
+}

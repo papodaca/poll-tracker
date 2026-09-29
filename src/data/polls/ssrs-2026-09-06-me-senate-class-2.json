@@ -1,0 +1,22 @@
+{
+  "id": "ssrs-2026-09-06-me-senate-class-2",
+  "raceId": "2026-me-senate-class-2",
+  "pollster": "SSRS",
+  "sponsor": "CNN",
+  "startDate": "2026-08-31",
+  "endDate": "2026-09-06",
+  "sampleSize": 880,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/09/09/SSRS/CNN-Maine-2026-08-31-2026-09-06",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "me-senate-troy-jackson",
+      "percent": 48
+    },
+    {
+      "candidateId": "me-senate-susan-collins",
+      "percent": 45
+    }
+  ]
+}

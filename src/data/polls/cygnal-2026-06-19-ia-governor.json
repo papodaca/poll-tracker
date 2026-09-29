@@ -1,0 +1,22 @@
+{
+  "id": "cygnal-2026-06-19-ia-governor",
+  "raceId": "2026-ia-governor",
+  "pollster": "Cygnal",
+  "sponsor": "Iowans for Tax Relief Foundation",
+  "startDate": "2026-06-16",
+  "endDate": "2026-06-19",
+  "sampleSize": 600,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/06/28/Cygnal/Iowans-for-Tax-Relief-Foundation-Iowa-2026-06-16-2026-06-19",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ia-governor-zach-lahn",
+      "percent": 43.4
+    },
+    {
+      "candidateId": "ia-governor-rob-sand",
+      "percent": 47.7
+    }
+  ]
+}

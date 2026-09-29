@@ -1,0 +1,22 @@
+{
+  "id": "epic-mra-2025-11-11-mi-senate-class-2-2",
+  "raceId": "2026-mi-senate-class-2",
+  "pollster": "EPIC-MRA",
+  "sponsor": "WJRT-TV (Flint, Mich.)",
+  "startDate": "2025-11-06",
+  "endDate": "2025-11-11",
+  "sampleSize": 600,
+  "population": "RV",
+  "url": "https://www.freep.com/story/news/politics/elections/2025/11/14/michigan-poll-trump-tariffs-prices-governor-us-senate/87233591007/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-senate-mallory-mcmorrow",
+      "percent": 43
+    },
+    {
+      "candidateId": "mi-senate-mike-rogers",
+      "percent": 42
+    }
+  ]
+}

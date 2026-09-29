@@ -1,0 +1,30 @@
+{
+  "id": "targetsmart-2026-09-12-tn-governor",
+  "raceId": "2026-tn-governor",
+  "pollster": "TargetSmart",
+  "sponsor": "The Progress Fund (hybrid PAC)",
+  "startDate": "2026-09-09",
+  "endDate": "2026-09-12",
+  "sampleSize": 600,
+  "population": "LV",
+  "url": "https://www.tnprogressfund.com/polling",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tn-governor-marsha-blackburn",
+      "percent": 45
+    },
+    {
+      "candidateId": "tn-governor-jerri-green",
+      "percent": 36
+    },
+    {
+      "candidateId": "tn-governor-david-hatley",
+      "percent": 10
+    },
+    {
+      "candidateId": "tn-governor-lauren-pinkston",
+      "percent": 2
+    }
+  ]
+}

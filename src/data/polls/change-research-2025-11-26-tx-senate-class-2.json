@@ -1,0 +1,21 @@
+{
+  "id": "change-research-2025-11-26-tx-senate-class-2",
+  "raceId": "2026-tx-senate-class-2",
+  "pollster": "Change Research",
+  "startDate": "2025-11-21",
+  "endDate": "2025-11-26",
+  "sampleSize": 1189,
+  "population": "V",
+  "url": "https://changeresearch.com/texas-senate-early-findings-2026/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-senate-jasmine-crockett",
+      "percent": 41
+    },
+    {
+      "candidateId": "tx-senate-john-cornyn",
+      "percent": 49
+    }
+  ]
+}

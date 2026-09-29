@@ -1,0 +1,29 @@
+{
+  "id": "lake-research-partners-2026-09-14-ne-governor",
+  "raceId": "2026-ne-governor",
+  "pollster": "Lake Research Partners",
+  "startDate": "2026-09-08",
+  "endDate": "2026-09-14",
+  "sampleSize": 900,
+  "population": "LV",
+  "url": "https://omaha.com/news/state-regional/government-politics/elections/article_7261e7ba-664d-4d70-8e0e-5655e663f593.html",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ne-governor-lynne-walz",
+      "percent": 40
+    },
+    {
+      "candidateId": "ne-governor-jim-pillen",
+      "percent": 40
+    },
+    {
+      "candidateId": "ne-governor-rick-beard",
+      "percent": 4
+    },
+    {
+      "candidateId": "ne-governor-brett-lindstrom",
+      "percent": 9
+    }
+  ]
+}

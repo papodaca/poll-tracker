@@ -1,0 +1,21 @@
+{
+  "id": "onmessage-inc-2026-03-08-me-senate-class-2",
+  "raceId": "2026-me-senate-class-2",
+  "pollster": "OnMessage Inc.",
+  "startDate": "2026-03-03",
+  "endDate": "2026-03-08",
+  "sampleSize": 600,
+  "population": "LV",
+  "url": "https://www.politico.com/f/?id=0000019c-dc55-d6f4-a9ff-dd5519a30000",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "me-senate-janet-t-mills",
+      "percent": 42
+    },
+    {
+      "candidateId": "me-senate-susan-collins",
+      "percent": 42
+    }
+  ]
+}

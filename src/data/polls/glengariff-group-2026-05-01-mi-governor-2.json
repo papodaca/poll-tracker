@@ -1,0 +1,26 @@
+{
+  "id": "glengariff-group-2026-05-01-mi-governor-2",
+  "raceId": "2026-mi-governor",
+  "pollster": "Glengariff Group",
+  "sponsor": "Detroit Regional Chamber",
+  "startDate": "2026-04-28",
+  "endDate": "2026-05-01",
+  "sampleSize": 600,
+  "population": "LV",
+  "url": "https://www.detroitchamber.com/chamber-poll-voters-views-on-candidates-2026-election/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-governor-john-james",
+      "percent": 29.2
+    },
+    {
+      "candidateId": "mi-governor-jocelyn-benson",
+      "percent": 34.2
+    },
+    {
+      "candidateId": "mi-governor-mike-duggan",
+      "percent": 23
+    }
+  ]
+}

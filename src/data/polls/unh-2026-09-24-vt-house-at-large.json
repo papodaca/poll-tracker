@@ -1,0 +1,19 @@
+{
+  "id": "unh-2026-09-24-vt-house-at-large",
+  "raceId": "2026-vt-house-at-large",
+  "pollster": "UNH",
+  "startDate": "2026-09-24",
+  "endDate": "2026-09-24",
+  "url": "https://scholars.unh.edu/survey_center_polls/1006/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "vt-house-becca-balint",
+      "percent": 66
+    },
+    {
+      "candidateId": "vt-house-gerald-malloy",
+      "percent": 30
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "beacon-research-shaw-and-co-research-2026-06-27-ia-governor",
+  "raceId": "2026-ia-governor",
+  "pollster": "Beacon Research/Shaw & Co. Research",
+  "sponsor": "Fox News",
+  "startDate": "2026-06-23",
+  "endDate": "2026-06-27",
+  "sampleSize": 1003,
+  "population": "RV",
+  "url": "https://www.foxnews.com/politics/fox-news-poll-close-senate-contest-brewing-iowa",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ia-governor-rob-sand",
+      "percent": 53
+    },
+    {
+      "candidateId": "ia-governor-zach-lahn",
+      "percent": 44
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "glengariff-group-business-leaders-for-michigan-2026-07-24-mi-governor",
+  "raceId": "2026-mi-governor",
+  "pollster": "Glengariff Group / Business Leaders for Michigan",
+  "sponsor": "Michigan Education Association",
+  "startDate": "2026-07-22",
+  "endDate": "2026-07-24",
+  "sampleSize": 600,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/07/28/Glengariff-Group/Business-Leaders-for-Michigan/Michigan-Education-Association-Michigan-2026-07-22-2026-07-24",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-governor-jocelyn-benson",
+      "percent": 43.7
+    },
+    {
+      "candidateId": "mi-governor-john-james",
+      "percent": 38.7
+    }
+  ]
+}

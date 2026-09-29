@@ -1,0 +1,26 @@
+{
+  "id": "american-pulse-research-and-polling-2026-09-24-mt-senate-class-2",
+  "raceId": "2026-mt-senate-class-2",
+  "pollster": "American Pulse Research & Polling",
+  "sponsor": "NonStop LOCAL",
+  "startDate": "2026-09-19",
+  "endDate": "2026-09-24",
+  "sampleSize": 600,
+  "population": "RV",
+  "url": "https://data.ddhq.io/polls/2026/09/28/Pulse-Decision-Science/NonStop-LOCAL-Montana-2026-09-19-2026-09-24",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mt-senate-alani-bankhead",
+      "percent": 18.9
+    },
+    {
+      "candidateId": "mt-senate-seth-bodnar",
+      "percent": 26.1
+    },
+    {
+      "candidateId": "mt-senate-kurt-alme",
+      "percent": 45.1
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "yougov-2026-06-12-tx-governor",
+  "raceId": "2026-tx-governor",
+  "pollster": "YouGov",
+  "sponsor": "Texas Politics Project at the University of Texas at Austin",
+  "startDate": "2026-06-05",
+  "endDate": "2026-06-12",
+  "sampleSize": 1200,
+  "population": "RV",
+  "url": "https://data.ddhq.io/polls/2026/06/23/Texas-Politics-Project-at-the-University-of-Texas-at-Austin/YouGov-Texas",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-governor-gina-hinojosa",
+      "percent": 40
+    },
+    {
+      "candidateId": "tx-governor-greg-abbott",
+      "percent": 47
+    }
+  ]
+}

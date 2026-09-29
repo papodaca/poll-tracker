@@ -1,0 +1,22 @@
+{
+  "id": "st-pete-polls-2026-07-15-fl-house-14-2",
+  "raceId": "2026-fl-house-14",
+  "pollster": "St. Pete Polls",
+  "sponsor": "Florida Politics",
+  "startDate": "2026-07-14",
+  "endDate": "2026-07-15",
+  "sampleSize": 469,
+  "population": "LV",
+  "url": "https://floridapolitics.com/archives/807848-did-gov-desantis-draw-a-dummymander-poll-shows-kathy-castor-beating-both-top-republicans-in-cd-14/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-house-14-kathy-castor",
+      "percent": 46.2
+    },
+    {
+      "candidateId": "fl-house-14-kevin-steele",
+      "percent": 38.5
+    }
+  ]
+}

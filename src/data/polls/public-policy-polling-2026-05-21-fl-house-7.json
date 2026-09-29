@@ -1,0 +1,22 @@
+{
+  "id": "public-policy-polling-2026-05-21-fl-house-7",
+  "raceId": "2026-fl-house-7",
+  "pollster": "Public Policy Polling",
+  "sponsor": "DCCC",
+  "startDate": "2026-05-20",
+  "endDate": "2026-05-21",
+  "sampleSize": 570,
+  "population": "RV",
+  "url": "https://www.nationaljournal.com/s/732203/democrat-leads-mills-in-internal-fl-07-poll/?unlock=8XCS4H8CCZH9HXY4",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-house-7-bale-dalton",
+      "percent": 41
+    },
+    {
+      "candidateId": "fl-house-7-cory-mills",
+      "percent": 39
+    }
+  ]
+}

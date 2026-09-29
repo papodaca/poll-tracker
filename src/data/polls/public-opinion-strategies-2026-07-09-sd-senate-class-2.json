@@ -1,0 +1,22 @@
+{
+  "id": "public-opinion-strategies-2026-07-09-sd-senate-class-2",
+  "raceId": "2026-sd-senate-class-2",
+  "pollster": "Public Opinion Strategies",
+  "sponsor": "NRSC",
+  "startDate": "2026-07-06",
+  "endDate": "2026-07-09",
+  "sampleSize": 500,
+  "population": "LV",
+  "url": "https://x.com/JacobRubashkin/status/2085131755711877392?s=20",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "sd-senate-brian-bengs",
+      "percent": 33
+    },
+    {
+      "candidateId": "sd-senate-mike-rounds",
+      "percent": 56
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "overton-insights-2026-08-26-tx-senate-class-2",
+  "raceId": "2026-tx-senate-class-2",
+  "pollster": "Overton Insights",
+  "sponsor": "Texas Public Policy Foundation",
+  "startDate": "2026-08-24",
+  "endDate": "2026-08-26",
+  "sampleSize": 1167,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/08/31/Overton-Insights-Texas",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-senate-ken-paxton",
+      "percent": 43.4
+    },
+    {
+      "candidateId": "tx-senate-james-talarico",
+      "percent": 44
+    }
+  ]
+}

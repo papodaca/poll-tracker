@@ -1,0 +1,22 @@
+{
+  "id": "impact-research-2026-02-16-mi-governor",
+  "raceId": "2026-mi-governor",
+  "pollster": "Impact Research",
+  "sponsor": "Jocelyn Benson",
+  "startDate": "2026-02-09",
+  "endDate": "2026-02-16",
+  "sampleSize": 800,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/02/19/Impact-Research-Michigan",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-governor-john-james",
+      "percent": 36
+    },
+    {
+      "candidateId": "mi-governor-jocelyn-benson",
+      "percent": 39
+    }
+  ]
+}

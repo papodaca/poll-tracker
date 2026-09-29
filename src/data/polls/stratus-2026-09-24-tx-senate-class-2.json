@@ -1,0 +1,22 @@
+{
+  "id": "stratus-2026-09-24-tx-senate-class-2",
+  "raceId": "2026-tx-senate-class-2",
+  "pollster": "Stratus",
+  "sponsor": "R",
+  "startDate": "2026-09-22",
+  "endDate": "2026-09-24",
+  "sampleSize": 865,
+  "population": "LV",
+  "url": "https://www.politico.com/f/?id=000001a0-e76b-d462-adb2-e7fba4200000",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-senate-james-talarico",
+      "percent": 48
+    },
+    {
+      "candidateId": "tx-senate-ken-paxton",
+      "percent": 48
+    }
+  ]
+}

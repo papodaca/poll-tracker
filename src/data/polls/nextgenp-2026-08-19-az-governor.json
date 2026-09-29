@@ -1,0 +1,21 @@
+{
+  "id": "nextgenp-2026-08-19-az-governor",
+  "raceId": "2026-az-governor",
+  "pollster": "NextGenP",
+  "startDate": "2026-08-17",
+  "endDate": "2026-08-19",
+  "sampleSize": 1627,
+  "population": "RV",
+  "url": "https://data.ddhq.io/polls/2026/08/20/NextGenP-Arizona",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "az-governor-andy-biggs",
+      "percent": 37.5
+    },
+    {
+      "candidateId": "az-governor-katie-hobbs",
+      "percent": 39
+    }
+  ]
+}

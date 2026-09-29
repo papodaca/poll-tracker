@@ -1,0 +1,29 @@
+{
+  "id": "peak-insights-2026-08-25-mt-senate-class-2-2",
+  "raceId": "2026-mt-senate-class-2",
+  "pollster": "Peak Insights",
+  "startDate": "2026-08-23",
+  "endDate": "2026-08-25",
+  "sampleSize": 600,
+  "population": "LV",
+  "url": "https://www.semafor.com/article/09/08/2026/republican-exploits-divided-field-in-montana-senate-race",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mt-senate-kurt-alme",
+      "percent": 44
+    },
+    {
+      "candidateId": "mt-senate-seth-bodnar",
+      "percent": 22
+    },
+    {
+      "candidateId": "mt-senate-alani-bankhead",
+      "percent": 19
+    },
+    {
+      "candidateId": "mt-senate-kyle-austin",
+      "percent": 2
+    }
+  ]
+}

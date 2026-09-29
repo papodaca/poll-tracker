@@ -1,0 +1,21 @@
+{
+  "id": "fox-news-beacon-2026-07-27-tx-senate-class-2",
+  "raceId": "2026-tx-senate-class-2",
+  "pollster": "Fox News/Beacon",
+  "startDate": "2026-07-23",
+  "endDate": "2026-07-27",
+  "sampleSize": 1006,
+  "population": "RV",
+  "url": "https://www.foxnews.com/politics/fox-news-poll-gop-divisions-shape-texas-senate-race",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-senate-james-talarico",
+      "percent": 51
+    },
+    {
+      "candidateId": "tx-senate-ken-paxton",
+      "percent": 48
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "public-policy-polling-2026-07-22-la-senate-class-2",
+  "raceId": "2026-la-senate-class-2",
+  "pollster": "Public Policy Polling",
+  "startDate": "2026-07-21",
+  "endDate": "2026-07-22",
+  "sampleSize": 518,
+  "population": "RV",
+  "url": "https://bayouprogressive.com/2026/08/new-poll-puts-jamie-davis-four-points-behind-julia-letlow-as-1-in-5-voters-remain-undecided/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "la-senate-jamie-davis",
+      "percent": 37
+    },
+    {
+      "candidateId": "la-senate-julia-letlow",
+      "percent": 41
+    }
+  ]
+}

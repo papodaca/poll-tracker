@@ -1,0 +1,21 @@
+{
+  "id": "emerson-college-2025-08-19-oh-governor",
+  "raceId": "2026-oh-governor",
+  "pollster": "Emerson College",
+  "startDate": "2025-08-18",
+  "endDate": "2025-08-19",
+  "sampleSize": 1000,
+  "population": "RV",
+  "url": "https://data.ddhq.io/polls/2025/08/22/Emerson College-Ohio",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "oh-governor-vivek-ramaswamy",
+      "percent": 48.7
+    },
+    {
+      "candidateId": "oh-governor-amy-acton",
+      "percent": 39.4
+    }
+  ]
+}

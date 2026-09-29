@@ -1,0 +1,22 @@
+{
+  "id": "hart-research-associates-2026-08-27-fl-house-13-2",
+  "raceId": "2026-fl-house-13",
+  "pollster": "Hart Research Associates",
+  "sponsor": "House Majority PAC (hybrid PAC)",
+  "startDate": "2026-08-25",
+  "endDate": "2026-08-27",
+  "sampleSize": 500,
+  "population": "LV",
+  "url": "https://www.thehousemajoritypac.com/news/hmp-poll-leela-gray-leads-anna-paulina-luna-in-fl-13",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-house-13-leela-gray",
+      "percent": 51
+    },
+    {
+      "candidateId": "fl-house-13-anna-paulina-luna",
+      "percent": 46
+    }
+  ]
+}

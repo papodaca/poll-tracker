@@ -1,0 +1,22 @@
+{
+  "id": "public-policy-polling-2025-08-09-va-house-1-2",
+  "raceId": "2026-va-house-1",
+  "pollster": "Public Policy Polling",
+  "sponsor": "House Majority PAC (hybrid PAC)",
+  "startDate": "2025-08-08",
+  "endDate": "2025-08-09",
+  "sampleSize": 541,
+  "population": "RV",
+  "url": "https://www.the-downballot.com/p/morning-digest-kansas-republicans",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "va-house-1-shannon-taylor",
+      "percent": 40
+    },
+    {
+      "candidateId": "va-house-1-robert-j-wittman",
+      "percent": 41
+    }
+  ]
+}

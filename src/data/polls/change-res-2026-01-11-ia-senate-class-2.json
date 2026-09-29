@@ -1,0 +1,22 @@
+{
+  "id": "change-res-2026-01-11-ia-senate-class-2",
+  "raceId": "2026-ia-senate-class-2",
+  "pollster": "Change Res.",
+  "sponsor": "Dem",
+  "startDate": "2026-01-08",
+  "endDate": "2026-01-11",
+  "sampleSize": 1108,
+  "population": "LV",
+  "url": "https://x.com/i/status/2020894441196663099",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ia-senate-josh-turek",
+      "percent": 41
+    },
+    {
+      "candidateId": "ia-senate-ashley-hinson",
+      "percent": 44
+    }
+  ]
+}

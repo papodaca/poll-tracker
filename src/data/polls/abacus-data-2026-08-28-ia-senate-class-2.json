@@ -1,0 +1,21 @@
+{
+  "id": "abacus-data-2026-08-28-ia-senate-class-2",
+  "raceId": "2026-ia-senate-class-2",
+  "pollster": "Abacus Data",
+  "startDate": "2026-08-26",
+  "endDate": "2026-08-28",
+  "sampleSize": 449,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/09/02/Abacus-Data-Iowa",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ia-senate-ashley-hinson",
+      "percent": 46
+    },
+    {
+      "candidateId": "ia-senate-josh-turek",
+      "percent": 52
+    }
+  ]
+}

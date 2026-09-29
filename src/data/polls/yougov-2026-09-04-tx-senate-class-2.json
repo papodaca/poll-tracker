@@ -1,0 +1,22 @@
+{
+  "id": "yougov-2026-09-04-tx-senate-class-2",
+  "raceId": "2026-tx-senate-class-2",
+  "pollster": "YouGov",
+  "sponsor": "Univision News",
+  "startDate": "2026-08-27",
+  "endDate": "2026-09-04",
+  "sampleSize": 1000,
+  "population": "RV",
+  "url": "https://data.ddhq.io/polls/2026/09/13/YouGov/Univision-News-Texas-2026-08-27-2026-09-04",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-senate-james-talarico",
+      "percent": 48
+    },
+    {
+      "candidateId": "tx-senate-ken-paxton",
+      "percent": 43
+    }
+  ]
+}

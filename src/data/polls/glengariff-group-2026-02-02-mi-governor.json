@@ -1,0 +1,22 @@
+{
+  "id": "glengariff-group-2026-02-02-mi-governor",
+  "raceId": "2026-mi-governor",
+  "pollster": "Glengariff Group",
+  "sponsor": "Detroit Regional Chamber",
+  "startDate": "2026-01-27",
+  "endDate": "2026-02-02",
+  "sampleSize": 600,
+  "population": "RV",
+  "url": "https://data.ddhq.io/polls/2026/02/23/Glengariff-Group/Detroit-Regional-Chamber-Michigan-2026-01-27-2026-02-02",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-governor-john-james",
+      "percent": 40.4
+    },
+    {
+      "candidateId": "mi-governor-jocelyn-benson",
+      "percent": 44.6
+    }
+  ]
+}

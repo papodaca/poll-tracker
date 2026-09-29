@@ -1,0 +1,21 @@
+{
+  "id": "ragnar-research-partners-2025-11-17-tx-senate-class-2-2-2",
+  "raceId": "2026-tx-senate-class-2",
+  "pollster": "Ragnar Research Partners",
+  "startDate": "2025-11-12",
+  "endDate": "2025-11-17",
+  "sampleSize": 1000,
+  "population": "LV",
+  "url": "https://www.politico.com/newsletters/playbook-pm/2025/11/19/parsing-trumps-ukraine-peace-plan-00659624",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-senate-colin-allred",
+      "percent": 44
+    },
+    {
+      "candidateId": "tx-senate-ken-paxton",
+      "percent": 43
+    }
+  ]
+}

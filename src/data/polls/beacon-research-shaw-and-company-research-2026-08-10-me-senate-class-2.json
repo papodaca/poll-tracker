@@ -1,0 +1,22 @@
+{
+  "id": "beacon-research-shaw-and-company-research-2026-08-10-me-senate-class-2",
+  "raceId": "2026-me-senate-class-2",
+  "pollster": "Beacon Research / Shaw & Company Research",
+  "sponsor": "Fox News",
+  "startDate": "2026-08-06",
+  "endDate": "2026-08-10",
+  "sampleSize": 1000,
+  "population": "RV",
+  "url": "https://data.ddhq.io/polls/2026/08/12/Beacon-Research/Shaw-&-Company-Research/Fox-News-Maine-2026-08-06-2026-08-10",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "me-senate-troy-jackson",
+      "percent": 48
+    },
+    {
+      "candidateId": "me-senate-susan-collins",
+      "percent": 46
+    }
+  ]
+}

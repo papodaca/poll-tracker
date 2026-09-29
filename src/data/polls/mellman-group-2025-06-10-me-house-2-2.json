@@ -1,0 +1,21 @@
+{
+  "id": "mellman-group-2025-06-10-me-house-2-2",
+  "raceId": "2026-me-house-2",
+  "pollster": "Mellman Group",
+  "startDate": "2025-06-04",
+  "endDate": "2025-06-10",
+  "sampleSize": 400,
+  "population": "LV",
+  "url": "https://www.notus.org/house/maine-jared-golden-maine-2nd-congressional-district-poll",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "me-house-2-matt-dunlap",
+      "percent": 37
+    },
+    {
+      "candidateId": "me-house-2-paul-lepage",
+      "percent": 47
+    }
+  ]
+}

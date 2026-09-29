@@ -1,0 +1,21 @@
+{
+  "id": "tavern-research-2026-05-28-wi-house-6-2",
+  "raceId": "2026-wi-house-6",
+  "pollster": "Tavern Research",
+  "startDate": "2026-05-18",
+  "endDate": "2026-05-28",
+  "sampleSize": 437,
+  "population": "LV",
+  "url": "https://www.tavernresearch.com/research-and-writings/wi06-grothman-independent-halves-margin",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "wi-house-6-glenn-grothman",
+      "percent": 55
+    },
+    {
+      "candidateId": "wi-house-6-mike-thurow",
+      "percent": 45
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "noble-predictive-insights-2026-05-07-az-governor-2-2",
+  "raceId": "2026-az-governor",
+  "pollster": "Noble Predictive Insights",
+  "startDate": "2026-05-05",
+  "endDate": "2026-05-07",
+  "sampleSize": 996,
+  "population": "RV",
+  "url": "https://www.noblepredictiveinsights.com/post/azgov-biggs-nears-majority-as-hobbs-holds-early-edge",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "az-governor-david-schweikert",
+      "percent": 35
+    },
+    {
+      "candidateId": "az-governor-katie-hobbs",
+      "percent": 42
+    },
+    {
+      "candidateId": "az-governor-hugh-lytle",
+      "percent": 6
+    }
+  ]
+}

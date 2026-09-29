@@ -1,0 +1,25 @@
+{
+  "id": "alaska-survey-research-2026-03-22-ak-senate-class-2-2-2",
+  "raceId": "2026-ak-senate-class-2",
+  "pollster": "Alaska Survey Research",
+  "startDate": "2026-03-19",
+  "endDate": "2026-03-22",
+  "sampleSize": 1340,
+  "population": "LV",
+  "url": "https://alaskasurveyresearch.com/senate-tracking-survey/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ak-senate-dan-sullivan",
+      "percent": 43.8
+    },
+    {
+      "candidateId": "ak-senate-mary-peltola",
+      "percent": 50.4
+    },
+    {
+      "candidateId": "ak-senate-christopher-miklos",
+      "percent": 5.9
+    }
+  ]
+}

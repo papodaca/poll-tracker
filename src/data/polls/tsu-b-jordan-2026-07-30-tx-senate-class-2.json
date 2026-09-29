@@ -1,0 +1,21 @@
+{
+  "id": "tsu-b-jordan-2026-07-30-tx-senate-class-2",
+  "raceId": "2026-tx-senate-class-2",
+  "pollster": "TSU - B. Jordan",
+  "startDate": "2026-07-27",
+  "endDate": "2026-07-30",
+  "sampleSize": 1200,
+  "population": "RV",
+  "url": "https://static1.squarespace.com/static/67aa7aa3e284b002cd6a420e/t/6a713767d4ed824b91ea090d/1785804647961/Texas+Statewide+August2026.pdf",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-senate-james-talarico",
+      "percent": 47
+    },
+    {
+      "candidateId": "tx-senate-ken-paxton",
+      "percent": 45
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "cygnal-2026-01-25-ma-senate-class-2",
+  "raceId": "2026-ma-senate-class-2",
+  "pollster": "Cygnal",
+  "startDate": "2026-01-22",
+  "endDate": "2026-01-25",
+  "sampleSize": 800,
+  "population": "LV",
+  "url": "https://www.politico.com/f/?id=0000019c-75d4-d0f8-adde-ffde8f8e0000",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ma-senate-ed-markey",
+      "percent": 54
+    },
+    {
+      "candidateId": "ma-senate-john-deaton",
+      "percent": 30
+    }
+  ]
+}

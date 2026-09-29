@@ -1,0 +1,22 @@
+{
+  "id": "ppp-2025-08-19-ia-senate-class-2",
+  "raceId": "2026-ia-senate-class-2",
+  "pollster": "PPP",
+  "sponsor": "Dem",
+  "startDate": "2025-08-18",
+  "endDate": "2025-08-19",
+  "sampleSize": 572,
+  "population": "RV",
+  "url": "https://drive.google.com/file/d/1JhjWdN9DjrWRZOr2ZW1sUpN6d8LbDwto/view",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ia-senate-jackie-norris",
+      "percent": 42
+    },
+    {
+      "candidateId": "ia-senate-joni-k-ernst",
+      "percent": 45
+    }
+  ]
+}

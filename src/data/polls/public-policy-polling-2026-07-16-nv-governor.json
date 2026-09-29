@@ -1,0 +1,22 @@
+{
+  "id": "public-policy-polling-2026-07-16-nv-governor",
+  "raceId": "2026-nv-governor",
+  "pollster": "Public Policy Polling",
+  "sponsor": "Democratic Governors Association",
+  "startDate": "2026-07-15",
+  "endDate": "2026-07-16",
+  "sampleSize": 558,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/07/22/Public-Policy-Polling/Democratic-Governors-Association-Nevada-2026-07-15-2026-07-16",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nv-governor-joe-lombardo",
+      "percent": 44
+    },
+    {
+      "candidateId": "nv-governor-aaron-ford",
+      "percent": 44
+    }
+  ]
+}

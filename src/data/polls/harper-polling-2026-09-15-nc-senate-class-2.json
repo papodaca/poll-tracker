@@ -1,0 +1,22 @@
+{
+  "id": "harper-polling-2026-09-15-nc-senate-class-2",
+  "raceId": "2026-nc-senate-class-2",
+  "pollster": "Harper Polling",
+  "sponsor": "Carolina Journal",
+  "startDate": "2026-09-13",
+  "endDate": "2026-09-15",
+  "sampleSize": 608,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/09/17/Harper-Polling/Carolina-Journal-North-Carolina-2026-09-13-2026-09-15",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nc-senate-roy-cooper",
+      "percent": 49.2
+    },
+    {
+      "candidateId": "nc-senate-michael-whatley",
+      "percent": 34.1
+    }
+  ]
+}

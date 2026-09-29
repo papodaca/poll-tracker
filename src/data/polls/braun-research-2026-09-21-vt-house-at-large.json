@@ -1,0 +1,38 @@
+{
+  "id": "braun-research-2026-09-21-vt-house-at-large",
+  "raceId": "2026-vt-house-at-large",
+  "pollster": "Braun Research",
+  "sponsor": "Vermont Public Radio",
+  "startDate": "2026-09-10",
+  "endDate": "2026-09-21",
+  "sampleSize": 732,
+  "population": "LV",
+  "url": "https://www.vermontpublic.org/local-news/2026-09-28/vermont-general-election-poll-results-2026",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "vt-house-becca-balint",
+      "percent": 47
+    },
+    {
+      "candidateId": "vt-house-gerald-malloy",
+      "percent": 30
+    },
+    {
+      "candidateId": "vt-house-adam-ortiz",
+      "percent": 1
+    },
+    {
+      "candidateId": "vt-house-at-large-phoenix-k-altair",
+      "percent": 0
+    },
+    {
+      "candidateId": "vt-house-at-large-suzanne-seymour",
+      "percent": 2
+    },
+    {
+      "candidateId": "vt-house-at-large-ryan-p-walton",
+      "percent": 1
+    }
+  ]
+}

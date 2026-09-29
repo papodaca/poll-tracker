@@ -1,0 +1,29 @@
+{
+  "id": "quantus-insights-2026-09-23-oh-senate-special-2",
+  "raceId": "2026-oh-senate-special",
+  "pollster": "Quantus Insights",
+  "startDate": "2026-09-21",
+  "endDate": "2026-09-23",
+  "sampleSize": 695,
+  "population": "LV",
+  "url": "https://quantusinsights.org/polling/f/brown-and-husted-deadlocked-in-ohio-senate-race",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "oh-senate-sherrod-brown",
+      "percent": 47.3
+    },
+    {
+      "candidateId": "oh-senate-jon-husted",
+      "percent": 46.8
+    },
+    {
+      "candidateId": "oh-senate-bill-redpath",
+      "percent": 1.2
+    },
+    {
+      "candidateId": "oh-senate-gregory-levy",
+      "percent": 2
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "tipp-insights-2026-01-15-nc-senate-class-2",
+  "raceId": "2026-nc-senate-class-2",
+  "pollster": "TIPP Insights",
+  "sponsor": "League of American Workers",
+  "startDate": "2026-01-12",
+  "endDate": "2026-01-15",
+  "sampleSize": 1512,
+  "population": "RV",
+  "url": "https://data.ddhq.io/polls/2026/01/19/TIPP-Insights/League-of-American-Workers-North-Carolina-2026-01-12-2026-01-15",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nc-senate-michael-whatley",
+      "percent": 24
+    },
+    {
+      "candidateId": "nc-senate-roy-cooper",
+      "percent": 48
+    }
+  ]
+}

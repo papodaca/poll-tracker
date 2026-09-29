@@ -1,0 +1,21 @@
+{
+  "id": "rasmussen-reports-2026-09-14-ga-senate-class-2",
+  "raceId": "2026-ga-senate-class-2",
+  "pollster": "Rasmussen Reports",
+  "startDate": "2026-09-14",
+  "endDate": "2026-09-14",
+  "sampleSize": 1019,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/09/15/Rasmussen-Reports-Georgia",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ga-senate-mike-collins",
+      "percent": 42
+    },
+    {
+      "candidateId": "ga-senate-jon-ossoff",
+      "percent": 51
+    }
+  ]
+}

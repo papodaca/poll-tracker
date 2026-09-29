@@ -1,0 +1,19 @@
+{
+  "id": "american-pulse-2026-09-28-mt-house-1",
+  "raceId": "2026-mt-house-1",
+  "pollster": "American Pulse",
+  "startDate": "2026-09-28",
+  "endDate": "2026-09-28",
+  "url": "https://www.montanarightnow.com/elections/montana-senate-race-kurt-alme-tops-bodnar-and-bankhead-in-new-poll-findings/article_cd8401fb-0470-492c-a53a-c7dfe39552ff.html",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mt-house-1-sam-forstag",
+      "percent": 45.4
+    },
+    {
+      "candidateId": "mt-house-1-aaron-flint",
+      "percent": 45.9
+    }
+  ]
+}

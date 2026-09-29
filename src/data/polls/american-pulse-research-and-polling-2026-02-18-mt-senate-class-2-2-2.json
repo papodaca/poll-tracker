@@ -1,0 +1,21 @@
+{
+  "id": "american-pulse-research-and-polling-2026-02-18-mt-senate-class-2-2-2",
+  "raceId": "2026-mt-senate-class-2",
+  "pollster": "American Pulse Research & Polling",
+  "startDate": "2026-02-14",
+  "endDate": "2026-02-18",
+  "sampleSize": 607,
+  "population": "LV",
+  "url": "https://drive.google.com/file/d/1yVCO0C-39sMmZfnVqpaDpTBqi2KnDwqT/view",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mt-senate-reilly-neill",
+      "percent": 37
+    },
+    {
+      "candidateId": "mt-senate-steve-daines",
+      "percent": 55.7
+    }
+  ]
+}

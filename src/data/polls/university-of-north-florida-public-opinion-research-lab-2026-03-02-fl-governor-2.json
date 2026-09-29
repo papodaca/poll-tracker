@@ -1,0 +1,21 @@
+{
+  "id": "university-of-north-florida-public-opinion-research-lab-2026-03-02-fl-governor-2",
+  "raceId": "2026-fl-governor",
+  "pollster": "University of North Florida Public Opinion Research Lab",
+  "startDate": "2026-02-21",
+  "endDate": "2026-03-02",
+  "sampleSize": 786,
+  "population": "LV",
+  "url": "https://static1.squarespace.com/static/6994d571bce3436c60d86870/t/69a83673b961e1161d90f552/1772631667881/PORL+2026+Spring+Statewide+LV+-+EMBARGO+3.4.26.pdf",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-governor-byron-donalds",
+      "percent": 43
+    },
+    {
+      "candidateId": "fl-governor-jerry-l-demings",
+      "percent": 36
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "the-tarrance-group-2026-07-30-az-governor",
+  "raceId": "2026-az-governor",
+  "pollster": "The Tarrance Group",
+  "sponsor": "Democracy Defense Project",
+  "startDate": "2026-07-27",
+  "endDate": "2026-07-30",
+  "sampleSize": 600,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/08/14/The-Tarrance-Group/Democracy-Defense-Project-Arizona-2026-07-27-2026-07-30",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "az-governor-andy-biggs",
+      "percent": 43
+    },
+    {
+      "candidateId": "az-governor-katie-hobbs",
+      "percent": 49
+    }
+  ]
+}

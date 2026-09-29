@@ -1,0 +1,21 @@
+{
+  "id": "unh-2026-09-21-me-senate-class-2",
+  "raceId": "2026-me-senate-class-2",
+  "pollster": "UNH",
+  "startDate": "2026-09-17",
+  "endDate": "2026-09-21",
+  "sampleSize": 1301,
+  "population": "LV",
+  "url": "https://scholars.unh.edu/cgi/viewcontent.cgi?article=2006&context=survey_center_polls",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "me-senate-troy-jackson",
+      "percent": 51
+    },
+    {
+      "candidateId": "me-senate-susan-collins",
+      "percent": 47
+    }
+  ]
+}

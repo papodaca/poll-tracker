@@ -1,0 +1,21 @@
+{
+  "id": "national-public-affairs-2026-07-30-pa-governor",
+  "raceId": "2026-pa-governor",
+  "pollster": "National Public Affairs",
+  "startDate": "2026-07-26",
+  "endDate": "2026-07-30",
+  "sampleSize": 600,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/08/05/National-Public-Affairs-Pennsylvania",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "pa-governor-stacy-garrity",
+      "percent": 43
+    },
+    {
+      "candidateId": "pa-governor-josh-shapiro",
+      "percent": 50
+    }
+  ]
+}

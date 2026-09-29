@@ -1,0 +1,21 @@
+{
+  "id": "noble-predictive-insights-2026-02-26-az-governor-2",
+  "raceId": "2026-az-governor",
+  "pollster": "Noble Predictive Insights",
+  "startDate": "2026-02-23",
+  "endDate": "2026-02-26",
+  "sampleSize": 1023,
+  "population": "RV",
+  "url": "https://www.noblepredictiveinsights.com/post/azgov-biggs-benefits-from-field-consolidation-hobbs-holds-early-edge",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "az-governor-david-schweikert",
+      "percent": 35
+    },
+    {
+      "candidateId": "az-governor-katie-hobbs",
+      "percent": 44
+    }
+  ]
+}

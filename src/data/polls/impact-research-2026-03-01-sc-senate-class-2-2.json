@@ -1,0 +1,21 @@
+{
+  "id": "impact-research-2026-03-01-sc-senate-class-2-2",
+  "raceId": "2026-sc-senate-class-2",
+  "pollster": "Impact Research",
+  "startDate": "2026-02-25",
+  "endDate": "2026-03-01",
+  "sampleSize": 700,
+  "population": "LV",
+  "url": "https://s3.documentcloud.org/documents/27882119/sc-sen-impact-research-for-annie-andrews-march-2026.pdf",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "sc-senate-annie-andrews",
+      "percent": 42
+    },
+    {
+      "candidateId": "sc-senate-lindsey-graham",
+      "percent": 47
+    }
+  ]
+}

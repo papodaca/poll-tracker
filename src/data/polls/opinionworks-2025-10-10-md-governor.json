@@ -1,0 +1,22 @@
+{
+  "id": "opinionworks-2025-10-10-md-governor",
+  "raceId": "2026-md-governor",
+  "pollster": "OpinionWorks",
+  "sponsor": "The Baltimore Banner",
+  "startDate": "2025-10-07",
+  "endDate": "2025-10-10",
+  "sampleSize": 928,
+  "population": "RV",
+  "url": "https://www.thebanner.com/politics-power/state-government/maryland-governors-race-wes-moore-larry-hogan-SOYVTOYB7VECLK2P3WSHVMOXVQ/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "md-governor-larry-hogan",
+      "percent": 37
+    },
+    {
+      "candidateId": "md-governor-wes-moore",
+      "percent": 45
+    }
+  ]
+}

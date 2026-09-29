@@ -1,0 +1,21 @@
+{
+  "id": "wedgewood-polls-2026-07-31-tx-governor",
+  "raceId": "2026-tx-governor",
+  "pollster": "Wedgewood Polls",
+  "startDate": "2026-07-30",
+  "endDate": "2026-07-31",
+  "sampleSize": 800,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/08/01/Wedgewood-Polls-Texas",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-governor-gina-hinojosa",
+      "percent": 44
+    },
+    {
+      "candidateId": "tx-governor-greg-abbott",
+      "percent": 50
+    }
+  ]
+}

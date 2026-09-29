@@ -1,0 +1,21 @@
+{
+  "id": "yougov-2026-09-18-nc-senate-class-2",
+  "raceId": "2026-nc-senate-class-2",
+  "pollster": "YouGov",
+  "startDate": "2026-09-15",
+  "endDate": "2026-09-18",
+  "sampleSize": 3742,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/09/23/YouGov-North-Carolina",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nc-senate-michael-whatley",
+      "percent": 41
+    },
+    {
+      "candidateId": "nc-senate-roy-cooper",
+      "percent": 53
+    }
+  ]
+}

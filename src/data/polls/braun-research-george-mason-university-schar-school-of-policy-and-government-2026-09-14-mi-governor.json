@@ -1,0 +1,22 @@
+{
+  "id": "braun-research-george-mason-university-schar-school-of-policy-and-government-2026-09-14-mi-governor",
+  "raceId": "2026-mi-governor",
+  "pollster": "Braun Research / George Mason University Schar School of Policy and Government",
+  "sponsor": "The Washington Post",
+  "startDate": "2026-09-10",
+  "endDate": "2026-09-14",
+  "sampleSize": 803,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/09/17/Braun-Research/George-Mason-University-Schar-School-of-Policy-and-Government/The-Washington-Post-Michigan",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-governor-john-james",
+      "percent": 41
+    },
+    {
+      "candidateId": "mi-governor-jocelyn-benson",
+      "percent": 53
+    }
+  ]
+}

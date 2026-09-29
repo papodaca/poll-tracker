@@ -1,0 +1,29 @@
+{
+  "id": "grayhouse-2026-06-24-mt-senate-class-2-2",
+  "raceId": "2026-mt-senate-class-2",
+  "pollster": "Grayhouse",
+  "startDate": "2026-06-23",
+  "endDate": "2026-06-24",
+  "sampleSize": 500,
+  "population": "LV",
+  "url": "https://www.insideelections.com/news/article/montana-senate-new-poll-confirms-gop-edge",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mt-senate-kurt-alme",
+      "percent": 41
+    },
+    {
+      "candidateId": "mt-senate-seth-bodnar",
+      "percent": 17
+    },
+    {
+      "candidateId": "mt-senate-alani-bankhead",
+      "percent": 25
+    },
+    {
+      "candidateId": "mt-senate-kyle-austin",
+      "percent": 3
+    }
+  ]
+}

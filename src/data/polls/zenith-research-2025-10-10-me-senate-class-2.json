@@ -1,0 +1,22 @@
+{
+  "id": "zenith-research-2025-10-10-me-senate-class-2",
+  "raceId": "2026-me-senate-class-2",
+  "pollster": "Zenith Research",
+  "sponsor": "More Perfect Union",
+  "startDate": "2025-10-07",
+  "endDate": "2025-10-10",
+  "sampleSize": 501,
+  "population": "LV",
+  "url": "https://substack.perfectunion.us/p/poll-platner-best-positioned-maine",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "me-senate-graham-platner",
+      "percent": 38
+    },
+    {
+      "candidateId": "me-senate-susan-collins",
+      "percent": 38
+    }
+  ]
+}

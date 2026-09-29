@@ -1,0 +1,21 @@
+{
+  "id": "quantus-insights-2026-06-30-mi-senate-class-2",
+  "raceId": "2026-mi-senate-class-2",
+  "pollster": "Quantus Insights",
+  "startDate": "2026-06-29",
+  "endDate": "2026-06-30",
+  "sampleSize": 947,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/07/01/Quantus-Insights-Michigan",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-senate-mike-rogers",
+      "percent": 44.1
+    },
+    {
+      "candidateId": "mi-senate-abdul-el-sayed",
+      "percent": 45.2
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "edge-communications-2026-04-03-fl-governor",
+  "raceId": "2026-fl-governor",
+  "pollster": "EDGE Communications",
+  "sponsor": "MDW Communications",
+  "startDate": "2026-03-27",
+  "endDate": "2026-04-03",
+  "sampleSize": 1834,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/04/13/MDW-Communications/EDGE-Communications-Florida",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-governor-byron-donalds",
+      "percent": 41.2
+    },
+    {
+      "candidateId": "fl-governor-david-jolly",
+      "percent": 40.5
+    }
+  ]
+}

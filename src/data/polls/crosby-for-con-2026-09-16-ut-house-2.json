@@ -1,0 +1,19 @@
+{
+  "id": "crosby-for-con-2026-09-16-ut-house-2",
+  "raceId": "2026-ut-house-2",
+  "pollster": "Crosby for Con.",
+  "startDate": "2026-09-16",
+  "endDate": "2026-09-16",
+  "url": "https://petercrosbyforcongress.org/press/september-internal-polling",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ut-house-2-peter-crosby",
+      "percent": 30.7
+    },
+    {
+      "candidateId": "ut-house-2-blake-moore",
+      "percent": 32.4
+    }
+  ]
+}

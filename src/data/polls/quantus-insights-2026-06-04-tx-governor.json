@@ -1,0 +1,21 @@
+{
+  "id": "quantus-insights-2026-06-04-tx-governor",
+  "raceId": "2026-tx-governor",
+  "pollster": "Quantus Insights",
+  "startDate": "2026-06-03",
+  "endDate": "2026-06-04",
+  "sampleSize": 800,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/06/06/Quantus-Insights-Texas",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-governor-greg-abbott",
+      "percent": 49
+    },
+    {
+      "candidateId": "tx-governor-gina-hinojosa",
+      "percent": 41
+    }
+  ]
+}

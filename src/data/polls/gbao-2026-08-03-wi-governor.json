@@ -1,0 +1,22 @@
+{
+  "id": "gbao-2026-08-03-wi-governor",
+  "raceId": "2026-wi-governor",
+  "pollster": "GBAO",
+  "sponsor": "Protect Our Wisconsin (PAC)",
+  "startDate": "2026-07-30",
+  "endDate": "2026-08-03",
+  "sampleSize": 800,
+  "population": "LV",
+  "url": "https://www.politico.com/newsletters/playbook-pm/2026/08/12/trumps-cost-of-living-crunch-01035189",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "wi-governor-david-crowley",
+      "percent": 47
+    },
+    {
+      "candidateId": "wi-governor-tom-tiffany",
+      "percent": 44
+    }
+  ]
+}

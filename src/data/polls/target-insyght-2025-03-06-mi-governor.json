@@ -1,0 +1,22 @@
+{
+  "id": "target-insyght-2025-03-06-mi-governor",
+  "raceId": "2026-mi-governor",
+  "pollster": "Target-Insyght",
+  "sponsor": "Michigan Information & Research Service",
+  "startDate": "2025-03-03",
+  "endDate": "2025-03-06",
+  "sampleSize": 600,
+  "population": "RV",
+  "url": "https://data.ddhq.io/polls/2025/06/20/Target-Insyght/Michigan Information & Research Service-Michigan-2025-03-03-2025-03-06",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-governor-john-james",
+      "percent": 30
+    },
+    {
+      "candidateId": "mi-governor-jocelyn-benson",
+      "percent": 42
+    }
+  ]
+}

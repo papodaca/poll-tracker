@@ -1,0 +1,22 @@
+{
+  "id": "beacon-research-shaw-and-co-research-2026-06-27-ga-governor",
+  "raceId": "2026-ga-governor",
+  "pollster": "Beacon Research/Shaw & Co. Research",
+  "sponsor": "Fox News",
+  "startDate": "2026-06-23",
+  "endDate": "2026-06-27",
+  "sampleSize": 1002,
+  "population": "RV",
+  "url": "https://www.foxnews.com/politics/fox-news-poll-early-look-georgia-senate-race",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ga-governor-keisha-lance-bottoms",
+      "percent": 52
+    },
+    {
+      "candidateId": "ga-governor-rick-jackson",
+      "percent": 47
+    }
+  ]
+}

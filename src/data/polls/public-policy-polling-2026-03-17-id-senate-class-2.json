@@ -1,0 +1,21 @@
+{
+  "id": "public-policy-polling-2026-03-17-id-senate-class-2",
+  "raceId": "2026-id-senate-class-2",
+  "pollster": "Public Policy Polling",
+  "startDate": "2026-03-16",
+  "endDate": "2026-03-17",
+  "sampleSize": 639,
+  "population": "RV",
+  "url": "https://docs.google.com/document/d/1LSDoY2kL1cQq0pIQ6BXKmyfveo-gZYLuiskhVFYQVzo/edit?tab=t.0",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "id-senate-todd-achilles",
+      "percent": 34
+    },
+    {
+      "candidateId": "id-senate-jim-risch",
+      "percent": 48
+    }
+  ]
+}

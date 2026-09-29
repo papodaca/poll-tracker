@@ -1,0 +1,21 @@
+{
+  "id": "onmessage-2025-08-14-ct-governor",
+  "raceId": "2026-ct-governor",
+  "pollster": "OnMessage",
+  "startDate": "2025-08-11",
+  "endDate": "2025-08-14",
+  "sampleSize": 600,
+  "population": "LV",
+  "url": "https://www.wtnh.com/news/connecticut/strategists-weigh-in-on-connecticut-gubernatorial-survey/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ct-governor-erin-stewart",
+      "percent": 42
+    },
+    {
+      "candidateId": "ct-governor-ned-lamont",
+      "percent": 50
+    }
+  ]
+}

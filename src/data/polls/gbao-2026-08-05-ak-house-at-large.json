@@ -1,0 +1,21 @@
+{
+  "id": "gbao-2026-08-05-ak-house-at-large",
+  "raceId": "2026-ak-house-at-large",
+  "pollster": "GBAO",
+  "startDate": "2026-08-03",
+  "endDate": "2026-08-05",
+  "sampleSize": 500,
+  "population": "LV",
+  "url": "https://punchbowl.news/hill-aug-polling-memo/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ak-house-bill-hill",
+      "percent": 42
+    },
+    {
+      "candidateId": "ak-house-nick-begich",
+      "percent": 46
+    }
+  ]
+}

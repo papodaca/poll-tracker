@@ -1,0 +1,22 @@
+{
+  "id": "impact-research-fabrizio-ward-2026-09-01-tx-senate-class-2",
+  "raceId": "2026-tx-senate-class-2",
+  "pollster": "Impact Research / Fabrizio Ward",
+  "sponsor": "AARP",
+  "startDate": "2026-08-30",
+  "endDate": "2026-09-01",
+  "sampleSize": 895,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/09/10/Fabrizio-Ward/Impact-Research/AARP-Texas-2026-08-30-2026-09-01",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-senate-james-talarico",
+      "percent": 48
+    },
+    {
+      "candidateId": "tx-senate-ken-paxton",
+      "percent": 44
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "impact-research-2026-03-01-sc-senate-class-2",
+  "raceId": "2026-sc-senate-class-2",
+  "pollster": "Impact Research",
+  "sponsor": "D",
+  "startDate": "2026-02-25",
+  "endDate": "2026-03-01",
+  "sampleSize": 700,
+  "population": "LV",
+  "url": "https://x.com/PollTracker2024/status/2033902056038141963/photo/1",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "sc-senate-annie-andrews",
+      "percent": 42
+    },
+    {
+      "candidateId": "sc-senate-darline-graham",
+      "percent": 47
+    }
+  ]
+}

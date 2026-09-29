@@ -1,0 +1,19 @@
+{
+  "id": "dccc-2026-09-21-va-house-1",
+  "raceId": "2026-va-house-1",
+  "pollster": "DCCC",
+  "startDate": "2026-09-21",
+  "endDate": "2026-09-21",
+  "url": "https://www.virginiascope.com/internal-poll-shows-a-tight-race-between-wittman-and-taylor/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "va-house-1-shannon-taylor",
+      "percent": 46
+    },
+    {
+      "candidateId": "va-house-1-rob-wittman",
+      "percent": 47
+    }
+  ]
+}

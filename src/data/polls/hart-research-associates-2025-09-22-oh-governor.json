@@ -1,0 +1,22 @@
+{
+  "id": "hart-research-associates-2025-09-22-oh-governor",
+  "raceId": "2026-oh-governor",
+  "pollster": "Hart Research Associates",
+  "sponsor": "Ohio Federation of Teachers",
+  "startDate": "2025-09-19",
+  "endDate": "2025-09-22",
+  "sampleSize": 800,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2025/11/12/Hart Research Associates/Ohio Federation of Teachers-Ohio-2025-09-19-2025-09-22",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "oh-governor-vivek-ramaswamy",
+      "percent": 45
+    },
+    {
+      "candidateId": "oh-governor-amy-acton",
+      "percent": 46
+    }
+  ]
+}

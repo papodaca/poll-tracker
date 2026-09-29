@@ -1,0 +1,22 @@
+{
+  "id": "data-for-progress-2026-08-21-ca-house-7",
+  "raceId": "2026-ca-house-7",
+  "pollster": "Data for Progress",
+  "sponsor": "Justice Democrats (hybrid PAC) / Working Families Party / Leaders We Deserve (hybrid PAC)",
+  "startDate": "2026-08-18",
+  "endDate": "2026-08-21",
+  "sampleSize": 651,
+  "population": "LV",
+  "url": "https://x.com/daveweigel/status/2094893722127192118",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ca-house-7-mai-vang",
+      "percent": 32
+    },
+    {
+      "candidateId": "ca-house-7-doris-matsui",
+      "percent": 28
+    }
+  ]
+}

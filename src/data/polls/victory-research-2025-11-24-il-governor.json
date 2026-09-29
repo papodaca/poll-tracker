@@ -1,0 +1,21 @@
+{
+  "id": "victory-research-2025-11-24-il-governor",
+  "raceId": "2026-il-governor",
+  "pollster": "Victory Research",
+  "startDate": "2025-11-20",
+  "endDate": "2025-11-24",
+  "sampleSize": 1208,
+  "population": "LV",
+  "url": "https://www.fox32chicago.com/news/illinois-jb-pritzker-poll-nov-25",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "il-governor-darren-bailey",
+      "percent": 34
+    },
+    {
+      "candidateId": "il-governor-jb-pritzker",
+      "percent": 54.3
+    }
+  ]
+}

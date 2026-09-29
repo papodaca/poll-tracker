@@ -1,0 +1,21 @@
+{
+  "id": "public-policy-polling-2026-08-20-nc-house-7-2-2",
+  "raceId": "2026-nc-house-7",
+  "pollster": "Public Policy Polling",
+  "startDate": "2026-08-19",
+  "endDate": "2026-08-20",
+  "sampleSize": 517,
+  "population": "LV",
+  "url": "https://drive.google.com/file/d/1o6PQC-Ya_2KaUtR3MF31t-OCNRQ5t_AB/view",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nc-house-7-kimberly-hardy",
+      "percent": 43
+    },
+    {
+      "candidateId": "nc-house-7-david-rouzer",
+      "percent": 49
+    }
+  ]
+}

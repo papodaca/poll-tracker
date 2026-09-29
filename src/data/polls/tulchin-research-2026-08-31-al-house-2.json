@@ -1,0 +1,22 @@
+{
+  "id": "tulchin-research-2026-08-31-al-house-2",
+  "raceId": "2026-al-house-2",
+  "pollster": "Tulchin Research",
+  "sponsor": "House Majority PAC (hybrid PAC)",
+  "startDate": "2026-08-24",
+  "endDate": "2026-08-31",
+  "sampleSize": 600,
+  "population": "LV",
+  "url": "https://www.thehousemajoritypac.com/news/hmp-poll-shomari-figures-tied-with-rhett-marques-in-al-02",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "al-house-2-shomari-figures",
+      "percent": 47
+    },
+    {
+      "candidateId": "al-house-2-rhett-marques",
+      "percent": 47
+    }
+  ]
+}

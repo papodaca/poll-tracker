@@ -1,0 +1,21 @@
+{
+  "id": "siena-research-institute-2026-02-26-ny-governor",
+  "raceId": "2026-ny-governor",
+  "pollster": "Siena Research Institute",
+  "startDate": "2026-02-23",
+  "endDate": "2026-02-26",
+  "sampleSize": 805,
+  "population": "RV",
+  "url": "https://data.ddhq.io/polls/2026/03/04/Siena-Research-Institute-New-York",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ny-governor-kathy-hochul",
+      "percent": 51
+    },
+    {
+      "candidateId": "ny-governor-bruce-blakeman",
+      "percent": 31
+    }
+  ]
+}

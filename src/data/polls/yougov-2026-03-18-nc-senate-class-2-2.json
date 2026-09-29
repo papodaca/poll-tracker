@@ -1,0 +1,26 @@
+{
+  "id": "yougov-2026-03-18-nc-senate-class-2-2",
+  "raceId": "2026-nc-senate-class-2",
+  "pollster": "YouGov",
+  "sponsor": "Catawba College Center for North Carolina Politics & Public Service",
+  "startDate": "2026-03-09",
+  "endDate": "2026-03-18",
+  "sampleSize": 871,
+  "population": "LV",
+  "url": "https://www.catawba.edu/news/all-news/2026/yougov-24/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nc-senate-roy-cooper",
+      "percent": 48
+    },
+    {
+      "candidateId": "nc-senate-michael-whatley",
+      "percent": 34
+    },
+    {
+      "candidateId": "nc-senate-shannon-bray",
+      "percent": 4
+    }
+  ]
+}

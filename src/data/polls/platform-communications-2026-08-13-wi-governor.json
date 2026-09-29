@@ -1,0 +1,21 @@
+{
+  "id": "platform-communications-2026-08-13-wi-governor",
+  "raceId": "2026-wi-governor",
+  "pollster": "Platform Communications",
+  "startDate": "2026-08-12",
+  "endDate": "2026-08-13",
+  "sampleSize": 500,
+  "population": "LV",
+  "url": "https://www.wpr.org/news/crowley-leading-tiffany-four-points-new-poll",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "wi-governor-david-crowley",
+      "percent": 48
+    },
+    {
+      "candidateId": "wi-governor-tom-tiffany",
+      "percent": 44
+    }
+  ]
+}

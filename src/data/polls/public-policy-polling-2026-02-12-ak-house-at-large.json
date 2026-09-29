@@ -1,0 +1,21 @@
+{
+  "id": "public-policy-polling-2026-02-12-ak-house-at-large",
+  "raceId": "2026-ak-house-at-large",
+  "pollster": "Public Policy Polling",
+  "startDate": "2026-02-11",
+  "endDate": "2026-02-12",
+  "sampleSize": 600,
+  "population": "LV",
+  "url": "https://hub.nationaljournal.com/new-maps-for-new-york-1?ecid=ACsprvtXCGX_y5aGgL4GVYyMV9Pj7_5mYOX-Ecv59TfcWhUAkRfvxk8ydNp1f2W6B11HWiXOKD8M&utm_campaign=36387909-%5BNJ%5D%202026%20Wake%20Up%20Call&utm_medium=email&_hsenc=p2ANqtz--ypdqFzjt6YlQeSvcQ2L6ur-f3dfrpC3LBhtrLZ4qbOePmR8uo6p_Cyj44MVGYrw4Q0nK8jceKiqibg_VZpQlb2qLJhFLgjXeX0K4fwp0NAbfnvxU&_hsmi=404722735&utm_content=404722735&utm_source=hs_email",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ak-house-bill-hill",
+      "percent": 37
+    },
+    {
+      "candidateId": "ak-house-nick-begich",
+      "percent": 41
+    }
+  ]
+}

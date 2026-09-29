@@ -1,0 +1,22 @@
+{
+  "id": "reconmr-2026-09-11-tx-governor",
+  "raceId": "2026-tx-governor",
+  "pollster": "ReconMR",
+  "sponsor": "Siena Research Institute",
+  "startDate": "2026-09-08",
+  "endDate": "2026-09-11",
+  "sampleSize": 614,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/09/17/Siena-Research-Institute/ReconMR-Texas",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-governor-gina-hinojosa",
+      "percent": 49
+    },
+    {
+      "candidateId": "tx-governor-greg-abbott",
+      "percent": 45
+    }
+  ]
+}

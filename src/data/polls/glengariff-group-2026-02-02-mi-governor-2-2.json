@@ -1,0 +1,21 @@
+{
+  "id": "glengariff-group-2026-02-02-mi-governor-2-2",
+  "raceId": "2026-mi-governor",
+  "pollster": "Glengariff Group",
+  "sponsor": "Detroit Regional Chamber",
+  "startDate": "2026-01-27",
+  "endDate": "2026-02-02",
+  "population": "LV",
+  "url": "https://www.detroitchamber.com/feb-2026-michigan-voter-poll/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-governor-jocelyn-benson",
+      "percent": 31.7
+    },
+    {
+      "candidateId": "mi-governor-mike-duggan",
+      "percent": 53.6
+    }
+  ]
+}

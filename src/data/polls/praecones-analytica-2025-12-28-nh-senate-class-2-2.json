@@ -1,0 +1,22 @@
+{
+  "id": "praecones-analytica-2025-12-28-nh-senate-class-2-2",
+  "raceId": "2026-nh-senate-class-2",
+  "pollster": "Praecones Analytica",
+  "sponsor": "NH Journal",
+  "startDate": "2025-12-26",
+  "endDate": "2025-12-28",
+  "sampleSize": 603,
+  "population": "RV",
+  "url": "https://nhjournal.com/exclusive-trump-underwater-ayotte-still-afloat-in-new-nhjournal-poll/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nh-senate-chris-pappas",
+      "percent": 45.8
+    },
+    {
+      "candidateId": "nh-senate-scott-brown",
+      "percent": 28
+    }
+  ]
+}

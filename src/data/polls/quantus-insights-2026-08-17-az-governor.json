@@ -1,0 +1,21 @@
+{
+  "id": "quantus-insights-2026-08-17-az-governor",
+  "raceId": "2026-az-governor",
+  "pollster": "Quantus Insights",
+  "startDate": "2026-08-14",
+  "endDate": "2026-08-17",
+  "sampleSize": 780,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/08/21/Quantus-Insights-Arizona",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "az-governor-andy-biggs",
+      "percent": 43.2
+    },
+    {
+      "candidateId": "az-governor-katie-hobbs",
+      "percent": 49.1
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "data-for-progress-2025-10-23-ak-governor",
+  "raceId": "2026-ak-governor",
+  "pollster": "Data for Progress",
+  "startDate": "2025-10-17",
+  "endDate": "2025-10-23",
+  "sampleSize": 823,
+  "population": "LV",
+  "url": "https://alaskapublic.org/news/politics/2025-10-31/new-poll-shows-peltola-neck-and-neck-with-sullivan-if-she-were-to-run-for-u-s-senate",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ak-governor-dave-bronson",
+      "percent": 9
+    },
+    {
+      "candidateId": "ak-governor-click-bishop",
+      "percent": 3
+    },
+    {
+      "candidateId": "ak-governor-nancy-a-dahlstrom",
+      "percent": 6
+    },
+    {
+      "candidateId": "ak-governor-shelley-hughes",
+      "percent": 5
+    },
+    {
+      "candidateId": "ak-governor-treg-taylor",
+      "percent": 3
+    },
+    {
+      "candidateId": "ak-governor-bernadette-wilson",
+      "percent": 10
+    },
+    {
+      "candidateId": "ak-governor-adam-crum",
+      "percent": 5
+    },
+    {
+      "candidateId": "ak-governor-mary-peltola",
+      "percent": 41
+    },
+    {
+      "candidateId": "ak-governor-edna-devries",
+      "percent": 2
+    }
+  ]
+}

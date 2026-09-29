@@ -1,0 +1,21 @@
+{
+  "id": "noble-predictive-insights-2025-10-13-nv-governor",
+  "raceId": "2026-nv-governor",
+  "pollster": "Noble Predictive Insights",
+  "startDate": "2025-10-07",
+  "endDate": "2025-10-13",
+  "sampleSize": 766,
+  "population": "RV",
+  "url": "https://data.ddhq.io/polls/2025/10/22/Noble Predictive Insights-Nevada",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nv-governor-joe-lombardo",
+      "percent": 40
+    },
+    {
+      "candidateId": "nv-governor-aaron-ford",
+      "percent": 37
+    }
+  ]
+}

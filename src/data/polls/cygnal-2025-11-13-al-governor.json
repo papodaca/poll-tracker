@@ -1,0 +1,21 @@
+{
+  "id": "cygnal-2025-11-13-al-governor",
+  "raceId": "2026-al-governor",
+  "pollster": "Cygnal",
+  "startDate": "2025-11-12",
+  "endDate": "2025-11-13",
+  "sampleSize": 605,
+  "population": "LV",
+  "url": "https://www.al.com/politics/2025/11/new-survey-shows-outlook-for-potential-tommy-tuberville-vs-doug-jones-race-for-alabama-governor.html",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "al-governor-tommy-tuberville",
+      "percent": 52.6
+    },
+    {
+      "candidateId": "al-governor-doug-jones",
+      "percent": 34.1
+    }
+  ]
+}

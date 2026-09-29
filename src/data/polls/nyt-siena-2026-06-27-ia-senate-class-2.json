@@ -1,0 +1,21 @@
+{
+  "id": "nyt-siena-2026-06-27-ia-senate-class-2",
+  "raceId": "2026-ia-senate-class-2",
+  "pollster": "NYT/Siena",
+  "startDate": "2026-06-15",
+  "endDate": "2026-06-27",
+  "sampleSize": 600,
+  "population": "LV",
+  "url": "https://www.nytimes.com/2026/07/01/upshot/polls-ohio-iowa-alaska-carolina.html",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ia-senate-josh-turek",
+      "percent": 46
+    },
+    {
+      "candidateId": "ia-senate-ashley-hinson",
+      "percent": 48
+    }
+  ]
+}

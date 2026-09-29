@@ -1,0 +1,22 @@
+{
+  "id": "harper-polling-2025-11-10-nc-senate-class-2-2",
+  "raceId": "2026-nc-senate-class-2",
+  "pollster": "Harper Polling",
+  "sponsor": "Carolina Journal",
+  "startDate": "2025-11-09",
+  "endDate": "2025-11-10",
+  "sampleSize": 600,
+  "population": "LV",
+  "url": "https://www.carolinajournal.com/polls/november-2025-cooper-maintains-lead-in-senate-race/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nc-senate-roy-cooper",
+      "percent": 48.1
+    },
+    {
+      "candidateId": "nc-senate-donald-glenn-brown",
+      "percent": 38
+    }
+  ]
+}

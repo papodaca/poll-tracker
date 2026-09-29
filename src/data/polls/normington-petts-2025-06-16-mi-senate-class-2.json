@@ -1,0 +1,21 @@
+{
+  "id": "normington-petts-2025-06-16-mi-senate-class-2",
+  "raceId": "2026-mi-senate-class-2",
+  "pollster": "Normington Petts",
+  "startDate": "2025-06-12",
+  "endDate": "2025-06-16",
+  "sampleSize": 700,
+  "population": "LV",
+  "url": "https://www.politico.com/f/?id=00000197-e30f-da98-a3b7-fb0fd50f0000",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-senate-mallory-mcmorrow",
+      "percent": 44
+    },
+    {
+      "candidateId": "mi-senate-mike-rogers",
+      "percent": 48
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "quantus-insights-2026-03-14-oh-governor",
+  "raceId": "2026-oh-governor",
+  "pollster": "Quantus Insights",
+  "startDate": "2026-03-13",
+  "endDate": "2026-03-14",
+  "sampleSize": 809,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/03/16/Quantus-Insights-Ohio",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "oh-governor-vivek-ramaswamy",
+      "percent": 44.9
+    },
+    {
+      "candidateId": "oh-governor-amy-acton",
+      "percent": 45.9
+    }
+  ]
+}

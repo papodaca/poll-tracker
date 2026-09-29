@@ -1,0 +1,21 @@
+{
+  "id": "public-policy-polling-2025-12-19-ky-senate-class-2-2-2",
+  "raceId": "2026-ky-senate-class-2",
+  "pollster": "Public Policy Polling",
+  "startDate": "2025-12-18",
+  "endDate": "2025-12-19",
+  "sampleSize": 650,
+  "population": "V",
+  "url": "https://www.kentucky.com/news/politics-government/article314061118.html",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ky-senate-charles-booker",
+      "percent": 40
+    },
+    {
+      "candidateId": "ky-senate-nate-morris",
+      "percent": 41
+    }
+  ]
+}

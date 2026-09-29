@@ -1,0 +1,22 @@
+{
+  "id": "emerson-college-2026-01-25-mi-senate-class-2-2",
+  "raceId": "2026-mi-senate-class-2",
+  "pollster": "Emerson College",
+  "sponsor": "Nexstar",
+  "startDate": "2026-01-24",
+  "endDate": "2026-01-25",
+  "sampleSize": 1000,
+  "population": "LV",
+  "url": "https://emersoncollegepolling.com/michigan-2026-poll-crowded-democratic-senate-primary-remains-wide-open/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-senate-haley-stevens",
+      "percent": 47.3
+    },
+    {
+      "candidateId": "mi-senate-mike-rogers",
+      "percent": 41.6
+    }
+  ]
+}

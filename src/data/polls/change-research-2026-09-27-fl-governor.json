@@ -1,0 +1,22 @@
+{
+  "id": "change-research-2026-09-27-fl-governor",
+  "raceId": "2026-fl-governor",
+  "pollster": "Change Research",
+  "sponsor": "Freedom Project USA",
+  "startDate": "2026-09-25",
+  "endDate": "2026-09-27",
+  "sampleSize": 1063,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/09/28/Change-Research/Freedom-Project-USA-Florida-2026-09-25-2026-09-27",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-governor-david-jolly",
+      "percent": 48
+    },
+    {
+      "candidateId": "fl-governor-byron-donalds",
+      "percent": 46
+    }
+  ]
+}

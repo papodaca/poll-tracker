@@ -1,0 +1,21 @@
+{
+  "id": "opinion-diagnostics-2026-04-24-nc-senate-class-2",
+  "raceId": "2026-nc-senate-class-2",
+  "pollster": "Opinion Diagnostics",
+  "startDate": "2026-04-21",
+  "endDate": "2026-04-24",
+  "sampleSize": 830,
+  "population": "RV",
+  "url": "https://data.ddhq.io/polls/2026/04/30/Opinion-Diagnostics-North-Carolina",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nc-senate-roy-cooper",
+      "percent": 50.4
+    },
+    {
+      "candidateId": "nc-senate-michael-whatley",
+      "percent": 41.4
+    }
+  ]
+}

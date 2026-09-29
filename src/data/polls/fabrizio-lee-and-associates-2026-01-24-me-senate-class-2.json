@@ -1,0 +1,22 @@
+{
+  "id": "fabrizio-lee-and-associates-2026-01-24-me-senate-class-2",
+  "raceId": "2026-me-senate-class-2",
+  "pollster": "Fabrizio, Lee & Associates",
+  "sponsor": "Pine Tree Results (super PAC)",
+  "startDate": "2026-01-20",
+  "endDate": "2026-01-24",
+  "sampleSize": 800,
+  "population": "LV",
+  "url": "https://www.politico.com/f/?id=0000019c-2aaf-d647-addc-abef0b310000",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "me-senate-graham-platner",
+      "percent": 44
+    },
+    {
+      "candidateId": "me-senate-susan-collins",
+      "percent": 45
+    }
+  ]
+}

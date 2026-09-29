@@ -1,0 +1,26 @@
+{
+  "id": "reconmr-siena-university-2026-06-04-tx-governor",
+  "raceId": "2026-tx-governor",
+  "pollster": "ReconMR/Siena University",
+  "sponsor": "Texas A&M University Bush School of Government & Public Service",
+  "startDate": "2026-06-01",
+  "endDate": "2026-06-04",
+  "sampleSize": 807,
+  "population": "LV",
+  "url": "https://reconmr.com/texas-pulse/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-governor-gina-hinojosa",
+      "percent": 43
+    },
+    {
+      "candidateId": "tx-governor-greg-abbott",
+      "percent": 49
+    },
+    {
+      "candidateId": "tx-governor-pat-dixon",
+      "percent": 0
+    }
+  ]
+}

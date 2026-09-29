@@ -1,0 +1,22 @@
+{
+  "id": "normington-petts-and-associates-2026-07-27-tx-house-15",
+  "raceId": "2026-tx-house-15",
+  "pollster": "Normington, Petts & Associates",
+  "sponsor": "House Majority PAC (hybrid PAC)",
+  "startDate": "2026-07-23",
+  "endDate": "2026-07-27",
+  "sampleSize": 500,
+  "population": "LV",
+  "url": "https://mailchi.mp/thehousemajoritypac.com/hmp-poll-bobby-pulido-leads-monica-de-la-cruz-in-tx-15",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-house-15-bobby-pulido",
+      "percent": 51
+    },
+    {
+      "candidateId": "tx-house-15-monica-de-la-cruz",
+      "percent": 45
+    }
+  ]
+}

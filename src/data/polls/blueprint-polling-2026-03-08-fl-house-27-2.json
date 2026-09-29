@@ -1,0 +1,21 @@
+{
+  "id": "blueprint-polling-2026-03-08-fl-house-27-2",
+  "raceId": "2026-fl-house-27",
+  "pollster": "Blueprint Polling",
+  "startDate": "2026-03-06",
+  "endDate": "2026-03-08",
+  "sampleSize": 451,
+  "population": "LV",
+  "url": "https://floridapolitics.com/archives/784817-__trashed-35/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-house-27-eliott-rodriguez",
+      "percent": 43
+    },
+    {
+      "candidateId": "fl-house-27-maria-elvira-salazar",
+      "percent": 46
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "public-policy-polling-2026-05-30-sd-senate-class-2-2-2",
+  "raceId": "2026-sd-senate-class-2",
+  "pollster": "Public Policy Polling",
+  "startDate": "2026-05-29",
+  "endDate": "2026-05-30",
+  "sampleSize": 726,
+  "population": "RV",
+  "url": "https://hub.nationaljournal.com/trump-dusts-off-conspiracy-playbook",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "sd-senate-mike-rounds",
+      "percent": 56
+    },
+    {
+      "candidateId": "sd-senate-julian-beaudion",
+      "percent": 31
+    }
+  ]
+}

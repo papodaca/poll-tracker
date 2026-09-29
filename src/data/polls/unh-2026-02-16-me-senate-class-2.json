@@ -1,0 +1,21 @@
+{
+  "id": "unh-2026-02-16-me-senate-class-2",
+  "raceId": "2026-me-senate-class-2",
+  "pollster": "UNH",
+  "startDate": "2026-02-12",
+  "endDate": "2026-02-16",
+  "sampleSize": 1120,
+  "population": "LV",
+  "url": "https://scholars.unh.edu/cgi/viewcontent.cgi?article=1929&context=survey_center_polls",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "me-senate-janet-t-mills",
+      "percent": 41
+    },
+    {
+      "candidateId": "me-senate-susan-collins",
+      "percent": 40
+    }
+  ]
+}

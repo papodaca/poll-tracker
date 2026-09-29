@@ -1,0 +1,22 @@
+{
+  "id": "surveyusa-2026-09-13-ne-governor",
+  "raceId": "2026-ne-governor",
+  "pollster": "SurveyUSA",
+  "sponsor": "Grant Forbes, LLC",
+  "startDate": "2026-09-08",
+  "endDate": "2026-09-13",
+  "sampleSize": 503,
+  "population": "LV",
+  "url": "https://results.surveyusa.com/client/PollReport.aspx?g=d94236a7-5861-4b7f-9d81-d5a81ab786cc",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ne-governor-lynne-walz",
+      "percent": 35
+    },
+    {
+      "candidateId": "ne-governor-jim-pillen",
+      "percent": 43
+    }
+  ]
+}

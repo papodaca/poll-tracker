@@ -1,0 +1,22 @@
+{
+  "id": "hart-research-associates-2026-08-01-me-senate-class-2",
+  "raceId": "2026-me-senate-class-2",
+  "pollster": "Hart Research Associates",
+  "sponsor": "Senate Majority PAC",
+  "startDate": "2026-07-27",
+  "endDate": "2026-08-01",
+  "sampleSize": 802,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/08/06/Hart-Research-Associates/Senate-Majority-PAC-Maine-2026-07-27-2026-08-01",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "me-senate-troy-jackson",
+      "percent": 49
+    },
+    {
+      "candidateId": "me-senate-susan-collins",
+      "percent": 45
+    }
+  ]
+}

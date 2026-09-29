@@ -1,0 +1,21 @@
+{
+  "id": "public-policy-polling-2025-11-14-sd-senate-class-2",
+  "raceId": "2026-sd-senate-class-2",
+  "pollster": "Public Policy Polling",
+  "startDate": "2025-11-13",
+  "endDate": "2025-11-14",
+  "sampleSize": 814,
+  "population": "RV",
+  "url": "https://go.nationaljournal.com/index.php/email/emailWebview?email=NTU2LVlFRS05NjkAAAGeiVcWoBKpZZQNA68lHKClLo8kBMH0Q5U9-WHl3FPGtF0cctmj94TXf0V9Cq63USR-33qPAzFi8pSLcrRFnX-5Yf1EzKnIc7UzSA",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "sd-senate-mike-rounds",
+      "percent": 52
+    },
+    {
+      "candidateId": "sd-senate-julian-beaudion",
+      "percent": 30
+    }
+  ]
+}

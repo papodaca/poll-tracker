@@ -1,0 +1,22 @@
+{
+  "id": "global-strategy-group-2026-08-31-ia-senate-class-2",
+  "raceId": "2026-ia-senate-class-2",
+  "pollster": "Global Strategy Group",
+  "sponsor": "Josh Turek",
+  "startDate": "2026-08-27",
+  "endDate": "2026-08-31",
+  "sampleSize": 800,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/09/09/Global-Strategy-Group-Iowa",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ia-senate-josh-turek",
+      "percent": 46
+    },
+    {
+      "candidateId": "ia-senate-ashley-hinson",
+      "percent": 42
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "co-efficient-2026-09-17-ct-governor",
+  "raceId": "2026-ct-governor",
+  "pollster": "co/efficient",
+  "startDate": "2026-09-16",
+  "endDate": "2026-09-17",
+  "sampleSize": 979,
+  "population": "LV",
+  "url": "https://coefficient.org/our-work/connecticut-governor-general-election-sep-2026/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ct-governor-ryan-fazio",
+      "percent": 41
+    },
+    {
+      "candidateId": "ct-governor-ned-lamont",
+      "percent": 48
+    }
+  ]
+}

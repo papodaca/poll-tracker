@@ -1,0 +1,21 @@
+{
+  "id": "cygnal-2026-07-31-tx-governor",
+  "raceId": "2026-tx-governor",
+  "pollster": "Cygnal",
+  "startDate": "2026-07-29",
+  "endDate": "2026-07-31",
+  "sampleSize": 800,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/08/10/Cygnal-Texas",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-governor-greg-abbott",
+      "percent": 49
+    },
+    {
+      "candidateId": "tx-governor-gina-hinojosa",
+      "percent": 46
+    }
+  ]
+}

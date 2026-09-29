@@ -1,0 +1,21 @@
+{
+  "id": "fox-news-beacon-2026-08-10-me-senate-class-2",
+  "raceId": "2026-me-senate-class-2",
+  "pollster": "Fox News/Beacon",
+  "startDate": "2026-08-06",
+  "endDate": "2026-08-10",
+  "sampleSize": 1000,
+  "population": "LV",
+  "url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/fox_august-6-10-2026_maine_topline_august-12-release-1.pdf?_gl=1*uixzm6*_ga*YW1wLXI3dXF6ZWRLY2tRRVljRlp4S3hnV0E.*_ga_RH94J2NTVM*MTc4NjU3NzEzMy40LjEuMTc4NjU3NzEzMy4wLjAuMA..",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "me-senate-troy-jackson",
+      "percent": 48
+    },
+    {
+      "candidateId": "me-senate-susan-collins",
+      "percent": 46
+    }
+  ]
+}

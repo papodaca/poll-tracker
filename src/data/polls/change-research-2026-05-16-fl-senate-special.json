@@ -1,0 +1,22 @@
+{
+  "id": "change-research-2026-05-16-fl-senate-special",
+  "raceId": "2026-fl-senate-special",
+  "pollster": "Change Research",
+  "sponsor": "Freedom Project USA",
+  "startDate": "2026-05-13",
+  "endDate": "2026-05-16",
+  "sampleSize": 1593,
+  "population": "LV",
+  "url": "https://www.freedomprojectusa.org/florida-crosstabs-may-13-16-2026.pdf",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-senate-alexander-vindman",
+      "percent": 47
+    },
+    {
+      "candidateId": "fl-senate-ashley-moody",
+      "percent": 45
+    }
+  ]
+}

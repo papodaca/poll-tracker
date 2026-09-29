@@ -1,0 +1,26 @@
+{
+  "id": "surveyusa-2026-08-08-ny-house-21-2",
+  "raceId": "2026-ny-house-21",
+  "pollster": "SurveyUSA",
+  "sponsor": "WNYT (Albany, N.Y.)",
+  "startDate": "2026-08-04",
+  "endDate": "2026-08-08",
+  "sampleSize": 800,
+  "population": "A",
+  "url": "https://results.surveyusa.com/client/PollReport.aspx?g=7dad7202-08be-4fe4-a687-b52480791639",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ny-house-21-blake-gendebien",
+      "percent": 43
+    },
+    {
+      "candidateId": "ny-house-21-anthony-constantino",
+      "percent": 39
+    },
+    {
+      "candidateId": "ny-house-21-christopher-schmidt",
+      "percent": 5
+    }
+  ]
+}

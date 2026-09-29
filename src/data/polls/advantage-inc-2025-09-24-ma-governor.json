@@ -1,0 +1,22 @@
+{
+  "id": "advantage-inc-2025-09-24-ma-governor",
+  "raceId": "2026-ma-governor",
+  "pollster": "Advantage Inc.",
+  "sponsor": "Fiscal Alliance Foundation",
+  "startDate": "2025-09-23",
+  "endDate": "2025-09-24",
+  "sampleSize": 750,
+  "population": "LV",
+  "url": "https://www.fiscalalliancefoundation.org/new-poll-voters-back-income-tax-cut-reject-rent-control-support-natural-gas-nuclear-expansion",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ma-governor-michael-kennealy",
+      "percent": 34.13
+    },
+    {
+      "candidateId": "ma-governor-maura-healey",
+      "percent": 44.93
+    }
+  ]
+}

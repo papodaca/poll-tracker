@@ -1,0 +1,22 @@
+{
+  "id": "wedgewood-polls-2026-07-04-wi-governor-2-2",
+  "raceId": "2026-wi-governor",
+  "pollster": "Wedgewood Polls",
+  "sponsor": "The Isthmus Political Report",
+  "startDate": "2026-07-02",
+  "endDate": "2026-07-04",
+  "sampleSize": 707,
+  "population": "LV",
+  "url": "https://drive.google.com/file/d/1Sh_1fPXoKqGRpotw0cbxfwP5QygpqxjJ/view",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "wi-governor-tom-tiffany",
+      "percent": 42
+    },
+    {
+      "candidateId": "wi-governor-sara-rodriguez",
+      "percent": 47
+    }
+  ]
+}

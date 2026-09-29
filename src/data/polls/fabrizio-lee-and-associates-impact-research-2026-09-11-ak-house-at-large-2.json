@@ -1,0 +1,26 @@
+{
+  "id": "fabrizio-lee-and-associates-impact-research-2026-09-11-ak-house-at-large-2",
+  "raceId": "2026-ak-house-at-large",
+  "pollster": "Fabrizio, Lee & Associates/Impact Research",
+  "sponsor": "AARP",
+  "startDate": "2026-09-08",
+  "endDate": "2026-09-11",
+  "sampleSize": 800,
+  "population": "LV",
+  "url": "https://www.aarp.org/pri/topics/voter-research/politics/2026-midterm-election-poll-alaska/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ak-house-bill-hill",
+      "percent": 36
+    },
+    {
+      "candidateId": "ak-house-nick-begich",
+      "percent": 53
+    },
+    {
+      "candidateId": "ak-house-eric-hafner",
+      "percent": 11
+    }
+  ]
+}

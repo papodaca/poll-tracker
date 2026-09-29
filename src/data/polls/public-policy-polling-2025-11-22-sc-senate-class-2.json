@@ -1,0 +1,22 @@
+{
+  "id": "public-policy-polling-2025-11-22-sc-senate-class-2",
+  "raceId": "2026-sc-senate-class-2",
+  "pollster": "Public Policy Polling",
+  "sponsor": "314 Action (hybrid PAC)",
+  "startDate": "2025-11-21",
+  "endDate": "2025-11-22",
+  "sampleSize": 704,
+  "population": "V",
+  "url": "https://www.the-downballot.com/p/morning-digest-organized-labor-is",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "sc-senate-annie-andrews",
+      "percent": 36
+    },
+    {
+      "candidateId": "sc-senate-lindsey-graham",
+      "percent": 42
+    }
+  ]
+}

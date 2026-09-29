@@ -1,0 +1,22 @@
+{
+  "id": "gbao-2026-03-16-ia-senate-class-2",
+  "raceId": "2026-ia-senate-class-2",
+  "pollster": "GBAO",
+  "sponsor": "ModSquad",
+  "startDate": "2026-03-10",
+  "endDate": "2026-03-16",
+  "sampleSize": 1200,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/04/13/GBAO/ModSquad-Iowa-2026-03-10-2026-03-16",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ia-senate-josh-turek",
+      "percent": 43
+    },
+    {
+      "candidateId": "ia-senate-ashley-hinson",
+      "percent": 47
+    }
+  ]
+}

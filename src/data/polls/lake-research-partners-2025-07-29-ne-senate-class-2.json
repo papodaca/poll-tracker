@@ -1,0 +1,21 @@
+{
+  "id": "lake-research-partners-2025-07-29-ne-senate-class-2",
+  "raceId": "2026-ne-senate-class-2",
+  "pollster": "Lake Research Partners",
+  "startDate": "2025-07-23",
+  "endDate": "2025-07-29",
+  "sampleSize": 900,
+  "population": "LV",
+  "url": "https://x.com/daveweigel/status/1967766304582144247",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ne-senate-dan-osborn",
+      "percent": 47
+    },
+    {
+      "candidateId": "ne-senate-pete-ricketts",
+      "percent": 46
+    }
+  ]
+}

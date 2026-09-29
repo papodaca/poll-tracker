@@ -1,0 +1,21 @@
+{
+  "id": "stetson-university-center-for-public-opinion-research-2026-04-13-fl-senate-special-2-2",
+  "raceId": "2026-fl-senate-special",
+  "pollster": "Stetson University Center for Public Opinion Research",
+  "startDate": "2026-03-25",
+  "endDate": "2026-04-13",
+  "sampleSize": 434,
+  "population": "LV",
+  "url": "https://www2.stetson.edu/today/2026/04/stetson-poll-republicans-lead-in-florida-2026-races-but-many-voters-still-undecided/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-senate-alexander-vindman",
+      "percent": 42
+    },
+    {
+      "candidateId": "fl-senate-ashley-moody",
+      "percent": 49
+    }
+  ]
+}

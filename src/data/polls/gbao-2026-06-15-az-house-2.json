@@ -1,0 +1,25 @@
+{
+  "id": "gbao-2026-06-15-az-house-2",
+  "raceId": "2026-az-house-2",
+  "pollster": "GBAO",
+  "startDate": "2026-06-11",
+  "endDate": "2026-06-15",
+  "sampleSize": 500,
+  "population": "LV",
+  "url": "https://www.nationaljournal.com/s/732200/dem-poll-shows-tightening-race-in-deep-red-territory/?unlock=QL98DIZZ54TZ6EJ5",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "az-house-2-jonathan-nez",
+      "percent": 41
+    },
+    {
+      "candidateId": "az-house-2-eli-crane",
+      "percent": 44
+    },
+    {
+      "candidateId": "az-house-2-curtis-goodwin",
+      "percent": 7
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "yougov-2026-08-13-tx-senate-class-2",
+  "raceId": "2026-tx-senate-class-2",
+  "pollster": "YouGov",
+  "sponsor": "Univ. TX",
+  "startDate": "2026-08-05",
+  "endDate": "2026-08-13",
+  "sampleSize": 1200,
+  "population": "RV",
+  "url": "https://texaspolitics.utexas.edu/blog/new-ut-texas-politics-project-poll-finds-talarico-leading-paxton-abbott-leading-hinojosa-continued-resistance-to-data-centers-2",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-senate-james-talarico",
+      "percent": 42
+    },
+    {
+      "candidateId": "tx-senate-ken-paxton",
+      "percent": 39
+    }
+  ]
+}

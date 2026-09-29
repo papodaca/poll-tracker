@@ -1,0 +1,22 @@
+{
+  "id": "data-targeting-2025-12-08-oh-governor",
+  "raceId": "2026-oh-governor",
+  "pollster": "Data Targeting",
+  "sponsor": "T. Roosevelt Action",
+  "startDate": "2025-12-03",
+  "endDate": "2025-12-08",
+  "sampleSize": 603,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2025/12/18/Data-Targeting/T.-Roosevelt-Action-Ohio-2025-12-03-2025-12-08",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "oh-governor-amy-acton",
+      "percent": 43
+    },
+    {
+      "candidateId": "oh-governor-vivek-ramaswamy",
+      "percent": 45
+    }
+  ]
+}

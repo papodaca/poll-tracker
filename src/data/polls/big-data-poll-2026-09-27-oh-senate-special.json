@@ -1,0 +1,22 @@
+{
+  "id": "big-data-poll-2026-09-27-oh-senate-special",
+  "raceId": "2026-oh-senate-special",
+  "pollster": "Big Data Poll",
+  "sponsor": "Public Polling Project",
+  "startDate": "2026-09-26",
+  "endDate": "2026-09-27",
+  "sampleSize": 680,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/09/29/Big-Data-Poll/Public-Polling-Project-Ohio-2026-09-26-2026-09-27",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "oh-senate-sherrod-brown",
+      "percent": 45.5
+    },
+    {
+      "candidateId": "oh-senate-jon-husted",
+      "percent": 41.2
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "john-zogby-strategies-2026-01-08-ny-governor-2",
+  "raceId": "2026-ny-governor",
+  "pollster": "John Zogby Strategies",
+  "startDate": "2026-01-06",
+  "endDate": "2026-01-08",
+  "sampleSize": 844,
+  "population": "LV",
+  "url": "https://johnzogbystrategies.com/new-john-zogby-strategies-poll-hochul-leads-comfortably-today-but-could-lose-support-from-independents-and-upstate/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ny-governor-bruce-blakeman",
+      "percent": 33.7
+    },
+    {
+      "candidateId": "ny-governor-kathy-hochul",
+      "percent": 49.3
+    },
+    {
+      "candidateId": "ny-governor-larry-sharpe",
+      "percent": 7.5
+    }
+  ]
+}

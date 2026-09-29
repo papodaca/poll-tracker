@@ -1,0 +1,22 @@
+{
+  "id": "praecones-analytica-2025-12-28-nh-senate-class-2",
+  "raceId": "2026-nh-senate-class-2",
+  "pollster": "Praecones Analytica",
+  "sponsor": "NH Journal",
+  "startDate": "2025-12-26",
+  "endDate": "2025-12-28",
+  "sampleSize": 603,
+  "population": "RV",
+  "url": "https://data.ddhq.io/polls/2026/01/05/Praecones-Analytica/NH-Journal-New-Hampshire-2025-12-26-2025-12-28",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nh-senate-john-sununu",
+      "percent": 35.6
+    },
+    {
+      "candidateId": "nh-senate-chris-pappas",
+      "percent": 42.3
+    }
+  ]
+}

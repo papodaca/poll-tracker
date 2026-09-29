@@ -1,0 +1,22 @@
+{
+  "id": "university-of-massachusetts-department-of-political-science-yougov-2026-08-12-ma-senate-class-2",
+  "raceId": "2026-ma-senate-class-2",
+  "pollster": "University of Massachusetts Department of Political Science/YouGov",
+  "sponsor": "WCVB-TV (Boston)",
+  "startDate": "2026-08-05",
+  "endDate": "2026-08-12",
+  "sampleSize": 800,
+  "population": "RV",
+  "url": "https://www.wcvb.com/article/markey-moulton-umass-poll-aug-17/73437119",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ma-senate-john-deaton",
+      "percent": 30
+    },
+    {
+      "candidateId": "ma-senate-ed-markey",
+      "percent": 51
+    }
+  ]
+}

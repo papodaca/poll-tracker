@@ -1,0 +1,21 @@
+{
+  "id": "marquette-university-law-school-2026-07-16-wi-governor-2-2-2-2",
+  "raceId": "2026-wi-governor",
+  "pollster": "Marquette University Law School",
+  "startDate": "2026-07-08",
+  "endDate": "2026-07-16",
+  "sampleSize": 695,
+  "population": "LV",
+  "url": "https://law.marquette.edu/poll/2026/07/22/detailed-results-of-the-marquette-law-school-wisconsin-poll-july-8-16-2026/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "wi-governor-tom-tiffany",
+      "percent": 44
+    },
+    {
+      "candidateId": "wi-governor-joel-brennan",
+      "percent": 43
+    }
+  ]
+}

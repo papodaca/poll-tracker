@@ -1,0 +1,21 @@
+{
+  "id": "marist-university-2026-09-20-tx-senate-class-2",
+  "raceId": "2026-tx-senate-class-2",
+  "pollster": "Marist University",
+  "startDate": "2026-09-17",
+  "endDate": "2026-09-20",
+  "sampleSize": 1139,
+  "population": "RV",
+  "url": "https://maristpoll.marist.edu/polls/2026-midterm-elections-in-texas-september-2026/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-senate-james-talarico",
+      "percent": 50
+    },
+    {
+      "candidateId": "tx-senate-ken-paxton",
+      "percent": 44
+    }
+  ]
+}

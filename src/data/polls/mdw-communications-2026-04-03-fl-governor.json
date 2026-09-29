@@ -1,0 +1,22 @@
+{
+  "id": "mdw-communications-2026-04-03-fl-governor",
+  "raceId": "2026-fl-governor",
+  "pollster": "MDW Communications",
+  "sponsor": "EDGE Communications",
+  "startDate": "2026-03-27",
+  "endDate": "2026-04-03",
+  "sampleSize": 1834,
+  "population": "LV",
+  "url": "https://floridapolitics.com/archives/790357-poll-democrats-gaining-ground-key-races-tighten-in-florida-as-donald-trump-drags-gop/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-governor-byron-donalds",
+      "percent": 41.2
+    },
+    {
+      "candidateId": "fl-governor-david-jolly",
+      "percent": 40.5
+    }
+  ]
+}

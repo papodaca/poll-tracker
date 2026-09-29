@@ -1,0 +1,21 @@
+{
+  "id": "harper-polling-2026-06-21-mn-house-2-2-2-2",
+  "raceId": "2026-mn-house-2",
+  "pollster": "Harper Polling",
+  "startDate": "2026-06-18",
+  "endDate": "2026-06-21",
+  "sampleSize": 415,
+  "population": "LV",
+  "url": "https://alphanews.org/exclusive-new-poll-shows-republican-eric-pratt-in-close-race-with-dfl-congressional-candidates/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mn-house-2-eric-pratt",
+      "percent": 40
+    },
+    {
+      "candidateId": "mn-house-2-matthew-little",
+      "percent": 45
+    }
+  ]
+}

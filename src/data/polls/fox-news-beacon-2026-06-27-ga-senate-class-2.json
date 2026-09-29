@@ -1,0 +1,21 @@
+{
+  "id": "fox-news-beacon-2026-06-27-ga-senate-class-2",
+  "raceId": "2026-ga-senate-class-2",
+  "pollster": "Fox News/Beacon",
+  "startDate": "2026-06-23",
+  "endDate": "2026-06-27",
+  "sampleSize": 1002,
+  "population": "RV",
+  "url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/fox_june-23-27-2026_complete_georgia_topline_july-1-release.pdf",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ga-senate-jon-ossoff",
+      "percent": 56
+    },
+    {
+      "candidateId": "ga-senate-mike-collins",
+      "percent": 43
+    }
+  ]
+}

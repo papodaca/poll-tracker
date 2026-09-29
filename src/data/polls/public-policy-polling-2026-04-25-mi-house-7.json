@@ -1,0 +1,21 @@
+{
+  "id": "public-policy-polling-2026-04-25-mi-house-7",
+  "raceId": "2026-mi-house-7",
+  "pollster": "Public Policy Polling",
+  "startDate": "2026-04-24",
+  "endDate": "2026-04-25",
+  "sampleSize": 519,
+  "population": "RV",
+  "url": "https://x.com/new_poli/status/2054277257191964939",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-house-7-matt-maasdam",
+      "percent": 45
+    },
+    {
+      "candidateId": "mi-house-7-tom-barrett",
+      "percent": 44
+    }
+  ]
+}

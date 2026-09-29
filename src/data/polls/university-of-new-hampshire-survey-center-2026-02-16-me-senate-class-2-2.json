@@ -1,0 +1,21 @@
+{
+  "id": "university-of-new-hampshire-survey-center-2026-02-16-me-senate-class-2-2",
+  "raceId": "2026-me-senate-class-2",
+  "pollster": "University of New Hampshire Survey Center",
+  "startDate": "2026-02-12",
+  "endDate": "2026-02-16",
+  "sampleSize": 1120,
+  "population": "LV",
+  "url": "https://scholars.unh.edu/survey_center_polls/930/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "me-senate-graham-platner",
+      "percent": 49
+    },
+    {
+      "candidateId": "me-senate-susan-collins",
+      "percent": 38
+    }
+  ]
+}

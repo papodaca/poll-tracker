@@ -1,0 +1,21 @@
+{
+  "id": "co-efficient-2026-09-17-ak-senate-class-2-2",
+  "raceId": "2026-ak-senate-class-2",
+  "pollster": "co/efficient",
+  "startDate": "2026-09-14",
+  "endDate": "2026-09-17",
+  "sampleSize": 799,
+  "population": "LV",
+  "url": "https://battlegrounds.coefficient.org/ak/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ak-senate-dan-sullivan",
+      "percent": 49
+    },
+    {
+      "candidateId": "ak-senate-mary-peltola",
+      "percent": 46
+    }
+  ]
+}

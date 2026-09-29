@@ -1,0 +1,22 @@
+{
+  "id": "emerson-college-2026-03-02-ga-senate-class-2-2",
+  "raceId": "2026-ga-senate-class-2",
+  "pollster": "Emerson College",
+  "sponsor": "Nexstar",
+  "startDate": "2026-02-28",
+  "endDate": "2026-03-02",
+  "sampleSize": 1000,
+  "population": "LV",
+  "url": "https://emersoncollegepolling.com/georgia-2026-poll-senator-ossoff-starts-re-election-near-50-and-outpaces-gop-field/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ga-senate-jon-ossoff",
+      "percent": 48.9
+    },
+    {
+      "candidateId": "ga-senate-derek-dooley",
+      "percent": 41.4
+    }
+  ]
+}

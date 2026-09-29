@@ -1,0 +1,22 @@
+{
+  "id": "ppp-2025-03-05-nc-senate-class-2",
+  "raceId": "2026-nc-senate-class-2",
+  "pollster": "PPP",
+  "sponsor": "Dem",
+  "startDate": "2025-03-04",
+  "endDate": "2025-03-05",
+  "sampleSize": 662,
+  "population": "RV",
+  "url": "https://www.publicpolicypolling.com/wp-content/uploads/2025/03/NorthCarolinaResults.pdf",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nc-senate-roy-cooper",
+      "percent": 47
+    },
+    {
+      "candidateId": "nc-senate-thomas-roland-tillis",
+      "percent": 43
+    }
+  ]
+}

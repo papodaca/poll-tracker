@@ -1,0 +1,22 @@
+{
+  "id": "suffolk-university-2025-11-23-ma-senate-class-2",
+  "raceId": "2026-ma-senate-class-2",
+  "pollster": "Suffolk University",
+  "sponsor": "The Boston Globe",
+  "startDate": "2025-11-19",
+  "endDate": "2025-11-23",
+  "sampleSize": 500,
+  "population": "RV",
+  "url": "https://www.suffolk.edu/academics/research-at-suffolk/political-research-center/polls/massachusetts",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ma-senate-john-deaton",
+      "percent": 28.6
+    },
+    {
+      "candidateId": "ma-senate-seth-moulton",
+      "percent": 51.8
+    }
+  ]
+}

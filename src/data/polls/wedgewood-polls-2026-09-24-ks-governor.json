@@ -1,0 +1,21 @@
+{
+  "id": "wedgewood-polls-2026-09-24-ks-governor",
+  "raceId": "2026-ks-governor",
+  "pollster": "Wedgewood Polls",
+  "startDate": "2026-09-22",
+  "endDate": "2026-09-24",
+  "sampleSize": 500,
+  "population": "LV",
+  "url": "https://drive.google.com/drive/u/0/folders/1VKLmawSn60cr7L9HCx9mtZDvATC20N5u",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ks-governor-cindy-holscher",
+      "percent": 48
+    },
+    {
+      "candidateId": "ks-governor-ty-masterson",
+      "percent": 52
+    }
+  ]
+}

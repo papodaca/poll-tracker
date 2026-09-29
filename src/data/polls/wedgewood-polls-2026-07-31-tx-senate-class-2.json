@@ -1,0 +1,21 @@
+{
+  "id": "wedgewood-polls-2026-07-31-tx-senate-class-2",
+  "raceId": "2026-tx-senate-class-2",
+  "pollster": "Wedgewood Polls",
+  "startDate": "2026-07-30",
+  "endDate": "2026-07-31",
+  "sampleSize": 800,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/08/01/Wedgewood-Polls-Texas",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-senate-james-talarico",
+      "percent": 48
+    },
+    {
+      "candidateId": "tx-senate-ken-paxton",
+      "percent": 46
+    }
+  ]
+}

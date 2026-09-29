@@ -1,0 +1,22 @@
+{
+  "id": "slingshot-strategies-2026-04-20-tx-senate-class-2",
+  "raceId": "2026-tx-senate-class-2",
+  "pollster": "Slingshot Strategies",
+  "sponsor": "Texas Public Opinion Research",
+  "startDate": "2026-04-17",
+  "endDate": "2026-04-20",
+  "sampleSize": 1018,
+  "population": "LV",
+  "url": "https://www.texastribune.org/2026/04/28/texas-us-senate-poll-talarico-cornyn-paxton-2026-midterms/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-senate-james-talarico",
+      "percent": 44
+    },
+    {
+      "candidateId": "tx-senate-john-cornyn",
+      "percent": 41
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "public-policy-polling-2026-09-10-mt-house-1",
+  "raceId": "2026-mt-house-1",
+  "pollster": "Public Policy Polling",
+  "sponsor": "The Bench (hybrid PAC)",
+  "startDate": "2026-09-09",
+  "endDate": "2026-09-10",
+  "sampleSize": 536,
+  "population": "RV",
+  "url": "https://x.com/zachblackburn23/status/2100002534383358350",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mt-house-1-sam-forstag",
+      "percent": 45
+    },
+    {
+      "candidateId": "mt-house-1-aaron-flint",
+      "percent": 43
+    }
+  ]
+}

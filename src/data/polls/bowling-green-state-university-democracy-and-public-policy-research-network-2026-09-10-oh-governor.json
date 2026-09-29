@@ -1,0 +1,22 @@
+{
+  "id": "bowling-green-state-university-democracy-and-public-policy-research-network-2026-09-10-oh-governor",
+  "raceId": "2026-oh-governor",
+  "pollster": "Bowling Green State University Democracy and Public Policy Research Network",
+  "sponsor": "YouGov",
+  "startDate": "2026-09-01",
+  "endDate": "2026-09-10",
+  "sampleSize": 1000,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/09/16/Bowling-Green-State-University-Democracy-and-Public-Policy-Research-Network/YouGov-Ohio",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "oh-governor-vivek-ramaswamy",
+      "percent": 45
+    },
+    {
+      "candidateId": "oh-governor-amy-acton",
+      "percent": 48
+    }
+  ]
+}

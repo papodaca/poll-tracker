@@ -1,0 +1,26 @@
+{
+  "id": "emerson-college-2026-09-14-tx-senate-class-2-2",
+  "raceId": "2026-tx-senate-class-2",
+  "pollster": "Emerson College",
+  "sponsor": "Nexstar",
+  "startDate": "2026-09-12",
+  "endDate": "2026-09-14",
+  "sampleSize": 1000,
+  "population": "LV",
+  "url": "https://emersoncollegepolling.com/texas-2026-poll-talarico-and-paxton-in-dead-heat-abbott-maintains-edge/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-senate-james-talarico",
+      "percent": 47.3
+    },
+    {
+      "candidateId": "tx-senate-ken-paxton",
+      "percent": 46.3
+    },
+    {
+      "candidateId": "tx-senate-ted-brown",
+      "percent": 1.9
+    }
+  ]
+}

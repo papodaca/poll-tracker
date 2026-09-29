@@ -1,0 +1,22 @@
+{
+  "id": "cygnal-beacon-research-2026-09-21-mi-senate-class-2",
+  "raceId": "2026-mi-senate-class-2",
+  "pollster": "Cygnal / Beacon Research",
+  "sponsor": "Michigan Enjoyer",
+  "startDate": "2026-09-18",
+  "endDate": "2026-09-21",
+  "sampleSize": 600,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/09/29/Beacon-Research/Cygnal-Michigan",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-senate-mike-rogers",
+      "percent": 40
+    },
+    {
+      "candidateId": "mi-senate-abdul-el-sayed",
+      "percent": 45
+    }
+  ]
+}

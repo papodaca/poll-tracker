@@ -1,0 +1,21 @@
+{
+  "id": "middle-seat-2026-05-06-fl-house-25",
+  "raceId": "2026-fl-house-25",
+  "pollster": "Middle Seat",
+  "startDate": "2026-05-05",
+  "endDate": "2026-05-06",
+  "sampleSize": 576,
+  "population": "LV",
+  "url": "https://punchbowl.news/wp-content/uploads/FL-25-Polling-Memo.pdf",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-house-25-oliver-larkin",
+      "percent": 45
+    },
+    {
+      "candidateId": "fl-house-25-scott-singer",
+      "percent": 33
+    }
+  ]
+}

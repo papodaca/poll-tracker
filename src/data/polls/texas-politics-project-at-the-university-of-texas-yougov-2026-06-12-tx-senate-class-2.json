@@ -1,0 +1,25 @@
+{
+  "id": "texas-politics-project-at-the-university-of-texas-yougov-2026-06-12-tx-senate-class-2",
+  "raceId": "2026-tx-senate-class-2",
+  "pollster": "Texas Politics Project at the University of Texas/YouGov",
+  "startDate": "2026-06-05",
+  "endDate": "2026-06-12",
+  "sampleSize": 1200,
+  "population": "RV",
+  "url": "https://texaspolitics.utexas.edu/blog/june-poll-finds-a-competitive-u-s-senate-race-in-texas-amid-continuing-economic-concerns-data-center-backlash",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-senate-james-talarico",
+      "percent": 42
+    },
+    {
+      "candidateId": "tx-senate-ken-paxton",
+      "percent": 43
+    },
+    {
+      "candidateId": "tx-senate-ted-brown",
+      "percent": 3
+    }
+  ]
+}

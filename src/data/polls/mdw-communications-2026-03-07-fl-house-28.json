@@ -1,0 +1,22 @@
+{
+  "id": "mdw-communications-2026-03-07-fl-house-28",
+  "raceId": "2026-fl-house-28",
+  "pollster": "MDW Communications",
+  "sponsor": "EDGE Communications",
+  "startDate": "2026-03-02",
+  "endDate": "2026-03-07",
+  "sampleSize": 514,
+  "population": "LV",
+  "url": "https://floridapolitics.com/archives/788279-poll-shows-carlos-gimenezs-lead-narrowing-in-cd-28-amid-economic-policy-headwinds/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-house-28-hector-d-mujica",
+      "percent": 40
+    },
+    {
+      "candidateId": "fl-house-28-carlos-gimenez",
+      "percent": 46
+    }
+  ]
+}

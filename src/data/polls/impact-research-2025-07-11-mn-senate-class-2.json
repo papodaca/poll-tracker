@@ -1,0 +1,22 @@
+{
+  "id": "impact-research-2025-07-11-mn-senate-class-2",
+  "raceId": "2026-mn-senate-class-2",
+  "pollster": "Impact Research",
+  "sponsor": "Angie Craig",
+  "startDate": "2025-07-08",
+  "endDate": "2025-07-11",
+  "sampleSize": 604,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2025/12/15/Impact-Research/Angie-Craig-Minnesota-2025-07-08-2025-07-11",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mn-senate-michele-tafoya",
+      "percent": 45
+    },
+    {
+      "candidateId": "mn-senate-peggy-flanagan",
+      "percent": 48
+    }
+  ]
+}

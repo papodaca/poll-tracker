@@ -1,0 +1,21 @@
+{
+  "id": "umass-amherst-2026-08-12-ma-senate-class-2",
+  "raceId": "2026-ma-senate-class-2",
+  "pollster": "UMass Amherst",
+  "startDate": "2026-08-05",
+  "endDate": "2026-08-12",
+  "sampleSize": 800,
+  "population": "RV",
+  "url": "https://htv-prod-media.s3.amazonaws.com/files/markeymoultontoplinesaug2026masspoll-6a82d54db1726.pdf",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ma-senate-ed-markey",
+      "percent": 51
+    },
+    {
+      "candidateId": "ma-senate-john-deaton",
+      "percent": 30
+    }
+  ]
+}

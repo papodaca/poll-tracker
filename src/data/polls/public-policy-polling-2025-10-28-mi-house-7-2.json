@@ -1,0 +1,21 @@
+{
+  "id": "public-policy-polling-2025-10-28-mi-house-7-2",
+  "raceId": "2026-mi-house-7",
+  "pollster": "Public Policy Polling",
+  "startDate": "2025-10-27",
+  "endDate": "2025-10-28",
+  "sampleSize": 557,
+  "population": "RV",
+  "url": "https://x.com/ppppolls/status/1986059896068923817",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-house-7-bridget-ann-brink",
+      "percent": 45
+    },
+    {
+      "candidateId": "mi-house-7-tom-barrett",
+      "percent": 41
+    }
+  ]
+}

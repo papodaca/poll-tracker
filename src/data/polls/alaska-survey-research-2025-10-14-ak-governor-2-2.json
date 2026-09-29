@@ -1,0 +1,21 @@
+{
+  "id": "alaska-survey-research-2025-10-14-ak-governor-2-2",
+  "raceId": "2026-ak-governor",
+  "pollster": "Alaska Survey Research",
+  "startDate": "2025-10-10",
+  "endDate": "2025-10-14",
+  "sampleSize": 1748,
+  "population": "LV",
+  "url": "https://bsky.app/profile/alaskasurvey.bsky.social/post/3m4wghspcw22g",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ak-governor-tom-begich",
+      "percent": 50.6
+    },
+    {
+      "candidateId": "ak-governor-nancy-a-dahlstrom",
+      "percent": 49.4
+    }
+  ]
+}

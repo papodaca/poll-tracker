@@ -1,0 +1,19 @@
+{
+  "id": "franklin-and-mar-2026-09-24-pa-house-7",
+  "raceId": "2026-pa-house-7",
+  "pollster": "Franklin & Mar.",
+  "startDate": "2026-09-24",
+  "endDate": "2026-09-24",
+  "url": "https://www.fandmpoll.org/franklin-marshall-college-poll-release-pa-7th-and-10th-congressional-districts-september-2026/?ref=franklin-marshall-college-poll-newsletter",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "pa-house-7-bob-brooks",
+      "percent": 45
+    },
+    {
+      "candidateId": "pa-house-7-ryan-mackenzie",
+      "percent": 40
+    }
+  ]
+}

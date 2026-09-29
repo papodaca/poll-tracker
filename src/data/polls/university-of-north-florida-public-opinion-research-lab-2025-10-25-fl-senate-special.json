@@ -1,0 +1,22 @@
+{
+  "id": "university-of-north-florida-public-opinion-research-lab-2025-10-25-fl-senate-special",
+  "raceId": "2026-fl-senate-special",
+  "pollster": "University of North Florida Public Opinion Research Lab",
+  "sponsor": "Florida Watch",
+  "startDate": "2025-10-15",
+  "endDate": "2025-10-25",
+  "sampleSize": 728,
+  "population": "LV",
+  "url": "https://www.unfporl.org/uploads/1/4/4/5/144559024/unf_porl_fall_statewide_2025_lv_-_press_release.pdf",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-senate-jennifer-jenkins",
+      "percent": 38
+    },
+    {
+      "candidateId": "fl-senate-ashley-moody",
+      "percent": 49
+    }
+  ]
+}

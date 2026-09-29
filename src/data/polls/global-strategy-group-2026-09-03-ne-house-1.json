@@ -1,0 +1,22 @@
+{
+  "id": "global-strategy-group-2026-09-03-ne-house-1",
+  "raceId": "2026-ne-house-1",
+  "pollster": "Global Strategy Group",
+  "sponsor": "Fight For Nebraska (super PAC)",
+  "startDate": "2026-08-31",
+  "endDate": "2026-09-03",
+  "sampleSize": 600,
+  "population": "LV",
+  "url": "https://s3.documentcloud.org/documents/28652094/ne-01-global-strategy-group-for-retire-career-politicians-sept-2026.pdf",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ne-house-1-chris-backemeyer",
+      "percent": 49
+    },
+    {
+      "candidateId": "ne-house-1-mike-flood",
+      "percent": 45
+    }
+  ]
+}

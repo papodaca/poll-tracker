@@ -1,0 +1,21 @@
+{
+  "id": "marist-college-2026-02-19-ny-governor",
+  "raceId": "2026-ny-governor",
+  "pollster": "Marist College",
+  "startDate": "2026-02-16",
+  "endDate": "2026-02-19",
+  "sampleSize": 1442,
+  "population": "RV",
+  "url": "https://data.ddhq.io/polls/2026/02/26/Marist-College-New-York",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ny-governor-kathy-hochul",
+      "percent": 50
+    },
+    {
+      "candidateId": "ny-governor-bruce-blakeman",
+      "percent": 33
+    }
+  ]
+}

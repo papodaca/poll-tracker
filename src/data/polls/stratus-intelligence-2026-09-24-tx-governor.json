@@ -1,0 +1,21 @@
+{
+  "id": "stratus-intelligence-2026-09-24-tx-governor",
+  "raceId": "2026-tx-governor",
+  "pollster": "Stratus Intelligence",
+  "startDate": "2026-09-22",
+  "endDate": "2026-09-24",
+  "sampleSize": 865,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/09/28/Stratus-Intelligence-Texas",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-governor-greg-abbott",
+      "percent": 50
+    },
+    {
+      "candidateId": "tx-governor-gina-hinojosa",
+      "percent": 45
+    }
+  ]
+}

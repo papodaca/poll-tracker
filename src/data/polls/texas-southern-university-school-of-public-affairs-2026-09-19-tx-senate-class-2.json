@@ -1,0 +1,22 @@
+{
+  "id": "texas-southern-university-school-of-public-affairs-2026-09-19-tx-senate-class-2",
+  "raceId": "2026-tx-senate-class-2",
+  "pollster": "Texas Southern University School of Public Affairs",
+  "sponsor": "YouGov",
+  "startDate": "2026-09-15",
+  "endDate": "2026-09-19",
+  "sampleSize": 1800,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/09/22/Texas-Southern-University-School-of-Public-Affairs/YouGov-Texas",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-senate-ken-paxton",
+      "percent": 46
+    },
+    {
+      "candidateId": "tx-senate-james-talarico",
+      "percent": 47
+    }
+  ]
+}

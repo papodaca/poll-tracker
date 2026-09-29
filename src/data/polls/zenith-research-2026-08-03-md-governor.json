@@ -1,0 +1,22 @@
+{
+  "id": "zenith-research-2026-08-03-md-governor",
+  "raceId": "2026-md-governor",
+  "pollster": "Zenith Research",
+  "sponsor": "Perry Jacobson / Blended Public Affairs",
+  "startDate": "2026-07-27",
+  "endDate": "2026-08-03",
+  "sampleSize": 800,
+  "population": "LV",
+  "url": "https://marylandmatters.org/2026/08/12/poll-moore-enjoys-comfortable-early-lead-against-cox-in-governors-rematch/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "md-governor-wes-moore",
+      "percent": 58
+    },
+    {
+      "candidateId": "md-governor-dan-cox",
+      "percent": 31
+    }
+  ]
+}

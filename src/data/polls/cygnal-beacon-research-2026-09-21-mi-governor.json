@@ -1,0 +1,22 @@
+{
+  "id": "cygnal-beacon-research-2026-09-21-mi-governor",
+  "raceId": "2026-mi-governor",
+  "pollster": "Cygnal / Beacon Research",
+  "sponsor": "Michigan Enjoyer",
+  "startDate": "2026-09-18",
+  "endDate": "2026-09-21",
+  "sampleSize": 600,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/09/29/Beacon-Research/Cygnal-Michigan",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-governor-john-james",
+      "percent": 38
+    },
+    {
+      "candidateId": "mi-governor-jocelyn-benson",
+      "percent": 45
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "greatblue-research-2026-09-08-ct-governor",
+  "raceId": "2026-ct-governor",
+  "pollster": "GreatBlue Research",
+  "sponsor": "CT Insider / WFSB (Hartford, Conn.) / Sacred Heart University Institute for Public Policy and Civic Engagement",
+  "startDate": "2026-09-01",
+  "endDate": "2026-09-08",
+  "sampleSize": 1000,
+  "population": "RV",
+  "url": "https://s3.documentcloud.org/documents/28617367/shu-ct-gubernatorial-race-poll-91426.pdf",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ct-governor-ryan-fazio",
+      "percent": 36.5
+    },
+    {
+      "candidateId": "ct-governor-ned-lamont",
+      "percent": 52.2
+    }
+  ]
+}

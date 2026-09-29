@@ -1,0 +1,19 @@
+{
+  "id": "public-op-str-2026-09-17-pa-house-1",
+  "raceId": "2026-pa-house-1",
+  "pollster": "Public Op. Str.",
+  "startDate": "2026-09-17",
+  "endDate": "2026-09-17",
+  "url": "https://x.com/lisakashinsky/status/2100574733318193390?s=20",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "pa-house-1-bob-harvie",
+      "percent": 42
+    },
+    {
+      "candidateId": "pa-house-1-brian-fitzpatrick",
+      "percent": 51
+    }
+  ]
+}

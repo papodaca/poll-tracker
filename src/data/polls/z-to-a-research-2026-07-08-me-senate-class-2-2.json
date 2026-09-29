@@ -1,0 +1,22 @@
+{
+  "id": "z-to-a-research-2026-07-08-me-senate-class-2-2",
+  "raceId": "2026-me-senate-class-2",
+  "pollster": "Z to A Research",
+  "sponsor": "314 Action (hybrid PAC)",
+  "startDate": "2026-07-07",
+  "endDate": "2026-07-08",
+  "sampleSize": 988,
+  "population": "LV",
+  "url": "https://www.notus.org/2026-election/platner-replacements-poll-maine-senate",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "me-senate-susan-collins",
+      "percent": 46
+    },
+    {
+      "candidateId": "me-senate-nirav-dinesh-shah",
+      "percent": 47
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "co-efficient-2026-09-11-nh-senate-class-2",
+  "raceId": "2026-nh-senate-class-2",
+  "pollster": "co/efficient",
+  "startDate": "2026-09-09",
+  "endDate": "2026-09-11",
+  "sampleSize": 958,
+  "population": "LV",
+  "url": "https://battlegrounds.coefficient.org/nh/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nh-senate-chris-pappas",
+      "percent": 46
+    },
+    {
+      "candidateId": "nh-senate-john-sununu",
+      "percent": 46
+    }
+  ]
+}

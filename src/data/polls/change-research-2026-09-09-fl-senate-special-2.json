@@ -1,0 +1,22 @@
+{
+  "id": "change-research-2026-09-09-fl-senate-special-2",
+  "raceId": "2026-fl-senate-special",
+  "pollster": "Change Research",
+  "sponsor": "Freedom Project USA",
+  "startDate": "2026-09-07",
+  "endDate": "2026-09-09",
+  "sampleSize": 1107,
+  "population": "LV",
+  "url": "https://changeresearch.com/research/2026/2026-09-10-an-emerging-florida-blue-wave",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-senate-ashley-moody",
+      "percent": 47
+    },
+    {
+      "candidateId": "fl-senate-angela-nixon",
+      "percent": 47
+    }
+  ]
+}

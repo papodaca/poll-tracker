@@ -1,0 +1,21 @@
+{
+  "id": "co-efficient-2025-09-12-nh-senate-class-2-2-2",
+  "raceId": "2026-nh-senate-class-2",
+  "pollster": "co/efficient",
+  "startDate": "2025-09-10",
+  "endDate": "2025-09-12",
+  "sampleSize": 904,
+  "population": "LV",
+  "url": "https://coefficient.org/wp-content/uploads/2025/09/NH-U.S.-Senate-General-Election-2026.pdf",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nh-senate-chris-pappas",
+      "percent": 49
+    },
+    {
+      "candidateId": "nh-senate-dan-innis",
+      "percent": 37
+    }
+  ]
+}

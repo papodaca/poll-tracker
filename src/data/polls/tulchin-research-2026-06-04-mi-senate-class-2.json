@@ -1,0 +1,22 @@
+{
+  "id": "tulchin-research-2026-06-04-mi-senate-class-2",
+  "raceId": "2026-mi-senate-class-2",
+  "pollster": "Tulchin Research",
+  "sponsor": "Fighting for Michigan",
+  "startDate": "2026-06-02",
+  "endDate": "2026-06-04",
+  "sampleSize": 500,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/06/11/Tulchin-Research/Fighting-for-Michigan-Michigan-2026-06-02-2026-06-04",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-senate-mike-rogers",
+      "percent": 41
+    },
+    {
+      "candidateId": "mi-senate-abdul-el-sayed",
+      "percent": 46
+    }
+  ]
+}

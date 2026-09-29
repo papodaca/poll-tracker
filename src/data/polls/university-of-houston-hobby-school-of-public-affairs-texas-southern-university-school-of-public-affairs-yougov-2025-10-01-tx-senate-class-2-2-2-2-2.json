@@ -1,0 +1,21 @@
+{
+  "id": "university-of-houston-hobby-school-of-public-affairs-texas-southern-university-school-of-public-affairs-yougov-2025-10-01-tx-senate-class-2-2-2-2-2",
+  "raceId": "2026-tx-senate-class-2",
+  "pollster": "University of Houston Hobby School of Public Affairs/Texas Southern University School of Public Affairs/YouGov",
+  "startDate": "2025-09-19",
+  "endDate": "2025-10-01",
+  "sampleSize": 1183,
+  "population": "LV",
+  "url": "https://www.uh.edu/hobby/txtrends/2025/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-senate-james-talarico",
+      "percent": 44
+    },
+    {
+      "candidateId": "tx-senate-wesley-p-hunt",
+      "percent": 50
+    }
+  ]
+}

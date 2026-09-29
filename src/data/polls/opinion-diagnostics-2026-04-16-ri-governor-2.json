@@ -1,0 +1,25 @@
+{
+  "id": "opinion-diagnostics-2026-04-16-ri-governor-2",
+  "raceId": "2026-ri-governor",
+  "pollster": "Opinion Diagnostics",
+  "startDate": "2026-04-13",
+  "endDate": "2026-04-16",
+  "sampleSize": 802,
+  "population": "LV",
+  "url": "https://www.golocalprov.com/politics/new-poll-on-governors-race-turns-race-upside-down",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ri-governor-ken-block",
+      "percent": 18
+    },
+    {
+      "candidateId": "ri-governor-helena-foulkes",
+      "percent": 33
+    },
+    {
+      "candidateId": "ri-governor-aaron-guckian",
+      "percent": 16
+    }
+  ]
+}

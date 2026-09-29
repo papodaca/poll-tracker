@@ -1,0 +1,26 @@
+{
+  "id": "surveyusa-2026-09-14-mn-governor",
+  "raceId": "2026-mn-governor",
+  "pollster": "SurveyUSA",
+  "sponsor": "KSTP-TV (St. Paul, Minn.) / KAAL-TV (Austin, Minn.) / WDIO-DT (Duluth, Minn.)",
+  "startDate": "2026-09-09",
+  "endDate": "2026-09-14",
+  "sampleSize": 654,
+  "population": "LV",
+  "url": "https://kstp.com/kstp-news/top-news/kstp-surveyusa-poll-governor-senate-races-tightening-days-before-early-voting-starts-in-minnesota/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mn-governor-lisa-demuth",
+      "percent": 40
+    },
+    {
+      "candidateId": "mn-governor-amy-klobuchar",
+      "percent": 47
+    },
+    {
+      "candidateId": "mn-governor-steven-young",
+      "percent": 3
+    }
+  ]
+}

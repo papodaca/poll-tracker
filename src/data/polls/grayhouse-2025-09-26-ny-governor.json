@@ -1,0 +1,22 @@
+{
+  "id": "grayhouse-2025-09-26-ny-governor",
+  "raceId": "2026-ny-governor",
+  "pollster": "Grayhouse",
+  "sponsor": "E-PAC",
+  "startDate": "2025-09-20",
+  "endDate": "2025-09-26",
+  "sampleSize": 1250,
+  "population": "LV",
+  "url": "https://www.politico.com/newsletters/new-york-playbook/2025/10/08/how-dsa-gets-to-y-e-s-00597522",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ny-governor-kathy-hochul",
+      "percent": 48
+    },
+    {
+      "candidateId": "ny-governor-elise-m-stefanik",
+      "percent": 43
+    }
+  ]
+}

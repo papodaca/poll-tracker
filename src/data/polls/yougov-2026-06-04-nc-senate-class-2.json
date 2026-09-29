@@ -1,0 +1,21 @@
+{
+  "id": "yougov-2026-06-04-nc-senate-class-2",
+  "raceId": "2026-nc-senate-class-2",
+  "pollster": "YouGov",
+  "startDate": "2026-06-01",
+  "endDate": "2026-06-04",
+  "sampleSize": 905,
+  "population": "LV",
+  "url": "https://www.catawba.edu/news/all-news/2026/yougovsurvey27/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nc-senate-roy-cooper",
+      "percent": 48
+    },
+    {
+      "candidateId": "nc-senate-michael-whatley",
+      "percent": 34
+    }
+  ]
+}

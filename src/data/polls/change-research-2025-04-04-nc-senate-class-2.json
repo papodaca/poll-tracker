@@ -1,0 +1,21 @@
+{
+  "id": "change-research-2025-04-04-nc-senate-class-2",
+  "raceId": "2026-nc-senate-class-2",
+  "pollster": "Change Research",
+  "startDate": "2025-03-31",
+  "endDate": "2025-04-04",
+  "sampleSize": 867,
+  "population": "RV",
+  "url": "https://carolinaforward.org/blog/april-2025-poll/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nc-senate-roy-cooper",
+      "percent": 48
+    },
+    {
+      "candidateId": "nc-senate-thomas-roland-tillis",
+      "percent": 45
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "university-of-new-hampshire-survey-center-2026-07-20-vt-house-at-large-2",
+  "raceId": "2026-vt-house-at-large",
+  "pollster": "University of New Hampshire Survey Center",
+  "startDate": "2026-07-15",
+  "endDate": "2026-07-20",
+  "sampleSize": 954,
+  "population": "LV",
+  "url": "https://scholars.unh.edu/survey_center_polls/982/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "vt-house-becca-balint",
+      "percent": 64
+    },
+    {
+      "candidateId": "vt-house-adam-ortiz",
+      "percent": 2
+    },
+    {
+      "candidateId": "vt-house-at-large-mark-coester",
+      "percent": 25
+    }
+  ]
+}

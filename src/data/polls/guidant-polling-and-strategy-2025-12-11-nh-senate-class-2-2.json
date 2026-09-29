@@ -1,0 +1,22 @@
+{
+  "id": "guidant-polling-and-strategy-2025-12-11-nh-senate-class-2-2",
+  "raceId": "2026-nh-senate-class-2",
+  "pollster": "Guidant Polling and Strategy",
+  "sponsor": "One Nation",
+  "startDate": "2025-12-09",
+  "endDate": "2025-12-11",
+  "sampleSize": 600,
+  "population": "LV",
+  "url": "https://www.politico.com/newsletters/playbook/2026/01/06/5-years-ago-today-00712185",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nh-senate-chris-pappas",
+      "percent": 49
+    },
+    {
+      "candidateId": "nh-senate-scott-brown",
+      "percent": 38
+    }
+  ]
+}

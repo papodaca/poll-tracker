@@ -1,0 +1,21 @@
+{
+  "id": "university-of-massachusetts-lowell-center-for-public-opinion-yougov-2026-05-26-me-senate-class-2",
+  "raceId": "2026-me-senate-class-2",
+  "pollster": "University of Massachusetts Lowell Center for Public Opinion/YouGov",
+  "startDate": "2026-05-13",
+  "endDate": "2026-05-26",
+  "sampleSize": 650,
+  "population": "LV",
+  "url": "https://www.uml.edu/news/press-releases/2026/06042026-maine-senate-poll.aspx",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "me-senate-graham-platner",
+      "percent": 48
+    },
+    {
+      "candidateId": "me-senate-susan-collins",
+      "percent": 43
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "beacon-research-2025-09-20-ca-house-11",
+  "raceId": "2026-ca-house-11",
+  "pollster": "Beacon Research",
+  "startDate": "2025-09-12",
+  "endDate": "2025-09-20",
+  "sampleSize": 600,
+  "population": "RV",
+  "url": "https://thehill.com/homenews/campaign/5521160-pelosi-chakrabarti-california-congressional-race-survey/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ca-house-11-saikat-chakrabarti",
+      "percent": 34
+    },
+    {
+      "candidateId": "ca-house-11-nancy-pelosi",
+      "percent": 47
+    }
+  ]
+}

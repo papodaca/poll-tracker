@@ -1,0 +1,26 @@
+{
+  "id": "the-new-york-times-siena-university-2026-06-26-me-governor",
+  "raceId": "2026-me-governor",
+  "pollster": "The New York Times/Siena University",
+  "sponsor": "Portland Press Herald",
+  "startDate": "2026-06-19",
+  "endDate": "2026-06-26",
+  "sampleSize": 608,
+  "population": "LV",
+  "url": "https://www.nytimes.com/2026/06/29/us/politics/collins-platner-maine-senate-poll.html",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "me-governor-bobby-charles",
+      "percent": 36
+    },
+    {
+      "candidateId": "me-governor-hannah-pingree",
+      "percent": 50
+    },
+    {
+      "candidateId": "me-governor-rick-bennett",
+      "percent": 8
+    }
+  ]
+}

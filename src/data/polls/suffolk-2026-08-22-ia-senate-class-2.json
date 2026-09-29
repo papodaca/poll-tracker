@@ -1,0 +1,21 @@
+{
+  "id": "suffolk-2026-08-22-ia-senate-class-2",
+  "raceId": "2026-ia-senate-class-2",
+  "pollster": "Suffolk",
+  "startDate": "2026-08-19",
+  "endDate": "2026-08-22",
+  "sampleSize": 500,
+  "population": "LV",
+  "url": "https://www.suffolk.edu/academics/research-at-suffolk/political-research-center/polls/other-states#collapse-August-26-2026-Iowa-Governor-and-US-Senate-General-Election",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ia-senate-josh-turek",
+      "percent": 41
+    },
+    {
+      "candidateId": "ia-senate-ashley-hinson",
+      "percent": 45
+    }
+  ]
+}

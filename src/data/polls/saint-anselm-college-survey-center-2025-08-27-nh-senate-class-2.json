@@ -1,0 +1,21 @@
+{
+  "id": "saint-anselm-college-survey-center-2025-08-27-nh-senate-class-2",
+  "raceId": "2026-nh-senate-class-2",
+  "pollster": "Saint Anselm College Survey Center",
+  "startDate": "2025-08-26",
+  "endDate": "2025-08-27",
+  "sampleSize": 1776,
+  "population": "RV",
+  "url": "https://www.wmur.com/article/poll-pappas-republicans-senate-race-9325/65974049",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nh-senate-chris-pappas",
+      "percent": 48
+    },
+    {
+      "candidateId": "nh-senate-dan-innis",
+      "percent": 30
+    }
+  ]
+}

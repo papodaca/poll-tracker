@@ -1,0 +1,19 @@
+{
+  "id": "unh-2026-09-24-nh-house-2",
+  "raceId": "2026-nh-house-2",
+  "pollster": "UNH",
+  "startDate": "2026-09-24",
+  "endDate": "2026-09-24",
+  "url": "https://scholars.unh.edu/survey_center_polls/1005/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nh-house-2-maggie-goodlander",
+      "percent": 46
+    },
+    {
+      "candidateId": "nh-house-2-lily-tang-williams",
+      "percent": 42
+    }
+  ]
+}

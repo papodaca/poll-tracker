@@ -1,0 +1,22 @@
+{
+  "id": "mitchell-research-and-communications-2026-05-07-mi-senate-class-2",
+  "raceId": "2026-mi-senate-class-2",
+  "pollster": "Mitchell Research & Communications",
+  "sponsor": "Michigan Information & Research Service",
+  "startDate": "2026-05-01",
+  "endDate": "2026-05-07",
+  "sampleSize": 601,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/05/12/Mitchell-Research-&-Communications/Michigan-Information-&-Research-Service-Michigan-2026-05-01-2026-05-07",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-senate-abdul-el-sayed",
+      "percent": 41
+    },
+    {
+      "candidateId": "mi-senate-mike-rogers",
+      "percent": 42
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "change-research-2026-03-20-ak-house-at-large",
+  "raceId": "2026-ak-house-at-large",
+  "pollster": "Change Research",
+  "sponsor": "Independent Candidates Action (hybrid PAC)",
+  "startDate": "2026-03-17",
+  "endDate": "2026-03-20",
+  "sampleSize": 624,
+  "population": "LV",
+  "url": "https://www.independentaction.org/news/revhhcbrfzodrm3lh38l9axg2de96b",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ak-house-bill-hill",
+      "percent": 13
+    },
+    {
+      "candidateId": "ak-house-nick-begich",
+      "percent": 45
+    },
+    {
+      "candidateId": "ak-house-at-large-matt-schultz",
+      "percent": 17
+    },
+    {
+      "candidateId": "ak-house-john-williams",
+      "percent": 4
+    }
+  ]
+}

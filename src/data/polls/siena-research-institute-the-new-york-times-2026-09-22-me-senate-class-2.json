@@ -1,0 +1,22 @@
+{
+  "id": "siena-research-institute-the-new-york-times-2026-09-22-me-senate-class-2",
+  "raceId": "2026-me-senate-class-2",
+  "pollster": "Siena Research Institute / The New York Times",
+  "sponsor": "Portland Press Herald",
+  "startDate": "2026-09-15",
+  "endDate": "2026-09-22",
+  "sampleSize": 619,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/09/24/Siena-Research-Institute/The-New-York-Times-Maine-2026-09-15-2026-09-22",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "me-senate-troy-jackson",
+      "percent": 45
+    },
+    {
+      "candidateId": "me-senate-susan-collins",
+      "percent": 46
+    }
+  ]
+}

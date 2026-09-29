@@ -1,0 +1,22 @@
+{
+  "id": "emc-research-2026-02-22-oh-governor",
+  "raceId": "2026-oh-governor",
+  "pollster": "EMC Research",
+  "sponsor": "Ohio Environmental Council",
+  "startDate": "2026-02-10",
+  "endDate": "2026-02-22",
+  "sampleSize": 1343,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/03/12/EMC-Research-Ohio",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "oh-governor-amy-acton",
+      "percent": 53
+    },
+    {
+      "candidateId": "oh-governor-vivek-ramaswamy",
+      "percent": 43
+    }
+  ]
+}

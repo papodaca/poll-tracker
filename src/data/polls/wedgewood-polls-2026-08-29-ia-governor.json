@@ -1,0 +1,21 @@
+{
+  "id": "wedgewood-polls-2026-08-29-ia-governor",
+  "raceId": "2026-ia-governor",
+  "pollster": "Wedgewood Polls",
+  "startDate": "2026-08-27",
+  "endDate": "2026-08-29",
+  "sampleSize": 600,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/08/30/Wedgewood-Polls-Iowa",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ia-governor-zach-lahn",
+      "percent": 46
+    },
+    {
+      "candidateId": "ia-governor-rob-sand",
+      "percent": 51
+    }
+  ]
+}

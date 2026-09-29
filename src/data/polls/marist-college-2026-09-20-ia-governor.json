@@ -1,0 +1,21 @@
+{
+  "id": "marist-college-2026-09-20-ia-governor",
+  "raceId": "2026-ia-governor",
+  "pollster": "Marist College",
+  "startDate": "2026-09-17",
+  "endDate": "2026-09-20",
+  "sampleSize": 1050,
+  "population": "RV",
+  "url": "https://data.ddhq.io/polls/2026/09/22/Marist-College-Iowa",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ia-governor-rob-sand",
+      "percent": 54
+    },
+    {
+      "candidateId": "ia-governor-zach-lahn",
+      "percent": 42
+    }
+  ]
+}

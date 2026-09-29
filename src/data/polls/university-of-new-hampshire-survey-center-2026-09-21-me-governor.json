@@ -1,0 +1,25 @@
+{
+  "id": "university-of-new-hampshire-survey-center-2026-09-21-me-governor",
+  "raceId": "2026-me-governor",
+  "pollster": "University of New Hampshire Survey Center",
+  "startDate": "2026-09-17",
+  "endDate": "2026-09-21",
+  "sampleSize": 1312,
+  "population": "LV",
+  "url": "https://scholars.unh.edu/survey_center_polls/1007/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "me-governor-bobby-charles",
+      "percent": 40
+    },
+    {
+      "candidateId": "me-governor-hannah-pingree",
+      "percent": 48
+    },
+    {
+      "candidateId": "me-governor-rick-bennett",
+      "percent": 5
+    }
+  ]
+}

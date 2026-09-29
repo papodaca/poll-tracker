@@ -1,0 +1,19 @@
+{
+  "id": "unh-2026-09-24-me-house-1",
+  "raceId": "2026-me-house-1",
+  "pollster": "UNH",
+  "startDate": "2026-09-24",
+  "endDate": "2026-09-24",
+  "url": "https://scholars.unh.edu/cgi/viewcontent.cgi?article=2006&context=survey_center_polls",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "me-house-1-chellie-pingree",
+      "percent": 57
+    },
+    {
+      "candidateId": "me-house-1-ronald-russell",
+      "percent": 35
+    }
+  ]
+}

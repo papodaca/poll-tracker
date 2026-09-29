@@ -1,0 +1,21 @@
+{
+  "id": "beacon-insights-2026-05-02-fl-house-25-2",
+  "raceId": "2026-fl-house-25",
+  "pollster": "Beacon Insights",
+  "startDate": "2026-05-01",
+  "endDate": "2026-05-02",
+  "sampleSize": 461,
+  "population": "RV",
+  "url": "https://floridapolitics.com/archives/794555-poll-scott-singer-unpopular-in-boca-raton-even-as-jared-moskowitz-over-performs-in-new-cd-25/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-house-25-jared-moskowitz",
+      "percent": 42.9
+    },
+    {
+      "candidateId": "fl-house-25-scott-singer",
+      "percent": 32.7
+    }
+  ]
+}

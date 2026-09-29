@@ -1,0 +1,21 @@
+{
+  "id": "rasmussen-reports-2026-09-14-ga-governor",
+  "raceId": "2026-ga-governor",
+  "pollster": "Rasmussen Reports",
+  "startDate": "2026-09-14",
+  "endDate": "2026-09-14",
+  "sampleSize": 1019,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/09/15/Rasmussen-Reports-Georgia",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ga-governor-keisha-lance-bottoms",
+      "percent": 45
+    },
+    {
+      "candidateId": "ga-governor-rick-jackson",
+      "percent": 48
+    }
+  ]
+}

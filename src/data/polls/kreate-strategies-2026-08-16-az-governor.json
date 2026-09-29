@@ -1,0 +1,22 @@
+{
+  "id": "kreate-strategies-2026-08-16-az-governor",
+  "raceId": "2026-az-governor",
+  "pollster": "Kreate Strategies",
+  "sponsor": "American Encore",
+  "startDate": "2026-08-13",
+  "endDate": "2026-08-16",
+  "sampleSize": 900,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/08/23/Kreate-Strategies/American-Encore-Arizona-2026-08-13-2026-08-16",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "az-governor-andy-biggs",
+      "percent": 40
+    },
+    {
+      "candidateId": "az-governor-katie-hobbs",
+      "percent": 45
+    }
+  ]
+}

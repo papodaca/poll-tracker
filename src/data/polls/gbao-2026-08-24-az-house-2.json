@@ -1,0 +1,21 @@
+{
+  "id": "gbao-2026-08-24-az-house-2",
+  "raceId": "2026-az-house-2",
+  "pollster": "GBAO",
+  "startDate": "2026-08-21",
+  "endDate": "2026-08-24",
+  "sampleSize": 500,
+  "population": "LV",
+  "url": "https://www.politico.com/newsletters/playbook/2026/09/02/why-trump-wants-to-let-data-reign-01061332",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "az-house-2-jonathan-nez",
+      "percent": 44
+    },
+    {
+      "candidateId": "az-house-2-eli-crane",
+      "percent": 46
+    }
+  ]
+}

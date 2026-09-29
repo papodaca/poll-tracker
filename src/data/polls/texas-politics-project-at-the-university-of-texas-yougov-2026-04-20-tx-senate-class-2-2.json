@@ -1,0 +1,21 @@
+{
+  "id": "texas-politics-project-at-the-university-of-texas-yougov-2026-04-20-tx-senate-class-2-2",
+  "raceId": "2026-tx-senate-class-2",
+  "pollster": "Texas Politics Project at the University of Texas/YouGov",
+  "startDate": "2026-04-10",
+  "endDate": "2026-04-20",
+  "sampleSize": 1200,
+  "population": "RV",
+  "url": "https://texaspolitics.utexas.edu/blog/april-polling-war-and-surging-gas-prices-fuel-another-negative-turn-in-texans-views-of-the-economy-2",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-senate-james-talarico",
+      "percent": 42
+    },
+    {
+      "candidateId": "tx-senate-ken-paxton",
+      "percent": 34
+    }
+  ]
+}

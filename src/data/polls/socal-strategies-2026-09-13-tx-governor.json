@@ -1,0 +1,21 @@
+{
+  "id": "socal-strategies-2026-09-13-tx-governor",
+  "raceId": "2026-tx-governor",
+  "pollster": "SoCal Strategies",
+  "startDate": "2026-09-12",
+  "endDate": "2026-09-13",
+  "sampleSize": 649,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/09/13/SoCal-Strategies-Texas",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-governor-gina-hinojosa",
+      "percent": 44
+    },
+    {
+      "candidateId": "tx-governor-greg-abbott",
+      "percent": 52
+    }
+  ]
+}

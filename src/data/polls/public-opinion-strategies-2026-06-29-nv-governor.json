@@ -1,0 +1,22 @@
+{
+  "id": "public-opinion-strategies-2026-06-29-nv-governor",
+  "raceId": "2026-nv-governor",
+  "pollster": "Public Opinion Strategies",
+  "sponsor": "Republican Governors Association",
+  "startDate": "2026-06-27",
+  "endDate": "2026-06-29",
+  "sampleSize": 600,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/08/05/Public-Opinion-Strategies-Nevada",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nv-governor-aaron-ford",
+      "percent": 42
+    },
+    {
+      "candidateId": "nv-governor-joe-lombardo",
+      "percent": 51
+    }
+  ]
+}

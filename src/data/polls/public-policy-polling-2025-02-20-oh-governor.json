@@ -1,0 +1,22 @@
+{
+  "id": "public-policy-polling-2025-02-20-oh-governor",
+  "raceId": "2026-oh-governor",
+  "pollster": "Public Policy Polling",
+  "sponsor": "314 Action",
+  "startDate": "2025-02-19",
+  "endDate": "2025-02-20",
+  "sampleSize": 642,
+  "population": "RV",
+  "url": "https://data.ddhq.io/polls/2025/07/02/Public Policy Polling/314 Action-Ohio-2025-02-19-2025-02-20",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "oh-governor-amy-acton",
+      "percent": 45
+    },
+    {
+      "candidateId": "oh-governor-vivek-ramaswamy",
+      "percent": 44
+    }
+  ]
+}

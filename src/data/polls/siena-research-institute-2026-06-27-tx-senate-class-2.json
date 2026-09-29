@@ -1,0 +1,22 @@
+{
+  "id": "siena-research-institute-2026-06-27-tx-senate-class-2",
+  "raceId": "2026-tx-senate-class-2",
+  "pollster": "Siena Research Institute",
+  "sponsor": "The New York Times",
+  "startDate": "2026-06-19",
+  "endDate": "2026-06-27",
+  "sampleSize": 656,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/06/30/Siena-Research-Institute/The-New-York-Times-Texas-2026-06-19-2026-06-27",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-senate-ken-paxton",
+      "percent": 44
+    },
+    {
+      "candidateId": "tx-senate-james-talarico",
+      "percent": 45
+    }
+  ]
+}

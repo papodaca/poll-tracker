@@ -1,0 +1,22 @@
+{
+  "id": "co-efficient-2026-04-29-tx-house-34",
+  "raceId": "2026-tx-house-34",
+  "pollster": "co/efficient",
+  "sponsor": "NRCC",
+  "startDate": "2026-04-25",
+  "endDate": "2026-04-29",
+  "sampleSize": 777,
+  "population": "LV",
+  "url": "https://www.politico.com/news/2026/05/08/gop-polls-show-they-have-a-shot-at-flipping-house-dem-districts-trump-won-00910791",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-house-34-vicente-gonzalez",
+      "percent": 40
+    },
+    {
+      "candidateId": "tx-house-34-mayra-flores",
+      "percent": 41
+    }
+  ]
+}

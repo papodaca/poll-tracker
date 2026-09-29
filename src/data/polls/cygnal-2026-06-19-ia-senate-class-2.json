@@ -1,0 +1,22 @@
+{
+  "id": "cygnal-2026-06-19-ia-senate-class-2",
+  "raceId": "2026-ia-senate-class-2",
+  "pollster": "Cygnal",
+  "sponsor": "Iowans for Tax Relief Foundation",
+  "startDate": "2026-06-16",
+  "endDate": "2026-06-19",
+  "sampleSize": 600,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/06/28/Cygnal/Iowans-for-Tax-Relief-Foundation-Iowa-2026-06-16-2026-06-19",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ia-senate-josh-turek",
+      "percent": 44.2
+    },
+    {
+      "candidateId": "ia-senate-ashley-hinson",
+      "percent": 46
+    }
+  ]
+}

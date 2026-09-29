@@ -1,0 +1,22 @@
+{
+  "id": "fabrizio-lee-and-associates-impact-research-2026-07-28-az-governor",
+  "raceId": "2026-az-governor",
+  "pollster": "Fabrizio, Lee & Associates/Impact Research",
+  "sponsor": "AARP",
+  "startDate": "2026-07-26",
+  "endDate": "2026-07-28",
+  "sampleSize": 913,
+  "population": "LV",
+  "url": "https://www.aarp.org/content/dam/aarp/research/topics/voter-opinion-research/politics/2026-midterm-election-poll-arizona.doi.10.26419-2fres.01065.007.pdf",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "az-governor-andy-biggs",
+      "percent": 44
+    },
+    {
+      "candidateId": "az-governor-katie-hobbs",
+      "percent": 52
+    }
+  ]
+}

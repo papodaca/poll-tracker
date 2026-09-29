@@ -1,0 +1,21 @@
+{
+  "id": "trafalgar-group-2026-09-24-ak-senate-class-2",
+  "raceId": "2026-ak-senate-class-2",
+  "pollster": "Trafalgar Group",
+  "startDate": "2026-09-22",
+  "endDate": "2026-09-24",
+  "sampleSize": 1079,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/09/26/Trafalgar-Group-Alaska",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ak-senate-dan-sullivan",
+      "percent": 46.8
+    },
+    {
+      "candidateId": "ak-senate-mary-peltola",
+      "percent": 45.5
+    }
+  ]
+}

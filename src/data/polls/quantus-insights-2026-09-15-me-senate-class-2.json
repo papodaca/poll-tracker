@@ -1,0 +1,21 @@
+{
+  "id": "quantus-insights-2026-09-15-me-senate-class-2",
+  "raceId": "2026-me-senate-class-2",
+  "pollster": "Quantus Insights",
+  "startDate": "2026-09-14",
+  "endDate": "2026-09-15",
+  "sampleSize": 621,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/09/16/Quantus-Insights-Maine",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "me-senate-susan-collins",
+      "percent": 47.1
+    },
+    {
+      "candidateId": "me-senate-troy-jackson",
+      "percent": 46.4
+    }
+  ]
+}

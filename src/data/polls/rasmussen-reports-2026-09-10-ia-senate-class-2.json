@@ -1,0 +1,21 @@
+{
+  "id": "rasmussen-reports-2026-09-10-ia-senate-class-2",
+  "raceId": "2026-ia-senate-class-2",
+  "pollster": "Rasmussen Reports",
+  "startDate": "2026-09-08",
+  "endDate": "2026-09-10",
+  "sampleSize": 1031,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/09/11/Rasmussen-Reports-Iowa",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ia-senate-josh-turek",
+      "percent": 45
+    },
+    {
+      "candidateId": "ia-senate-ashley-hinson",
+      "percent": 40
+    }
+  ]
+}

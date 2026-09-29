@@ -1,0 +1,29 @@
+{
+  "id": "alaska-survey-research-2026-05-17-ak-senate-class-2",
+  "raceId": "2026-ak-senate-class-2",
+  "pollster": "Alaska Survey Research",
+  "startDate": "2026-05-14",
+  "endDate": "2026-05-17",
+  "sampleSize": 1401,
+  "population": "LV",
+  "url": "https://x.com/The_Real_ASR/status/2059340687485935815",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ak-senate-dan-sullivan",
+      "percent": 43.8
+    },
+    {
+      "candidateId": "ak-senate-mary-peltola",
+      "percent": 48.4
+    },
+    {
+      "candidateId": "ak-senate-dustin-t-darden",
+      "percent": 5.1
+    },
+    {
+      "candidateId": "ak-senate-gerald-l-heikes",
+      "percent": 2.7
+    }
+  ]
+}

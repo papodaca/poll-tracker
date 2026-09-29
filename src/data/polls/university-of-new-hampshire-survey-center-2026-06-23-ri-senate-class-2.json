@@ -1,0 +1,21 @@
+{
+  "id": "university-of-new-hampshire-survey-center-2026-06-23-ri-senate-class-2",
+  "raceId": "2026-ri-senate-class-2",
+  "pollster": "University of New Hampshire Survey Center",
+  "startDate": "2026-06-18",
+  "endDate": "2026-06-23",
+  "sampleSize": 664,
+  "population": "LV",
+  "url": "https://scholars.unh.edu/survey_center_polls/971/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ri-senate-jack-reed",
+      "percent": 52
+    },
+    {
+      "candidateId": "ri-senate-ray-mckay",
+      "percent": 35
+    }
+  ]
+}

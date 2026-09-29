@@ -1,0 +1,21 @@
+{
+  "id": "pollfinity-2026-06-14-ny-governor-2",
+  "raceId": "2026-ny-governor",
+  "pollster": "Pollfinity",
+  "startDate": "2026-06-11",
+  "endDate": "2026-06-14",
+  "sampleSize": 229,
+  "population": "LV",
+  "url": "https://pollfinity.com/polls/ny-governor-2026",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ny-governor-bruce-blakeman",
+      "percent": 40
+    },
+    {
+      "candidateId": "ny-governor-kathy-hochul",
+      "percent": 50
+    }
+  ]
+}

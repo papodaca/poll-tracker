@@ -1,0 +1,25 @@
+{
+  "id": "schoen-cooperman-research-2025-10-14-mi-governor-2",
+  "raceId": "2026-mi-governor",
+  "pollster": "Schoen Cooperman Research",
+  "startDate": "2025-10-09",
+  "endDate": "2025-10-14",
+  "sampleSize": 600,
+  "population": "LV",
+  "url": "https://www.politico.com/newsletters/playbook/2025/10/24/detroits-mayor-diagnoses-the-problem-for-democrats-00621347",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-governor-john-james",
+      "percent": 29
+    },
+    {
+      "candidateId": "mi-governor-jocelyn-benson",
+      "percent": 30
+    },
+    {
+      "candidateId": "mi-governor-mike-duggan",
+      "percent": 26
+    }
+  ]
+}

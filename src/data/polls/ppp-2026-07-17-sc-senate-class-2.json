@@ -1,0 +1,22 @@
+{
+  "id": "ppp-2026-07-17-sc-senate-class-2",
+  "raceId": "2026-sc-senate-class-2",
+  "pollster": "PPP",
+  "sponsor": "Dem",
+  "startDate": "2026-07-16",
+  "endDate": "2026-07-17",
+  "sampleSize": 595,
+  "population": "V",
+  "url": "https://x.com/IAmNickReynolds/status/2079966290341445773",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "sc-senate-annie-andrews",
+      "percent": 42
+    },
+    {
+      "candidateId": "sc-senate-russell-fry",
+      "percent": 39
+    }
+  ]
+}

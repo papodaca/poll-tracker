@@ -1,0 +1,22 @@
+{
+  "id": "glengariff-group-the-detroit-news-2026-09-03-mi-governor",
+  "raceId": "2026-mi-governor",
+  "pollster": "Glengariff Group / The Detroit News",
+  "sponsor": "WDIV-TV",
+  "startDate": "2026-08-31",
+  "endDate": "2026-09-03",
+  "sampleSize": 600,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/09/08/Glengariff-Group/The-Detroit-News/WDIV-TV-Michigan-2026-08-31-2026-09-03",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-governor-john-james",
+      "percent": 39.8
+    },
+    {
+      "candidateId": "mi-governor-jocelyn-benson",
+      "percent": 42.4
+    }
+  ]
+}

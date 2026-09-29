@@ -1,0 +1,22 @@
+{
+  "id": "siena-research-institute-the-new-york-times-2026-08-21-pa-governor",
+  "raceId": "2026-pa-governor",
+  "pollster": "Siena Research Institute / The New York Times",
+  "sponsor": "The Philadelphia Inquirer",
+  "startDate": "2026-08-17",
+  "endDate": "2026-08-21",
+  "sampleSize": 760,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/08/25/Siena-Research-Institute/The-New-York-Times/The-Philadelphia-Inquirer-Pennsylvania-2026-08-17-2026-08-21",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "pa-governor-josh-shapiro",
+      "percent": 55
+    },
+    {
+      "candidateId": "pa-governor-stacy-garrity",
+      "percent": 39
+    }
+  ]
+}

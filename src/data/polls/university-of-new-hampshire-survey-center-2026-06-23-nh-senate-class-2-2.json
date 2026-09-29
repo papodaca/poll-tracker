@@ -1,0 +1,21 @@
+{
+  "id": "university-of-new-hampshire-survey-center-2026-06-23-nh-senate-class-2-2",
+  "raceId": "2026-nh-senate-class-2",
+  "pollster": "University of New Hampshire Survey Center",
+  "startDate": "2026-06-18",
+  "endDate": "2026-06-23",
+  "sampleSize": 2232,
+  "population": "LV",
+  "url": "https://scholars.unh.edu/survey_center_polls/974/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nh-senate-chris-pappas",
+      "percent": 52
+    },
+    {
+      "candidateId": "nh-senate-scott-brown",
+      "percent": 38
+    }
+  ]
+}

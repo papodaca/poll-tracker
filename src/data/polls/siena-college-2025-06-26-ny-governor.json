@@ -1,0 +1,21 @@
+{
+  "id": "siena-college-2025-06-26-ny-governor",
+  "raceId": "2026-ny-governor",
+  "pollster": "Siena College",
+  "startDate": "2025-06-23",
+  "endDate": "2025-06-26",
+  "sampleSize": 800,
+  "population": "RV",
+  "url": "https://data.ddhq.io/polls/2025/07/01/Siena College-New York",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ny-governor-kathy-hochul",
+      "percent": 44
+    },
+    {
+      "candidateId": "ny-governor-bruce-blakeman",
+      "percent": 19
+    }
+  ]
+}

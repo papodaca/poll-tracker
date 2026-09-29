@@ -1,0 +1,22 @@
+{
+  "id": "siena-research-institute-2026-09-22-nh-senate-class-2",
+  "raceId": "2026-nh-senate-class-2",
+  "pollster": "Siena Research Institute",
+  "sponsor": "The New York Times",
+  "startDate": "2026-09-15",
+  "endDate": "2026-09-22",
+  "sampleSize": 605,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/09/24/Siena-Research-Institute/The-New-York-Times-New-Hampshire-2026-09-15-2026-09-22",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nh-senate-chris-pappas",
+      "percent": 48
+    },
+    {
+      "candidateId": "nh-senate-john-sununu",
+      "percent": 44
+    }
+  ]
+}

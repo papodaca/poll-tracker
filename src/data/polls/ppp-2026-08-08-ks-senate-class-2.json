@@ -1,0 +1,22 @@
+{
+  "id": "ppp-2026-08-08-ks-senate-class-2",
+  "raceId": "2026-ks-senate-class-2",
+  "pollster": "PPP",
+  "sponsor": "Dem",
+  "startDate": "2026-08-07",
+  "endDate": "2026-08-08",
+  "sampleSize": 569,
+  "population": "V",
+  "url": "https://www.politico.com/newsletters/playbook/2026/08/12/newsoms-swing-and-miss-state-tour-01035105",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ks-senate-adam-hamilton",
+      "percent": 45
+    },
+    {
+      "candidateId": "ks-senate-roger-marshall",
+      "percent": 46
+    }
+  ]
+}

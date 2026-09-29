@@ -1,0 +1,21 @@
+{
+  "id": "public-opinion-strategies-2026-09-14-pa-house-1",
+  "raceId": "2026-pa-house-1",
+  "pollster": "Public Opinion Strategies",
+  "startDate": "2026-09-11",
+  "endDate": "2026-09-14",
+  "sampleSize": 400,
+  "population": "RV",
+  "url": "https://x.com/lisakashinsky/status/2100574733318193390?s=20",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "pa-house-1-bob-harvie",
+      "percent": 42
+    },
+    {
+      "candidateId": "pa-house-1-brian-fitzpatrick",
+      "percent": 51
+    }
+  ]
+}

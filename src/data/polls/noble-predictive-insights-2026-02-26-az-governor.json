@@ -1,0 +1,21 @@
+{
+  "id": "noble-predictive-insights-2026-02-26-az-governor",
+  "raceId": "2026-az-governor",
+  "pollster": "Noble Predictive Insights",
+  "startDate": "2026-02-23",
+  "endDate": "2026-02-26",
+  "sampleSize": 1023,
+  "population": "RV",
+  "url": "https://data.ddhq.io/polls/2026/03/04/Noble-Predictive-Insights-Arizona",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "az-governor-katie-hobbs",
+      "percent": 42
+    },
+    {
+      "candidateId": "az-governor-andy-biggs",
+      "percent": 37
+    }
+  ]
+}

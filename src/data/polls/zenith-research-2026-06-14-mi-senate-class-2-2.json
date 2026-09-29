@@ -1,0 +1,22 @@
+{
+  "id": "zenith-research-2026-06-14-mi-senate-class-2-2",
+  "raceId": "2026-mi-senate-class-2",
+  "pollster": "Zenith Research",
+  "sponsor": "Common Defense (hybrid PAC)",
+  "startDate": "2026-06-11",
+  "endDate": "2026-06-14",
+  "sampleSize": 602,
+  "population": "LV",
+  "url": "https://x.com/admcrlsn/status/2067419019544555546?s=20",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-senate-mallory-mcmorrow",
+      "percent": 44
+    },
+    {
+      "candidateId": "mi-senate-mike-rogers",
+      "percent": 42
+    }
+  ]
+}

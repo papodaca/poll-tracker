@@ -1,0 +1,21 @@
+{
+  "id": "saint-anselm-college-survey-center-2026-03-18-nh-senate-class-2",
+  "raceId": "2026-nh-senate-class-2",
+  "pollster": "Saint Anselm College Survey Center",
+  "startDate": "2026-03-16",
+  "endDate": "2026-03-18",
+  "sampleSize": 1491,
+  "population": "RV",
+  "url": "https://data.ddhq.io/polls/2026/03/23/Saint-Anselm-College-Survey-Center-New-Hampshire",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nh-senate-chris-pappas",
+      "percent": 46
+    },
+    {
+      "candidateId": "nh-senate-john-sununu",
+      "percent": 43
+    }
+  ]
+}

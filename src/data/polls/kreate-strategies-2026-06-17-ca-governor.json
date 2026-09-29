@@ -1,0 +1,21 @@
+{
+  "id": "kreate-strategies-2026-06-17-ca-governor",
+  "raceId": "2026-ca-governor",
+  "pollster": "Kreate Strategies",
+  "startDate": "2026-06-13",
+  "endDate": "2026-06-17",
+  "sampleSize": 900,
+  "population": "LV",
+  "url": "https://kstrat.net/press/california-2026-governor-becerra-leads-hilton-june",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ca-governor-xavier-becerra",
+      "percent": 58
+    },
+    {
+      "candidateId": "ca-governor-steve-hilton",
+      "percent": 33
+    }
+  ]
+}

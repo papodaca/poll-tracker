@@ -1,0 +1,21 @@
+{
+  "id": "university-of-new-hampshire-survey-center-2025-09-23-nh-house-2",
+  "raceId": "2026-nh-house-2",
+  "pollster": "University of New Hampshire Survey Center",
+  "startDate": "2025-09-17",
+  "endDate": "2025-09-23",
+  "sampleSize": 508,
+  "population": "LV",
+  "url": "https://scholars.unh.edu/survey_center_polls/888/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nh-house-2-maggie-goodlander",
+      "percent": 51
+    },
+    {
+      "candidateId": "nh-house-2-lily-tang-williams",
+      "percent": 39
+    }
+  ]
+}

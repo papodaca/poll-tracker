@@ -1,0 +1,22 @@
+{
+  "id": "yougov-2026-04-14-oh-senate-special",
+  "raceId": "2026-oh-senate-special",
+  "pollster": "YouGov",
+  "sponsor": "Bowling Green State University Democracy and Public Policy Research Network",
+  "startDate": "2026-04-07",
+  "endDate": "2026-04-14",
+  "sampleSize": 1000,
+  "population": "RV",
+  "url": "https://data.ddhq.io/polls/2026/04/20/Bowling-Green-State-University-Democracy-and-Public-Policy-Research-Network/YouGov-Ohio",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "oh-senate-sherrod-brown",
+      "percent": 47
+    },
+    {
+      "candidateId": "oh-senate-jon-husted",
+      "percent": 50
+    }
+  ]
+}

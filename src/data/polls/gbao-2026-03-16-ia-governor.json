@@ -1,0 +1,22 @@
+{
+  "id": "gbao-2026-03-16-ia-governor",
+  "raceId": "2026-ia-governor",
+  "pollster": "GBAO",
+  "sponsor": "Moderate Democrats PAC (hybrid PAC)",
+  "startDate": "2026-03-10",
+  "endDate": "2026-03-16",
+  "sampleSize": 1200,
+  "population": "LV",
+  "url": "https://www.politico.com/live-updates/2026/04/13/congress/dems-lead-iowa-gov-race-in-poll-00868698",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ia-governor-randy-feenstra",
+      "percent": 42
+    },
+    {
+      "candidateId": "ia-governor-rob-sand",
+      "percent": 50
+    }
+  ]
+}

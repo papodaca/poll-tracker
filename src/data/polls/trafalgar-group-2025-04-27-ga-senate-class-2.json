@@ -1,0 +1,21 @@
+{
+  "id": "trafalgar-group-2025-04-27-ga-senate-class-2",
+  "raceId": "2026-ga-senate-class-2",
+  "pollster": "Trafalgar Group",
+  "startDate": "2025-04-24",
+  "endDate": "2025-04-27",
+  "sampleSize": 1426,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2025/07/09/Trafalgar Group-Georgia",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ga-senate-mike-collins",
+      "percent": 42.8
+    },
+    {
+      "candidateId": "ga-senate-jon-ossoff",
+      "percent": 47.5
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "cole-hargrave-snodgrass-and-associates-2026-08-06-ok-senate-class-2",
+  "raceId": "2026-ok-senate-class-2",
+  "pollster": "Cole Hargrave Snodgrass & Associates",
+  "startDate": "2026-08-03",
+  "endDate": "2026-08-06",
+  "sampleSize": 250,
+  "population": "RV",
+  "url": "https://chs-inc.com/general-election-rep/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ok-senate-n-kiyla-jasmine-thomas",
+      "percent": 25
+    },
+    {
+      "candidateId": "ok-senate-kevin-hern",
+      "percent": 49
+    },
+    {
+      "candidateId": "ok-senate-sevier-white",
+      "percent": 3
+    },
+    {
+      "candidateId": "ok-senate-curtis-stinnett",
+      "percent": 4
+    },
+    {
+      "candidateId": "ok-senate-ron-meinhardt",
+      "percent": 1
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "overton-insights-2026-08-26-tx-governor",
+  "raceId": "2026-tx-governor",
+  "pollster": "Overton Insights",
+  "sponsor": "Texas Public Policy Foundation",
+  "startDate": "2026-08-24",
+  "endDate": "2026-08-26",
+  "sampleSize": 1167,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/08/31/Overton-Insights-Texas",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-governor-gina-hinojosa",
+      "percent": 45.8
+    },
+    {
+      "candidateId": "tx-governor-greg-abbott",
+      "percent": 46.9
+    }
+  ]
+}

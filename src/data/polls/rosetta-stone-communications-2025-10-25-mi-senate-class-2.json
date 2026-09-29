@@ -1,0 +1,21 @@
+{
+  "id": "rosetta-stone-communications-2025-10-25-mi-senate-class-2",
+  "raceId": "2026-mi-senate-class-2",
+  "pollster": "Rosetta Stone Communications",
+  "startDate": "2025-10-23",
+  "endDate": "2025-10-25",
+  "sampleSize": 637,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2025/11/07/Rosetta Stone Communications-Michigan",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-senate-abdul-el-sayed",
+      "percent": 31
+    },
+    {
+      "candidateId": "mi-senate-mike-rogers",
+      "percent": 45
+    }
+  ]
+}

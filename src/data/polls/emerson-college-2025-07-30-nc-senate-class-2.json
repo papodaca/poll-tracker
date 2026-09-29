@@ -1,0 +1,21 @@
+{
+  "id": "emerson-college-2025-07-30-nc-senate-class-2",
+  "raceId": "2026-nc-senate-class-2",
+  "pollster": "Emerson College",
+  "startDate": "2025-07-28",
+  "endDate": "2025-07-30",
+  "sampleSize": 1000,
+  "population": "RV",
+  "url": "https://data.ddhq.io/polls/2025/08/01/Emerson College-North Carolina",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nc-senate-michael-whatley",
+      "percent": 41.4
+    },
+    {
+      "candidateId": "nc-senate-roy-cooper",
+      "percent": 46.7
+    }
+  ]
+}

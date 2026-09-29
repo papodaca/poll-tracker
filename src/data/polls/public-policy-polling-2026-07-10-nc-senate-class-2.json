@@ -1,0 +1,21 @@
+{
+  "id": "public-policy-polling-2026-07-10-nc-senate-class-2",
+  "raceId": "2026-nc-senate-class-2",
+  "pollster": "Public Policy Polling",
+  "startDate": "2026-07-09",
+  "endDate": "2026-07-10",
+  "sampleSize": 759,
+  "population": "V",
+  "url": "https://www.publicpolicypolling.com/polls/cooper-leads-but-whatley-has-a-path/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nc-senate-roy-cooper",
+      "percent": 48
+    },
+    {
+      "candidateId": "nc-senate-michael-whatley",
+      "percent": 44
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "dhm-research-2026-09-09-or-governor",
+  "raceId": "2026-or-governor",
+  "pollster": "DHM Research",
+  "sponsor": "Grow Oregon",
+  "startDate": "2026-09-03",
+  "endDate": "2026-09-09",
+  "sampleSize": 600,
+  "population": "LV",
+  "url": "https://www.oregonjournalismproject.org/new-poll-shows-drazan-with-slight-lead-in-governors-race",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "or-governor-christine-drazan",
+      "percent": 45
+    },
+    {
+      "candidateId": "or-governor-tina-kotek",
+      "percent": 43
+    },
+    {
+      "candidateId": "or-governor-brett-smith",
+      "percent": 4
+    }
+  ]
+}

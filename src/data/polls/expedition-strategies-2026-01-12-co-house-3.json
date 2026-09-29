@@ -1,0 +1,21 @@
+{
+  "id": "expedition-strategies-2026-01-12-co-house-3",
+  "raceId": "2026-co-house-3",
+  "pollster": "Expedition Strategies",
+  "startDate": "2026-01-08",
+  "endDate": "2026-01-12",
+  "sampleSize": 400,
+  "population": "LV",
+  "url": "https://www.politico.com/f/?id=0000019b-dcc2-d22e-a1db-dff7de8e0000",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "co-house-3-alex-kelloff",
+      "percent": 39
+    },
+    {
+      "candidateId": "co-house-3-jeff-hurd",
+      "percent": 48
+    }
+  ]
+}

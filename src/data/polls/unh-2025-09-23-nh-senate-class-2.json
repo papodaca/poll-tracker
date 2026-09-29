@@ -1,0 +1,21 @@
+{
+  "id": "unh-2025-09-23-nh-senate-class-2",
+  "raceId": "2026-nh-senate-class-2",
+  "pollster": "UNH",
+  "startDate": "2025-09-17",
+  "endDate": "2025-09-23",
+  "sampleSize": 1235,
+  "population": "LV",
+  "url": "https://scholars.unh.edu/cgi/viewcontent.cgi?article=1887&context=survey_center_polls",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nh-senate-chris-pappas",
+      "percent": 52
+    },
+    {
+      "candidateId": "nh-senate-scott-brown",
+      "percent": 37
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "global-strategy-group-2026-04-28-ia-governor",
+  "raceId": "2026-ia-governor",
+  "pollster": "Global Strategy Group",
+  "sponsor": "Rob Sand",
+  "startDate": "2026-04-23",
+  "endDate": "2026-04-28",
+  "sampleSize": 500,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/06/09/Global-Strategy-Group-Iowa",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ia-governor-zach-lahn",
+      "percent": 41
+    },
+    {
+      "candidateId": "ia-governor-rob-sand",
+      "percent": 50
+    }
+  ]
+}

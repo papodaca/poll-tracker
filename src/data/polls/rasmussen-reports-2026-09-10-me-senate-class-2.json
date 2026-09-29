@@ -1,0 +1,21 @@
+{
+  "id": "rasmussen-reports-2026-09-10-me-senate-class-2",
+  "raceId": "2026-me-senate-class-2",
+  "pollster": "Rasmussen Reports",
+  "startDate": "2026-09-08",
+  "endDate": "2026-09-10",
+  "sampleSize": 1033,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/09/11/Rasmussen-Reports-Maine",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "me-senate-troy-jackson",
+      "percent": 46
+    },
+    {
+      "candidateId": "me-senate-susan-collins",
+      "percent": 45
+    }
+  ]
+}

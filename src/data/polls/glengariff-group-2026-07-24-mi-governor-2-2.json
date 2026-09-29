@@ -1,0 +1,22 @@
+{
+  "id": "glengariff-group-2026-07-24-mi-governor-2-2",
+  "raceId": "2026-mi-governor",
+  "pollster": "Glengariff Group",
+  "sponsor": "Michigan Education Association / Business Leaders For Michigan",
+  "startDate": "2026-07-22",
+  "endDate": "2026-07-24",
+  "sampleSize": 600,
+  "population": "LV",
+  "url": "https://mea.org/latest-statewide-poll-7-2026/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-governor-perry-johnson",
+      "percent": 40.3
+    },
+    {
+      "candidateId": "mi-governor-chris-swanson",
+      "percent": 43.5
+    }
+  ]
+}

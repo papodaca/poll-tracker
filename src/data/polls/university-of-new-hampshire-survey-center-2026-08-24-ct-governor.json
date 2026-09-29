@@ -1,0 +1,21 @@
+{
+  "id": "university-of-new-hampshire-survey-center-2026-08-24-ct-governor",
+  "raceId": "2026-ct-governor",
+  "pollster": "University of New Hampshire Survey Center",
+  "startDate": "2026-08-20",
+  "endDate": "2026-08-24",
+  "sampleSize": 809,
+  "population": "LV",
+  "url": "https://scholars.unh.edu/survey_center_polls/994/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ct-governor-ryan-fazio",
+      "percent": 37
+    },
+    {
+      "candidateId": "ct-governor-ned-lamont",
+      "percent": 52
+    }
+  ]
+}

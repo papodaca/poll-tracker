@@ -1,0 +1,22 @@
+{
+  "id": "peak-insights-2026-06-27-nh-senate-class-2",
+  "raceId": "2026-nh-senate-class-2",
+  "pollster": "Peak Insights",
+  "sponsor": "NRSC",
+  "startDate": "2026-06-24",
+  "endDate": "2026-06-27",
+  "sampleSize": 500,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/07/10/Peak-Insights/NRSC-New-Hampshire-2026-06-24-2026-06-27",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nh-senate-john-sununu",
+      "percent": 42
+    },
+    {
+      "candidateId": "nh-senate-chris-pappas",
+      "percent": 43
+    }
+  ]
+}

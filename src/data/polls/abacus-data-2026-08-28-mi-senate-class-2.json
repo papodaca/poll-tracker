@@ -1,0 +1,21 @@
+{
+  "id": "abacus-data-2026-08-28-mi-senate-class-2",
+  "raceId": "2026-mi-senate-class-2",
+  "pollster": "Abacus Data",
+  "startDate": "2026-08-26",
+  "endDate": "2026-08-28",
+  "sampleSize": 445,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/09/02/Abacus-Data-Michigan",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-senate-abdul-el-sayed",
+      "percent": 48
+    },
+    {
+      "candidateId": "mi-senate-mike-rogers",
+      "percent": 41
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "lake-research-partners-2026-02-11-ak-governor",
+  "raceId": "2026-ak-governor",
+  "pollster": "Lake Research Partners",
+  "startDate": "2026-02-05",
+  "endDate": "2026-02-11",
+  "sampleSize": 600,
+  "population": "LV",
+  "url": "https://x.com/TomBegich4AK/status/2024967609838436558?s=20",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ak-governor-tom-begich",
+      "percent": 38
+    },
+    {
+      "candidateId": "ak-governor-dave-bronson",
+      "percent": 13
+    },
+    {
+      "candidateId": "ak-governor-click-bishop",
+      "percent": 8
+    },
+    {
+      "candidateId": "ak-governor-bernadette-wilson",
+      "percent": 16
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "fox-news-beacon-2026-06-01-oh-senate-special",
+  "raceId": "2026-oh-senate-special",
+  "pollster": "Fox News/Beacon",
+  "startDate": "2026-05-28",
+  "endDate": "2026-06-01",
+  "sampleSize": 1015,
+  "population": "RV",
+  "url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/06/fox_may-28-june-1-2026_complete_ohio_topline_june-3-release.pdf",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "oh-senate-sherrod-brown",
+      "percent": 53
+    },
+    {
+      "candidateId": "oh-senate-jon-husted",
+      "percent": 45
+    }
+  ]
+}

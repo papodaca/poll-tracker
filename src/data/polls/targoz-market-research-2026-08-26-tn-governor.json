@@ -1,0 +1,22 @@
+{
+  "id": "targoz-market-research-2026-08-26-tn-governor",
+  "raceId": "2026-tn-governor",
+  "pollster": "Targoz Market Research",
+  "sponsor": "Beacon Center of Tennessee",
+  "startDate": "2026-08-15",
+  "endDate": "2026-08-26",
+  "sampleSize": 601,
+  "population": "LV",
+  "url": "https://tennsight.com/polls/august-2026/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tn-governor-marsha-blackburn",
+      "percent": 55
+    },
+    {
+      "candidateId": "tn-governor-jerri-green",
+      "percent": 34
+    }
+  ]
+}

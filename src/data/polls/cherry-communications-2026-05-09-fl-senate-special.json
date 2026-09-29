@@ -1,0 +1,22 @@
+{
+  "id": "cherry-communications-2026-05-09-fl-senate-special",
+  "raceId": "2026-fl-senate-special",
+  "pollster": "Cherry Communications",
+  "sponsor": "Florida Chamber of Commerce",
+  "startDate": "2026-05-01",
+  "endDate": "2026-05-09",
+  "sampleSize": 604,
+  "population": "LV",
+  "url": "https://www.flchamber.com/new-florida-chamber-statewide-poll-shows-ashley-moody-byron-donalds-leading-potential-democratic-opponents-in-november-ballot-test/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-senate-alexander-vindman",
+      "percent": 40
+    },
+    {
+      "candidateId": "fl-senate-ashley-moody",
+      "percent": 48
+    }
+  ]
+}

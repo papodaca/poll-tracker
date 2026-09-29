@@ -1,0 +1,21 @@
+{
+  "id": "unh-2026-04-20-ri-senate-class-2",
+  "raceId": "2026-ri-senate-class-2",
+  "pollster": "UNH",
+  "startDate": "2026-04-16",
+  "endDate": "2026-04-20",
+  "sampleSize": 556,
+  "population": "LV",
+  "url": "https://scholars.unh.edu/cgi/viewcontent.cgi?article=1945&context=survey_center_polls",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ri-senate-jack-reed",
+      "percent": 52
+    },
+    {
+      "candidateId": "ri-senate-raymond-mckay",
+      "percent": 34
+    }
+  ]
+}

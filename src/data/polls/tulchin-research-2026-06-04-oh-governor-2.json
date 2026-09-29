@@ -1,0 +1,25 @@
+{
+  "id": "tulchin-research-2026-06-04-oh-governor-2",
+  "raceId": "2026-oh-governor",
+  "pollster": "Tulchin Research",
+  "startDate": "2026-06-02",
+  "endDate": "2026-06-04",
+  "sampleSize": 600,
+  "population": "LV",
+  "url": "https://x.com/AndrewJTobias/status/2067239157999567347?s=20",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "oh-governor-vivek-ramaswamy",
+      "percent": 44
+    },
+    {
+      "candidateId": "oh-governor-amy-acton",
+      "percent": 47
+    },
+    {
+      "candidateId": "oh-governor-don-kissick",
+      "percent": 4
+    }
+  ]
+}

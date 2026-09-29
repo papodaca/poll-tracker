@@ -1,0 +1,22 @@
+{
+  "id": "change-res-2026-09-27-fl-senate-special",
+  "raceId": "2026-fl-senate-special",
+  "pollster": "Change Res.",
+  "sponsor": "Dem",
+  "startDate": "2026-09-25",
+  "endDate": "2026-09-27",
+  "sampleSize": 1063,
+  "population": "LV",
+  "url": "https://changeresearch.com/research/2026/2026-09-28-florida-aapor-methodology-statement",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-senate-angie-nixon",
+      "percent": 47
+    },
+    {
+      "candidateId": "fl-senate-ashley-moody",
+      "percent": 48
+    }
+  ]
+}

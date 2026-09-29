@@ -1,0 +1,21 @@
+{
+  "id": "global-strategy-group-2026-05-21-fl-senate-special",
+  "raceId": "2026-fl-senate-special",
+  "pollster": "Global Strategy Group",
+  "startDate": "2026-05-18",
+  "endDate": "2026-05-21",
+  "sampleSize": 1000,
+  "population": "LV",
+  "url": "https://floridapolitics.com/archives/798776-alex-vindman-campaign-polling-shows-him-within-striking-distance-of-ashley-moody/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-senate-alexander-vindman",
+      "percent": 43
+    },
+    {
+      "candidateId": "fl-senate-ashley-moody",
+      "percent": 46
+    }
+  ]
+}

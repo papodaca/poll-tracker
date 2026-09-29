@@ -1,0 +1,19 @@
+{
+  "id": "grassroots-tar-2026-09-17-ca-house-40",
+  "raceId": "2026-ca-house-40",
+  "pollster": "Grassroots Tar.",
+  "startDate": "2026-09-17",
+  "endDate": "2026-09-17",
+  "url": "https://www.politico.com/newsletters/california-playbook/2026/09/17/paramounts-nashville-overture-01081617",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ca-house-40-esther-kim-varet",
+      "percent": 34
+    },
+    {
+      "candidateId": "ca-house-40-young-kim",
+      "percent": 43
+    }
+  ]
+}

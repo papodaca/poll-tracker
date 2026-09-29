@@ -1,0 +1,26 @@
+{
+  "id": "the-bullfinch-group-2026-07-16-mt-senate-class-2",
+  "raceId": "2026-mt-senate-class-2",
+  "pollster": "The Bullfinch Group",
+  "sponsor": "Independent Center Voice",
+  "startDate": "2026-07-13",
+  "endDate": "2026-07-16",
+  "sampleSize": 793,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/07/28/The-Bullfinch-Group/Independent-Center-Voice-Montana-2026-07-13-2026-07-16",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mt-senate-kurt-alme",
+      "percent": 36
+    },
+    {
+      "candidateId": "mt-senate-seth-bodnar",
+      "percent": 24
+    },
+    {
+      "candidateId": "mt-senate-alani-bankhead",
+      "percent": 22
+    }
+  ]
+}

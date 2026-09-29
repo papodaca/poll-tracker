@@ -1,0 +1,22 @@
+{
+  "id": "yougov-2026-06-12-tx-senate-class-2",
+  "raceId": "2026-tx-senate-class-2",
+  "pollster": "YouGov",
+  "sponsor": "Texas Politics Project at the University of Texas at Austin",
+  "startDate": "2026-06-05",
+  "endDate": "2026-06-12",
+  "sampleSize": 1200,
+  "population": "RV",
+  "url": "https://data.ddhq.io/polls/2026/06/23/Texas-Politics-Project-at-the-University-of-Texas-at-Austin/YouGov-Texas",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-senate-james-talarico",
+      "percent": 42
+    },
+    {
+      "candidateId": "tx-senate-ken-paxton",
+      "percent": 43
+    }
+  ]
+}

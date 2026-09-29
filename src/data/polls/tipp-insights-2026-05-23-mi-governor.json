@@ -1,0 +1,22 @@
+{
+  "id": "tipp-insights-2026-05-23-mi-governor",
+  "raceId": "2026-mi-governor",
+  "pollster": "TIPP Insights",
+  "sponsor": "League of American Workers",
+  "startDate": "2026-05-20",
+  "endDate": "2026-05-23",
+  "sampleSize": 1163,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/06/01/TIPP-Insights/League-of-American-Workers-Michigan-2026-05-20-2026-05-23",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-governor-jocelyn-benson",
+      "percent": 49
+    },
+    {
+      "candidateId": "mi-governor-john-james",
+      "percent": 38
+    }
+  ]
+}

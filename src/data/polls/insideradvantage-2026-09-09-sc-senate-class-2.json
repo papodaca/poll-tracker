@@ -1,0 +1,21 @@
+{
+  "id": "insideradvantage-2026-09-09-sc-senate-class-2",
+  "raceId": "2026-sc-senate-class-2",
+  "pollster": "InsiderAdvantage",
+  "startDate": "2026-09-08",
+  "endDate": "2026-09-09",
+  "sampleSize": 1200,
+  "population": "LV",
+  "url": "https://insideradvantage.com/top-line-tabs-sc/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "sc-senate-annie-andrews",
+      "percent": 43
+    },
+    {
+      "candidateId": "sc-senate-darline-graham",
+      "percent": 45
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "echelon-insights-2026-04-09-ga-senate-class-2-2",
+  "raceId": "2026-ga-senate-class-2",
+  "pollster": "Echelon Insights",
+  "sponsor": "NetChoice",
+  "startDate": "2026-04-03",
+  "endDate": "2026-04-09",
+  "sampleSize": 407,
+  "population": "LV",
+  "url": "https://netchoice.org/new-72-of-americans-want-regulators-to-focus-on-lowering-prices-ahead-of-midterms-not-punishing-success/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ga-senate-earl-l-buddy-carter",
+      "percent": 43
+    },
+    {
+      "candidateId": "ga-senate-jon-ossoff",
+      "percent": 52
+    }
+  ]
+}

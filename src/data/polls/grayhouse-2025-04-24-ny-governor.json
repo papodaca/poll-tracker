@@ -1,0 +1,21 @@
+{
+  "id": "grayhouse-2025-04-24-ny-governor",
+  "raceId": "2026-ny-governor",
+  "pollster": "GrayHouse",
+  "startDate": "2025-04-22",
+  "endDate": "2025-04-24",
+  "sampleSize": 597,
+  "population": "RV",
+  "url": "https://data.ddhq.io/polls/2025/07/11/GrayHouse-New York",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ny-governor-bruce-blakeman",
+      "percent": 36
+    },
+    {
+      "candidateId": "ny-governor-kathy-hochul",
+      "percent": 44
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "emerson-college-2026-09-16-ks-senate-class-2-2",
+  "raceId": "2026-ks-senate-class-2",
+  "pollster": "Emerson College",
+  "sponsor": "Nexstar",
+  "startDate": "2026-09-15",
+  "endDate": "2026-09-16",
+  "sampleSize": 750,
+  "population": "LV",
+  "url": "https://emersoncollegepolling.com/kansas-2026/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ks-senate-adam-hamilton",
+      "percent": 44.8
+    },
+    {
+      "candidateId": "ks-senate-roger-marshall",
+      "percent": 43.3
+    },
+    {
+      "candidateId": "ks-senate-david-c-graham",
+      "percent": 3.7
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "nextgenp-2025-12-17-az-governor",
+  "raceId": "2026-az-governor",
+  "pollster": "NextGenP",
+  "startDate": "2025-12-15",
+  "endDate": "2025-12-17",
+  "sampleSize": 2725,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2025/12/18/NextGenP-Arizona",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "az-governor-andy-biggs",
+      "percent": 32
+    },
+    {
+      "candidateId": "az-governor-katie-hobbs",
+      "percent": 51
+    }
+  ]
+}

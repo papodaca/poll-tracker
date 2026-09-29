@@ -1,0 +1,21 @@
+{
+  "id": "impact-research-2025-11-23-oh-house-1",
+  "raceId": "2026-oh-house-1",
+  "pollster": "Impact Research",
+  "startDate": "2025-11-18",
+  "endDate": "2025-11-23",
+  "sampleSize": 500,
+  "population": "LV",
+  "url": "https://warrencountypost.com/g/lebanon-oh/n/364195/landsman-leads-republican-initial-polling-20-percent-independent-voters",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "oh-house-1-greg-landsman",
+      "percent": 49
+    },
+    {
+      "candidateId": "oh-house-1-eric-conroy",
+      "percent": 43
+    }
+  ]
+}

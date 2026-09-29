@@ -1,0 +1,21 @@
+{
+  "id": "stetson-university-center-for-public-opinion-research-2026-04-13-fl-senate-special-2",
+  "raceId": "2026-fl-senate-special",
+  "pollster": "Stetson University Center for Public Opinion Research",
+  "startDate": "2026-03-25",
+  "endDate": "2026-04-13",
+  "sampleSize": 414,
+  "population": "LV",
+  "url": "https://www2.stetson.edu/today/2026/04/stetson-poll-republicans-lead-in-florida-2026-races-but-many-voters-still-undecided/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-senate-ashley-moody",
+      "percent": 51
+    },
+    {
+      "candidateId": "fl-senate-angela-nixon",
+      "percent": 38
+    }
+  ]
+}

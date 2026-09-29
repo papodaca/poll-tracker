@@ -1,0 +1,22 @@
+{
+  "id": "epic-mra-2025-11-11-mi-governor",
+  "raceId": "2026-mi-governor",
+  "pollster": "EPIC-MRA",
+  "sponsor": "WJRT ABC12",
+  "startDate": "2025-11-06",
+  "endDate": "2025-11-11",
+  "sampleSize": 600,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2025/11/14/EPIC-MRA-Michigan",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-governor-jocelyn-benson",
+      "percent": 28
+    },
+    {
+      "candidateId": "mi-governor-john-james",
+      "percent": 27
+    }
+  ]
+}

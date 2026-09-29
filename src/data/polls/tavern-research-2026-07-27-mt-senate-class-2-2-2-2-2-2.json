@@ -1,0 +1,29 @@
+{
+  "id": "tavern-research-2026-07-27-mt-senate-class-2-2-2-2-2-2",
+  "raceId": "2026-mt-senate-class-2",
+  "pollster": "Tavern Research",
+  "startDate": "2026-07-23",
+  "endDate": "2026-07-27",
+  "sampleSize": 517,
+  "population": "LV",
+  "url": "https://242750075.fs1.hubspotusercontent-na2.net/hubfs/242750075/Toplines%20-%20Montana%20Senate%20late%20July%2020260723_143910%20(2).pdf",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mt-senate-kurt-alme",
+      "percent": 49
+    },
+    {
+      "candidateId": "mt-senate-seth-bodnar",
+      "percent": 25
+    },
+    {
+      "candidateId": "mt-senate-alani-bankhead",
+      "percent": 24
+    },
+    {
+      "candidateId": "mt-senate-kyle-austin",
+      "percent": 2
+    }
+  ]
+}

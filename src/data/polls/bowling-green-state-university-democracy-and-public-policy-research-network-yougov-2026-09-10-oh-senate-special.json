@@ -1,0 +1,29 @@
+{
+  "id": "bowling-green-state-university-democracy-and-public-policy-research-network-yougov-2026-09-10-oh-senate-special",
+  "raceId": "2026-oh-senate-special",
+  "pollster": "Bowling Green State University Democracy and Public Policy Research Network/YouGov",
+  "startDate": "2026-09-01",
+  "endDate": "2026-09-10",
+  "sampleSize": 1000,
+  "population": "LV",
+  "url": "https://scholarworks.bgsu.edu/cgi/viewcontent.cgi?article=1027&context=depo",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "oh-senate-sherrod-brown",
+      "percent": 48
+    },
+    {
+      "candidateId": "oh-senate-jon-husted",
+      "percent": 45
+    },
+    {
+      "candidateId": "oh-senate-bill-redpath",
+      "percent": 2
+    },
+    {
+      "candidateId": "oh-senate-gregory-levy",
+      "percent": 3
+    }
+  ]
+}

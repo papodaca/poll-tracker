@@ -1,0 +1,21 @@
+{
+  "id": "suffolk-university-2026-09-20-mi-senate-class-2",
+  "raceId": "2026-mi-senate-class-2",
+  "pollster": "Suffolk University",
+  "startDate": "2026-09-16",
+  "endDate": "2026-09-20",
+  "sampleSize": 500,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/09/22/Suffolk-University-Michigan",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-senate-mike-rogers",
+      "percent": 39.6
+    },
+    {
+      "candidateId": "mi-senate-abdul-el-sayed",
+      "percent": 46.8
+    }
+  ]
+}

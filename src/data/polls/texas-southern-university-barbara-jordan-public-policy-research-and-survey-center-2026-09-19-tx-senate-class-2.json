@@ -1,0 +1,25 @@
+{
+  "id": "texas-southern-university-barbara-jordan-public-policy-research-and-survey-center-2026-09-19-tx-senate-class-2",
+  "raceId": "2026-tx-senate-class-2",
+  "pollster": "Texas Southern University Barbara Jordan Public Policy Research and Survey Center",
+  "startDate": "2026-09-15",
+  "endDate": "2026-09-19",
+  "sampleSize": 1800,
+  "population": "LV",
+  "url": "https://www.jordanresearchcenter.org/publications/tsusept2026-txsenate-governor-statewideraces",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-senate-james-talarico",
+      "percent": 47
+    },
+    {
+      "candidateId": "tx-senate-ken-paxton",
+      "percent": 46
+    },
+    {
+      "candidateId": "tx-senate-ted-brown",
+      "percent": 3
+    }
+  ]
+}

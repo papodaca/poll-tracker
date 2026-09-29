@@ -1,0 +1,22 @@
+{
+  "id": "surveyusa-2026-09-20-ca-governor",
+  "raceId": "2026-ca-governor",
+  "pollster": "SurveyUSA",
+  "sponsor": "KGTV (San Diego) / The San Diego Union-Tribune",
+  "startDate": "2026-09-15",
+  "endDate": "2026-09-20",
+  "sampleSize": 742,
+  "population": "LV",
+  "url": "https://www.10news.com/americavotes/poll-xavier-becerra-leads-california-gubernatorial-race-in-statewide-survey",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ca-governor-xavier-becerra",
+      "percent": 55
+    },
+    {
+      "candidateId": "ca-governor-steve-hilton",
+      "percent": 33
+    }
+  ]
+}

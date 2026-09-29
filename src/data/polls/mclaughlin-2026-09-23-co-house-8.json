@@ -1,0 +1,19 @@
+{
+  "id": "mclaughlin-2026-09-23-co-house-8",
+  "raceId": "2026-co-house-8",
+  "pollster": "McLaughlin",
+  "startDate": "2026-09-23",
+  "endDate": "2026-09-23",
+  "url": "https://coloradosun.com/2026/09/23/gabe-evans-manny-rutinel-poll/?utm_campaign=36387909-%5BNJ%5D%202026%20Wake%20Up%20Call&utm_medium=email&_hsenc=p2ANqtz-863sF3g6kvnyZrBlfe48IMG5jQ-uWhXChyZx-ezbIJPK4Q72u2rlcfa28ff9zbedHU1Nc_HcfhJY0YoveJqelg1GFQv_V_TpfcqxV3X3jetLTCJ6s&_hsmi=440470059&utm_content=440470059&utm_source=hs_email",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "co-house-8-manny-rutinel",
+      "percent": 46
+    },
+    {
+      "candidateId": "co-house-8-gabe-evans",
+      "percent": 48
+    }
+  ]
+}

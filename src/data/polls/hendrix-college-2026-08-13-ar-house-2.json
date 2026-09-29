@@ -1,0 +1,22 @@
+{
+  "id": "hendrix-college-2026-08-13-ar-house-2",
+  "raceId": "2026-ar-house-2",
+  "pollster": "Hendrix College",
+  "sponsor": "Talk Business & Politics",
+  "startDate": "2026-08-12",
+  "endDate": "2026-08-13",
+  "sampleSize": 1112,
+  "population": "LV",
+  "url": "https://talkbusiness.net/2026/08/poll-similar-trends-in-cd2-show-tight-race-between-hill-jones/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ar-house-2-chris-jones",
+      "percent": 48
+    },
+    {
+      "candidateId": "ar-house-2-french-hill",
+      "percent": 44
+    }
+  ]
+}

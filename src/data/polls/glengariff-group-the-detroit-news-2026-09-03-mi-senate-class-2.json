@@ -1,0 +1,22 @@
+{
+  "id": "glengariff-group-the-detroit-news-2026-09-03-mi-senate-class-2",
+  "raceId": "2026-mi-senate-class-2",
+  "pollster": "Glengariff Group / The Detroit News",
+  "sponsor": "WDIV-TV",
+  "startDate": "2026-08-31",
+  "endDate": "2026-09-03",
+  "sampleSize": 600,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/09/08/Glengariff-Group/The-Detroit-News/WDIV-TV-Michigan-2026-08-31-2026-09-03",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-senate-mike-rogers",
+      "percent": 42.7
+    },
+    {
+      "candidateId": "mi-senate-abdul-el-sayed",
+      "percent": 40.8
+    }
+  ]
+}

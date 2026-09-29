@@ -1,0 +1,22 @@
+{
+  "id": "surveyusa-2026-09-13-ne-house-2",
+  "raceId": "2026-ne-house-2",
+  "pollster": "SurveyUSA",
+  "sponsor": "Grant Forbes, LLC",
+  "startDate": "2026-09-08",
+  "endDate": "2026-09-13",
+  "sampleSize": 182,
+  "population": "LV",
+  "url": "https://results.surveyusa.com/client/PollReport.aspx?g=d94236a7-5861-4b7f-9d81-d5a81ab786cc",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ne-house-2-denise-powell",
+      "percent": 46
+    },
+    {
+      "candidateId": "ne-house-2-brinker-harding",
+      "percent": 42
+    }
+  ]
+}

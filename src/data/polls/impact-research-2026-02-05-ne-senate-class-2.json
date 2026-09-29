@@ -1,0 +1,21 @@
+{
+  "id": "impact-research-2026-02-05-ne-senate-class-2",
+  "raceId": "2026-ne-senate-class-2",
+  "pollster": "Impact Research",
+  "startDate": "2026-02-02",
+  "endDate": "2026-02-05",
+  "sampleSize": 600,
+  "population": "LV",
+  "url": "https://www.osbornforsenate.com/impactpoll",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ne-senate-dan-osborn",
+      "percent": 47
+    },
+    {
+      "candidateId": "ne-senate-pete-ricketts",
+      "percent": 48
+    }
+  ]
+}

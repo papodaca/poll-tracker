@@ -1,0 +1,30 @@
+{
+  "id": "change-research-2025-07-17-id-senate-class-2",
+  "raceId": "2026-id-senate-class-2",
+  "pollster": "Change Research",
+  "sponsor": "Conservation Voters For Idaho",
+  "startDate": "2025-07-15",
+  "endDate": "2025-07-17",
+  "sampleSize": 1027,
+  "population": "RV",
+  "url": "https://x.com/NenoNicolosio/status/1951255717307965606",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "id-senate-todd-achilles",
+      "percent": 5
+    },
+    {
+      "candidateId": "id-senate-jim-risch",
+      "percent": 41
+    },
+    {
+      "candidateId": "id-senate-david-roth",
+      "percent": 16
+    },
+    {
+      "candidateId": "id-senate-natalie-m-fleming",
+      "percent": 5
+    }
+  ]
+}

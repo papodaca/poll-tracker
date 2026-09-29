@@ -1,0 +1,26 @@
+{
+  "id": "big-data-poll-2026-09-26-tx-senate-class-2-2",
+  "raceId": "2026-tx-senate-class-2",
+  "pollster": "Big Data Poll",
+  "sponsor": "Public Polling Project",
+  "startDate": "2026-09-24",
+  "endDate": "2026-09-26",
+  "sampleSize": 698,
+  "population": "LV",
+  "url": "https://www.bigdatapoll.com/blog/lone-star-state-poll-talarico-paxton-in-close-race-us-senate-in-texas/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-senate-james-talarico",
+      "percent": 46.8
+    },
+    {
+      "candidateId": "tx-senate-ken-paxton",
+      "percent": 44.9
+    },
+    {
+      "candidateId": "tx-senate-ted-brown",
+      "percent": 8.3
+    }
+  ]
+}

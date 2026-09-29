@@ -1,0 +1,22 @@
+{
+  "id": "mdw-communications-2026-04-03-fl-senate-special",
+  "raceId": "2026-fl-senate-special",
+  "pollster": "MDW Communications",
+  "sponsor": "EDGE Communications",
+  "startDate": "2026-03-27",
+  "endDate": "2026-04-03",
+  "sampleSize": 1834,
+  "population": "LV",
+  "url": "https://floridapolitics.com/archives/790357-poll-democrats-gaining-ground-key-races-tighten-in-florida-as-donald-trump-drags-gop/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-senate-alexander-vindman",
+      "percent": 42.2
+    },
+    {
+      "candidateId": "fl-senate-ashley-moody",
+      "percent": 43.4
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "impact-research-2025-12-17-nc-house-11",
+  "raceId": "2026-nc-house-11",
+  "pollster": "Impact Research",
+  "startDate": "2025-12-15",
+  "endDate": "2025-12-17",
+  "sampleSize": 500,
+  "population": "LV",
+  "url": "https://www.newsweek.com/north-carolina-democrat-edges-out-republican-campaign-poll-jamie-ager-11316985",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nc-house-11-jamie-ager",
+      "percent": 45
+    },
+    {
+      "candidateId": "nc-house-11-chuck-edwards",
+      "percent": 44
+    }
+  ]
+}

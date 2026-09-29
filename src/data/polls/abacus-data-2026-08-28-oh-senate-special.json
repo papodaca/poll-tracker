@@ -1,0 +1,21 @@
+{
+  "id": "abacus-data-2026-08-28-oh-senate-special",
+  "raceId": "2026-oh-senate-special",
+  "pollster": "Abacus Data",
+  "startDate": "2026-08-26",
+  "endDate": "2026-08-28",
+  "sampleSize": 432,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/09/02/Abacus-Data-Ohio",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "oh-senate-jon-husted",
+      "percent": 43
+    },
+    {
+      "candidateId": "oh-senate-sherrod-brown",
+      "percent": 53
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "concord-public-opinion-partners-2026-06-02-ga-governor",
+  "raceId": "2026-ga-governor",
+  "pollster": "Concord Public Opinion Partners",
+  "sponsor": "Education Reform Now Advocacy",
+  "startDate": "2026-05-30",
+  "endDate": "2026-06-02",
+  "sampleSize": 510,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/06/16/Concord-Public-Opinion-Partners/Education-Reform-Now-Advocacy-Georgia-2026-05-30-2026-06-02",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ga-governor-rick-jackson",
+      "percent": 38
+    },
+    {
+      "candidateId": "ga-governor-keisha-lance-bottoms",
+      "percent": 53
+    }
+  ]
+}

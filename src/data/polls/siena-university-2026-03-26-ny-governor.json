@@ -1,0 +1,21 @@
+{
+  "id": "siena-university-2026-03-26-ny-governor",
+  "raceId": "2026-ny-governor",
+  "pollster": "Siena University",
+  "startDate": "2026-03-23",
+  "endDate": "2026-03-26",
+  "sampleSize": 804,
+  "population": "RV",
+  "url": "https://sri.siena.edu/2026/03/31/hochul-lead-over-still-largely-unknown-blakeman-drops-7-points-to-47-34-from-51-31-her-favorability-approval-ratings-unchanged-in-last-month/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ny-governor-bruce-blakeman",
+      "percent": 34
+    },
+    {
+      "candidateId": "ny-governor-kathy-hochul",
+      "percent": 47
+    }
+  ]
+}

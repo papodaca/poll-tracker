@@ -1,0 +1,21 @@
+{
+  "id": "co-efficient-2025-10-13-nh-senate-class-2",
+  "raceId": "2026-nh-senate-class-2",
+  "pollster": "co/efficient",
+  "startDate": "2025-10-09",
+  "endDate": "2025-10-13",
+  "sampleSize": 1034,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2025/10/15/co/efficient-New Hampshire",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nh-senate-john-sununu",
+      "percent": 42
+    },
+    {
+      "candidateId": "nh-senate-chris-pappas",
+      "percent": 45
+    }
+  ]
+}

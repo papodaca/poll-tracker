@@ -1,0 +1,26 @@
+{
+  "id": "targoz-market-research-2025-09-18-fl-governor",
+  "raceId": "2026-fl-governor",
+  "pollster": "Targoz Market Research",
+  "sponsor": "The James Madison Institute",
+  "startDate": "2025-09-16",
+  "endDate": "2025-09-18",
+  "sampleSize": 1200,
+  "population": "RV",
+  "url": "https://jamesmadison.org/the-james-madison-institute-releases-latest-jmi-poll-of-florida-voters/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-governor-byron-donalds",
+      "percent": 36
+    },
+    {
+      "candidateId": "fl-governor-david-jolly",
+      "percent": 32
+    },
+    {
+      "candidateId": "fl-governor-jason-pizzo",
+      "percent": 4
+    }
+  ]
+}

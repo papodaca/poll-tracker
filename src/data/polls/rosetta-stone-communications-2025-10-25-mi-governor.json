@@ -1,0 +1,21 @@
+{
+  "id": "rosetta-stone-communications-2025-10-25-mi-governor",
+  "raceId": "2026-mi-governor",
+  "pollster": "Rosetta Stone Communications",
+  "startDate": "2025-10-23",
+  "endDate": "2025-10-25",
+  "sampleSize": 637,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2025/11/07/Rosetta Stone Communications-Michigan",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-governor-john-james",
+      "percent": 39
+    },
+    {
+      "candidateId": "mi-governor-jocelyn-benson",
+      "percent": 34
+    }
+  ]
+}

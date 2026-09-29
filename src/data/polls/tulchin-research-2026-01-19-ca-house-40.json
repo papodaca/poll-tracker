@@ -1,0 +1,21 @@
+{
+  "id": "tulchin-research-2026-01-19-ca-house-40",
+  "raceId": "2026-ca-house-40",
+  "pollster": "Tulchin Research",
+  "startDate": "2026-01-14",
+  "endDate": "2026-01-19",
+  "sampleSize": 800,
+  "population": "LV",
+  "url": "https://drive.google.com/file/d/1er2TfEQFwvfr_zFH3SjAE0dVvdcHjWRj/view",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ca-house-40-esther-kim-varet",
+      "percent": 44
+    },
+    {
+      "candidateId": "ca-house-40-ken-calvert",
+      "percent": 44
+    }
+  ]
+}

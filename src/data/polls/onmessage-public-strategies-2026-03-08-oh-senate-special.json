@@ -1,0 +1,22 @@
+{
+  "id": "onmessage-public-strategies-2026-03-08-oh-senate-special",
+  "raceId": "2026-oh-senate-special",
+  "pollster": "OnMessage Public Strategies",
+  "sponsor": "Insurance Watchdog Coalition",
+  "startDate": "2026-03-03",
+  "endDate": "2026-03-08",
+  "sampleSize": 600,
+  "population": "LV",
+  "url": "https://www.politico.com/newsletters/playbook/2026/03/11/the-white-house-pain-threshold-00822448",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "oh-senate-sherrod-brown",
+      "percent": 47
+    },
+    {
+      "candidateId": "oh-senate-jon-husted",
+      "percent": 45
+    }
+  ]
+}

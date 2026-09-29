@@ -1,0 +1,22 @@
+{
+  "id": "glengariff-group-2026-07-24-mi-senate-class-2",
+  "raceId": "2026-mi-senate-class-2",
+  "pollster": "Glengariff Group",
+  "sponsor": "Michigan Education Association / Business Leaders For Michigan",
+  "startDate": "2026-07-22",
+  "endDate": "2026-07-24",
+  "sampleSize": 600,
+  "population": "LV",
+  "url": "https://mea.org/latest-statewide-poll-7-2026/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-senate-haley-stevens",
+      "percent": 45.5
+    },
+    {
+      "candidateId": "mi-senate-mike-rogers",
+      "percent": 44.7
+    }
+  ]
+}

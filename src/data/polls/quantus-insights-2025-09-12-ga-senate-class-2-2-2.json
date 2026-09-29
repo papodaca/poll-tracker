@@ -1,0 +1,21 @@
+{
+  "id": "quantus-insights-2025-09-12-ga-senate-class-2-2-2",
+  "raceId": "2026-ga-senate-class-2",
+  "pollster": "Quantus Insights",
+  "startDate": "2025-09-09",
+  "endDate": "2025-09-12",
+  "sampleSize": 624,
+  "population": "LV",
+  "url": "https://quantusinsights.org/f/georgia%E2%80%99s-2026-senate-race-is-wide-open#ddfaccf9-bede-412a-8ce9-6f9ddda07554",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ga-senate-jon-ossoff",
+      "percent": 42.1
+    },
+    {
+      "candidateId": "ga-senate-derek-dooley",
+      "percent": 35.4
+    }
+  ]
+}

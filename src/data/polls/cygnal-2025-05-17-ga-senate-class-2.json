@@ -1,0 +1,21 @@
+{
+  "id": "cygnal-2025-05-17-ga-senate-class-2",
+  "raceId": "2026-ga-senate-class-2",
+  "pollster": "Cygnal",
+  "startDate": "2025-05-15",
+  "endDate": "2025-05-17",
+  "sampleSize": 800,
+  "population": "LV",
+  "url": "https://acrobat.adobe.com/id/urn:aaid:sc:US:90ddd7f9-bdbc-46ef-aeb2-c5a88db84a3d",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ga-senate-jon-ossoff",
+      "percent": 46
+    },
+    {
+      "candidateId": "ga-senate-mike-collins",
+      "percent": 43
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "public-policy-polling-2026-04-25-ky-house-6-2",
+  "raceId": "2026-ky-house-6",
+  "pollster": "Public Policy Polling",
+  "startDate": "2026-04-24",
+  "endDate": "2026-04-25",
+  "sampleSize": 675,
+  "population": "RV",
+  "url": "https://www.politico.com/newsletters/playbook-pm/2026/05/12/lawmakers-want-more-answers-on-iran-00917015",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ky-house-6-ralph-alvarado",
+      "percent": 37
+    },
+    {
+      "candidateId": "ky-house-6-cherlynn-stevenson",
+      "percent": 36
+    }
+  ]
+}

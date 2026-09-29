@@ -1,0 +1,22 @@
+{
+  "id": "suffolk-university-2026-06-12-ma-senate-class-2",
+  "raceId": "2026-ma-senate-class-2",
+  "pollster": "Suffolk University",
+  "sponsor": "The Boston Globe",
+  "startDate": "2026-06-08",
+  "endDate": "2026-06-12",
+  "sampleSize": 500,
+  "population": "RV",
+  "url": "https://www.bostonglobe.com/2026/06/16/metro/healey-voter-suffolk-poll-2026-midterm",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ma-senate-john-deaton",
+      "percent": 26.2
+    },
+    {
+      "candidateId": "ma-senate-seth-moulton",
+      "percent": 53.8
+    }
+  ]
+}

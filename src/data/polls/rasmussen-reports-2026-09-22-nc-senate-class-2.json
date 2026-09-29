@@ -1,0 +1,21 @@
+{
+  "id": "rasmussen-reports-2026-09-22-nc-senate-class-2",
+  "raceId": "2026-nc-senate-class-2",
+  "pollster": "Rasmussen Reports",
+  "startDate": "2026-09-22",
+  "endDate": "2026-09-22",
+  "sampleSize": 1047,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/09/24/Rasmussen-Reports-North-Carolina",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nc-senate-michael-whatley",
+      "percent": 41
+    },
+    {
+      "candidateId": "nc-senate-roy-cooper",
+      "percent": 48
+    }
+  ]
+}

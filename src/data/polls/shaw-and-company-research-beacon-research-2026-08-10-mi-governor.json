@@ -1,0 +1,22 @@
+{
+  "id": "shaw-and-company-research-beacon-research-2026-08-10-mi-governor",
+  "raceId": "2026-mi-governor",
+  "pollster": "Shaw & Company Research / Beacon Research",
+  "sponsor": "Fox News",
+  "startDate": "2026-08-06",
+  "endDate": "2026-08-10",
+  "sampleSize": 1006,
+  "population": "RV",
+  "url": "https://data.ddhq.io/polls/2026/08/13/Beacon-Research/Shaw-&-Company-Research/Fox-News-Michigan-2026-08-06-2026-08-10",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-governor-jocelyn-benson",
+      "percent": 52
+    },
+    {
+      "candidateId": "mi-governor-john-james",
+      "percent": 47
+    }
+  ]
+}

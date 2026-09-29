@@ -1,0 +1,21 @@
+{
+  "id": "public-policy-polling-2026-07-07-me-senate-class-2-2-2-2",
+  "raceId": "2026-me-senate-class-2",
+  "pollster": "Public Policy Polling",
+  "startDate": "2026-07-07",
+  "endDate": "2026-07-07",
+  "sampleSize": 785,
+  "population": "LV",
+  "url": "https://www.politico.com/news/2026/07/08/graham-platner-polls-replacements-senate-00990664?nname=playbook-pm&nid=0000015a-dd3e-d536-a37b-dd7fd8af0000&nrid=67f2b64a-7464-4f91-82cd-6bfa9effa8ba",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "me-senate-susan-collins",
+      "percent": 45
+    },
+    {
+      "candidateId": "me-senate-nirav-dinesh-shah",
+      "percent": 45
+    }
+  ]
+}

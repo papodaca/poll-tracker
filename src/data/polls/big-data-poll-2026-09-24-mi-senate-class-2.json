@@ -1,0 +1,22 @@
+{
+  "id": "big-data-poll-2026-09-24-mi-senate-class-2",
+  "raceId": "2026-mi-senate-class-2",
+  "pollster": "Big Data Poll",
+  "sponsor": "Public Polling Project",
+  "startDate": "2026-09-22",
+  "endDate": "2026-09-24",
+  "sampleSize": 678,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/09/26/Big-Data-Poll/Public-Polling-Project-Michigan-2026-09-22-2026-09-24",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-senate-mike-rogers",
+      "percent": 40.5
+    },
+    {
+      "candidateId": "mi-senate-abdul-el-sayed",
+      "percent": 45.9
+    }
+  ]
+}

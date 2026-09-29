@@ -1,0 +1,21 @@
+{
+  "id": "workbench-strategy-2025-12-16-me-senate-class-2-2",
+  "raceId": "2026-me-senate-class-2",
+  "pollster": "Workbench Strategy",
+  "startDate": "2025-12-11",
+  "endDate": "2025-12-16",
+  "sampleSize": 900,
+  "population": "LV",
+  "url": "https://x.com/grahamformaine/status/2011157211050074612",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "me-senate-susan-collins",
+      "percent": 51.4
+    },
+    {
+      "candidateId": "me-senate-janet-t-mills",
+      "percent": 48.6
+    }
+  ]
+}

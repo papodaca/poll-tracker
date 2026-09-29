@@ -1,0 +1,21 @@
+{
+  "id": "marist-university-2026-09-20-ia-governor",
+  "raceId": "2026-ia-governor",
+  "pollster": "Marist University",
+  "startDate": "2026-09-17",
+  "endDate": "2026-09-20",
+  "sampleSize": 1050,
+  "population": "RV",
+  "url": "https://maristpoll.marist.edu/polls/2026-midterm-elections-in-iowa-september-2026/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ia-governor-rob-sand",
+      "percent": 54
+    },
+    {
+      "candidateId": "ia-governor-zach-lahn",
+      "percent": 42
+    }
+  ]
+}

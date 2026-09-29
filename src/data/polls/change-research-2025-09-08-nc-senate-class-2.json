@@ -1,0 +1,22 @@
+{
+  "id": "change-research-2025-09-08-nc-senate-class-2",
+  "raceId": "2026-nc-senate-class-2",
+  "pollster": "Change Research",
+  "sponsor": "Carolina Forward",
+  "startDate": "2025-09-02",
+  "endDate": "2025-09-08",
+  "sampleSize": 855,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2025/09/15/Change Research/Carolina Forward-North Carolina-2025-09-02-2025-09-08",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nc-senate-michael-whatley",
+      "percent": 40
+    },
+    {
+      "candidateId": "nc-senate-roy-cooper",
+      "percent": 47
+    }
+  ]
+}

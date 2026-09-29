@@ -1,0 +1,22 @@
+{
+  "id": "the-new-york-times-siena-university-2026-09-22-me-governor-2",
+  "raceId": "2026-me-governor",
+  "pollster": "The New York Times/Siena University",
+  "sponsor": "Portland Press Herald / Maine Trust for Local News",
+  "startDate": "2026-09-15",
+  "endDate": "2026-09-22",
+  "sampleSize": 619,
+  "population": "LV",
+  "url": "https://www.nytimes.com/interactive/2026/09/25/polls/times-siena-poll-me-crosstabs.html",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "me-governor-bobby-charles",
+      "percent": 39
+    },
+    {
+      "candidateId": "me-governor-hannah-pingree",
+      "percent": 53
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "wedgewood-polls-2026-09-24-ks-senate-class-2",
+  "raceId": "2026-ks-senate-class-2",
+  "pollster": "Wedgewood Polls",
+  "startDate": "2026-09-22",
+  "endDate": "2026-09-24",
+  "sampleSize": 500,
+  "population": "LV",
+  "url": "https://drive.google.com/drive/u/0/folders/1VKLmawSn60cr7L9HCx9mtZDvATC20N5u",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ks-senate-adam-hamilton",
+      "percent": 50
+    },
+    {
+      "candidateId": "ks-senate-roger-marshall",
+      "percent": 48
+    }
+  ]
+}

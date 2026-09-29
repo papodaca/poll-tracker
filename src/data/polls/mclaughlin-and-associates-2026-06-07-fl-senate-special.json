@@ -1,0 +1,22 @@
+{
+  "id": "mclaughlin-and-associates-2026-06-07-fl-senate-special",
+  "raceId": "2026-fl-senate-special",
+  "pollster": "McLaughlin & Associates",
+  "sponsor": "Associated Industries of Florida",
+  "startDate": "2026-06-03",
+  "endDate": "2026-06-07",
+  "sampleSize": 800,
+  "population": "LV",
+  "url": "https://floridapolitics.com/archives/802818-ashley-moody-opens-a-healthy-and-hardened-lead-over-alex-vindman-in-new-aif-senate-poll/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-senate-alexander-vindman",
+      "percent": 40
+    },
+    {
+      "candidateId": "fl-senate-ashley-moody",
+      "percent": 47
+    }
+  ]
+}

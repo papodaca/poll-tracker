@@ -1,0 +1,21 @@
+{
+  "id": "blueprint-polling-2025-10-26-ca-house-48",
+  "raceId": "2026-ca-house-48",
+  "pollster": "Blueprint Polling",
+  "startDate": "2025-10-25",
+  "endDate": "2025-10-26",
+  "sampleSize": 517,
+  "population": "LV",
+  "url": "https://www.politico.com/newsletters/california-playbook/2025/10/31/going-out-with-a-bang-or-a-whimper-00631220",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ca-house-48-ammar-campa-najjar",
+      "percent": 43
+    },
+    {
+      "candidateId": "ca-house-48-darrell-e-issa",
+      "percent": 40
+    }
+  ]
+}

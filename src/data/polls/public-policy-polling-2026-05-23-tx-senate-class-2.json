@@ -1,0 +1,22 @@
+{
+  "id": "public-policy-polling-2026-05-23-tx-senate-class-2",
+  "raceId": "2026-tx-senate-class-2",
+  "pollster": "Public Policy Polling",
+  "sponsor": "Lone Star Rising PAC",
+  "startDate": "2026-05-22",
+  "endDate": "2026-05-23",
+  "sampleSize": 643,
+  "population": "RV",
+  "url": "https://data.ddhq.io/polls/2026/05/30/Public-Policy-Polling/Lone-Star-Rising-PAC-Texas-2026-05-22-2026-05-23",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-senate-ken-paxton",
+      "percent": 38
+    },
+    {
+      "candidateId": "tx-senate-james-talarico",
+      "percent": 45
+    }
+  ]
+}

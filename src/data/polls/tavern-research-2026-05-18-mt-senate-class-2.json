@@ -1,0 +1,22 @@
+{
+  "id": "tavern-research-2026-05-18-mt-senate-class-2",
+  "raceId": "2026-mt-senate-class-2",
+  "pollster": "Tavern Research",
+  "sponsor": "Contours Inc.",
+  "startDate": "2026-05-13",
+  "endDate": "2026-05-18",
+  "sampleSize": 607,
+  "population": "LV",
+  "url": "https://www.tavernresearch.com/research-and-writings/montana-senate-bodnar-ballot-split",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mt-senate-kurt-alme",
+      "percent": 50
+    },
+    {
+      "candidateId": "mt-senate-seth-bodnar",
+      "percent": 50
+    }
+  ]
+}

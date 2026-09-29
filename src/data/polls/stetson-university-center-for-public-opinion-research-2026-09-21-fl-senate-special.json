@@ -1,0 +1,21 @@
+{
+  "id": "stetson-university-center-for-public-opinion-research-2026-09-21-fl-senate-special",
+  "raceId": "2026-fl-senate-special",
+  "pollster": "Stetson University Center for Public Opinion Research",
+  "startDate": "2026-09-14",
+  "endDate": "2026-09-21",
+  "sampleSize": 830,
+  "population": "LV",
+  "url": "https://www.stetson.edu/artsci/cpor/media/cpor-sept.-2026-poll-final.pdf",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-senate-ashley-moody",
+      "percent": 51
+    },
+    {
+      "candidateId": "fl-senate-angela-nixon",
+      "percent": 40
+    }
+  ]
+}

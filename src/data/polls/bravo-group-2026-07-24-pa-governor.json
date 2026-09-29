@@ -1,0 +1,22 @@
+{
+  "id": "bravo-group-2026-07-24-pa-governor",
+  "raceId": "2026-pa-governor",
+  "pollster": "Bravo Group",
+  "sponsor": "PennLive",
+  "startDate": "2026-07-17",
+  "endDate": "2026-07-24",
+  "sampleSize": 630,
+  "population": "LV",
+  "url": "https://bravogroup.us/morning-scrapple/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "pa-governor-josh-shapiro",
+      "percent": 53
+    },
+    {
+      "candidateId": "pa-governor-stacy-garrity",
+      "percent": 28
+    }
+  ]
+}

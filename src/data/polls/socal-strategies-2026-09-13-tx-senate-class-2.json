@@ -1,0 +1,21 @@
+{
+  "id": "socal-strategies-2026-09-13-tx-senate-class-2",
+  "raceId": "2026-tx-senate-class-2",
+  "pollster": "SoCal Strategies",
+  "startDate": "2026-09-12",
+  "endDate": "2026-09-13",
+  "sampleSize": 649,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/09/13/SoCal-Strategies-Texas",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-senate-james-talarico",
+      "percent": 50
+    },
+    {
+      "candidateId": "tx-senate-ken-paxton",
+      "percent": 45
+    }
+  ]
+}

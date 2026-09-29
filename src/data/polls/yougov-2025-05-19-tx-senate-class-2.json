@@ -1,0 +1,22 @@
+{
+  "id": "yougov-2025-05-19-tx-senate-class-2",
+  "raceId": "2026-tx-senate-class-2",
+  "pollster": "YouGov",
+  "sponsor": "TSU/UH",
+  "startDate": "2025-05-09",
+  "endDate": "2025-05-19",
+  "sampleSize": 1200,
+  "population": "RV",
+  "url": "https://static1.squarespace.com/static/67aa7aa3e284b002cd6a420e/t/6835d0b18a1b152870969a2b/1748357299241/2026+TEXAS+U.S.+SENATE+REPORT+.pdf",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-senate-colin-allred",
+      "percent": 44
+    },
+    {
+      "candidateId": "tx-senate-john-cornyn",
+      "percent": 48
+    }
+  ]
+}

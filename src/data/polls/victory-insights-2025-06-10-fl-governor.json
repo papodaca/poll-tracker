@@ -1,0 +1,21 @@
+{
+  "id": "victory-insights-2025-06-10-fl-governor",
+  "raceId": "2026-fl-governor",
+  "pollster": "Victory Insights",
+  "startDate": "2025-06-07",
+  "endDate": "2025-06-10",
+  "sampleSize": 600,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2025/06/19/Victory Insights-Florida",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-governor-david-jolly",
+      "percent": 31.4
+    },
+    {
+      "candidateId": "fl-governor-byron-donalds",
+      "percent": 36.7
+    }
+  ]
+}

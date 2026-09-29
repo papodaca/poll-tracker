@@ -1,0 +1,21 @@
+{
+  "id": "global-strategy-group-2026-07-23-oh-house-10-2",
+  "raceId": "2026-oh-house-10",
+  "pollster": "Global Strategy Group",
+  "startDate": "2026-07-20",
+  "endDate": "2026-07-23",
+  "sampleSize": 700,
+  "population": "LV",
+  "url": "https://punchbowl.news/wp-content/uploads/OH-10-Knickerbocker-Memo-F07.24.26-3.pdf",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "oh-house-10-kristina-knickerbocker",
+      "percent": 42
+    },
+    {
+      "candidateId": "oh-house-10-mike-turner",
+      "percent": 49
+    }
+  ]
+}

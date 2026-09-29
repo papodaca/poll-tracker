@@ -1,0 +1,22 @@
+{
+  "id": "red-oak-strategic-2026-07-12-ny-governor",
+  "raceId": "2026-ny-governor",
+  "pollster": "Red Oak Strategic",
+  "sponsor": "Strong and Safe",
+  "startDate": "2026-07-07",
+  "endDate": "2026-07-12",
+  "sampleSize": 2000,
+  "population": "RV",
+  "url": "https://data.ddhq.io/polls/2026/07/28/Red-Oak-Strategic/Strong-and-Safe-New-York-2026-07-07-2026-07-12",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ny-governor-kathy-hochul",
+      "percent": 47
+    },
+    {
+      "candidateId": "ny-governor-bruce-blakeman",
+      "percent": 43
+    }
+  ]
+}

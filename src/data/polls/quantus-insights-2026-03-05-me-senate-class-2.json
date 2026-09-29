@@ -1,0 +1,21 @@
+{
+  "id": "quantus-insights-2026-03-05-me-senate-class-2",
+  "raceId": "2026-me-senate-class-2",
+  "pollster": "Quantus Insights",
+  "startDate": "2026-03-03",
+  "endDate": "2026-03-05",
+  "sampleSize": 800,
+  "population": "LV",
+  "url": "https://quantusinsights.org/f/maine-senate-2026-collins-faces-uncertain-path-to-re-election",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "me-senate-susan-collins",
+      "percent": 44.6
+    },
+    {
+      "candidateId": "me-senate-janet-t-mills",
+      "percent": 43
+    }
+  ]
+}

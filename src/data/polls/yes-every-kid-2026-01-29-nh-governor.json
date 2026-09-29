@@ -1,0 +1,21 @@
+{
+  "id": "yes-every-kid-2026-01-29-nh-governor",
+  "raceId": "2026-nh-governor",
+  "pollster": "yes. every kid.",
+  "startDate": "2026-01-28",
+  "endDate": "2026-01-29",
+  "sampleSize": 563,
+  "population": "LV",
+  "url": "https://yeseverykid.com/new-hampshire-voters-support-expanded-public-school-access/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nh-governor-jon-kiper",
+      "percent": 37
+    },
+    {
+      "candidateId": "nh-governor-kelly-ayotte",
+      "percent": 47
+    }
+  ]
+}

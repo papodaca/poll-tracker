@@ -1,0 +1,22 @@
+{
+  "id": "cherry-communications-2026-05-09-fl-governor",
+  "raceId": "2026-fl-governor",
+  "pollster": "Cherry Communications",
+  "sponsor": "Florida Chamber of Commerce",
+  "startDate": "2026-05-01",
+  "endDate": "2026-05-09",
+  "sampleSize": 604,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/05/15/Cherry-Communications/Florida-Chamber-of-Commerce-Florida-2026-05-01-2026-05-09",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-governor-byron-donalds",
+      "percent": 47
+    },
+    {
+      "candidateId": "fl-governor-david-jolly",
+      "percent": 39
+    }
+  ]
+}

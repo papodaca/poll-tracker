@@ -1,0 +1,21 @@
+{
+  "id": "tulchin-research-2025-07-10-ca-house-3",
+  "raceId": "2026-ca-house-3",
+  "pollster": "Tulchin Research",
+  "startDate": "2025-07-08",
+  "endDate": "2025-07-10",
+  "sampleSize": 400,
+  "population": "LV",
+  "url": "https://x.com/jamesd0wns/status/1948367814307553287",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ca-house-3-heidi-hall",
+      "percent": 45
+    },
+    {
+      "candidateId": "ca-house-3-kevin-kiley",
+      "percent": 47
+    }
+  ]
+}

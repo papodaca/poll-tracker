@@ -1,0 +1,21 @@
+{
+  "id": "saint-anselm-college-survey-center-2025-11-19-nh-senate-class-2-2",
+  "raceId": "2026-nh-senate-class-2",
+  "pollster": "Saint Anselm College Survey Center",
+  "startDate": "2025-11-18",
+  "endDate": "2025-11-19",
+  "sampleSize": 2112,
+  "population": "RV",
+  "url": "https://www.anselm.edu/about/anselmian-hub/news/new-poll-saint-anselm-college-survey-shows-declining-optimism-democracy-dominant-issue-and-early-partisan-divides-ahead-2026",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nh-senate-chris-pappas",
+      "percent": 44
+    },
+    {
+      "candidateId": "nh-senate-scott-brown",
+      "percent": 36
+    }
+  ]
+}

@@ -8,6 +8,10 @@
   "scripts": {
     "dev": "astro dev",
     "check": "node scripts/check.ts",
+    "fetch": "concurrently 'npm run fetch-hill' 'npm run fetch-rtwh' 'npm run fetch-fpo'",
+    "fetch-hill": "node scripts/fetch-hill-polls.ts",
+    "fetch-rtwh": "node scripts/fetch-rtwh-polls.ts",
+    "fetch-fpo": "node scripts/fetch-fpo-polls.ts",
     "build": "npm run check && astro build",
     "preview": "astro preview",
     "astro": "astro"
@@ -18,5 +22,8 @@
   },
   "allowScripts": {
     "esbuild": true
+  },
+  "devDependencies": {
+    "concurrently": "^10.0.5"
   }
 }

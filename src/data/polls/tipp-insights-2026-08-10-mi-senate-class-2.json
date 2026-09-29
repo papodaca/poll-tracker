@@ -1,0 +1,22 @@
+{
+  "id": "tipp-insights-2026-08-10-mi-senate-class-2",
+  "raceId": "2026-mi-senate-class-2",
+  "pollster": "TIPP Insights",
+  "sponsor": "League of American Workers",
+  "startDate": "2026-08-06",
+  "endDate": "2026-08-10",
+  "sampleSize": 1211,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/08/19/TIPP-Insights/League-of-American-Workers-Michigan-2026-08-06-2026-08-10",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-senate-abdul-el-sayed",
+      "percent": 45
+    },
+    {
+      "candidateId": "mi-senate-mike-rogers",
+      "percent": 42
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "bravo-group-2026-08-22-pa-governor",
+  "raceId": "2026-pa-governor",
+  "pollster": "Bravo Group",
+  "sponsor": "PennLive",
+  "startDate": "2026-08-18",
+  "endDate": "2026-08-22",
+  "sampleSize": 711,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/08/28/Bravo-Group/PennLive-Pennsylvania-2026-08-18-2026-08-22",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "pa-governor-josh-shapiro",
+      "percent": 56
+    },
+    {
+      "candidateId": "pa-governor-stacy-garrity",
+      "percent": 25
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "nexus-strategies-strategic-partners-solutions-2026-03-09-nc-senate-class-2",
+  "raceId": "2026-nc-senate-class-2",
+  "pollster": "Nexus Strategies/Strategic Partners Solutions",
+  "sponsor": "Healthier United Fund",
+  "startDate": "2026-03-08",
+  "endDate": "2026-03-09",
+  "sampleSize": 800,
+  "population": "LV",
+  "url": "https://www.healthierunited.org/media/disagree-healthier-launch-j6kn8-4rbfc",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nc-senate-roy-cooper",
+      "percent": 50
+    },
+    {
+      "candidateId": "nc-senate-michael-whatley",
+      "percent": 32.3
+    },
+    {
+      "candidateId": "nc-senate-shannon-bray",
+      "percent": 4
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "glengariff-group-2026-05-01-mi-senate-class-2-2-2",
+  "raceId": "2026-mi-senate-class-2",
+  "pollster": "Glengariff Group",
+  "sponsor": "Detroit Regional Chamber",
+  "startDate": "2026-04-28",
+  "endDate": "2026-05-01",
+  "sampleSize": 600,
+  "population": "LV",
+  "url": "https://www.detroitchamber.com/chamber-poll-voters-views-on-candidates-2026-election/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-senate-mallory-mcmorrow",
+      "percent": 40.7
+    },
+    {
+      "candidateId": "mi-senate-mike-rogers",
+      "percent": 42.8
+    }
+  ]
+}

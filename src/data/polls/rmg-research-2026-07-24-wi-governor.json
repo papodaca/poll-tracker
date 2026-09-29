@@ -1,0 +1,22 @@
+{
+  "id": "rmg-research-2026-07-24-wi-governor",
+  "raceId": "2026-wi-governor",
+  "pollster": "RMG Research",
+  "sponsor": "Napolitan Institute / Institute for Reforming Government",
+  "startDate": "2026-07-20",
+  "endDate": "2026-07-24",
+  "sampleSize": 800,
+  "population": "RV",
+  "url": "https://reforminggovernment.org/irg-poll-inflation-still-rules-free-markets-still-win-race-still-open/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "wi-governor-david-crowley",
+      "percent": 46
+    },
+    {
+      "candidateId": "wi-governor-tom-tiffany",
+      "percent": 43
+    }
+  ]
+}

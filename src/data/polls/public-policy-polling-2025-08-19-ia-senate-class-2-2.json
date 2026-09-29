@@ -1,0 +1,21 @@
+{
+  "id": "public-policy-polling-2025-08-19-ia-senate-class-2-2",
+  "raceId": "2026-ia-senate-class-2",
+  "pollster": "Public Policy Polling",
+  "startDate": "2025-08-18",
+  "endDate": "2025-08-19",
+  "sampleSize": 572,
+  "population": "V",
+  "url": "https://littlevillagemag.com/new-poll-finds-sen-joni-ernst-struggling/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ia-senate-joni-k-ernst",
+      "percent": 45
+    },
+    {
+      "candidateId": "ia-senate-nathan-sage",
+      "percent": 41
+    }
+  ]
+}

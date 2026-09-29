@@ -1,0 +1,21 @@
+{
+  "id": "public-policy-polling-2026-01-17-mi-house-10-2-2-2",
+  "raceId": "2026-mi-house-10",
+  "pollster": "Public Policy Polling",
+  "startDate": "2026-01-16",
+  "endDate": "2026-01-17",
+  "sampleSize": 592,
+  "population": "RV",
+  "url": "https://drive.google.com/file/d/1egiYmu6xaQiD5kAjFTAp-IR8rZNPzq8v/view",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-house-10-mike-bouchard",
+      "percent": 43
+    },
+    {
+      "candidateId": "mi-house-10-eric-chung",
+      "percent": 41
+    }
+  ]
+}

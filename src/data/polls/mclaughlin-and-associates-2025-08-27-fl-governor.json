@@ -1,0 +1,22 @@
+{
+  "id": "mclaughlin-and-associates-2025-08-27-fl-governor",
+  "raceId": "2026-fl-governor",
+  "pollster": "McLaughlin & Associates",
+  "sponsor": "Associated Industries of Florida",
+  "startDate": "2025-08-25",
+  "endDate": "2025-08-27",
+  "sampleSize": 800,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2025/09/17/McLaughlin & Associates/Associated Industries of Florida-Florida-2025-08-25-2025-08-27",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-governor-david-jolly",
+      "percent": 41
+    },
+    {
+      "candidateId": "fl-governor-byron-donalds",
+      "percent": 49
+    }
+  ]
+}

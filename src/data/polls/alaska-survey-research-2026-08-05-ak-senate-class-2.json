@@ -1,0 +1,21 @@
+{
+  "id": "alaska-survey-research-2026-08-05-ak-senate-class-2",
+  "raceId": "2026-ak-senate-class-2",
+  "pollster": "Alaska Survey Research",
+  "startDate": "2026-08-02",
+  "endDate": "2026-08-05",
+  "sampleSize": 1371,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/08/11/Alaska-Survey-Research-Alaska",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ak-senate-dan-sullivan",
+      "percent": 49.2
+    },
+    {
+      "candidateId": "ak-senate-mary-peltola",
+      "percent": 50.8
+    }
+  ]
+}

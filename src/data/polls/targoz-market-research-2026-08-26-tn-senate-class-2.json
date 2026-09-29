@@ -1,0 +1,22 @@
+{
+  "id": "targoz-market-research-2026-08-26-tn-senate-class-2",
+  "raceId": "2026-tn-senate-class-2",
+  "pollster": "Targoz Market Research",
+  "sponsor": "Beacon Center of Tennessee",
+  "startDate": "2026-08-15",
+  "endDate": "2026-08-26",
+  "sampleSize": 607,
+  "population": "LV",
+  "url": "https://tennsight.com/polls/august-2026/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tn-senate-marquita-bradshaw",
+      "percent": 33
+    },
+    {
+      "candidateId": "tn-senate-bill-hagerty",
+      "percent": 58
+    }
+  ]
+}
