@@ -1,14 +1,22 @@
 #!/usr/bin/env python3
-"""Build src/data/district-paths.ts from the Census 119th Congress cartographic boundary shapefile.
+"""Build src/data/district-paths.ts from Census congressional district polygons.
 
-Download cb_2025_us_cd119_500k.zip from
-https://www2.census.gov/geo/tiger/GENZ2025/shp/cb_2025_us_cd119_500k.zip
-and pass the zip path as the first argument.
+The 2026 TIGER legislative GeoPackage is the 120th Congress, which is the map
+used for the 2026 election. Ten states submitted new plans: Alabama, California,
+Florida, Louisiana, Missouri, North Carolina, Ohio, Tennessee, Texas, and Utah.
+The 2025 cartographic file (cb_2025_us_cd119_500k) is the previous Congress.
+
+Download tlgpkg_2026_us_legislative.gpkg.zip from
+https://www2.census.gov/geo/tiger/TGRGPKG26/tlgpkg_2026_us_legislative.gpkg.zip
+and pass the zip or the extracted .gpkg as the first argument.
+A cb_*_us_cd*_500k.zip shapefile still works.
 """
 
 import re
+import sqlite3
 import struct
 import sys
+import tempfile
 import zipfile
 from pathlib import Path
 
@@ -52,6 +60,70 @@ def read_dbf(data: bytes) -> list[dict[str, str]]:
 			row[name] = rec[offset : offset + length].decode("latin1").strip()
 			offset += length
 		rows.append(row)
+	return rows
+
+
+def parse_wkb_rings(wkb: bytes) -> list[list[tuple[float, float]]]:
+	def parse(buf: bytes, pos: int) -> tuple[list[list[tuple[float, float]]], int]:
+		order = "<" if buf[pos] == 1 else ">"
+		pos += 1
+		geom_type = struct.unpack_from(order + "I", buf, pos)[0]
+		pos += 4
+		base = geom_type % 1000
+		has_z = geom_type >= 1000 and (geom_type // 1000) % 10 in (1, 3)
+		dims = 3 if has_z else 2
+		if base == 6:
+			count = struct.unpack_from(order + "I", buf, pos)[0]
+			pos += 4
+			rings: list[list[tuple[float, float]]] = []
+			for _ in range(count):
+				part, pos = parse(buf, pos)
+				rings.extend(part)
+			return rings, pos
+		if base != 3:
+			raise SystemExit(f"Unexpected WKB type {geom_type}")
+		ring_count = struct.unpack_from(order + "I", buf, pos)[0]
+		pos += 4
+		rings = []
+		for _ in range(ring_count):
+			point_count = struct.unpack_from(order + "I", buf, pos)[0]
+			pos += 4
+			points = []
+			for _ in range(point_count):
+				lon, lat = struct.unpack_from(order + "dd", buf, pos)
+				points.append((lon, lat))
+				pos += 8 * dims
+			rings.append(points)
+		return rings, pos
+
+	rings, _pos = parse(wkb, 0)
+	return rings
+
+
+def gpkg_wkb(blob: bytes) -> bytes:
+	if blob[:2] != b"GP":
+		raise SystemExit("Not a GeoPackage geometry blob")
+	flags = blob[3]
+	envelope = (flags >> 1) & 0b111
+	sizes = {0: 0, 1: 32, 2: 48, 3: 48, 4: 64}
+	if envelope not in sizes:
+		raise SystemExit(f"Unexpected GeoPackage envelope {envelope}")
+	return blob[8 + sizes[envelope] :]
+
+
+def read_gpkg(path: Path) -> list[tuple[dict[str, str], list[list[tuple[float, float]]]]]:
+	con = sqlite3.connect(path)
+	tables = [row[0] for row in con.execute("SELECT table_name FROM gpkg_contents")]
+	table = next(name for name in tables if "Congressional" in name)
+	columns = [row[1] for row in con.execute(f'PRAGMA table_info("{table}")')]
+	cd_col = next(name for name in columns if name.startswith("CD") and name.endswith("FP"))
+	state_col = "STATEFP"
+	rows = []
+	for statefp, cd, blob in con.execute(f'SELECT {state_col}, {cd_col}, shape FROM "{table}"'):
+		if blob is None:
+			continue
+		rows.append(({"STATEFP": statefp, cd_col: cd}, parse_wkb_rings(gpkg_wkb(blob))))
+	con.close()
 	return rows
 
 
@@ -148,31 +220,61 @@ def ring_path(ring: list[tuple[float, float]]) -> str:
 	return f"{head} L {rest} Z"
 
 
-def main() -> None:
-	if len(sys.argv) != 2:
-		raise SystemExit("Usage: scripts/build-district-paths.py <cb_2025_us_cd119_500k.zip>")
-	by_fips = states_by_fips()
-	with zipfile.ZipFile(sys.argv[1]) as archive:
-		shp_name = next(name for name in archive.namelist() if name.endswith(".shp"))
-		dbf_name = next(name for name in archive.namelist() if name.endswith(".dbf"))
+def load_features(source: Path) -> list[tuple[dict[str, str], list[list[tuple[float, float]]]]]:
+	if source.suffix == ".gpkg":
+		return read_gpkg(source)
+	if source.suffix != ".zip":
+		raise SystemExit(f"Expected a .gpkg or .zip, got {source.name}")
+	with zipfile.ZipFile(source) as archive:
+		names = archive.namelist()
+		gpkg_name = next((name for name in names if name.endswith(".gpkg")), None)
+		if gpkg_name:
+			with tempfile.TemporaryDirectory() as tmp:
+				archive.extract(gpkg_name, tmp)
+				return read_gpkg(Path(tmp) / gpkg_name)
+		shp_name = next(name for name in names if name.endswith(".shp"))
+		dbf_name = next(name for name in names if name.endswith(".dbf"))
 		rows = read_dbf(archive.read(dbf_name))
 		shapes = read_shp(archive.read(shp_name))
 	if len(rows) != len(shapes):
 		raise SystemExit(f"DBF rows ({len(rows)}) do not match shapes ({len(shapes)})")
+	features = []
+	for row, rings in zip(rows, shapes):
+		if rings:
+			features.append((row, rings))
+	return features
+
+
+def cd_code(row: dict[str, str]) -> str:
+	for name, value in row.items():
+		if name.startswith("CD") and name.endswith("FP"):
+			return value
+	raise SystemExit(f"No congressional district code in {sorted(row)}")
+
+
+def main() -> None:
+	if len(sys.argv) != 2:
+		raise SystemExit(
+			"Usage: scripts/build-district-paths.py <tlgpkg_2026_us_legislative.gpkg.zip>"
+		)
+	by_fips = states_by_fips()
+	features = load_features(Path(sys.argv[1]))
 
 	grouped: dict[str, dict[str, list[list[tuple[float, float]]]]] = {}
-	for row, rings in zip(rows, shapes):
+	for row, rings in features:
 		fips = row.get("STATEFP", "")
 		if fips not in by_fips or not rings:
 			continue
 		code, _seats = by_fips[fips]
-		cd = row["CD119FP"]
+		cd = cd_code(row)
+		if not cd.isdigit():
+			continue
 		key = "at-large" if cd == "00" else str(int(cd))
 		grouped.setdefault(code, {}).setdefault(key, []).extend(unwrap(rings))
 
 	lines = [
-		"// House district outlines from the Census Bureau 2025 cartographic boundary",
-		"// file for the 119th Congress (cb_2025_us_cd119_500k). Public domain.",
+		"// House district outlines from the Census Bureau 2026 TIGER legislative",
+		"// GeoPackage for the 120th Congress (tlgpkg_2026_us_legislative). Public domain.",
 		"export const districtPaths: Record<string, Record<string, string>> = {",
 	]
 	ordered = sorted(by_fips.values(), key=lambda item: item[0])

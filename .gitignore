@@ -6,6 +6,10 @@ dist/
 # dependencies
 node_modules/
 
+#python
+*.pyc
+**/__pycache__/**
+
 # logs
 npm-debug.log*
 yarn-debug.log*
