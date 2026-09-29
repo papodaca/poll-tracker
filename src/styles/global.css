@@ -88,7 +88,7 @@ header nav.wide {
 .crumbs a,
 .crumb-label.brand {
 	display: inline-flex;
-	align-items: center;
+	align-items: baseline;
 	gap: 0.4rem;
 }
 
@@ -97,6 +97,7 @@ header nav.wide {
 	height: 1.15rem;
 	display: block;
 	border-radius: 0.2rem;
+	align-self: center;
 }
 
 .crumbs a {
