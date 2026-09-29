@@ -14,8 +14,9 @@ const crumbs = crumbsForPath(Astro.url.pathname);
 <html lang="en">
 	<head>
 		<meta charset="utf-8" />
+		<link rel="icon" href="/favicon.ico" sizes="any" />
+		<link rel="icon" type="image/png" href="/favicon.png" />
 		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<link rel="icon" href="/favicon.ico" />
 		<meta name="viewport" content="width=device-width" />
 		<meta name="generator" content={Astro.generator} />
 		<title>{title}</title>
@@ -34,7 +35,21 @@ const crumbs = crumbsForPath(Astro.url.pathname);
 											/
 										</span>
 									)}
-									{current ? crumb.label : <a href={crumb.href}>{crumb.label}</a>}
+									{current ? (
+										<span class:list={['crumb-label', { brand: index === 0 }]}>
+											{index === 0 && (
+												<img class="brand-mark" src="/favicon.svg" alt="" width="20" height="20" />
+											)}
+											{crumb.label}
+										</span>
+									) : (
+										<a class:list={{ brand: index === 0 }} href={crumb.href}>
+											{index === 0 && (
+												<img class="brand-mark" src="/favicon.svg" alt="" width="20" height="20" />
+											)}
+											{crumb.label}
+										</a>
+									)}
 								</li>
 							);
 						})

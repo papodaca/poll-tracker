@@ -81,6 +81,20 @@ header nav.wide {
 	font-weight: 400;
 }
 
+.crumbs a,
+.crumb-label.brand {
+	display: inline-flex;
+	align-items: center;
+	gap: 0.4rem;
+}
+
+.brand-mark {
+	width: 1.15rem;
+	height: 1.15rem;
+	display: block;
+	border-radius: 0.2rem;
+}
+
 .crumbs a {
 	color: inherit;
 	text-decoration: none;

@@ -1,11 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
-	<style>
-		.bg { fill: #1c1917; }
-		@media (prefers-color-scheme: dark) {
-			.bg { fill: #faf8f5; }
-		}
-	</style>
-	<rect class="bg" width="32" height="32" rx="7" />
+	<rect fill="#000000" width="32" height="32" rx="7" />
 	<g fill="none" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
 		<polyline stroke="#ef4444" points="5,10 11,13 17,12 23,18 27,21" />
 		<polyline stroke="#3b82f6" points="5,22 11,19 17,20 23,12 27,9" />
