@@ -1,6 +1,7 @@
 ---
 import '../styles/global.css';
 import { crumbsForPath } from '../data/crumbs.ts';
+import { withBase } from '../data/site-path.ts';
 
 interface Props {
 	title: string;
@@ -14,9 +15,9 @@ const crumbs = crumbsForPath(Astro.url.pathname);
 <html lang="en">
 	<head>
 		<meta charset="utf-8" />
-		<link rel="icon" href="/favicon.ico" sizes="any" />
-		<link rel="icon" type="image/png" href="/favicon.png" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<link rel="icon" href={withBase('/favicon.ico')} sizes="any" />
+		<link rel="icon" type="image/png" href={withBase('/favicon.png')} />
+		<link rel="icon" type="image/svg+xml" href={withBase('/favicon.svg')} />
 		<meta name="viewport" content="width=device-width" />
 		<meta name="generator" content={Astro.generator} />
 		<title>{title}</title>
@@ -38,14 +39,14 @@ const crumbs = crumbsForPath(Astro.url.pathname);
 									{current ? (
 										<span class:list={['crumb-label', { brand: index === 0 }]}>
 											{index === 0 && (
-												<img class="brand-mark" src="/favicon.svg" alt="" width="20" height="20" />
+												<img class="brand-mark" src={withBase('/favicon.svg')} alt="" width="20" height="20" />
 											)}
 											{crumb.label}
 										</span>
 									) : (
 										<a class:list={{ brand: index === 0 }} href={crumb.href}>
 											{index === 0 && (
-												<img class="brand-mark" src="/favicon.svg" alt="" width="20" height="20" />
+												<img class="brand-mark" src={withBase('/favicon.svg')} alt="" width="20" height="20" />
 											)}
 											{crumb.label}
 										</a>

@@ -10,6 +10,12 @@ Static site of hand-entered polls for the 2026 general election. The pages list 
 
 `npm run build` runs the check, then writes `dist/`.
 
+## Publish
+
+Pushes to `main` run `.github/workflows/deploy.yml`, which builds the site and deploys it to GitHub Pages. In the repository settings, set Pages to build from GitHub Actions.
+
+The workflow reads the Pages origin and base path from the repository, so a project site is served at `https://<user>.github.io/<repo>/`. Internal links pick up that prefix at build time. A local `npm run dev` still serves the site at `/`.
+
 ## Add a candidate
 
 Create `src/data/candidates/some-id.json`.

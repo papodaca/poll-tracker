@@ -1,6 +1,7 @@
 ---
 import { candidatesForRace, loadCandidates, loadPolls, pollsForRace } from '../data/queries.ts';
 import { getRaces } from '../data/races.ts';
+import { withBase } from '../data/site-path.ts';
 import Sparkline from './Sparkline.astro';
 
 interface Props {
@@ -41,7 +42,7 @@ function meta(poll: (typeof polls)[number]): string[] {
 			{candidates.map((candidate) => (
 				<li>
 					{candidate.portrait ? (
-						<img src={`/${candidate.portrait}`} alt="" width="64" height="64" />
+						<img src={withBase(candidate.portrait)} alt="" width="64" height="64" />
 					) : (
 						<span class="initials" aria-hidden="true">
 							{initials(candidate.name)}

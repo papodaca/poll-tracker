@@ -4,6 +4,7 @@ import DistrictMap from '../../components/DistrictMap.astro';
 import StateShape from '../../components/StateShape.astro';
 import { loadPolls } from '../../data/queries.ts';
 import { getRaces, racePath } from '../../data/races.ts';
+import { withBase } from '../../data/site-path.ts';
 import type { Race } from '../../data/schema.ts';
 import { stateByCode, states } from '../../data/states.ts';
 
@@ -86,7 +87,7 @@ const sections: { heading: string; kind: 'list' | 'districts'; races: Race[] }[]
 							name={state.name}
 							districts={section.races.map((race) => ({
 								key: race.district === 'at-large' ? 'at-large' : String(race.district),
-								href: racePath(race),
+								href: withBase(racePath(race)),
 								label: districtName(state.name, race.district),
 								polled: pollCount(race.id) > 0,
 							}))}
@@ -100,7 +101,7 @@ const sections: { heading: string; kind: 'list' | 'districts'; races: Race[] }[]
 										<a
 											class:list={{ polled: pollCount(race.id) > 0 }}
 											data-district={key}
-											href={racePath(race)}
+											href={withBase(racePath(race))}
 											title={name}
 											aria-label={name}
 										>
@@ -115,7 +116,7 @@ const sections: { heading: string; kind: 'list' | 'districts'; races: Race[] }[]
 					<ul class="race-list">
 						{section.races.map((race) => (
 							<li>
-								<a href={racePath(race)}>{race.title}</a>
+								<a href={withBase(racePath(race))}>{race.title}</a>
 								<span>{pollLabel(race.id)}</span>
 							</li>
 						))}
