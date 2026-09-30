@@ -1,0 +1,22 @@
+{
+  "id": "the-bullfinch-group-2026-09-06-ca-house-6",
+  "raceId": "2026-ca-house-6",
+  "pollster": "The Bullfinch Group",
+  "sponsor": "Independent Leadership Council",
+  "startDate": "2026-09-01",
+  "endDate": "2026-09-06",
+  "sampleSize": 927,
+  "population": "LV",
+  "url": "https://www.sacbee.com/news/politics-government/capitol-alert/article317427222.html",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ca-house-6-richard-pan",
+      "percent": 36.7
+    },
+    {
+      "candidateId": "ca-house-6-kevin-kiley",
+      "percent": 36.5
+    }
+  ]
+}

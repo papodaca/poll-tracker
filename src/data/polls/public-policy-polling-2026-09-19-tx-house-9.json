@@ -1,0 +1,19 @@
+{
+  "id": "public-policy-polling-2026-09-19-tx-house-9",
+  "raceId": "2026-tx-house-9",
+  "pollster": "Public Policy Polling",
+  "startDate": "2026-09-18",
+  "endDate": "2026-09-19",
+  "url": "https://x.com/nicholaswu12/status/2105313931275481267",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-house-9-leticia-gutierrez",
+      "percent": 39
+    },
+    {
+      "candidateId": "tx-house-9-alex-mealer",
+      "percent": 45
+    }
+  ]
+}

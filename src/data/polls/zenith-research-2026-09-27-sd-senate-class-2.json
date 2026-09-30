@@ -1,0 +1,20 @@
+{
+  "id": "zenith-research-2026-09-27-sd-senate-class-2",
+  "raceId": "2026-sd-senate-class-2",
+  "pollster": "Zenith Research",
+  "startDate": "2026-09-24",
+  "endDate": "2026-09-27",
+  "sampleSize": 500,
+  "population": "LV",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "sd-senate-brian-bengs",
+      "percent": 47
+    },
+    {
+      "candidateId": "sd-senate-mike-rounds",
+      "percent": 53
+    }
+  ]
+}

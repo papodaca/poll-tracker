@@ -1,0 +1,29 @@
+{
+  "id": "insideradvantage-2026-09-29-mn-senate-class-2",
+  "raceId": "2026-mn-senate-class-2",
+  "pollster": "InsiderAdvantage",
+  "startDate": "2026-09-28",
+  "endDate": "2026-09-29",
+  "sampleSize": 1200,
+  "population": "LV",
+  "url": "https://insideradvantage.com/insideradvantage-survey-u-s-senate-minnesota-contest-a-one-point-race-flanagan-46-tafoya-45/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mn-senate-michele-tafoya",
+      "percent": 45
+    },
+    {
+      "candidateId": "mn-senate-peggy-flanagan",
+      "percent": 46
+    },
+    {
+      "candidateId": "mn-senate-marisa-simonetti",
+      "percent": 1
+    },
+    {
+      "candidateId": "mn-senate-rebecca-whiting",
+      "percent": 2
+    }
+  ]
+}

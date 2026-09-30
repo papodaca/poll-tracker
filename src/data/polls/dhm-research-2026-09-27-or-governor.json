@@ -1,0 +1,26 @@
+{
+  "id": "dhm-research-2026-09-27-or-governor",
+  "raceId": "2026-or-governor",
+  "pollster": "DHM Research",
+  "sponsor": "Oregon Public Broadcasting",
+  "startDate": "2026-09-17",
+  "endDate": "2026-09-27",
+  "sampleSize": 915,
+  "population": "LV",
+  "url": "https://www.opb.org/article/2026/09/30/opb-poll-shows-oregon-governors-race-virtually-deadlocked/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "or-governor-christine-drazan",
+      "percent": 47
+    },
+    {
+      "candidateId": "or-governor-tina-kotek",
+      "percent": 46
+    },
+    {
+      "candidateId": "or-governor-brett-smith",
+      "percent": 3
+    }
+  ]
+}

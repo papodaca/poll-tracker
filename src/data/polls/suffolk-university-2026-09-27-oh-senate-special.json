@@ -1,0 +1,30 @@
+{
+  "id": "suffolk-university-2026-09-27-oh-senate-special",
+  "raceId": "2026-oh-senate-special",
+  "pollster": "Suffolk University",
+  "sponsor": "USA Today",
+  "startDate": "2026-09-23",
+  "endDate": "2026-09-27",
+  "sampleSize": 500,
+  "population": "LV",
+  "url": "https://www.suffolk.edu/academics/research-at-suffolk/political-research-center/polls/other-states#collapse-September-29-2026-Ohio-Governor-and-US-Senate-with-USA-TODAY-Network-Ohio",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "oh-senate-sherrod-brown",
+      "percent": 46.6
+    },
+    {
+      "candidateId": "oh-senate-jon-husted",
+      "percent": 44
+    },
+    {
+      "candidateId": "oh-senate-bill-redpath",
+      "percent": 2
+    },
+    {
+      "candidateId": "oh-senate-gregory-levy",
+      "percent": 1
+    }
+  ]
+}

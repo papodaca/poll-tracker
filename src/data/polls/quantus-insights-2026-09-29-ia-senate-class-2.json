@@ -1,0 +1,25 @@
+{
+  "id": "quantus-insights-2026-09-29-ia-senate-class-2",
+  "raceId": "2026-ia-senate-class-2",
+  "pollster": "Quantus Insights",
+  "startDate": "2026-09-28",
+  "endDate": "2026-09-29",
+  "sampleSize": 738,
+  "population": "LV",
+  "url": "https://quantusinsights.org/f/quantus-insights-hinson-holds-narrow-edge-in-iowa-senate-race",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ia-senate-josh-turek",
+      "percent": 46.6
+    },
+    {
+      "candidateId": "ia-senate-ashley-hinson",
+      "percent": 48.5
+    },
+    {
+      "candidateId": "ia-senate-thomas-laehn",
+      "percent": 1.7
+    }
+  ]
+}

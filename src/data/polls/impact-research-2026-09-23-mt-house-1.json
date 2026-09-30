@@ -1,0 +1,25 @@
+{
+  "id": "impact-research-2026-09-23-mt-house-1",
+  "raceId": "2026-mt-house-1",
+  "pollster": "Impact Research",
+  "startDate": "2026-09-20",
+  "endDate": "2026-09-23",
+  "sampleSize": 500,
+  "population": "LV",
+  "url": "https://mcusercontent.com/c8d0fc607b9ebc333152f806f/files/c5866ca1-08c1-fb4a-effd-deb8bff0ea04/IMPACT_MT_01_PRESS_MEMO_SEPT_2026.01.pdf",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mt-house-1-sam-forstag",
+      "percent": 47
+    },
+    {
+      "candidateId": "mt-house-1-aaron-flint",
+      "percent": 44
+    },
+    {
+      "candidateId": "mt-house-1-nick-sheedy",
+      "percent": 2
+    }
+  ]
+}
