@@ -444,3 +444,19 @@ html.pointer-stale .district-map a.polled:hover:not(:focus-visible) path {
 	margin: 0.35rem 0 0;
 	padding-left: 1.2rem;
 }
+
+.recent-polls {
+	list-style: none;
+	margin: 0.35rem 0 0;
+	padding: 0;
+	max-width: 40rem;
+}
+
+.recent-polls li {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	gap: 0.15rem 1.25rem;
+	border-top: 1px solid var(--line);
+	padding: 0.65rem 0;
+}

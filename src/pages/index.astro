@@ -1,8 +1,9 @@
 ---
 import Base from '../layouts/Base.astro';
 import UsMap from '../components/UsMap.astro';
-import { loadPolls, pollCountByState } from '../data/queries.ts';
-import { getRaces } from '../data/races.ts';
+import { loadPolls, pollCountByState, recentPolls } from '../data/queries.ts';
+import { getRaces, racePath } from '../data/races.ts';
+import { withBase } from '../data/site-path.ts';
 
 const races = getRaces();
 const polls = loadPolls();
@@ -16,9 +17,35 @@ for (const poll of polls) {
 	const race = raceById.get(poll.raceId);
 	if (race && (race.office === 'senate' || race.office === 'governor')) polledStatewide.add(race.state);
 }
+const latest = recentPolls(polls);
+
+function fieldDates(startDate: string, endDate: string): string {
+	return startDate === endDate ? endDate : `${startDate} to ${endDate}`;
+}
 ---
 
 <Base title="2026 polls" wide>
 	<h1>2026 general election polls</h1>
 	<UsMap pollCounts={pollCounts} polledStates={polledStatewide} />
+	{
+		latest.length > 0 && (
+			<section>
+				<h2>Recent polls</h2>
+				<ul class="recent-polls">
+					{latest.map((poll) => {
+						const race = raceById.get(poll.raceId);
+						const dates = fieldDates(poll.startDate, poll.endDate);
+						return (
+							<li>
+								{race ? <a href={withBase(racePath(race))}>{race.title}</a> : poll.raceId}
+								<span class="poll-meta">
+									{poll.pollster} · {dates}
+								</span>
+							</li>
+						);
+					})}
+				</ul>
+			</section>
+		)
+	}
 </Base>

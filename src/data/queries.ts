@@ -14,10 +14,16 @@ export function candidatesForRace(candidates: Candidate[], raceId: string): Cand
 	return candidates.filter((candidate) => candidate.raceId === raceId);
 }
 
+function byMostRecent(a: Poll, b: Poll): number {
+	return b.endDate.localeCompare(a.endDate) || b.startDate.localeCompare(a.startDate) || a.id.localeCompare(b.id);
+}
+
 export function pollsForRace(polls: Poll[], raceId: string): Poll[] {
-	return polls
-		.filter((poll) => poll.raceId === raceId)
-		.sort((a, b) => b.endDate.localeCompare(a.endDate) || b.startDate.localeCompare(a.startDate) || a.id.localeCompare(b.id));
+	return polls.filter((poll) => poll.raceId === raceId).sort(byMostRecent);
+}
+
+export function recentPolls(polls: Poll[], limit = 10): Poll[] {
+	return [...polls].sort(byMostRecent).slice(0, limit);
 }
 
 export function pollCountByState(polls: Poll[], raceStateById: Map<string, string>): Record<string, number> {
