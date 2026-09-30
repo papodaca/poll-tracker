@@ -449,7 +449,6 @@ html.pointer-stale .district-map a.polled:hover:not(:focus-visible) path {
 	list-style: none;
 	margin: 0.35rem 0 0;
 	padding: 0;
-	max-width: 40rem;
 }
 
 .recent-polls li {
