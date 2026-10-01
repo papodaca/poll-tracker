@@ -1,0 +1,25 @@
+{
+  "id": "co-efficient-2026-09-30-me-governor",
+  "raceId": "2026-me-governor",
+  "pollster": "co/efficient",
+  "startDate": "2026-09-28",
+  "endDate": "2026-09-30",
+  "sampleSize": 1240,
+  "population": "LV",
+  "url": "https://battlegrounds.coefficient.org/me/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "me-governor-bobby-charles",
+      "percent": 38
+    },
+    {
+      "candidateId": "me-governor-hannah-pingree",
+      "percent": 47
+    },
+    {
+      "candidateId": "me-governor-rick-bennett",
+      "percent": 6
+    }
+  ]
+}

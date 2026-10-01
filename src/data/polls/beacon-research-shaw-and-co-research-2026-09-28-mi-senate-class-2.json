@@ -1,0 +1,22 @@
+{
+  "id": "beacon-research-shaw-and-co-research-2026-09-28-mi-senate-class-2",
+  "raceId": "2026-mi-senate-class-2",
+  "pollster": "Beacon Research/Shaw & Co. Research",
+  "sponsor": "Fox News",
+  "startDate": "2026-09-24",
+  "endDate": "2026-09-28",
+  "sampleSize": 1028,
+  "population": "LV",
+  "url": "https://www.foxnews.com/politics/fox-news-poll-michigan-voters-split-between-el-sayed-rogers",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-senate-abdul-el-sayed",
+      "percent": 50
+    },
+    {
+      "candidateId": "mi-senate-mike-rogers",
+      "percent": 49
+    }
+  ]
+}

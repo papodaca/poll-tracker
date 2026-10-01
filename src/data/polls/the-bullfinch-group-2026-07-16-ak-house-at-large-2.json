@@ -1,0 +1,22 @@
+{
+  "id": "the-bullfinch-group-2026-07-16-ak-house-at-large-2",
+  "raceId": "2026-ak-house-at-large",
+  "pollster": "The Bullfinch Group",
+  "sponsor": "The Independent Center / Independent Leadership Council",
+  "startDate": "2026-07-13",
+  "endDate": "2026-07-16",
+  "sampleSize": 546,
+  "population": "LV",
+  "url": "https://independentleadershipcouncil.com/press-alaska-at-large/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ak-house-bill-hill",
+      "percent": 48
+    },
+    {
+      "candidateId": "ak-house-nick-begich",
+      "percent": 52
+    }
+  ]
+}
