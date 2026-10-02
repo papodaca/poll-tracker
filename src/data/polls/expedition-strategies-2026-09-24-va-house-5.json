@@ -1,0 +1,25 @@
+{
+  "id": "expedition-strategies-2026-09-24-va-house-5",
+  "raceId": "2026-va-house-5",
+  "pollster": "Expedition Strategies",
+  "startDate": "2026-09-21",
+  "endDate": "2026-09-24",
+  "sampleSize": 400,
+  "population": "LV",
+  "url": "https://x.com/maxpcohen/status/2105755943925645630?s=20",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "va-house-5-tom-perriello",
+      "percent": 45
+    },
+    {
+      "candidateId": "va-house-5-john-mcguire",
+      "percent": 46
+    },
+    {
+      "candidateId": "va-house-5-cooke-c-harvey",
+      "percent": 6
+    }
+  ]
+}

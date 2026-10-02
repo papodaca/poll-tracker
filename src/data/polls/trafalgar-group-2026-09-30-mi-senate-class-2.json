@@ -1,0 +1,21 @@
+{
+  "id": "trafalgar-group-2026-09-30-mi-senate-class-2",
+  "raceId": "2026-mi-senate-class-2",
+  "pollster": "Trafalgar Group",
+  "startDate": "2026-09-28",
+  "endDate": "2026-09-30",
+  "sampleSize": 1085,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/01/Trafalgar-Group-Michigan",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-senate-mike-rogers",
+      "percent": 45.1
+    },
+    {
+      "candidateId": "mi-senate-abdul-el-sayed",
+      "percent": 46.9
+    }
+  ]
+}

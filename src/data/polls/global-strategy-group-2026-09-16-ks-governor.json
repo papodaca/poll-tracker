@@ -1,0 +1,22 @@
+{
+  "id": "global-strategy-group-2026-09-16-ks-governor",
+  "raceId": "2026-ks-governor",
+  "pollster": "Global Strategy Group",
+  "sponsor": "Democratic Attorneys General Association",
+  "startDate": "2026-09-13",
+  "endDate": "2026-09-16",
+  "sampleSize": 800,
+  "population": "LV",
+  "url": "https://www.washingtonsun.com/newsletters/they-love-stonks",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ks-governor-cindy-holscher",
+      "percent": 49
+    },
+    {
+      "candidateId": "ks-governor-ty-masterson",
+      "percent": 46
+    }
+  ]
+}

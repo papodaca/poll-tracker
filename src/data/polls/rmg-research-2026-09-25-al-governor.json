@@ -1,0 +1,22 @@
+{
+  "id": "rmg-research-2026-09-25-al-governor",
+  "raceId": "2026-al-governor",
+  "pollster": "RMG Research",
+  "sponsor": "Alabama Policy Action",
+  "startDate": "2026-09-21",
+  "endDate": "2026-09-25",
+  "sampleSize": 800,
+  "population": "RV",
+  "url": "https://yellowhammernews.com/report-doug-jones-is-polling-worse-than-2020-blowout-election/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "al-governor-tommy-tuberville",
+      "percent": 50
+    },
+    {
+      "candidateId": "al-governor-doug-jones",
+      "percent": 37
+    }
+  ]
+}

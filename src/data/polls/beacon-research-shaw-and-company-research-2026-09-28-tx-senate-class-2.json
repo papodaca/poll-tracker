@@ -1,0 +1,22 @@
+{
+  "id": "beacon-research-shaw-and-company-research-2026-09-28-tx-senate-class-2",
+  "raceId": "2026-tx-senate-class-2",
+  "pollster": "Beacon Research / Shaw & Company Research",
+  "sponsor": "Fox News",
+  "startDate": "2026-09-24",
+  "endDate": "2026-09-28",
+  "sampleSize": 881,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/01/Beacon-Research/Shaw-&-Company-Research/Fox-News-Texas-2026-09-24-2026-09-28",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-senate-ken-paxton",
+      "percent": 49
+    },
+    {
+      "candidateId": "tx-senate-james-talarico",
+      "percent": 51
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "cygnal-2026-09-27-ak-governor",
+  "raceId": "2026-ak-governor",
+  "pollster": "Cygnal",
+  "startDate": "2026-09-24",
+  "endDate": "2026-09-27",
+  "sampleSize": 502,
+  "population": "LV",
+  "url": "https://www.cygn.al/wp-content/uploads/2026/10/AK_GOV_Memo.pdf",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ak-governor-dave-bronson",
+      "percent": 8
+    },
+    {
+      "candidateId": "ak-governor-jonathan-kreiss-tomkins",
+      "percent": 44
+    },
+    {
+      "candidateId": "ak-governor-treg-taylor",
+      "percent": 9
+    },
+    {
+      "candidateId": "ak-governor-bernadette-wilson",
+      "percent": 24
+    }
+  ]
+}

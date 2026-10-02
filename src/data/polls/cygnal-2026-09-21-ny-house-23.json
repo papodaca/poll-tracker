@@ -1,0 +1,21 @@
+{
+  "id": "cygnal-2026-09-21-ny-house-23",
+  "raceId": "2026-ny-house-23",
+  "pollster": "Cygnal",
+  "startDate": "2026-09-19",
+  "endDate": "2026-09-21",
+  "sampleSize": 400,
+  "population": "LV",
+  "url": "https://www.cygn.al/wp-content/uploads/2026/10/NY-Public-Polling-Memo-Cygnal.pdf",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ny-house-23-aaron-gies",
+      "percent": 33
+    },
+    {
+      "candidateId": "ny-house-23-nick-langworthy",
+      "percent": 54
+    }
+  ]
+}

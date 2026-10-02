@@ -1,0 +1,21 @@
+{
+  "id": "fox-news-beacon-2026-09-28-ia-senate-class-2",
+  "raceId": "2026-ia-senate-class-2",
+  "pollster": "Fox News/Beacon",
+  "startDate": "2026-09-24",
+  "endDate": "2026-09-28",
+  "sampleSize": 1008,
+  "population": "LV",
+  "url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/fox_september-24-28-2026_iowa_topline_october-1-release.pdf",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ia-senate-josh-turek",
+      "percent": 49
+    },
+    {
+      "candidateId": "ia-senate-ashley-hinson",
+      "percent": 47
+    }
+  ]
+}

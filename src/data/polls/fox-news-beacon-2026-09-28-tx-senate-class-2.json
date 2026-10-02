@@ -1,0 +1,21 @@
+{
+  "id": "fox-news-beacon-2026-09-28-tx-senate-class-2",
+  "raceId": "2026-tx-senate-class-2",
+  "pollster": "Fox News/Beacon",
+  "startDate": "2026-09-24",
+  "endDate": "2026-09-28",
+  "sampleSize": 881,
+  "population": "LV",
+  "url": "https://www.foxnews.com/politics/fox-news-poll-its-lone-star-senate-showdown-between-talarico-paxton",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-senate-james-talarico",
+      "percent": 51
+    },
+    {
+      "candidateId": "tx-senate-ken-paxton",
+      "percent": 49
+    }
+  ]
+}

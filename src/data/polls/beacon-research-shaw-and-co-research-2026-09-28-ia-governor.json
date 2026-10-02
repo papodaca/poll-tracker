@@ -1,0 +1,22 @@
+{
+  "id": "beacon-research-shaw-and-co-research-2026-09-28-ia-governor",
+  "raceId": "2026-ia-governor",
+  "pollster": "Beacon Research/Shaw & Co. Research",
+  "sponsor": "Fox News",
+  "startDate": "2026-09-24",
+  "endDate": "2026-09-28",
+  "sampleSize": 1008,
+  "population": "LV",
+  "url": "https://www.foxnews.com/politics/fox-news-poll-turek-hinson-close-iowa-senate-race",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ia-governor-rob-sand",
+      "percent": 53
+    },
+    {
+      "candidateId": "ia-governor-zach-lahn",
+      "percent": 44
+    }
+  ]
+}

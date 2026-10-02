@@ -1,0 +1,22 @@
+{
+  "id": "normington-petts-and-associates-2026-09-28-tx-house-15",
+  "raceId": "2026-tx-house-15",
+  "pollster": "Normington, Petts & Associates",
+  "sponsor": "House Majority PAC (hybrid PAC)",
+  "startDate": "2026-09-24",
+  "endDate": "2026-09-28",
+  "sampleSize": 400,
+  "population": "LV",
+  "url": "https://x.com/PatrickSvitek/status/2105651406627561762?s=20",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-house-15-bobby-pulido",
+      "percent": 54
+    },
+    {
+      "candidateId": "tx-house-15-monica-de-la-cruz",
+      "percent": 41
+    }
+  ]
+}

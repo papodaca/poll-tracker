@@ -1,0 +1,30 @@
+{
+  "id": "lighthouse-research-2026-09-10-ut-house-1",
+  "raceId": "2026-ut-house-1",
+  "pollster": "Lighthouse Research",
+  "sponsor": "Utah Debate Comission",
+  "startDate": "2026-08-31",
+  "endDate": "2026-09-10",
+  "sampleSize": 515,
+  "population": "LV",
+  "url": "https://utahdebatecommission.org/2026-polling/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ut-house-1-ben-mcadams",
+      "percent": 62.7
+    },
+    {
+      "candidateId": "ut-house-1-riley-owen",
+      "percent": 21.2
+    },
+    {
+      "candidateId": "ut-house-1-jesse-west",
+      "percent": 4.7
+    },
+    {
+      "candidateId": "ut-house-1-elias-henry-montgomery",
+      "percent": 3.3
+    }
+  ]
+}

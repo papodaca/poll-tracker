@@ -1,0 +1,21 @@
+{
+  "id": "lake-research-partners-2026-08-30-sd-house-at-large",
+  "raceId": "2026-sd-house-at-large",
+  "pollster": "Lake Research Partners",
+  "startDate": "2026-08-26",
+  "endDate": "2026-08-30",
+  "sampleSize": 500,
+  "population": "LV",
+  "url": "https://x.com/SoDakDems/status/2105413020264357970?s=20",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "sd-house-at-large-nikki-gronli",
+      "percent": 43
+    },
+    {
+      "candidateId": "sd-house-at-large-marty-jackley",
+      "percent": 47
+    }
+  ]
+}

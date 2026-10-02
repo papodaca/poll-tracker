@@ -1,0 +1,22 @@
+{
+  "id": "beacon-research-shaw-and-company-research-2026-09-28-ia-senate-class-2",
+  "raceId": "2026-ia-senate-class-2",
+  "pollster": "Beacon Research / Shaw & Company Research",
+  "sponsor": "Fox News",
+  "startDate": "2026-09-24",
+  "endDate": "2026-09-28",
+  "sampleSize": 1008,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/01/Beacon-Research/Shaw-&-Company-Research/Fox-News-Iowa-2026-09-24-2026-09-28",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ia-senate-josh-turek",
+      "percent": 49
+    },
+    {
+      "candidateId": "ia-senate-ashley-hinson",
+      "percent": 47
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "dhm-research-2026-09-27-wa-house-3",
+  "raceId": "2026-wa-house-3",
+  "pollster": "DHM Research",
+  "sponsor": "Oregon Public Broadcasting",
+  "startDate": "2026-09-17",
+  "endDate": "2026-09-27",
+  "sampleSize": 543,
+  "population": "LV",
+  "url": "https://www.opb.org/article/2026/10/01/gluesenkamp-perez-braun-southwest-washington-3rd-district/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "wa-house-3-marie-gluesenkamp-perez",
+      "percent": 47
+    },
+    {
+      "candidateId": "wa-house-3-john-braun",
+      "percent": 48
+    }
+  ]
+}

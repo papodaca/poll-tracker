@@ -1,0 +1,30 @@
+{
+  "id": "lighthouse-research-2026-09-17-ut-house-4",
+  "raceId": "2026-ut-house-4",
+  "pollster": "Lighthouse Research",
+  "sponsor": "Utah Debate Comission",
+  "startDate": "2026-09-08",
+  "endDate": "2026-09-17",
+  "sampleSize": 513,
+  "population": "LV",
+  "url": "https://utahdebatecommission.org/2026-polling/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ut-house-4-jonny-larsen",
+      "percent": 32.9
+    },
+    {
+      "candidateId": "ut-house-4-mike-kennedy",
+      "percent": 41.7
+    },
+    {
+      "candidateId": "ut-house-4-taylor-wright",
+      "percent": 5.3
+    },
+    {
+      "candidateId": "ut-house-4-steven-burt",
+      "percent": 5.7
+    }
+  ]
+}

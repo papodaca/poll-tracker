@@ -1,0 +1,22 @@
+{
+  "id": "beacon-research-shaw-and-company-research-2026-09-28-tx-governor",
+  "raceId": "2026-tx-governor",
+  "pollster": "Beacon Research / Shaw & Company Research",
+  "sponsor": "Fox News",
+  "startDate": "2026-09-24",
+  "endDate": "2026-09-28",
+  "sampleSize": 881,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/01/Beacon-Research/Shaw-&-Company-Research/Fox-News-Texas-2026-09-24-2026-09-28",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-governor-gina-hinojosa",
+      "percent": 47
+    },
+    {
+      "candidateId": "tx-governor-greg-abbott",
+      "percent": 52
+    }
+  ]
+}

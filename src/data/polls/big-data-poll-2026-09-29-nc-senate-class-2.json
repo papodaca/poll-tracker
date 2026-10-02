@@ -1,0 +1,22 @@
+{
+  "id": "big-data-poll-2026-09-29-nc-senate-class-2",
+  "raceId": "2026-nc-senate-class-2",
+  "pollster": "Big Data Poll",
+  "sponsor": "Public Polling Project",
+  "startDate": "2026-09-27",
+  "endDate": "2026-09-29",
+  "sampleSize": 642,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/01/Big-Data-Poll-North-Carolina",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nc-senate-roy-cooper",
+      "percent": 47.4
+    },
+    {
+      "candidateId": "nc-senate-michael-whatley",
+      "percent": 35.2
+    }
+  ]
+}

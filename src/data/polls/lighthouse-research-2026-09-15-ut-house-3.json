@@ -1,0 +1,38 @@
+{
+  "id": "lighthouse-research-2026-09-15-ut-house-3",
+  "raceId": "2026-ut-house-3",
+  "pollster": "Lighthouse Research",
+  "sponsor": "Utah Debate Comission",
+  "startDate": "2026-09-02",
+  "endDate": "2026-09-15",
+  "sampleSize": 508,
+  "population": "LV",
+  "url": "https://utahdebatecommission.org/2026-polling/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ut-house-3-kent-udell",
+      "percent": 26.4
+    },
+    {
+      "candidateId": "ut-house-3-celeste-maloy",
+      "percent": 44.5
+    },
+    {
+      "candidateId": "ut-house-3-cassie-easley",
+      "percent": 2.6
+    },
+    {
+      "candidateId": "ut-house-3-adonis-hooslyn",
+      "percent": 0.2
+    },
+    {
+      "candidateId": "ut-house-3-michael-stoddard",
+      "percent": 6.5
+    },
+    {
+      "candidateId": "ut-house-3-ayden-scott",
+      "percent": 2.8
+    }
+  ]
+}
