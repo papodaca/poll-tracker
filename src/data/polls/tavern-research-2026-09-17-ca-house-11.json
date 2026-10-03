@@ -1,0 +1,22 @@
+{
+  "id": "tavern-research-2026-09-17-ca-house-11",
+  "raceId": "2026-ca-house-11",
+  "pollster": "Tavern Research",
+  "sponsor": "Jobs And Democracy PAC (super PAC)",
+  "startDate": "2026-09-15",
+  "endDate": "2026-09-17",
+  "sampleSize": 658,
+  "population": "LV",
+  "url": "https://www.politico.com/newsletters/california-playbook/2026/10/02/carl-demaio-is-the-establishment-now-01104622",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ca-house-11-connie-chan",
+      "percent": 34
+    },
+    {
+      "candidateId": "ca-house-11-scott-wiener",
+      "percent": 45
+    }
+  ]
+}

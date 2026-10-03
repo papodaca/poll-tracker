@@ -1,0 +1,19 @@
+{
+  "id": "normington-pet-2026-10-01-tx-house-15",
+  "raceId": "2026-tx-house-15",
+  "pollster": "Normington Pet.",
+  "startDate": "2026-10-01",
+  "endDate": "2026-10-01",
+  "url": "https://x.com/cjwarnke/status/2105646969775403226",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-house-15-bobby-pulido",
+      "percent": 54
+    },
+    {
+      "candidateId": "tx-house-15-monica-de-la-cruz",
+      "percent": 41
+    }
+  ]
+}

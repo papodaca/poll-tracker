@@ -1,0 +1,29 @@
+{
+  "id": "insideradvantage-2026-09-29-sc-senate-class-2",
+  "raceId": "2026-sc-senate-class-2",
+  "pollster": "InsiderAdvantage",
+  "startDate": "2026-09-28",
+  "endDate": "2026-09-29",
+  "sampleSize": 1200,
+  "population": "LV",
+  "url": "https://insideradvantage.com/insideradvantage-south-carolina-senate-graham-leads-by-one-point/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "sc-senate-annie-andrews",
+      "percent": 45
+    },
+    {
+      "candidateId": "sc-senate-darline-graham-nordone",
+      "percent": 46
+    },
+    {
+      "candidateId": "sc-senate-kasie-whitener",
+      "percent": 2
+    },
+    {
+      "candidateId": "sc-senate-mark-hackett",
+      "percent": 3
+    }
+  ]
+}

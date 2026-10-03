@@ -1,0 +1,26 @@
+{
+  "id": "co-efficient-2026-10-01-sc-house-1",
+  "raceId": "2026-sc-house-1",
+  "pollster": "co/efficient",
+  "sponsor": "Thank You For Your Attention To This Matter PAC (super PAC)",
+  "startDate": "2026-09-30",
+  "endDate": "2026-10-01",
+  "sampleSize": 837,
+  "population": "LV",
+  "url": "https://coefficient.org/our-work/south-carolina-1st-congressional-district-oct-2026/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "sc-house-1-jenny-costa-honeycutt",
+      "percent": 46
+    },
+    {
+      "candidateId": "sc-house-1-nancy-lacore",
+      "percent": 40
+    },
+    {
+      "candidateId": "sc-house-1-bill-reeside",
+      "percent": 4
+    }
+  ]
+}

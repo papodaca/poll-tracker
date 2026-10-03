@@ -1,0 +1,21 @@
+{
+  "id": "the-new-york-times-siena-university-2026-10-01-ak-senate-class-2",
+  "raceId": "2026-ak-senate-class-2",
+  "pollster": "The New York Times/Siena University",
+  "startDate": "2026-09-24",
+  "endDate": "2026-10-01",
+  "sampleSize": 504,
+  "population": "LV",
+  "url": "https://www.nytimes.com/2026/10/03/us/senate-polls-texas-kansas-ohio-alaska-iowa.html",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ak-senate-dan-sullivan",
+      "percent": 43
+    },
+    {
+      "candidateId": "ak-senate-mary-peltola",
+      "percent": 50
+    }
+  ]
+}

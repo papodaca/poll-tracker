@@ -1,0 +1,22 @@
+{
+  "id": "siena-research-institute-2026-10-01-ak-senate-class-2",
+  "raceId": "2026-ak-senate-class-2",
+  "pollster": "Siena Research Institute",
+  "sponsor": "The New York Times",
+  "startDate": "2026-09-24",
+  "endDate": "2026-10-01",
+  "sampleSize": 504,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/03/Siena-Research-Institute/The-New-York-Times-Alaska-2026-09-24-2026-10-01",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ak-senate-dan-sullivan",
+      "percent": 42
+    },
+    {
+      "candidateId": "ak-senate-mary-peltola",
+      "percent": 49
+    }
+  ]
+}

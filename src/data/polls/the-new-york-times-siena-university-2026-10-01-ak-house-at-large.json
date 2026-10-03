@@ -1,0 +1,29 @@
+{
+  "id": "the-new-york-times-siena-university-2026-10-01-ak-house-at-large",
+  "raceId": "2026-ak-house-at-large",
+  "pollster": "The New York Times/Siena University",
+  "startDate": "2026-09-24",
+  "endDate": "2026-10-01",
+  "sampleSize": 504,
+  "population": "LV",
+  "url": "https://www.nytimes.com/2026/10/03/us/senate-polls-texas-kansas-ohio-alaska-iowa.html",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ak-house-bill-hill",
+      "percent": 35
+    },
+    {
+      "candidateId": "ak-house-nick-begich",
+      "percent": 47
+    },
+    {
+      "candidateId": "ak-house-eric-hafner",
+      "percent": 8
+    },
+    {
+      "candidateId": "ak-house-at-large-james-c-mcdermott",
+      "percent": 5
+    }
+  ]
+}

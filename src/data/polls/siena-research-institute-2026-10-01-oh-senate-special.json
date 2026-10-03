@@ -1,0 +1,22 @@
+{
+  "id": "siena-research-institute-2026-10-01-oh-senate-special",
+  "raceId": "2026-oh-senate-special",
+  "pollster": "Siena Research Institute",
+  "sponsor": "The New York Times",
+  "startDate": "2026-09-22",
+  "endDate": "2026-10-01",
+  "sampleSize": 616,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/03/Siena-Research-Institute/The-New-York-Times-Ohio-2026-09-22-2026-10-01",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "oh-senate-jon-husted",
+      "percent": 44
+    },
+    {
+      "candidateId": "oh-senate-sherrod-brown",
+      "percent": 45
+    }
+  ]
+}

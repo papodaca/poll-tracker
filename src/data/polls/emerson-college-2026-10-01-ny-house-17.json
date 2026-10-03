@@ -1,0 +1,19 @@
+{
+  "id": "emerson-college-2026-10-01-ny-house-17",
+  "raceId": "2026-ny-house-17",
+  "pollster": "Emerson College",
+  "startDate": "2026-10-01",
+  "endDate": "2026-10-01",
+  "url": "https://emersoncollegepolling.com/ny-17-2026-poll/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ny-house-17-cait-conley",
+      "percent": 47.9
+    },
+    {
+      "candidateId": "ny-house-17-mike-lawler",
+      "percent": 45.6
+    }
+  ]
+}

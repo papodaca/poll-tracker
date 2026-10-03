@@ -1,0 +1,19 @@
+{
+  "id": "mclaughlin-r-2026-10-02-ny-house-17",
+  "raceId": "2026-ny-house-17",
+  "pollster": "McLaughlin (R)",
+  "startDate": "2026-10-02",
+  "endDate": "2026-10-02",
+  "url": "https://nypost.com/2026/10/02/us-news/gop-rep-mike-lawler-leads-dem-cait-conley-in-battleground-ny-house-district-new-internal-poll/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ny-house-17-cait-conley",
+      "percent": 47
+    },
+    {
+      "candidateId": "ny-house-17-mike-lawler",
+      "percent": 50
+    }
+  ]
+}

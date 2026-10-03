@@ -1,0 +1,19 @@
+{
+  "id": "lighthoust-res-2026-10-01-ut-house-4",
+  "raceId": "2026-ut-house-4",
+  "pollster": "Lighthoust Res.",
+  "startDate": "2026-10-01",
+  "endDate": "2026-10-01",
+  "url": "https://utahdebatecommission.org/2026-polling/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ut-house-4-jonny-larsen",
+      "percent": 32.9
+    },
+    {
+      "candidateId": "ut-house-4-mike-kennedy",
+      "percent": 41.7
+    }
+  ]
+}

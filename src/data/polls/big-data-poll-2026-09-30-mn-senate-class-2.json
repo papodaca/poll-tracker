@@ -1,0 +1,22 @@
+{
+  "id": "big-data-poll-2026-09-30-mn-senate-class-2",
+  "raceId": "2026-mn-senate-class-2",
+  "pollster": "Big Data Poll",
+  "sponsor": "Public Polling Project",
+  "startDate": "2026-09-29",
+  "endDate": "2026-09-30",
+  "sampleSize": 622,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/02/Big-Data-Poll/Public-Polling-Project-Minnesota-2026-09-29-2026-09-30",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mn-senate-michele-tafoya",
+      "percent": 37.8
+    },
+    {
+      "candidateId": "mn-senate-peggy-flanagan",
+      "percent": 40
+    }
+  ]
+}

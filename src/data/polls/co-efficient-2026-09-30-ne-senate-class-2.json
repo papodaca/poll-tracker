@@ -1,0 +1,21 @@
+{
+  "id": "co-efficient-2026-09-30-ne-senate-class-2",
+  "raceId": "2026-ne-senate-class-2",
+  "pollster": "co/efficient",
+  "startDate": "2026-09-28",
+  "endDate": "2026-09-30",
+  "sampleSize": 1113,
+  "population": "LV",
+  "url": "https://battlegrounds.coefficient.org/ne/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ne-senate-dan-osborn",
+      "percent": 43
+    },
+    {
+      "candidateId": "ne-senate-pete-ricketts",
+      "percent": 48
+    }
+  ]
+}

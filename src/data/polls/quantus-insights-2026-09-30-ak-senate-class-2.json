@@ -1,0 +1,29 @@
+{
+  "id": "quantus-insights-2026-09-30-ak-senate-class-2",
+  "raceId": "2026-ak-senate-class-2",
+  "pollster": "Quantus Insights",
+  "startDate": "2026-09-28",
+  "endDate": "2026-09-30",
+  "sampleSize": 758,
+  "population": "LV",
+  "url": "https://quantusinsights.org/polling/f/quantus-insights-survey-sullivan-peltola-deadlocked-in-alaska",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ak-senate-dan-sullivan",
+      "percent": 46.8
+    },
+    {
+      "candidateId": "ak-senate-mary-peltola",
+      "percent": 46.5
+    },
+    {
+      "candidateId": "ak-senate-gerald-l-heikes",
+      "percent": 1.5
+    },
+    {
+      "candidateId": "ak-senate-daniel-j-sullivan-jr",
+      "percent": 1.6
+    }
+  ]
+}

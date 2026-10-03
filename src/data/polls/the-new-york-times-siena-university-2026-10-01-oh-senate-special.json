@@ -1,0 +1,21 @@
+{
+  "id": "the-new-york-times-siena-university-2026-10-01-oh-senate-special",
+  "raceId": "2026-oh-senate-special",
+  "pollster": "The New York Times/Siena University",
+  "startDate": "2026-09-22",
+  "endDate": "2026-10-01",
+  "sampleSize": 616,
+  "population": "LV",
+  "url": "https://www.nytimes.com/2026/10/03/us/senate-polls-texas-kansas-ohio-alaska-iowa.html",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "oh-senate-sherrod-brown",
+      "percent": 49
+    },
+    {
+      "candidateId": "oh-senate-jon-husted",
+      "percent": 46
+    }
+  ]
+}

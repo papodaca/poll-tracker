@@ -1,0 +1,21 @@
+{
+  "id": "trafalgar-group-2026-10-01-me-senate-class-2",
+  "raceId": "2026-me-senate-class-2",
+  "pollster": "Trafalgar Group",
+  "startDate": "2026-09-29",
+  "endDate": "2026-10-01",
+  "sampleSize": 1091,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/02/Trafalgar-Group-Maine",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "me-senate-susan-collins",
+      "percent": 45.9
+    },
+    {
+      "candidateId": "me-senate-troy-jackson",
+      "percent": 46.2
+    }
+  ]
+}

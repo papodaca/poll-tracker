@@ -1,0 +1,21 @@
+{
+  "id": "the-new-york-times-siena-university-2026-09-30-ks-senate-class-2",
+  "raceId": "2026-ks-senate-class-2",
+  "pollster": "The New York Times/Siena University",
+  "startDate": "2026-09-22",
+  "endDate": "2026-09-30",
+  "sampleSize": 605,
+  "population": "LV",
+  "url": "https://www.nytimes.com/2026/10/03/us/senate-polls-texas-kansas-ohio-alaska-iowa.html",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ks-senate-adam-hamilton",
+      "percent": 46
+    },
+    {
+      "candidateId": "ks-senate-roger-marshall",
+      "percent": 47
+    }
+  ]
+}

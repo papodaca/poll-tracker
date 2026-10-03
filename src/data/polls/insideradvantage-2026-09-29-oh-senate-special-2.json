@@ -1,0 +1,29 @@
+{
+  "id": "insideradvantage-2026-09-29-oh-senate-special-2",
+  "raceId": "2026-oh-senate-special",
+  "pollster": "InsiderAdvantage",
+  "startDate": "2026-09-28",
+  "endDate": "2026-09-29",
+  "sampleSize": 1200,
+  "population": "LV",
+  "url": "https://insideradvantage.com/insideradvantage-ohio-senate-race-narrows-to-brown-up-by-one",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "oh-senate-sherrod-brown",
+      "percent": 43.8
+    },
+    {
+      "candidateId": "oh-senate-jon-husted",
+      "percent": 42.5
+    },
+    {
+      "candidateId": "oh-senate-bill-redpath",
+      "percent": 4.1
+    },
+    {
+      "candidateId": "oh-senate-gregory-levy",
+      "percent": 2.2
+    }
+  ]
+}

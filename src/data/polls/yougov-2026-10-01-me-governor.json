@@ -1,0 +1,22 @@
+{
+  "id": "yougov-2026-10-01-me-governor",
+  "raceId": "2026-me-governor",
+  "pollster": "YouGov",
+  "sponsor": "CBS News",
+  "startDate": "2026-09-23",
+  "endDate": "2026-10-01",
+  "sampleSize": 1136,
+  "population": "LV",
+  "url": "https://www.cbsnews.com/news/maine-senate-poll-2026-10-02/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "me-governor-bobby-charles",
+      "percent": 44
+    },
+    {
+      "candidateId": "me-governor-hannah-pingree",
+      "percent": 56
+    }
+  ]
+}

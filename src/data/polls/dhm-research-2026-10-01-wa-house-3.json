@@ -1,0 +1,18 @@
+{
+  "id": "dhm-research-2026-10-01-wa-house-3",
+  "raceId": "2026-wa-house-3",
+  "pollster": "DHM Research",
+  "startDate": "2026-10-01",
+  "endDate": "2026-10-01",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "wa-house-3-marie-gluesenkamp-perez",
+      "percent": 47
+    },
+    {
+      "candidateId": "wa-house-3-john-braun",
+      "percent": 48
+    }
+  ]
+}

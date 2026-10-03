@@ -1,0 +1,21 @@
+{
+  "id": "the-new-york-times-siena-university-2026-09-30-tx-senate-class-2",
+  "raceId": "2026-tx-senate-class-2",
+  "pollster": "The New York Times/Siena University",
+  "startDate": "2026-09-21",
+  "endDate": "2026-09-30",
+  "sampleSize": 615,
+  "population": "LV",
+  "url": "https://www.nytimes.com/2026/10/03/us/senate-polls-texas-kansas-ohio-alaska-iowa.html",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-senate-james-talarico",
+      "percent": 51
+    },
+    {
+      "candidateId": "tx-senate-ken-paxton",
+      "percent": 45
+    }
+  ]
+}

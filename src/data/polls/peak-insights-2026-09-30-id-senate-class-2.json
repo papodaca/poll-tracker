@@ -1,0 +1,29 @@
+{
+  "id": "peak-insights-2026-09-30-id-senate-class-2",
+  "raceId": "2026-id-senate-class-2",
+  "pollster": "Peak Insights",
+  "startDate": "2026-09-28",
+  "endDate": "2026-09-30",
+  "sampleSize": 500,
+  "population": "LV",
+  "url": "https://x.com/JacobRubashkin/status/2106137210185462099?s=20",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "id-senate-todd-achilles",
+      "percent": 24
+    },
+    {
+      "candidateId": "id-senate-jim-risch",
+      "percent": 49
+    },
+    {
+      "candidateId": "id-senate-natalie-m-fleming",
+      "percent": 3
+    },
+    {
+      "candidateId": "id-senate-matt-loesby",
+      "percent": 2
+    }
+  ]
+}

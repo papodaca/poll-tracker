@@ -1,0 +1,22 @@
+{
+  "id": "siena-research-institute-2026-10-01-ia-senate-class-2",
+  "raceId": "2026-ia-senate-class-2",
+  "pollster": "Siena Research Institute",
+  "sponsor": "The New York Times",
+  "startDate": "2026-09-22",
+  "endDate": "2026-10-01",
+  "sampleSize": 606,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/03/Siena-Research-Institute/The-New-York-Times-Iowa-2026-09-22-2026-10-01",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ia-senate-josh-turek",
+      "percent": 45
+    },
+    {
+      "candidateId": "ia-senate-ashley-hinson",
+      "percent": 45
+    }
+  ]
+}

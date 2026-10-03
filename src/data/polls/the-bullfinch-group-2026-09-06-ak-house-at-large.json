@@ -1,0 +1,30 @@
+{
+  "id": "the-bullfinch-group-2026-09-06-ak-house-at-large",
+  "raceId": "2026-ak-house-at-large",
+  "pollster": "The Bullfinch Group",
+  "sponsor": "Independent Leadership Council",
+  "startDate": "2026-09-01",
+  "endDate": "2026-09-06",
+  "sampleSize": 820,
+  "population": "LV",
+  "url": "https://cdn.prod.website-files.com/68d1c32ec01e1d1f6a86e801/6abd40f2f3810a4e535a8aa6_Alaska_Topline-Independent_Leadership_Council.pdf",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ak-house-bill-hill",
+      "percent": 36.6
+    },
+    {
+      "candidateId": "ak-house-nick-begich",
+      "percent": 44.2
+    },
+    {
+      "candidateId": "ak-house-eric-hafner",
+      "percent": 7.4
+    },
+    {
+      "candidateId": "ak-house-at-large-james-c-mcdermott",
+      "percent": 1.9
+    }
+  ]
+}
