@@ -1,0 +1,21 @@
+{
+  "id": "rasmussen-reports-2026-10-04-nh-senate-class-2",
+  "raceId": "2026-nh-senate-class-2",
+  "pollster": "Rasmussen Reports",
+  "startDate": "2026-10-02",
+  "endDate": "2026-10-04",
+  "sampleSize": 979,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/05/Rasmussen-Reports-New-Hampshire",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nh-senate-chris-pappas",
+      "percent": 49
+    },
+    {
+      "candidateId": "nh-senate-john-sununu",
+      "percent": 44
+    }
+  ]
+}

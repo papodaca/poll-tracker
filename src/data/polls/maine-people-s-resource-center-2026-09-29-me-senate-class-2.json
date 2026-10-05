@@ -1,0 +1,21 @@
+{
+  "id": "maine-people-s-resource-center-2026-09-29-me-senate-class-2",
+  "raceId": "2026-me-senate-class-2",
+  "pollster": "Maine People's Resource Center",
+  "startDate": "2026-09-25",
+  "endDate": "2026-09-29",
+  "sampleSize": 684,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/05/Maine-People's-Resource-Center-Maine",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "me-senate-susan-collins",
+      "percent": 46.5
+    },
+    {
+      "candidateId": "me-senate-troy-jackson",
+      "percent": 49.3
+    }
+  ]
+}

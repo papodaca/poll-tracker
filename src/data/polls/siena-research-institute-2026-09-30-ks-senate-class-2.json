@@ -1,0 +1,22 @@
+{
+  "id": "siena-research-institute-2026-09-30-ks-senate-class-2",
+  "raceId": "2026-ks-senate-class-2",
+  "pollster": "Siena Research Institute",
+  "sponsor": "The New York Times",
+  "startDate": "2026-09-22",
+  "endDate": "2026-09-30",
+  "sampleSize": 605,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/04/Siena-Research-Institute/The-New-York-Times-Kansas-2026-09-22-2026-09-30",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ks-senate-roger-marshall",
+      "percent": 42
+    },
+    {
+      "candidateId": "ks-senate-adam-hamilton",
+      "percent": 41
+    }
+  ]
+}

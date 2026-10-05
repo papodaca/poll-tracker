@@ -1,0 +1,21 @@
+{
+  "id": "the-new-york-times-siena-university-2026-10-01-oh-governor",
+  "raceId": "2026-oh-governor",
+  "pollster": "The New York Times/Siena University",
+  "startDate": "2026-09-22",
+  "endDate": "2026-10-01",
+  "sampleSize": 616,
+  "population": "LV",
+  "url": "https://sri.siena.edu/2026/10/04/nytimes-siena-poll-of-likely-voters-gubernatorial-races-2/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "oh-governor-vivek-ramaswamy",
+      "percent": 45
+    },
+    {
+      "candidateId": "oh-governor-amy-acton",
+      "percent": 49
+    }
+  ]
+}

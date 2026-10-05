@@ -1,0 +1,22 @@
+{
+  "id": "david-jay-wolfson-2026-10-02-ca-governor",
+  "raceId": "2026-ca-governor",
+  "pollster": "David Jay Wolfson",
+  "sponsor": "Steve Hilton",
+  "startDate": "2026-10-01",
+  "endDate": "2026-10-02",
+  "sampleSize": 1020,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/05/David-Jay-Wolfson/Steve-Hilton-California-2026-10-01-2026-10-02",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ca-governor-xavier-becerra",
+      "percent": 45.7
+    },
+    {
+      "candidateId": "ca-governor-steve-hilton",
+      "percent": 40.1
+    }
+  ]
+}

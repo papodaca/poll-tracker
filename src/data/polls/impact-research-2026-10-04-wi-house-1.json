@@ -1,0 +1,19 @@
+{
+  "id": "impact-research-2026-10-04-wi-house-1",
+  "raceId": "2026-wi-house-1",
+  "pollster": "Impact Research",
+  "startDate": "2026-10-04",
+  "endDate": "2026-10-04",
+  "url": "https://bsky.app/profile/the-downballot.com/post/3mwyouhbwg22k",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "wi-house-1-mitchell-berman",
+      "percent": 48
+    },
+    {
+      "candidateId": "wi-house-1-bryan-steil",
+      "percent": 47
+    }
+  ]
+}

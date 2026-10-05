@@ -1,0 +1,22 @@
+{
+  "id": "ivc-media-2026-10-02-ca-governor",
+  "raceId": "2026-ca-governor",
+  "pollster": "IVC Media",
+  "sponsor": "Independent Voter Project",
+  "startDate": "2026-09-23",
+  "endDate": "2026-10-02",
+  "sampleSize": 2906,
+  "population": "LV",
+  "url": "https://ivn.us/new-ca-poll-voter-id-measure-leads-today-its-undecided-voters-point-the-other-way/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ca-governor-xavier-becerra",
+      "percent": 48
+    },
+    {
+      "candidateId": "ca-governor-steve-hilton",
+      "percent": 38
+    }
+  ]
+}

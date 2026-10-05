@@ -1,0 +1,22 @@
+{
+  "id": "surveyusa-2026-09-30-nm-governor",
+  "raceId": "2026-nm-governor",
+  "pollster": "SurveyUSA",
+  "sponsor": "KOB (Albuquerque, N.M.)",
+  "startDate": "2026-09-25",
+  "endDate": "2026-09-30",
+  "sampleSize": 567,
+  "population": "LV",
+  "url": "https://www.kob.com/new-mexico/kob-poll-finds-haaland-leading-hull-by-6-points-in-head-to-head-race/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nm-governor-deb-haaland",
+      "percent": 47
+    },
+    {
+      "candidateId": "nm-governor-gregg-hull",
+      "percent": 41
+    }
+  ]
+}

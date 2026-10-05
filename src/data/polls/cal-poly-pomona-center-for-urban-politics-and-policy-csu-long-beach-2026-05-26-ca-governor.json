@@ -1,0 +1,22 @@
+{
+  "id": "cal-poly-pomona-center-for-urban-politics-and-policy-csu-long-beach-2026-05-26-ca-governor",
+  "raceId": "2026-ca-governor",
+  "pollster": "Cal Poly Pomona / Center for Urban Politics and Policy, CSU Long Beach",
+  "sponsor": "University of Southern California",
+  "startDate": "2026-05-23",
+  "endDate": "2026-05-26",
+  "sampleSize": 735,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/06/01/Cal-Poly-Pomona/Center-for-Urban-Politics-and-Policy,-CSU-Long-Beach/University-of-Southern-California-California",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ca-governor-steve-hilton",
+      "percent": 35
+    },
+    {
+      "candidateId": "ca-governor-xavier-becerra",
+      "percent": 58
+    }
+  ]
+}
