@@ -1,0 +1,21 @@
+{
+  "id": "ppp-2026-09-01-il-senate-class-2",
+  "raceId": "2026-il-senate-class-2",
+  "pollster": "PPP",
+  "startDate": "2025-10-30",
+  "endDate": "2026-09-01",
+  "sampleSize": 569,
+  "population": "LV",
+  "url": "https://www.cnwmedia.com/article/cnw-poll-pritzker-leads-bailey-by-20-points-democrats-ahead-in-four-other-statewide-races",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "il-senate-juliana-stratton",
+      "percent": 49
+    },
+    {
+      "candidateId": "il-senate-don-tracy",
+      "percent": 36
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "public-policy-polling-2026-10-01-il-senate-class-2",
+  "raceId": "2026-il-senate-class-2",
+  "pollster": "Public Policy Polling",
+  "sponsor": "Chicago News Weekly",
+  "startDate": "2026-09-30",
+  "endDate": "2026-10-01",
+  "sampleSize": 569,
+  "population": "LV",
+  "url": "https://www.cnwmedia.com/article/cnw-poll-pritzker-leads-bailey-by-20-points-democrats-ahead-in-four-other-statewide-races",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "il-senate-juliana-stratton",
+      "percent": 49
+    },
+    {
+      "candidateId": "il-senate-don-tracy",
+      "percent": 36
+    }
+  ]
+}

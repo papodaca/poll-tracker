@@ -1,0 +1,26 @@
+{
+  "id": "public-policy-polling-2026-10-01-il-governor",
+  "raceId": "2026-il-governor",
+  "pollster": "Public Policy Polling",
+  "sponsor": "Chicago News Weekly",
+  "startDate": "2026-09-30",
+  "endDate": "2026-10-01",
+  "sampleSize": 569,
+  "population": "LV",
+  "url": "https://www.cnwmedia.com/article/cnw-poll-pritzker-leads-bailey-by-20-points-democrats-ahead-in-four-other-statewide-races",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "il-governor-darren-bailey",
+      "percent": 34
+    },
+    {
+      "candidateId": "il-governor-jb-pritzker",
+      "percent": 54
+    },
+    {
+      "candidateId": "il-governor-collin-corbett",
+      "percent": 6
+    }
+  ]
+}

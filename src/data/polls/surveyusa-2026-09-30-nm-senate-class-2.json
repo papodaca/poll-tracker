@@ -1,0 +1,22 @@
+{
+  "id": "surveyusa-2026-09-30-nm-senate-class-2",
+  "raceId": "2026-nm-senate-class-2",
+  "pollster": "SurveyUSA",
+  "sponsor": "KOB (Albuquerque, N.M.)",
+  "startDate": "2026-09-25",
+  "endDate": "2026-09-30",
+  "sampleSize": 567,
+  "population": "LV",
+  "url": "https://results.surveyusa.com/client/PollReport.aspx?g=6e6ded19-6ad8-4379-8fa9-6a15dfa99052",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nm-senate-ben-ray-lujan",
+      "percent": 54
+    },
+    {
+      "candidateId": "nm-senate-larry-marker",
+      "percent": 36
+    }
+  ]
+}

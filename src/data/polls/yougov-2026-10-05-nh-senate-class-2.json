@@ -1,0 +1,21 @@
+{
+  "id": "yougov-2026-10-05-nh-senate-class-2",
+  "raceId": "2026-nh-senate-class-2",
+  "pollster": "YouGov",
+  "startDate": "2026-09-28",
+  "endDate": "2026-10-05",
+  "sampleSize": 1519,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/06/YouGov-New-Hampshire",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nh-senate-john-sununu",
+      "percent": 43
+    },
+    {
+      "candidateId": "nh-senate-chris-pappas",
+      "percent": 51
+    }
+  ]
+}

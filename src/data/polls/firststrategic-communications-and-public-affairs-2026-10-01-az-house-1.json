@@ -1,0 +1,21 @@
+{
+  "id": "firststrategic-communications-and-public-affairs-2026-10-01-az-house-1",
+  "raceId": "2026-az-house-1",
+  "pollster": "FirstStrategic Communications and Public Affairs",
+  "startDate": "2026-10-01",
+  "endDate": "2026-10-01",
+  "sampleSize": 400,
+  "population": "LV",
+  "url": "https://s3.documentcloud.org/documents/28722214/shahfeeley-poll-release.pdf",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "az-house-1-amish-shah",
+      "percent": 44.4
+    },
+    {
+      "candidateId": "az-house-1-jay-feely",
+      "percent": 41.6
+    }
+  ]
+}

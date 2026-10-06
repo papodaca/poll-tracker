@@ -1,0 +1,21 @@
+{
+  "id": "public-policy-polling-2026-10-02-fl-house-16",
+  "raceId": "2026-fl-house-16",
+  "pollster": "Public Policy Polling",
+  "startDate": "2026-10-01",
+  "endDate": "2026-10-02",
+  "sampleSize": 530,
+  "population": "RV",
+  "url": "https://drive.google.com/file/d/1SdUgc3IAuqOAkDggjzfiHIkhI5TNRSuF/view?usp=sharing",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-house-16-kelly-kirschner",
+      "percent": 39
+    },
+    {
+      "candidateId": "fl-house-16-sydney-gruters",
+      "percent": 43
+    }
+  ]
+}

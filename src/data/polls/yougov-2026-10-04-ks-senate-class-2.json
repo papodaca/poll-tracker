@@ -1,0 +1,21 @@
+{
+  "id": "yougov-2026-10-04-ks-senate-class-2",
+  "raceId": "2026-ks-senate-class-2",
+  "pollster": "YouGov",
+  "startDate": "2026-09-24",
+  "endDate": "2026-10-04",
+  "sampleSize": 2255,
+  "population": "LV",
+  "url": "https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_ks_20260921_lv.pdf",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ks-senate-adam-hamilton",
+      "percent": 48
+    },
+    {
+      "candidateId": "ks-senate-roger-marshall",
+      "percent": 45
+    }
+  ]
+}

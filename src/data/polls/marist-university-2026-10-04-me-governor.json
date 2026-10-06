@@ -1,0 +1,25 @@
+{
+  "id": "marist-university-2026-10-04-me-governor",
+  "raceId": "2026-me-governor",
+  "pollster": "Marist University",
+  "startDate": "2026-10-01",
+  "endDate": "2026-10-04",
+  "sampleSize": 1505,
+  "population": "RV",
+  "url": "https://maristpoll.marist.edu/polls/midterm-elections-in-maine-october-2026/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "me-governor-bobby-charles",
+      "percent": 40
+    },
+    {
+      "candidateId": "me-governor-hannah-pingree",
+      "percent": 52
+    },
+    {
+      "candidateId": "me-governor-rick-bennett",
+      "percent": 6
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "yougov-2026-09-30-oh-governor",
+  "raceId": "2026-oh-governor",
+  "pollster": "YouGov",
+  "startDate": "2026-09-18",
+  "endDate": "2026-09-30",
+  "sampleSize": 3777,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/06/YouGov-Ohio",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "oh-governor-vivek-ramaswamy",
+      "percent": 44
+    },
+    {
+      "candidateId": "oh-governor-amy-acton",
+      "percent": 48
+    }
+  ]
+}

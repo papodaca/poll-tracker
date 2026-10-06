@@ -1,0 +1,21 @@
+{
+  "id": "mprc-2026-09-29-me-senate-class-2",
+  "raceId": "2026-me-senate-class-2",
+  "pollster": "MPRC",
+  "startDate": "2026-09-25",
+  "endDate": "2026-09-29",
+  "sampleSize": 684,
+  "population": "LV",
+  "url": "https://drive.google.com/file/d/1nVC9doKmSak5hQ8ajaaKftWiXSEZf-Us/view",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "me-senate-troy-jackson",
+      "percent": 49
+    },
+    {
+      "candidateId": "me-senate-susan-collins",
+      "percent": 47
+    }
+  ]
+}

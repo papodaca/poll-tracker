@@ -1,0 +1,21 @@
+{
+  "id": "yougov-2026-10-03-ne-governor",
+  "raceId": "2026-ne-governor",
+  "pollster": "YouGov",
+  "startDate": "2026-09-24",
+  "endDate": "2026-10-03",
+  "sampleSize": 1809,
+  "population": "LV",
+  "url": "https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_ne_20260921_lv.pdf",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ne-governor-lynne-walz",
+      "percent": 43
+    },
+    {
+      "candidateId": "ne-governor-jim-pillen",
+      "percent": 44
+    }
+  ]
+}

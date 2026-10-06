@@ -1,0 +1,22 @@
+{
+  "id": "co-efficient-2026-09-25-ny-governor",
+  "raceId": "2026-ny-governor",
+  "pollster": "co/efficient",
+  "sponsor": "Coalition to Protect Nassau Taxpayers",
+  "startDate": "2026-09-23",
+  "endDate": "2026-09-25",
+  "sampleSize": 1046,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/06/co/efficient/Coalition-to-Protect-Nassau-Taxpayers-New-York-2026-09-23-2026-09-25",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ny-governor-kathy-hochul",
+      "percent": 48
+    },
+    {
+      "candidateId": "ny-governor-bruce-blakeman",
+      "percent": 41
+    }
+  ]
+}

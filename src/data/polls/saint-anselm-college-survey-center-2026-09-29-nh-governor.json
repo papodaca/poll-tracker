@@ -1,0 +1,22 @@
+{
+  "id": "saint-anselm-college-survey-center-2026-09-29-nh-governor",
+  "raceId": "2026-nh-governor",
+  "pollster": "Saint Anselm College Survey Center",
+  "sponsor": "AARP",
+  "startDate": "2026-09-28",
+  "endDate": "2026-09-29",
+  "sampleSize": 1042,
+  "population": "LV",
+  "url": "https://www.aarp.org/pri/topics/voter-research/politics/2026-midterm-election-poll-new-hampshire",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nh-governor-cinde-warmington",
+      "percent": 45
+    },
+    {
+      "candidateId": "nh-governor-kelly-ayotte",
+      "percent": 52
+    }
+  ]
+}

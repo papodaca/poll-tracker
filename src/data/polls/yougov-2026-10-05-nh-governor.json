@@ -1,0 +1,21 @@
+{
+  "id": "yougov-2026-10-05-nh-governor",
+  "raceId": "2026-nh-governor",
+  "pollster": "YouGov",
+  "startDate": "2026-09-28",
+  "endDate": "2026-10-05",
+  "sampleSize": 1520,
+  "population": "LV",
+  "url": "https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_nh_20260921_lv.pdf",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nh-governor-cinde-warmington",
+      "percent": 40
+    },
+    {
+      "candidateId": "nh-governor-kelly-ayotte",
+      "percent": 49
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "yougov-2026-10-04-ks-governor",
+  "raceId": "2026-ks-governor",
+  "pollster": "YouGov",
+  "startDate": "2026-09-24",
+  "endDate": "2026-10-04",
+  "sampleSize": 2255,
+  "population": "LV",
+  "url": "https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_ks_20260921_lv.pdf",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ks-governor-cindy-holscher",
+      "percent": 44
+    },
+    {
+      "candidateId": "ks-governor-ty-masterson",
+      "percent": 47
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "saint-anselm-new-hampshire-institute-of-politics-2026-09-29-nh-senate-class-2",
+  "raceId": "2026-nh-senate-class-2",
+  "pollster": "Saint Anselm New Hampshire Institute of Politics",
+  "sponsor": "AARP",
+  "startDate": "2026-09-28",
+  "endDate": "2026-09-29",
+  "sampleSize": 1042,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/06/Saint-Anselm-New-Hampshire-Institute-of-Politics/AARP-New-Hampshire-2026-09-28-2026-09-29",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nh-senate-chris-pappas",
+      "percent": 51
+    },
+    {
+      "candidateId": "nh-senate-john-sununu",
+      "percent": 44
+    }
+  ]
+}
