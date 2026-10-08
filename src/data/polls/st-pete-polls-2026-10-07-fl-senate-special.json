@@ -1,0 +1,22 @@
+{
+  "id": "st-pete-polls-2026-10-07-fl-senate-special",
+  "raceId": "2026-fl-senate-special",
+  "pollster": "St. Pete Polls",
+  "sponsor": "Florida Politics",
+  "startDate": "2026-10-05",
+  "endDate": "2026-10-07",
+  "sampleSize": 836,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/08/St.-Pete-Polls/Florida-Politics-Florida-2026-10-05-2026-10-07",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-senate-angie-nixon",
+      "percent": 44.9
+    },
+    {
+      "candidateId": "fl-senate-ashley-moody",
+      "percent": 46.8
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "impact-research-2026-10-04-tx-house-2",
+  "raceId": "2026-tx-house-2",
+  "pollster": "Impact Research",
+  "startDate": "2026-09-29",
+  "endDate": "2026-10-04",
+  "sampleSize": 501,
+  "population": "LV",
+  "url": "https://x.com/shaunfinnie/status/2107949838692184095?s=20",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-house-2-shaun-finnie",
+      "percent": 37
+    },
+    {
+      "candidateId": "tx-house-2-steve-toth",
+      "percent": 46
+    }
+  ]
+}

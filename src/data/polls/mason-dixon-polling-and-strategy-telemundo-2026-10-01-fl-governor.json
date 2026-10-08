@@ -1,0 +1,22 @@
+{
+  "id": "mason-dixon-polling-and-strategy-telemundo-2026-10-01-fl-governor",
+  "raceId": "2026-fl-governor",
+  "pollster": "Mason-Dixon Polling & Strategy / Telemundo",
+  "sponsor": "NBC6",
+  "startDate": "2026-09-28",
+  "endDate": "2026-10-01",
+  "sampleSize": 625,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/07/Mason-Dixon-Polling-&-Strategy/NBC6/Telemundo-Florida-2026-09-28-2026-10-01",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-governor-david-jolly",
+      "percent": 41
+    },
+    {
+      "candidateId": "fl-governor-byron-donalds",
+      "percent": 48
+    }
+  ]
+}

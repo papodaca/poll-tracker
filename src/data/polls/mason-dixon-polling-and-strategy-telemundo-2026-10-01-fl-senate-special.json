@@ -1,0 +1,22 @@
+{
+  "id": "mason-dixon-polling-and-strategy-telemundo-2026-10-01-fl-senate-special",
+  "raceId": "2026-fl-senate-special",
+  "pollster": "Mason-Dixon Polling & Strategy / Telemundo",
+  "sponsor": "NBC6",
+  "startDate": "2026-09-28",
+  "endDate": "2026-10-01",
+  "sampleSize": 625,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/07/Mason-Dixon-Polling-&-Strategy/NBC6/Telemundo-Florida-2026-09-28-2026-10-01",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-senate-angie-nixon",
+      "percent": 40
+    },
+    {
+      "candidateId": "fl-senate-ashley-moody",
+      "percent": 50
+    }
+  ]
+}

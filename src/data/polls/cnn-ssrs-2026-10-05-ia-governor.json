@@ -1,0 +1,21 @@
+{
+  "id": "cnn-ssrs-2026-10-05-ia-governor",
+  "raceId": "2026-ia-governor",
+  "pollster": "CNN/SSRS",
+  "startDate": "2026-09-29",
+  "endDate": "2026-10-05",
+  "sampleSize": 801,
+  "population": "LV",
+  "url": "https://www.cnn.com/2026/10/08/politics/cnn-polls-ohio-iowa-senate-governor-midterms",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ia-governor-rob-sand",
+      "percent": 51
+    },
+    {
+      "candidateId": "ia-governor-zach-lahn",
+      "percent": 42
+    }
+  ]
+}

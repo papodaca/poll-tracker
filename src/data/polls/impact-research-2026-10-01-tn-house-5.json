@@ -1,0 +1,21 @@
+{
+  "id": "impact-research-2026-10-01-tn-house-5",
+  "raceId": "2026-tn-house-5",
+  "pollster": "Impact Research",
+  "startDate": "2026-09-28",
+  "endDate": "2026-10-01",
+  "sampleSize": 552,
+  "population": "LV",
+  "url": "https://www.tennessean.com/story/news/politics/elections/2026/10/07/poll-molder-hatcher-congress-election/92135891007/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tn-house-5-chaz-molder",
+      "percent": 41
+    },
+    {
+      "candidateId": "tn-house-5-charlie-hatcher",
+      "percent": 46
+    }
+  ]
+}

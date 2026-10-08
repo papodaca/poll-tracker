@@ -1,0 +1,21 @@
+{
+  "id": "equis-research-2026-09-09-az-governor",
+  "raceId": "2026-az-governor",
+  "pollster": "Equis Research",
+  "startDate": "2026-09-01",
+  "endDate": "2026-09-09",
+  "sampleSize": 1214,
+  "population": "RV",
+  "url": "https://www.weareequis.us/research/memo-arizona-voter-research---sept-2026",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "az-governor-katie-hobbs",
+      "percent": 49
+    },
+    {
+      "candidateId": "az-governor-andy-biggs",
+      "percent": 43
+    }
+  ]
+}

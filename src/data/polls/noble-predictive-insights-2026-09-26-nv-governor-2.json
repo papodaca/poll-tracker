@@ -1,0 +1,25 @@
+{
+  "id": "noble-predictive-insights-2026-09-26-nv-governor-2",
+  "raceId": "2026-nv-governor",
+  "pollster": "Noble Predictive Insights",
+  "startDate": "2026-09-22",
+  "endDate": "2026-09-26",
+  "sampleSize": 708,
+  "population": "LV",
+  "url": "https://www.noblepredictiveinsights.com/post/lombardo-tries-to-escape-trump-s-orbit-up-2-over-ford",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nv-governor-aaron-ford",
+      "percent": 40
+    },
+    {
+      "candidateId": "nv-governor-joe-lombardo",
+      "percent": 42
+    },
+    {
+      "candidateId": "nv-governor-danielle-ford",
+      "percent": 7
+    }
+  ]
+}

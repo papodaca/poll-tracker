@@ -1,0 +1,21 @@
+{
+  "id": "marist-college-2026-10-04-me-governor",
+  "raceId": "2026-me-governor",
+  "pollster": "Marist College",
+  "startDate": "2026-10-01",
+  "endDate": "2026-10-04",
+  "sampleSize": 1505,
+  "population": "RV",
+  "url": "https://data.ddhq.io/polls/2026/10/06/Marist-College-Maine",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "me-governor-bobby-charles",
+      "percent": 40
+    },
+    {
+      "candidateId": "me-governor-hannah-pingree",
+      "percent": 52
+    }
+  ]
+}

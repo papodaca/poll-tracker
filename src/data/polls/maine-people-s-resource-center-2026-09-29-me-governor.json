@@ -1,0 +1,21 @@
+{
+  "id": "maine-people-s-resource-center-2026-09-29-me-governor",
+  "raceId": "2026-me-governor",
+  "pollster": "Maine People's Resource Center",
+  "startDate": "2026-09-25",
+  "endDate": "2026-09-29",
+  "sampleSize": 684,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/06/Maine-People's-Resource-Center-Maine",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "me-governor-hannah-pingree",
+      "percent": 49.9
+    },
+    {
+      "candidateId": "me-governor-bobby-charles",
+      "percent": 33.8
+    }
+  ]
+}

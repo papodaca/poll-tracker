@@ -1,0 +1,22 @@
+{
+  "id": "fabrizio-ward-impact-research-2026-09-22-me-governor",
+  "raceId": "2026-me-governor",
+  "pollster": "Fabrizio Ward / Impact Research",
+  "sponsor": "AARP",
+  "startDate": "2026-09-20",
+  "endDate": "2026-09-22",
+  "sampleSize": 982,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/01/Fabrizio-Ward/Impact-Research/AARP-Maine-2026-09-20-2026-09-22",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "me-governor-hannah-pingree",
+      "percent": 52
+    },
+    {
+      "candidateId": "me-governor-bobby-charles",
+      "percent": 39
+    }
+  ]
+}

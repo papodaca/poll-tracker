@@ -1,0 +1,22 @@
+{
+  "id": "gbao-2026-10-04-ks-senate-class-2",
+  "raceId": "2026-ks-senate-class-2",
+  "pollster": "GBAO",
+  "sponsor": "Adam Hamilton",
+  "startDate": "2026-09-30",
+  "endDate": "2026-10-04",
+  "sampleSize": 600,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/07/GBAO/Adam-Hamilton-Kansas-2026-09-30-2026-10-04",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ks-senate-adam-hamilton",
+      "percent": 49
+    },
+    {
+      "candidateId": "ks-senate-roger-marshall",
+      "percent": 44
+    }
+  ]
+}

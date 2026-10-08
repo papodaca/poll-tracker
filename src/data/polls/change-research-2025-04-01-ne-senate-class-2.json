@@ -1,0 +1,22 @@
+{
+  "id": "change-research-2025-04-01-ne-senate-class-2",
+  "raceId": "2026-ne-senate-class-2",
+  "pollster": "Change Research",
+  "sponsor": "Dan Osborn",
+  "startDate": "2025-03-28",
+  "endDate": "2025-04-01",
+  "sampleSize": 524,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2025/08/14/Change Research/Dan Osborn-Nebraska-2025-03-28-2025-04-01",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ne-senate-pete-ricketts",
+      "percent": 44
+    },
+    {
+      "candidateId": "ne-senate-dan-osborn",
+      "percent": 44
+    }
+  ]
+}

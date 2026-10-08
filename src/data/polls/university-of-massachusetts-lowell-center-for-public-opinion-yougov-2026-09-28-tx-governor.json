@@ -1,0 +1,25 @@
+{
+  "id": "university-of-massachusetts-lowell-center-for-public-opinion-yougov-2026-09-28-tx-governor",
+  "raceId": "2026-tx-governor",
+  "pollster": "University of Massachusetts Lowell Center for Public Opinion/YouGov",
+  "startDate": "2026-09-18",
+  "endDate": "2026-09-28",
+  "sampleSize": 850,
+  "population": "LV",
+  "url": "https://www.uml.edu/news/press-releases/2026/10092026-texas-poll.aspx",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-governor-gina-hinojosa",
+      "percent": 44
+    },
+    {
+      "candidateId": "tx-governor-greg-abbott",
+      "percent": 48
+    },
+    {
+      "candidateId": "tx-governor-pat-dixon",
+      "percent": 1
+    }
+  ]
+}

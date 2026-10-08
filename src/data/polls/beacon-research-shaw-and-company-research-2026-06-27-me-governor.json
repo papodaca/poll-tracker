@@ -1,0 +1,22 @@
+{
+  "id": "beacon-research-shaw-and-company-research-2026-06-27-me-governor",
+  "raceId": "2026-me-governor",
+  "pollster": "Beacon Research / Shaw & Company Research",
+  "sponsor": "Fox News",
+  "startDate": "2026-06-23",
+  "endDate": "2026-06-27",
+  "sampleSize": 1003,
+  "population": "RV",
+  "url": "https://data.ddhq.io/polls/2026/06/30/Beacon-Research/Shaw-&-Company-Research/Fox-News-Maine-2026-06-23-2026-06-27",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "me-governor-bobby-charles",
+      "percent": 42
+    },
+    {
+      "candidateId": "me-governor-hannah-pingree",
+      "percent": 53
+    }
+  ]
+}

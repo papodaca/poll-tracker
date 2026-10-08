@@ -1,0 +1,22 @@
+{
+  "id": "siena-research-institute-the-new-york-times-2026-06-26-me-governor",
+  "raceId": "2026-me-governor",
+  "pollster": "Siena Research Institute / The New York Times",
+  "sponsor": "Portland Press Herald",
+  "startDate": "2026-06-19",
+  "endDate": "2026-06-26",
+  "sampleSize": 608,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/06/29/Siena-Research-Institute/The-New-York-Times-Maine-2026-06-19-2026-06-26",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "me-governor-hannah-pingree",
+      "percent": 50
+    },
+    {
+      "candidateId": "me-governor-bobby-charles",
+      "percent": 36
+    }
+  ]
+}

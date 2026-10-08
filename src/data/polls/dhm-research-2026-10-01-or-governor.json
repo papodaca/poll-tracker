@@ -1,0 +1,26 @@
+{
+  "id": "dhm-research-2026-10-01-or-governor",
+  "raceId": "2026-or-governor",
+  "pollster": "DHM Research",
+  "sponsor": "The Oregonian/OregonLive",
+  "startDate": "2026-09-24",
+  "endDate": "2026-10-01",
+  "sampleSize": 549,
+  "population": "LV",
+  "url": "https://www.oregonlive.com/politics/2026/10/oregon-governors-race-may-be-shifting-new-poll-shows.html",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "or-governor-christine-drazan",
+      "percent": 44
+    },
+    {
+      "candidateId": "or-governor-tina-kotek",
+      "percent": 46
+    },
+    {
+      "candidateId": "or-governor-brett-smith",
+      "percent": 3
+    }
+  ]
+}

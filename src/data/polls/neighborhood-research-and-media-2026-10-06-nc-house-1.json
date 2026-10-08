@@ -1,0 +1,21 @@
+{
+  "id": "neighborhood-research-and-media-2026-10-06-nc-house-1",
+  "raceId": "2026-nc-house-1",
+  "pollster": "Neighborhood Research and Media",
+  "startDate": "2026-10-01",
+  "endDate": "2026-10-06",
+  "sampleSize": 303,
+  "population": "LV",
+  "url": "https://x.com/Shaftan/status/2107772933322277266",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nc-house-1-don-davis",
+      "percent": 51
+    },
+    {
+      "candidateId": "nc-house-1-laurie-buckhout",
+      "percent": 41
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "quinnipiac-university-2026-10-05-pa-governor-2",
+  "raceId": "2026-pa-governor",
+  "pollster": "Quinnipiac University",
+  "startDate": "2026-10-01",
+  "endDate": "2026-10-05",
+  "sampleSize": 1159,
+  "population": "LV",
+  "url": "https://poll.qu.edu/poll-release?releaseid=3970",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "pa-governor-stacy-garrity",
+      "percent": 34
+    },
+    {
+      "candidateId": "pa-governor-josh-shapiro",
+      "percent": 59
+    },
+    {
+      "candidateId": "pa-governor-ken-krawchuk",
+      "percent": 2
+    }
+  ]
+}

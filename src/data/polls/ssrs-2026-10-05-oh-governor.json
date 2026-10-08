@@ -1,0 +1,22 @@
+{
+  "id": "ssrs-2026-10-05-oh-governor",
+  "raceId": "2026-oh-governor",
+  "pollster": "SSRS",
+  "sponsor": "CNN",
+  "startDate": "2026-09-29",
+  "endDate": "2026-10-05",
+  "sampleSize": 760,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/08/SSRS/CNN-Ohio-2026-09-29-2026-10-05",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "oh-governor-vivek-ramaswamy",
+      "percent": 42
+    },
+    {
+      "candidateId": "oh-governor-amy-acton",
+      "percent": 50
+    }
+  ]
+}

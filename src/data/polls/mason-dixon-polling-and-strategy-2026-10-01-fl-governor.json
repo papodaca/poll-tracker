@@ -1,0 +1,22 @@
+{
+  "id": "mason-dixon-polling-and-strategy-2026-10-01-fl-governor",
+  "raceId": "2026-fl-governor",
+  "pollster": "Mason-Dixon Polling & Strategy",
+  "sponsor": "Telemundo / WTVJ (Miami)",
+  "startDate": "2026-09-28",
+  "endDate": "2026-10-01",
+  "sampleSize": 625,
+  "population": "LV",
+  "url": "https://www.nbcnews.com/politics/2026-election/florida-poll-republicans-lead-races-governor-senate-rcna601342",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-governor-byron-donalds",
+      "percent": 48
+    },
+    {
+      "candidateId": "fl-governor-david-jolly",
+      "percent": 41
+    }
+  ]
+}

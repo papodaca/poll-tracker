@@ -1,0 +1,22 @@
+{
+  "id": "guidant-polling-and-strategy-2026-09-28-tx-governor",
+  "raceId": "2026-tx-governor",
+  "pollster": "Guidant Polling and Strategy",
+  "sponsor": "Public First Action",
+  "startDate": "2026-09-20",
+  "endDate": "2026-09-28",
+  "sampleSize": 800,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/07/Guidant-Polling-and-Strategy/Public-First-Action-Texas-2026-09-20-2026-09-28",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-governor-gina-hinojosa",
+      "percent": 44
+    },
+    {
+      "candidateId": "tx-governor-greg-abbott",
+      "percent": 46
+    }
+  ]
+}

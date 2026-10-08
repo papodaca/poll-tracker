@@ -1,0 +1,19 @@
+{
+  "id": "firststrat-cpa-2026-10-06-az-house-1",
+  "raceId": "2026-az-house-1",
+  "pollster": "FirstStrat. CPA",
+  "startDate": "2026-10-06",
+  "endDate": "2026-10-06",
+  "url": "https://s3.documentcloud.org/documents/28722214/shahfeeley-poll-release.pdf",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "az-house-1-amish-shah",
+      "percent": 44.4
+    },
+    {
+      "candidateId": "az-house-1-jay-feely",
+      "percent": 41.6
+    }
+  ]
+}

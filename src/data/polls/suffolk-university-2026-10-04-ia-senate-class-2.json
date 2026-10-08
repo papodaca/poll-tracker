@@ -1,0 +1,21 @@
+{
+  "id": "suffolk-university-2026-10-04-ia-senate-class-2",
+  "raceId": "2026-ia-senate-class-2",
+  "pollster": "Suffolk University",
+  "startDate": "2026-10-01",
+  "endDate": "2026-10-04",
+  "sampleSize": 500,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/07/Suffolk-University-Iowa",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ia-senate-josh-turek",
+      "percent": 48
+    },
+    {
+      "candidateId": "ia-senate-ashley-hinson",
+      "percent": 44
+    }
+  ]
+}

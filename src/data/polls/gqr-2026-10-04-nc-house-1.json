@@ -1,0 +1,25 @@
+{
+  "id": "gqr-2026-10-04-nc-house-1",
+  "raceId": "2026-nc-house-1",
+  "pollster": "GQR",
+  "startDate": "2026-09-29",
+  "endDate": "2026-10-04",
+  "sampleSize": 500,
+  "population": "LV",
+  "url": "https://drive.google.com/file/d/1Yt-bOVqBFd9cPU3A2R1_MuOpnluJwmJM/view",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nc-house-1-don-davis",
+      "percent": 47
+    },
+    {
+      "candidateId": "nc-house-1-laurie-buckhout",
+      "percent": 39
+    },
+    {
+      "candidateId": "nc-house-1-tom-bailey",
+      "percent": 8
+    }
+  ]
+}

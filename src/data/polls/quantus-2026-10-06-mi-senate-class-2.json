@@ -1,0 +1,21 @@
+{
+  "id": "quantus-2026-10-06-mi-senate-class-2",
+  "raceId": "2026-mi-senate-class-2",
+  "pollster": "Quantus",
+  "startDate": "2026-10-05",
+  "endDate": "2026-10-06",
+  "sampleSize": 762,
+  "population": "LV",
+  "url": "https://quantusinsights.org/f/michigan-senate-el-sayed-48-rogers-47-at-four-weeks-out",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-senate-abdul-el-sayed",
+      "percent": 48
+    },
+    {
+      "candidateId": "mi-senate-mike-rogers",
+      "percent": 47
+    }
+  ]
+}

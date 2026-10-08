@@ -1,0 +1,22 @@
+{
+  "id": "ssrs-2026-10-05-oh-senate-special",
+  "raceId": "2026-oh-senate-special",
+  "pollster": "SSRS",
+  "sponsor": "CNN",
+  "startDate": "2026-09-29",
+  "endDate": "2026-10-05",
+  "sampleSize": 760,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/08/SSRS/CNN-Ohio-2026-09-29-2026-10-05",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "oh-senate-jon-husted",
+      "percent": 43
+    },
+    {
+      "candidateId": "oh-senate-sherrod-brown",
+      "percent": 49
+    }
+  ]
+}

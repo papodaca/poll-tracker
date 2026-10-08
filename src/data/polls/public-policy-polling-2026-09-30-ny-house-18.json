@@ -1,0 +1,21 @@
+{
+  "id": "public-policy-polling-2026-09-30-ny-house-18",
+  "raceId": "2026-ny-house-18",
+  "pollster": "Public Policy Polling",
+  "startDate": "2026-09-29",
+  "endDate": "2026-09-30",
+  "sampleSize": 561,
+  "population": "V",
+  "url": "https://x.com/TimmyFacciola_/status/2107831346185846874?s=20",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ny-house-18-pat-ryan",
+      "percent": 52
+    },
+    {
+      "candidateId": "ny-house-18-jacqueline-auringer",
+      "percent": 35
+    }
+  ]
+}

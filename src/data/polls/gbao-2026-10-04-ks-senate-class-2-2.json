@@ -1,0 +1,25 @@
+{
+  "id": "gbao-2026-10-04-ks-senate-class-2-2",
+  "raceId": "2026-ks-senate-class-2",
+  "pollster": "GBAO",
+  "startDate": "2026-09-30",
+  "endDate": "2026-10-04",
+  "sampleSize": 600,
+  "population": "LV",
+  "url": "https://x.com/sambbenson/status/2107792740259914148",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ks-senate-adam-hamilton",
+      "percent": 46
+    },
+    {
+      "candidateId": "ks-senate-roger-marshall",
+      "percent": 41
+    },
+    {
+      "candidateId": "ks-senate-david-c-graham",
+      "percent": 7
+    }
+  ]
+}

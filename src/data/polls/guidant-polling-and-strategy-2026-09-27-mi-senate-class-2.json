@@ -1,0 +1,22 @@
+{
+  "id": "guidant-polling-and-strategy-2026-09-27-mi-senate-class-2",
+  "raceId": "2026-mi-senate-class-2",
+  "pollster": "Guidant Polling and Strategy",
+  "sponsor": "Public First Action",
+  "startDate": "2026-09-20",
+  "endDate": "2026-09-27",
+  "sampleSize": 800,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/07/Guidant-Polling-and-Strategy/Public-First-Action-Michigan-2026-09-20-2026-09-28",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-senate-mike-rogers",
+      "percent": 45
+    },
+    {
+      "candidateId": "mi-senate-abdul-el-sayed",
+      "percent": 49
+    }
+  ]
+}

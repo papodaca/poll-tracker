@@ -1,0 +1,19 @@
+{
+  "id": "ppp-2026-10-06-fl-house-16",
+  "raceId": "2026-fl-house-16",
+  "pollster": "PPP",
+  "startDate": "2026-10-06",
+  "endDate": "2026-10-06",
+  "url": "https://drive.google.com/file/d/1SdUgc3IAuqOAkDggjzfiHIkhI5TNRSuF/view",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-house-16-kelly-kirschner",
+      "percent": 39
+    },
+    {
+      "candidateId": "fl-house-16-sydney-gruters",
+      "percent": 43
+    }
+  ]
+}

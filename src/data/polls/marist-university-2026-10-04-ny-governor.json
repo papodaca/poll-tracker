@@ -1,0 +1,21 @@
+{
+  "id": "marist-university-2026-10-04-ny-governor",
+  "raceId": "2026-ny-governor",
+  "pollster": "Marist University",
+  "startDate": "2026-10-01",
+  "endDate": "2026-10-04",
+  "sampleSize": 1361,
+  "population": "RV",
+  "url": "https://maristpoll.marist.edu/polls/midterm-elections-in-new-york-october-2026/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ny-governor-bruce-blakeman",
+      "percent": 42
+    },
+    {
+      "candidateId": "ny-governor-kathy-hochul",
+      "percent": 53
+    }
+  ]
+}

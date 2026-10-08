@@ -1,0 +1,21 @@
+{
+  "id": "gqr-2026-10-05-az-governor",
+  "raceId": "2026-az-governor",
+  "pollster": "GQR",
+  "startDate": "2026-09-30",
+  "endDate": "2026-10-05",
+  "sampleSize": 600,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/08/GQR-Arizona",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "az-governor-andy-biggs",
+      "percent": 45
+    },
+    {
+      "candidateId": "az-governor-katie-hobbs",
+      "percent": 49
+    }
+  ]
+}

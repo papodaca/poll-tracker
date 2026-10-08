@@ -1,0 +1,22 @@
+{
+  "id": "guidant-p-and-s-2026-09-27-mi-senate-class-2",
+  "raceId": "2026-mi-senate-class-2",
+  "pollster": "Guidant P&S",
+  "sponsor": "Super PAC",
+  "startDate": "2026-09-20",
+  "endDate": "2026-09-27",
+  "sampleSize": 800,
+  "population": "LV",
+  "url": "https://x.com/burgessev/status/2107923538392776875?s=20",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-senate-abdul-el-sayed",
+      "percent": 48
+    },
+    {
+      "candidateId": "mi-senate-mike-rogers",
+      "percent": 43
+    }
+  ]
+}

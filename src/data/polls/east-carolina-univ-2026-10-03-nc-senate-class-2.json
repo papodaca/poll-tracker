@@ -1,0 +1,21 @@
+{
+  "id": "east-carolina-univ-2026-10-03-nc-senate-class-2",
+  "raceId": "2026-nc-senate-class-2",
+  "pollster": "East Carolina Univ.",
+  "startDate": "2026-09-30",
+  "endDate": "2026-10-03",
+  "sampleSize": 810,
+  "population": "LV",
+  "url": "https://surveyresearch-ecu.reportablenews.com/pr/ecu-poll-cooper-s-lead-holds-at-7-points",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nc-senate-roy-cooper",
+      "percent": 53
+    },
+    {
+      "candidateId": "nc-senate-michael-whatley",
+      "percent": 46
+    }
+  ]
+}

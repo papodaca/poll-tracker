@@ -1,0 +1,21 @@
+{
+  "id": "co-efficient-2026-10-06-oh-governor",
+  "raceId": "2026-oh-governor",
+  "pollster": "co/efficient",
+  "startDate": "2026-10-05",
+  "endDate": "2026-10-06",
+  "sampleSize": 925,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/08/co/efficient-Ohio",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "oh-governor-amy-acton",
+      "percent": 43
+    },
+    {
+      "candidateId": "oh-governor-vivek-ramaswamy",
+      "percent": 45
+    }
+  ]
+}

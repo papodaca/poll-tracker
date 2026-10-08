@@ -1,0 +1,22 @@
+{
+  "id": "ssrs-2026-10-05-ia-senate-class-2",
+  "raceId": "2026-ia-senate-class-2",
+  "pollster": "SSRS",
+  "sponsor": "CNN",
+  "startDate": "2026-09-29",
+  "endDate": "2026-10-05",
+  "sampleSize": 801,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/08/SSRS/CNN-Iowa-2026-09-29-2026-10-05",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ia-senate-ashley-hinson",
+      "percent": 45
+    },
+    {
+      "candidateId": "ia-senate-josh-turek",
+      "percent": 43
+    }
+  ]
+}

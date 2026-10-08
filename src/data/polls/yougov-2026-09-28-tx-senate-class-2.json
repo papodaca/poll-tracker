@@ -1,0 +1,22 @@
+{
+  "id": "yougov-2026-09-28-tx-senate-class-2",
+  "raceId": "2026-tx-senate-class-2",
+  "pollster": "YouGov",
+  "sponsor": "University of Massachusetts Lowell Center for Public Opinion",
+  "startDate": "2026-09-18",
+  "endDate": "2026-09-28",
+  "sampleSize": 850,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/08/YouGov-Texas",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-senate-ken-paxton",
+      "percent": 45
+    },
+    {
+      "candidateId": "tx-senate-james-talarico",
+      "percent": 45
+    }
+  ]
+}

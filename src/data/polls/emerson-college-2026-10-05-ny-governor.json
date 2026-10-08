@@ -1,0 +1,22 @@
+{
+  "id": "emerson-college-2026-10-05-ny-governor",
+  "raceId": "2026-ny-governor",
+  "pollster": "Emerson College",
+  "sponsor": "WPIX",
+  "startDate": "2026-10-03",
+  "endDate": "2026-10-05",
+  "sampleSize": 900,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/08/Emerson-College/WPIX-New-York-2026-10-03-2026-10-05",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ny-governor-kathy-hochul",
+      "percent": 52.4
+    },
+    {
+      "candidateId": "ny-governor-bruce-blakeman",
+      "percent": 39.7
+    }
+  ]
+}
