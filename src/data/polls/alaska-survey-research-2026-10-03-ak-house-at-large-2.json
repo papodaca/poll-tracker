@@ -1,0 +1,29 @@
+{
+  "id": "alaska-survey-research-2026-10-03-ak-house-at-large-2",
+  "raceId": "2026-ak-house-at-large",
+  "pollster": "Alaska Survey Research",
+  "startDate": "2026-10-01",
+  "endDate": "2026-10-03",
+  "sampleSize": 1512,
+  "population": "LV",
+  "url": "https://x.com/The_Real_ASR/status/2108662812415549529",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ak-house-bill-hill",
+      "percent": 39.9
+    },
+    {
+      "candidateId": "ak-house-nick-begich",
+      "percent": 49.8
+    },
+    {
+      "candidateId": "ak-house-eric-hafner",
+      "percent": 6.9
+    },
+    {
+      "candidateId": "ak-house-at-large-james-c-mcdermott",
+      "percent": 3.4
+    }
+  ]
+}

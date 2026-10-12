@@ -1,0 +1,22 @@
+{
+  "id": "change-research-2026-10-05-ky-house-6",
+  "raceId": "2026-ky-house-6",
+  "pollster": "Change Research",
+  "sponsor": "Kentuckians Not Corruption (super PAC)",
+  "startDate": "2026-09-29",
+  "endDate": "2026-10-05",
+  "sampleSize": 524,
+  "population": "LV",
+  "url": "https://fox56news.com/news/kentucky/new-poll-shows-democrats-with-9-point-lead-in-kentucky-6th-congressional-district-race/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ky-house-6-zach-dembo",
+      "percent": 47
+    },
+    {
+      "candidateId": "ky-house-6-ralph-alvarado",
+      "percent": 38
+    }
+  ]
+}

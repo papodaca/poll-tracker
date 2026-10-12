@@ -1,0 +1,26 @@
+{
+  "id": "grayhouse-2026-10-04-ar-senate-class-2",
+  "raceId": "2026-ar-senate-class-2",
+  "pollster": "Grayhouse",
+  "sponsor": "America One Policies (super PAC)",
+  "startDate": "2026-09-30",
+  "endDate": "2026-10-04",
+  "sampleSize": 550,
+  "population": "LV",
+  "url": "https://x.com/LandonWall_/status/2108601370580332749?s=20",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ar-senate-hallie-shoffner",
+      "percent": 40
+    },
+    {
+      "candidateId": "ar-senate-tom-cotton",
+      "percent": 51
+    },
+    {
+      "candidateId": "ar-senate-jeff-wadlin",
+      "percent": 4
+    }
+  ]
+}

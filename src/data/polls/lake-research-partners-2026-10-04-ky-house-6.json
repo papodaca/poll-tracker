@@ -1,0 +1,22 @@
+{
+  "id": "lake-research-partners-2026-10-04-ky-house-6",
+  "raceId": "2026-ky-house-6",
+  "pollster": "Lake Research Partners",
+  "sponsor": "House Majority PAC (hybrid PAC)",
+  "startDate": "2026-09-30",
+  "endDate": "2026-10-04",
+  "sampleSize": 400,
+  "population": "LV",
+  "url": "https://x.com/cjwarnke/status/2108282466733818029",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ky-house-6-zach-dembo",
+      "percent": 48
+    },
+    {
+      "candidateId": "ky-house-6-ralph-alvarado",
+      "percent": 45
+    }
+  ]
+}

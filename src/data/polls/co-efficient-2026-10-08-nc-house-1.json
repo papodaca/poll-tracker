@@ -1,0 +1,25 @@
+{
+  "id": "co-efficient-2026-10-08-nc-house-1",
+  "raceId": "2026-nc-house-1",
+  "pollster": "co/efficient",
+  "startDate": "2026-10-06",
+  "endDate": "2026-10-08",
+  "sampleSize": 623,
+  "population": "LV",
+  "url": "https://www.politico.com/newsletters/playbook-pm/2026/10/09/trumps-real-prize-01114521",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nc-house-1-don-davis",
+      "percent": 42
+    },
+    {
+      "candidateId": "nc-house-1-laurie-buckhout",
+      "percent": 43
+    },
+    {
+      "candidateId": "nc-house-1-tom-bailey",
+      "percent": 2
+    }
+  ]
+}

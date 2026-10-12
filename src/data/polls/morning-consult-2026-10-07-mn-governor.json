@@ -1,0 +1,22 @@
+{
+  "id": "morning-consult-2026-10-07-mn-governor",
+  "raceId": "2026-mn-governor",
+  "pollster": "Morning Consult",
+  "sponsor": "The Daily Agenda",
+  "startDate": "2026-10-02",
+  "endDate": "2026-10-07",
+  "sampleSize": 1000,
+  "population": "RV",
+  "url": "https://www.thedailyagenda.com/p/morning-take-the-daily-agenda-poll",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mn-governor-lisa-demuth",
+      "percent": 39
+    },
+    {
+      "candidateId": "mn-governor-amy-klobuchar",
+      "percent": 48
+    }
+  ]
+}

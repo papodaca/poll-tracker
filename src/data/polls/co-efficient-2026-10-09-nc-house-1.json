@@ -1,0 +1,19 @@
+{
+  "id": "co-efficient-2026-10-09-nc-house-1",
+  "raceId": "2026-nc-house-1",
+  "pollster": "co/efficient",
+  "startDate": "2026-10-09",
+  "endDate": "2026-10-09",
+  "url": "https://www.politico.com/f/?id=000001a1-2120-d058-adf3-2b6891500000",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nc-house-1-don-davis",
+      "percent": 42
+    },
+    {
+      "candidateId": "nc-house-1-laurie-buckhout",
+      "percent": 43
+    }
+  ]
+}

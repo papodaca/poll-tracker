@@ -1,0 +1,21 @@
+{
+  "id": "impact-research-2026-10-04-ny-house-21",
+  "raceId": "2026-ny-house-21",
+  "pollster": "Impact Research",
+  "startDate": "2026-09-29",
+  "endDate": "2026-10-04",
+  "sampleSize": 500,
+  "population": "LV",
+  "url": "https://www.yahoo.com/news/politics/articles/gendebien-internal-poll-shows-him-110100302.html?guccounter=1",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ny-house-21-blake-gendebien",
+      "percent": 45
+    },
+    {
+      "candidateId": "ny-house-21-anthony-constantino",
+      "percent": 48
+    }
+  ]
+}

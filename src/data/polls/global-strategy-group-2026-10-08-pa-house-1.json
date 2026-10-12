@@ -1,0 +1,21 @@
+{
+  "id": "global-strategy-group-2026-10-08-pa-house-1",
+  "raceId": "2026-pa-house-1",
+  "pollster": "Global Strategy Group",
+  "startDate": "2026-10-01",
+  "endDate": "2026-10-08",
+  "sampleSize": 1032,
+  "population": "LV",
+  "url": "https://www.politico.com/newsletters/playbook/2026/10/11/oct-7-and-nov-3-01115941",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "pa-house-1-bob-harvie",
+      "percent": 46
+    },
+    {
+      "candidateId": "pa-house-1-brian-fitzpatrick",
+      "percent": 46
+    }
+  ]
+}

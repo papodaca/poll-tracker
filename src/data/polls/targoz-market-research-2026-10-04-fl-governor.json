@@ -1,0 +1,22 @@
+{
+  "id": "targoz-market-research-2026-10-04-fl-governor",
+  "raceId": "2026-fl-governor",
+  "pollster": "Targoz Market Research",
+  "sponsor": "The James Madison Institute",
+  "startDate": "2026-09-28",
+  "endDate": "2026-10-04",
+  "sampleSize": 849,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/09/Targoz-Market-Research/The-James-Madison-Institute-Florida-2026-09-28-2026-10-04",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-governor-david-jolly",
+      "percent": 42
+    },
+    {
+      "candidateId": "fl-governor-byron-donalds",
+      "percent": 52
+    }
+  ]
+}

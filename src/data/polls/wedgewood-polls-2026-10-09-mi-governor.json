@@ -1,0 +1,21 @@
+{
+  "id": "wedgewood-polls-2026-10-09-mi-governor",
+  "raceId": "2026-mi-governor",
+  "pollster": "Wedgewood Polls",
+  "startDate": "2026-10-08",
+  "endDate": "2026-10-09",
+  "sampleSize": 607,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/09/Wedgewood-Polls-Michigan",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-governor-john-james",
+      "percent": 45
+    },
+    {
+      "candidateId": "mi-governor-jocelyn-benson",
+      "percent": 55
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "siena-university-2026-10-06-ny-house-21",
+  "raceId": "2026-ny-house-21",
+  "pollster": "Siena University",
+  "sponsor": "WAMC-FM 90.3 (Albany, NY) / Albany Times Union / WPTZ (Plattsburgh, NY)",
+  "startDate": "2026-09-30",
+  "endDate": "2026-10-06",
+  "sampleSize": 496,
+  "population": "LV",
+  "url": "https://www.mynbc5.com/article/poll-new-york-21-constantino-gendebien/74082680",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ny-house-21-blake-gendebien",
+      "percent": 46
+    },
+    {
+      "candidateId": "ny-house-21-anthony-constantino",
+      "percent": 42
+    },
+    {
+      "candidateId": "ny-house-21-christopher-schmidt",
+      "percent": 5
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "gqr-2026-10-04-sc-house-1",
+  "raceId": "2026-sc-house-1",
+  "pollster": "GQR",
+  "sponsor": "Unknown Sponsor",
+  "startDate": "2026-09-30",
+  "endDate": "2026-10-04",
+  "sampleSize": 400,
+  "population": "LV",
+  "url": "https://x.com/AndrewSolender/status/2108617190245306670?s=20",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "sc-house-1-jenny-costa-honeycutt",
+      "percent": 45
+    },
+    {
+      "candidateId": "sc-house-1-nancy-lacore",
+      "percent": 48
+    }
+  ]
+}

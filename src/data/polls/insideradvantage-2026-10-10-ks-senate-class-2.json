@@ -1,0 +1,21 @@
+{
+  "id": "insideradvantage-2026-10-10-ks-senate-class-2",
+  "raceId": "2026-ks-senate-class-2",
+  "pollster": "InsiderAdvantage",
+  "startDate": "2026-10-09",
+  "endDate": "2026-10-10",
+  "sampleSize": 1200,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/11/InsiderAdvantage-Alaska",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ks-senate-roger-marshall",
+      "percent": 47
+    },
+    {
+      "candidateId": "ks-senate-adam-hamilton",
+      "percent": 48
+    }
+  ]
+}

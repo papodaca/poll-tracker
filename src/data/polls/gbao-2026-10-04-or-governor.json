@@ -1,0 +1,25 @@
+{
+  "id": "gbao-2026-10-04-or-governor",
+  "raceId": "2026-or-governor",
+  "pollster": "GBAO",
+  "startDate": "2026-10-01",
+  "endDate": "2026-10-04",
+  "sampleSize": 800,
+  "population": "LV",
+  "url": "https://www.opb.org/article/2026/10/08/new-polls-kotek-may-lead/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "or-governor-christine-drazan",
+      "percent": 42
+    },
+    {
+      "candidateId": "or-governor-tina-kotek",
+      "percent": 46
+    },
+    {
+      "candidateId": "or-governor-brett-smith",
+      "percent": 6
+    }
+  ]
+}

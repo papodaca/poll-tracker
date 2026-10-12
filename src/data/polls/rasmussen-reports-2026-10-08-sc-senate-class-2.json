@@ -1,0 +1,21 @@
+{
+  "id": "rasmussen-reports-2026-10-08-sc-senate-class-2",
+  "raceId": "2026-sc-senate-class-2",
+  "pollster": "Rasmussen Reports",
+  "startDate": "2026-10-05",
+  "endDate": "2026-10-08",
+  "sampleSize": 837,
+  "population": "LV",
+  "url": "https://www.rasmussenreports.com/public_content/politics/elections/election_2026/election_2026_south_carolina_senate",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "sc-senate-annie-andrews",
+      "percent": 45
+    },
+    {
+      "candidateId": "sc-senate-darline-graham",
+      "percent": 49
+    }
+  ]
+}

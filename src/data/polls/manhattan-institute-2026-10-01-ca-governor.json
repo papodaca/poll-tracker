@@ -1,0 +1,21 @@
+{
+  "id": "manhattan-institute-2026-10-01-ca-governor",
+  "raceId": "2026-ca-governor",
+  "pollster": "Manhattan Institute",
+  "startDate": "2026-09-24",
+  "endDate": "2026-10-01",
+  "sampleSize": 1000,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/09/Manhattan-Institute-California",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ca-governor-xavier-becerra",
+      "percent": 55
+    },
+    {
+      "candidateId": "ca-governor-steve-hilton",
+      "percent": 38
+    }
+  ]
+}

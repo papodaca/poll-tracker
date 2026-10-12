@@ -1,0 +1,26 @@
+{
+  "id": "impact-research-2026-09-24-co-house-4",
+  "raceId": "2026-co-house-4",
+  "pollster": "Impact Research",
+  "sponsor": "Invest In Tomorrow Coalition (super PAC)",
+  "startDate": "2026-09-21",
+  "endDate": "2026-09-24",
+  "sampleSize": 403,
+  "population": "LV",
+  "url": "https://drive.google.com/file/d/12RT0LvE5BSSi6z_bud_At7MFBAH7p2FL/view?usp=sharing",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "co-house-4-eileen-laubacher",
+      "percent": 40
+    },
+    {
+      "candidateId": "co-house-4-lauren-boebert",
+      "percent": 45
+    },
+    {
+      "candidateId": "co-house-4-douglas-mangeris",
+      "percent": 9
+    }
+  ]
+}

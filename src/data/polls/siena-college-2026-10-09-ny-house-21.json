@@ -1,0 +1,19 @@
+{
+  "id": "siena-college-2026-10-09-ny-house-21",
+  "raceId": "2026-ny-house-21",
+  "pollster": "Siena College",
+  "startDate": "2026-10-09",
+  "endDate": "2026-10-09",
+  "url": "https://x.com/ReedReports/status/2108492138790965625",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ny-house-21-blake-gendebien",
+      "percent": 46
+    },
+    {
+      "candidateId": "ny-house-21-anthony-constantino",
+      "percent": 42
+    }
+  ]
+}

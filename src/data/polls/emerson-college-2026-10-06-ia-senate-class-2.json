@@ -1,0 +1,21 @@
+{
+  "id": "emerson-college-2026-10-06-ia-senate-class-2",
+  "raceId": "2026-ia-senate-class-2",
+  "pollster": "Emerson College",
+  "startDate": "2026-10-05",
+  "endDate": "2026-10-06",
+  "sampleSize": 650,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/09/Emerson-College-Iowa",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ia-senate-josh-turek",
+      "percent": 45
+    },
+    {
+      "candidateId": "ia-senate-ashley-hinson",
+      "percent": 46.6
+    }
+  ]
+}

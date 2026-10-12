@@ -1,0 +1,22 @@
+{
+  "id": "george-mason-university-schar-school-of-policy-and-government-2026-10-05-me-senate-class-2",
+  "raceId": "2026-me-senate-class-2",
+  "pollster": "George Mason University Schar School of Policy and Government",
+  "sponsor": "The Washington Post",
+  "startDate": "2026-09-30",
+  "endDate": "2026-10-05",
+  "sampleSize": 800,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/09/George-Mason-University-Schar-School-of-Policy-and-Government/The-Washington-Post-Maine-2026-09-30-2026-10-05",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "me-senate-troy-jackson",
+      "percent": 50
+    },
+    {
+      "candidateId": "me-senate-susan-collins",
+      "percent": 46
+    }
+  ]
+}
