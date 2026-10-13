@@ -1,0 +1,19 @@
+{
+  "id": "national-publi-2026-10-12-ne-house-2",
+  "raceId": "2026-ne-house-2",
+  "pollster": "National Publi.",
+  "startDate": "2026-10-12",
+  "endDate": "2026-10-12",
+  "url": "https://backend.natpublicaffairs.com/media/Nebraska_General_Election_Memo_100926.pdf",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ne-house-2-denise-powell",
+      "percent": 50
+    },
+    {
+      "candidateId": "ne-house-2-brinker-harding",
+      "percent": 38
+    }
+  ]
+}

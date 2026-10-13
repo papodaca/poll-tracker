@@ -1,0 +1,22 @@
+{
+  "id": "fabrizio-lee-and-associates-2026-10-11-fl-governor",
+  "raceId": "2026-fl-governor",
+  "pollster": "Fabrizio, Lee & Associates",
+  "sponsor": "Byron Donalds",
+  "startDate": "2026-10-08",
+  "endDate": "2026-10-11",
+  "sampleSize": 1200,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/13/Fabrizio,-Lee-&-Associates/Byron-Donalds-Florida-2026-10-08-2026-10-11",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-governor-byron-donalds",
+      "percent": 46
+    },
+    {
+      "candidateId": "fl-governor-david-jolly",
+      "percent": 39
+    }
+  ]
+}

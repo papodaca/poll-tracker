@@ -1,0 +1,25 @@
+{
+  "id": "insideradvantage-2026-10-10-ks-senate-class-2-2",
+  "raceId": "2026-ks-senate-class-2",
+  "pollster": "InsiderAdvantage",
+  "startDate": "2026-10-09",
+  "endDate": "2026-10-10",
+  "sampleSize": 1200,
+  "population": "LV",
+  "url": "https://insideradvantage.com/insideradvantage-u-s-senate-surveys-alaska-ranks-choice-peltola-50-sullivan-48-kansas-hamilton-48-marshall-47-michigan-el-sayed-48-rogers-46/?utm_source=rss&utm_medium=rss&utm_campaign=insideradvantage-u-s-senate-surveys-alaska-ranks-choice-peltola-50-sullivan-48-kansas-hamilton-48-marshall-47-michigan-el-sayed-48-rogers-46",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ks-senate-adam-hamilton",
+      "percent": 47.5
+    },
+    {
+      "candidateId": "ks-senate-roger-marshall",
+      "percent": 46.7
+    },
+    {
+      "candidateId": "ks-senate-david-c-graham",
+      "percent": 3.4
+    }
+  ]
+}

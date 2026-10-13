@@ -1,0 +1,22 @@
+{
+  "id": "mason-dixon-polling-and-strategy-2026-10-07-mn-senate-class-2",
+  "raceId": "2026-mn-senate-class-2",
+  "pollster": "Mason-Dixon Polling & Strategy",
+  "sponsor": "StarTribune (Minneapolis) / KARE (Minneapolis)",
+  "startDate": "2026-10-05",
+  "endDate": "2026-10-07",
+  "sampleSize": 800,
+  "population": "LV",
+  "url": "https://www.startribune.com/minnesota-poll-flanagan-tafoya-senate/601887443",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mn-senate-michele-tafoya",
+      "percent": 43
+    },
+    {
+      "candidateId": "mn-senate-peggy-flanagan",
+      "percent": 47
+    }
+  ]
+}

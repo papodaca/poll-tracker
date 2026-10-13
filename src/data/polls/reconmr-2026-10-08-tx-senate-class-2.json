@@ -1,0 +1,22 @@
+{
+  "id": "reconmr-2026-10-08-tx-senate-class-2",
+  "raceId": "2026-tx-senate-class-2",
+  "pollster": "ReconMR",
+  "sponsor": "Siena Research Institute",
+  "startDate": "2026-10-05",
+  "endDate": "2026-10-08",
+  "sampleSize": 617,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/13/Siena-Research-Institute/ReconMR-Texas",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-senate-james-talarico",
+      "percent": 48
+    },
+    {
+      "candidateId": "tx-senate-ken-paxton",
+      "percent": 44
+    }
+  ]
+}

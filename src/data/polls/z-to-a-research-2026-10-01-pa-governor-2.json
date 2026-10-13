@@ -1,0 +1,26 @@
+{
+  "id": "z-to-a-research-2026-10-01-pa-governor-2",
+  "raceId": "2026-pa-governor",
+  "pollster": "Z to A Research",
+  "sponsor": "Rust Belt Rising",
+  "startDate": "2026-09-28",
+  "endDate": "2026-10-01",
+  "sampleSize": 630,
+  "population": "LV",
+  "url": "https://x.com/rbrtraining/status/2108302504446337272?s=20",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "pa-governor-stacy-garrity",
+      "percent": 34
+    },
+    {
+      "candidateId": "pa-governor-josh-shapiro",
+      "percent": 53
+    },
+    {
+      "candidateId": "pa-governor-ken-krawchuk",
+      "percent": 3
+    }
+  ]
+}

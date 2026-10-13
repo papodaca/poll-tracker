@@ -1,0 +1,19 @@
+{
+  "id": "impact-research-2026-10-09-co-house-4",
+  "raceId": "2026-co-house-4",
+  "pollster": "Impact Research",
+  "startDate": "2026-10-09",
+  "endDate": "2026-10-09",
+  "url": "https://drive.google.com/file/d/12RT0LvE5BSSi6z_bud_At7MFBAH7p2FL/view",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "co-house-4-eileen-laubacher",
+      "percent": 40
+    },
+    {
+      "candidateId": "co-house-4-lauren-boebert",
+      "percent": 45
+    }
+  ]
+}

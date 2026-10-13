@@ -1,0 +1,26 @@
+{
+  "id": "emerson-college-2026-10-06-ia-senate-class-2-2",
+  "raceId": "2026-ia-senate-class-2",
+  "pollster": "Emerson College",
+  "sponsor": "Nexstar",
+  "startDate": "2026-10-05",
+  "endDate": "2026-10-06",
+  "sampleSize": 650,
+  "population": "LV",
+  "url": "https://emersoncollegepolling.com/iowa-2026-poll-u-s-senate-race-tightens-sand-maintains-edge-for-governor/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ia-senate-josh-turek",
+      "percent": 45
+    },
+    {
+      "candidateId": "ia-senate-ashley-hinson",
+      "percent": 46.6
+    },
+    {
+      "candidateId": "ia-senate-thomas-laehn",
+      "percent": 1.5
+    }
+  ]
+}

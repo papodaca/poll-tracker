@@ -1,0 +1,21 @@
+{
+  "id": "20-20-insight-2026-10-09-ga-house-7",
+  "raceId": "2026-ga-house-7",
+  "pollster": "20/20 Insight",
+  "startDate": "2026-10-06",
+  "endDate": "2026-10-09",
+  "sampleSize": 457,
+  "population": "LV",
+  "url": "https://kozyckiforcongress.com/docs/releases/rel-255316a80123.pdf",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ga-house-7-tony-kozycki",
+      "percent": 47
+    },
+    {
+      "candidateId": "ga-house-7-rich-mccormick",
+      "percent": 45
+    }
+  ]
+}

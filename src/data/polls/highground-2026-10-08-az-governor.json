@@ -1,0 +1,21 @@
+{
+  "id": "highground-2026-10-08-az-governor",
+  "raceId": "2026-az-governor",
+  "pollster": "HighGround",
+  "startDate": "2026-10-06",
+  "endDate": "2026-10-08",
+  "sampleSize": 400,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/13/HighGround-Arizona",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "az-governor-katie-hobbs",
+      "percent": 50.5
+    },
+    {
+      "candidateId": "az-governor-andy-biggs",
+      "percent": 33.7
+    }
+  ]
+}

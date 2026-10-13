@@ -1,0 +1,21 @@
+{
+  "id": "national-public-affairs-2026-10-05-ne-senate-class-2",
+  "raceId": "2026-ne-senate-class-2",
+  "pollster": "National Public Affairs",
+  "startDate": "2026-10-02",
+  "endDate": "2026-10-05",
+  "sampleSize": 800,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/12/National-Public-Affairs-Nebraska",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ne-senate-pete-ricketts",
+      "percent": 46
+    },
+    {
+      "candidateId": "ne-senate-dan-osborn",
+      "percent": 43
+    }
+  ]
+}

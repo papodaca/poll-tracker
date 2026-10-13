@@ -1,0 +1,30 @@
+{
+  "id": "american-pulse-research-and-polling-2026-09-24-mt-senate-class-2-2",
+  "raceId": "2026-mt-senate-class-2",
+  "pollster": "American Pulse Research & Polling",
+  "sponsor": "KULR-TV (Billings, Mont.)",
+  "startDate": "2026-09-19",
+  "endDate": "2026-09-24",
+  "sampleSize": 604,
+  "population": "LV",
+  "url": "https://www.montanarightnow.com/elections/montana-senate-race-kurt-alme-tops-bodnar-and-bankhead-in-new-poll-findings/article_cd8401fb-0470-492c-a53a-c7dfe39552ff.html",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mt-senate-kurt-alme",
+      "percent": 45.1
+    },
+    {
+      "candidateId": "mt-senate-seth-bodnar",
+      "percent": 26.1
+    },
+    {
+      "candidateId": "mt-senate-alani-bankhead",
+      "percent": 18.9
+    },
+    {
+      "candidateId": "mt-senate-kyle-austin",
+      "percent": 2.7
+    }
+  ]
+}

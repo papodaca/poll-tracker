@@ -1,0 +1,22 @@
+{
+  "id": "mason-dixon-polling-and-strategy-2026-10-07-mn-governor",
+  "raceId": "2026-mn-governor",
+  "pollster": "Mason-Dixon Polling & Strategy",
+  "sponsor": "StarTribune (Minneapolis) / KARE (Minneapolis)",
+  "startDate": "2026-10-05",
+  "endDate": "2026-10-07",
+  "sampleSize": 800,
+  "population": "LV",
+  "url": "https://www.startribune.com/minnesota-poll-klobuchar-demuth-governor/601887444",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mn-governor-lisa-demuth",
+      "percent": 41
+    },
+    {
+      "candidateId": "mn-governor-amy-klobuchar",
+      "percent": 50
+    }
+  ]
+}

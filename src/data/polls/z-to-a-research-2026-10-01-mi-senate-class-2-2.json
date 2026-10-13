@@ -1,0 +1,26 @@
+{
+  "id": "z-to-a-research-2026-10-01-mi-senate-class-2-2",
+  "raceId": "2026-mi-senate-class-2",
+  "pollster": "Z to A Research",
+  "sponsor": "Rust Belt Rising",
+  "startDate": "2026-09-28",
+  "endDate": "2026-10-01",
+  "sampleSize": 483,
+  "population": "LV",
+  "url": "https://x.com/rbrtraining/status/2108302504446337272?s=20",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-senate-abdul-el-sayed",
+      "percent": 49
+    },
+    {
+      "candidateId": "mi-senate-mike-rogers",
+      "percent": 42
+    },
+    {
+      "candidateId": "mi-senate-lydia-christensen",
+      "percent": 3
+    }
+  ]
+}

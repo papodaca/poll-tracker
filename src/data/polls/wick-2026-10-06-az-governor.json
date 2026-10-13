@@ -1,0 +1,21 @@
+{
+  "id": "wick-2026-10-06-az-governor",
+  "raceId": "2026-az-governor",
+  "pollster": "Wick",
+  "startDate": "2026-10-03",
+  "endDate": "2026-10-06",
+  "sampleSize": 1513,
+  "population": "LV",
+  "url": "https://wick.io/research-arizona-governor-survey-october-2026",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "az-governor-katie-hobbs",
+      "percent": 48.9
+    },
+    {
+      "candidateId": "az-governor-andy-biggs",
+      "percent": 43.2
+    }
+  ]
+}

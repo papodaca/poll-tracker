@@ -1,0 +1,21 @@
+{
+  "id": "stetson-university-center-for-public-opinion-research-2026-10-09-fl-governor",
+  "raceId": "2026-fl-governor",
+  "pollster": "Stetson University Center for Public Opinion Research",
+  "startDate": "2026-10-01",
+  "endDate": "2026-10-09",
+  "sampleSize": 716,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/13/Stetson-University-Center-for-Public-Opinion-Research-Florida",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-governor-byron-donalds",
+      "percent": 52
+    },
+    {
+      "candidateId": "fl-governor-david-jolly",
+      "percent": 41
+    }
+  ]
+}

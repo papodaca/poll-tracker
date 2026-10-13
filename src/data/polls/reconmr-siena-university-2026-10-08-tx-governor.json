@@ -1,0 +1,21 @@
+{
+  "id": "reconmr-siena-university-2026-10-08-tx-governor",
+  "raceId": "2026-tx-governor",
+  "pollster": "ReconMR/Siena University",
+  "startDate": "2026-10-05",
+  "endDate": "2026-10-08",
+  "sampleSize": 617,
+  "population": "LV",
+  "url": "https://reconmr.com/wp-content/uploads/2026/10/TXP004-October-Press-Release.pdf",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-governor-gina-hinojosa",
+      "percent": 47
+    },
+    {
+      "candidateId": "tx-governor-greg-abbott",
+      "percent": 48
+    }
+  ]
+}
