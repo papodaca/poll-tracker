@@ -1,0 +1,29 @@
+{
+  "id": "public-policy-polling-2026-10-14-ne-governor-2",
+  "raceId": "2026-ne-governor",
+  "pollster": "Public Policy Polling",
+  "startDate": "2026-10-13",
+  "endDate": "2026-10-14",
+  "sampleSize": 571,
+  "population": "LV",
+  "url": "https://omaha.com/news/state-regional/government-politics/elections/article_5a5e86fc-da5f-4953-89f7-7e199e7c607e.html",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ne-governor-lynne-walz",
+      "percent": 43
+    },
+    {
+      "candidateId": "ne-governor-jim-pillen",
+      "percent": 44
+    },
+    {
+      "candidateId": "ne-governor-rick-beard",
+      "percent": 3
+    },
+    {
+      "candidateId": "ne-governor-brett-lindstrom",
+      "percent": 5
+    }
+  ]
+}

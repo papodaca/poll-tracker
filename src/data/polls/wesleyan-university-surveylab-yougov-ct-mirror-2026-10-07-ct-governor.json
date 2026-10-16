@@ -1,0 +1,22 @@
+{
+  "id": "wesleyan-university-surveylab-yougov-ct-mirror-2026-10-07-ct-governor",
+  "raceId": "2026-ct-governor",
+  "pollster": "Wesleyan University SurveyLab / YouGov / CT Mirror",
+  "sponsor": "The Connecticut Project",
+  "startDate": "2026-09-22",
+  "endDate": "2026-10-07",
+  "sampleSize": 849,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/16/YouGov-Connecticut",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ct-governor-ned-lamont",
+      "percent": 57.2
+    },
+    {
+      "candidateId": "ct-governor-ryan-fazio",
+      "percent": 34.1
+    }
+  ]
+}

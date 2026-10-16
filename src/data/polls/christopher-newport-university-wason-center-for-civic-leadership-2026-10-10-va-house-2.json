@@ -1,0 +1,21 @@
+{
+  "id": "christopher-newport-university-wason-center-for-civic-leadership-2026-10-10-va-house-2",
+  "raceId": "2026-va-house-2",
+  "pollster": "Christopher Newport University Wason Center for Civic Leadership",
+  "startDate": "2026-10-01",
+  "endDate": "2026-10-10",
+  "sampleSize": 702,
+  "population": "LV",
+  "url": "https://cnu.edu/wason/surveys/archive/2026-10-14.html",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "va-house-2-elaine-luria",
+      "percent": 46
+    },
+    {
+      "candidateId": "va-house-2-jen-kiggans",
+      "percent": 43
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "public-policy-polling-2026-10-15-ak-house-at-large",
+  "raceId": "2026-ak-house-at-large",
+  "pollster": "Public Policy Polling",
+  "startDate": "2026-10-14",
+  "endDate": "2026-10-15",
+  "sampleSize": 578,
+  "population": "RV",
+  "url": "https://x.com/AndrewSolender/status/2110867168892014803",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ak-house-bill-hill",
+      "percent": 44
+    },
+    {
+      "candidateId": "ak-house-nick-begich",
+      "percent": 45
+    },
+    {
+      "candidateId": "ak-house-eric-hafner",
+      "percent": 5
+    },
+    {
+      "candidateId": "ak-house-at-large-james-c-mcdermott",
+      "percent": 2
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "research-and-polling-inc-2026-10-09-nm-senate-class-2",
+  "raceId": "2026-nm-senate-class-2",
+  "pollster": "Research & Polling Inc.",
+  "startDate": "2026-10-01",
+  "endDate": "2026-10-09",
+  "sampleSize": 1125,
+  "population": "LV",
+  "url": "https://www.abqjournal.com/news/journal-poll-ben-ray-lujan-keeps-comfortable-lead-in-reelection-bid-for-us-senate-seat/3141065",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nm-senate-ben-ray-lujan",
+      "percent": 53
+    },
+    {
+      "candidateId": "nm-senate-larry-marker",
+      "percent": 37
+    }
+  ]
+}

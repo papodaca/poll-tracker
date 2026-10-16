@@ -1,0 +1,22 @@
+{
+  "id": "beacon-research-2026-10-06-ny-governor",
+  "raceId": "2026-ny-governor",
+  "pollster": "Beacon Research",
+  "sponsor": "Secure AI Project",
+  "startDate": "2026-10-01",
+  "endDate": "2026-10-06",
+  "sampleSize": 820,
+  "population": "RV",
+  "url": "https://data.ddhq.io/polls/2026/10/15/Beacon-Research-New-York",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ny-governor-kathy-hochul",
+      "percent": 53
+    },
+    {
+      "candidateId": "ny-governor-bruce-blakeman",
+      "percent": 31
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "suffolk-university-2026-10-11-me-governor-2",
+  "raceId": "2026-me-governor",
+  "pollster": "Suffolk University",
+  "startDate": "2026-10-08",
+  "endDate": "2026-10-11",
+  "sampleSize": 500,
+  "population": "LV",
+  "url": "https://www.suffolk.edu/academics/research-at-suffolk/political-research-center/polls/other-states#collapse-October-14-2026-Maine-US-Senate-and-Governor-Statewide-and-Bellwether",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "me-governor-bobby-charles",
+      "percent": 38
+    },
+    {
+      "candidateId": "me-governor-hannah-pingree",
+      "percent": 49.4
+    },
+    {
+      "candidateId": "me-governor-rick-bennett",
+      "percent": 7.6
+    }
+  ]
+}

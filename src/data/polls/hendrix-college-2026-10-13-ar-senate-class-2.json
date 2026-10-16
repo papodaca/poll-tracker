@@ -1,0 +1,26 @@
+{
+  "id": "hendrix-college-2026-10-13-ar-senate-class-2",
+  "raceId": "2026-ar-senate-class-2",
+  "pollster": "Hendrix College",
+  "sponsor": "Talk Business & Politics",
+  "startDate": "2026-10-08",
+  "endDate": "2026-10-13",
+  "sampleSize": 709,
+  "population": "LV",
+  "url": "https://talkbusiness.net/2026/10/poll-cotton-takes-lead-over-shoffner/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ar-senate-hallie-shoffner",
+      "percent": 41
+    },
+    {
+      "candidateId": "ar-senate-tom-cotton",
+      "percent": 50
+    },
+    {
+      "candidateId": "ar-senate-jeff-wadlin",
+      "percent": 4.5
+    }
+  ]
+}

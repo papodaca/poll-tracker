@@ -1,0 +1,22 @@
+{
+  "id": "the-tyson-group-2026-09-27-mi-senate-class-2",
+  "raceId": "2026-mi-senate-class-2",
+  "pollster": "The Tyson Group",
+  "sponsor": "Alliance for a Better Future",
+  "startDate": "2026-09-24",
+  "endDate": "2026-09-27",
+  "sampleSize": 600,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/15/The-Tyson-Group/Alliance-for-a-Better-Future-Michigan-2026-09-24-2026-09-27",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-senate-abdul-el-sayed",
+      "percent": 44
+    },
+    {
+      "candidateId": "mi-senate-mike-rogers",
+      "percent": 43
+    }
+  ]
+}

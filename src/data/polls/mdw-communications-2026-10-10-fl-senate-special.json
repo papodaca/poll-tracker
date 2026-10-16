@@ -1,0 +1,22 @@
+{
+  "id": "mdw-communications-2026-10-10-fl-senate-special",
+  "raceId": "2026-fl-senate-special",
+  "pollster": "MDW Communications",
+  "sponsor": "EDGE Communications",
+  "startDate": "2026-10-04",
+  "endDate": "2026-10-10",
+  "sampleSize": 2351,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/14/MDW-Communications-Florida",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-senate-angie-nixon",
+      "percent": 42.4
+    },
+    {
+      "candidateId": "fl-senate-ashley-moody",
+      "percent": 47.6
+    }
+  ]
+}

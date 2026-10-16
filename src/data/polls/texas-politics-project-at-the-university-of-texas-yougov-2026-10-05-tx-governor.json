@@ -1,0 +1,25 @@
+{
+  "id": "texas-politics-project-at-the-university-of-texas-yougov-2026-10-05-tx-governor",
+  "raceId": "2026-tx-governor",
+  "pollster": "Texas Politics Project at the University of Texas/YouGov",
+  "startDate": "2026-09-25",
+  "endDate": "2026-10-05",
+  "sampleSize": 841,
+  "population": "LV",
+  "url": "https://texaspolitics.utexas.edu/blog/latest-ut-texas-politics-poll-finds-historic-levels-of-competition-in-texas-midterm-elections",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-governor-gina-hinojosa",
+      "percent": 49
+    },
+    {
+      "candidateId": "tx-governor-greg-abbott",
+      "percent": 48
+    },
+    {
+      "candidateId": "tx-governor-pat-dixon",
+      "percent": 1
+    }
+  ]
+}

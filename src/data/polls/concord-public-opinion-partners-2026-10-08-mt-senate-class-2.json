@@ -1,0 +1,26 @@
+{
+  "id": "concord-public-opinion-partners-2026-10-08-mt-senate-class-2",
+  "raceId": "2026-mt-senate-class-2",
+  "pollster": "Concord Public Opinion Partners",
+  "sponsor": "Seth Bodnar",
+  "startDate": "2026-10-06",
+  "endDate": "2026-10-08",
+  "sampleSize": 405,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/15/Concord-Public-Opinion-Partners-Montana",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mt-senate-alani-bankhead",
+      "percent": 13
+    },
+    {
+      "candidateId": "mt-senate-kurt-alme",
+      "percent": 35
+    },
+    {
+      "candidateId": "mt-senate-seth-bodnar",
+      "percent": 37
+    }
+  ]
+}

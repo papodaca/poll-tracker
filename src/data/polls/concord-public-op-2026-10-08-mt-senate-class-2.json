@@ -1,0 +1,21 @@
+{
+  "id": "concord-public-op-2026-10-08-mt-senate-class-2",
+  "raceId": "2026-mt-senate-class-2",
+  "pollster": "Concord Public Op.",
+  "startDate": "2026-10-06",
+  "endDate": "2026-10-08",
+  "sampleSize": 405,
+  "population": "LV",
+  "url": "https://static1.squarespace.com/static/6a5ff8e3d194df57f8833369/t/6ad1270faee1a77937e9dbec/1792091919214/CPOP+Montana+Statewide+Findings+Memo_10.10.pdf",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mt-senate-alani-bankhead",
+      "percent": 13
+    },
+    {
+      "candidateId": "mt-senate-kurt-alme",
+      "percent": 35
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "mdw-communications-2026-10-10-fl-governor",
+  "raceId": "2026-fl-governor",
+  "pollster": "MDW Communications",
+  "sponsor": "EDGE Communications",
+  "startDate": "2026-10-04",
+  "endDate": "2026-10-10",
+  "sampleSize": 2351,
+  "population": "LV",
+  "url": "https://floridapolitics.com/archives/824868-democratic-pollster-sees-governors-race-as-a-toss-up/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-governor-byron-donalds",
+      "percent": 46
+    },
+    {
+      "candidateId": "fl-governor-david-jolly",
+      "percent": 44
+    }
+  ]
+}

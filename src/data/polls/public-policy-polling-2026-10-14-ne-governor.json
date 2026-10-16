@@ -1,0 +1,22 @@
+{
+  "id": "public-policy-polling-2026-10-14-ne-governor",
+  "raceId": "2026-ne-governor",
+  "pollster": "Public Policy Polling",
+  "sponsor": "Lynne Walz",
+  "startDate": "2026-10-13",
+  "endDate": "2026-10-14",
+  "sampleSize": 571,
+  "population": "RV",
+  "url": "https://data.ddhq.io/polls/2026/10/16/Public-Policy-Polling/Lynne-Walz-Nebraska-2026-10-13-2026-10-14",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ne-governor-jim-pillen",
+      "percent": 48
+    },
+    {
+      "candidateId": "ne-governor-lynne-walz",
+      "percent": 46
+    }
+  ]
+}

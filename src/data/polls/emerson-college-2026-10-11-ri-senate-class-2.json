@@ -1,0 +1,26 @@
+{
+  "id": "emerson-college-2026-10-11-ri-senate-class-2",
+  "raceId": "2026-ri-senate-class-2",
+  "pollster": "Emerson College",
+  "sponsor": "WPRI-TV (Providence, R.I.)",
+  "startDate": "2026-10-08",
+  "endDate": "2026-10-11",
+  "sampleSize": 800,
+  "population": "LV",
+  "url": "https://emersoncollegepolling.com/rhode-island-2026-democrat-foulkes-leads-independent-block-by-9-points-for-governor-toss-up-for-lt-gov/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ri-senate-jack-reed",
+      "percent": 59.1
+    },
+    {
+      "candidateId": "ri-senate-ray-mckay",
+      "percent": 25.4
+    },
+    {
+      "candidateId": "ri-senate-michael-anthony-bahry",
+      "percent": 6.9
+    }
+  ]
+}

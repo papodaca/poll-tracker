@@ -1,0 +1,21 @@
+{
+  "id": "wedgewood-polls-2026-10-14-ms-senate-class-2",
+  "raceId": "2026-ms-senate-class-2",
+  "pollster": "Wedgewood Polls",
+  "startDate": "2026-10-12",
+  "endDate": "2026-10-14",
+  "sampleSize": 511,
+  "population": "LV",
+  "url": "https://drive.google.com/file/d/16nLOQEszQimue_N2O6G42brKUXopDLcu/view",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ms-senate-scott-colom",
+      "percent": 48
+    },
+    {
+      "candidateId": "ms-senate-cindy-hyde-smith",
+      "percent": 52
+    }
+  ]
+}

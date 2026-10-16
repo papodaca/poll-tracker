@@ -1,0 +1,25 @@
+{
+  "id": "torchlight-strategies-2026-10-02-oh-house-1",
+  "raceId": "2026-oh-house-1",
+  "pollster": "Torchlight Strategies",
+  "startDate": "2026-09-29",
+  "endDate": "2026-10-02",
+  "sampleSize": 400,
+  "population": "LV",
+  "url": "https://x.com/EricConroyOH/status/2110896060302565557?s=20",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "oh-house-1-greg-landsman",
+      "percent": 45.8
+    },
+    {
+      "candidateId": "oh-house-1-eric-conroy",
+      "percent": 44.2
+    },
+    {
+      "candidateId": "oh-house-1-nathan-weise",
+      "percent": 5.4
+    }
+  ]
+}

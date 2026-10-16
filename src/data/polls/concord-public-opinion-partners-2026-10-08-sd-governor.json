@@ -1,0 +1,22 @@
+{
+  "id": "concord-public-opinion-partners-2026-10-08-sd-governor",
+  "raceId": "2026-sd-governor",
+  "pollster": "Concord Public Opinion Partners",
+  "sponsor": "Democrats For Education Reform",
+  "startDate": "2026-10-06",
+  "endDate": "2026-10-08",
+  "sampleSize": 400,
+  "population": "LV",
+  "url": "https://www.documentcloud.org/documents/28817212-sd-sen-gov-concord-public-opinion-partners-oct-2026/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "sd-governor-larry-rhoden",
+      "percent": 48
+    },
+    {
+      "candidateId": "sd-governor-daniel-p-ahlers",
+      "percent": 38
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "gbao-2026-10-08-tx-governor-2",
+  "raceId": "2026-tx-governor",
+  "pollster": "GBAO",
+  "startDate": "2026-10-05",
+  "endDate": "2026-10-08",
+  "sampleSize": 800,
+  "population": "LV",
+  "url": "https://ginafortexas.com/wp-content/uploads/2026/10/TX-Gov-Poll-Memo-101226.pdf",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-governor-gina-hinojosa",
+      "percent": 47
+    },
+    {
+      "candidateId": "tx-governor-greg-abbott",
+      "percent": 45
+    },
+    {
+      "candidateId": "tx-governor-pat-dixon",
+      "percent": 4
+    }
+  ]
+}

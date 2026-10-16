@@ -1,0 +1,21 @@
+{
+  "id": "quinnipiac-university-2026-10-12-ct-governor",
+  "raceId": "2026-ct-governor",
+  "pollster": "Quinnipiac University",
+  "startDate": "2026-10-08",
+  "endDate": "2026-10-12",
+  "sampleSize": 1225,
+  "population": "LV",
+  "url": "https://poll.qu.edu/poll-release?releaseid=3971",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ct-governor-ryan-fazio",
+      "percent": 38
+    },
+    {
+      "candidateId": "ct-governor-ned-lamont",
+      "percent": 58
+    }
+  ]
+}

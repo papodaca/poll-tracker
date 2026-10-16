@@ -1,0 +1,19 @@
+{
+  "id": "research-and-pol-2026-10-15-nm-house-1",
+  "raceId": "2026-nm-house-1",
+  "pollster": "Research & Pol.",
+  "startDate": "2026-10-15",
+  "endDate": "2026-10-15",
+  "url": "https://www.abqjournal.com/news/journal-poll-gabe-vasquez-leads-greg-cunningham-in-competitive-house-election/3139738",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nm-house-1-melanie-stansbury",
+      "percent": 53
+    },
+    {
+      "candidateId": "nm-house-1-didi-okpareke",
+      "percent": 35
+    }
+  ]
+}

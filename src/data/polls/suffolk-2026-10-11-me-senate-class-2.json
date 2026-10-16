@@ -1,0 +1,21 @@
+{
+  "id": "suffolk-2026-10-11-me-senate-class-2",
+  "raceId": "2026-me-senate-class-2",
+  "pollster": "Suffolk",
+  "startDate": "2026-10-08",
+  "endDate": "2026-10-11",
+  "sampleSize": 500,
+  "population": "LV",
+  "url": "https://www.suffolk.edu/academics/research-at-suffolk/political-research-center/polls/other-states#collapse-October-14-2026-Maine-US-Senate-and-Governor-Statewide-and-Bellwether",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "me-senate-troy-jackson",
+      "percent": 49
+    },
+    {
+      "candidateId": "me-senate-susan-collins",
+      "percent": 47
+    }
+  ]
+}

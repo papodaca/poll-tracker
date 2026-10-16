@@ -1,0 +1,22 @@
+{
+  "id": "siena-research-institute-2026-10-01-ak-house-at-large",
+  "raceId": "2026-ak-house-at-large",
+  "pollster": "Siena Research Institute",
+  "sponsor": "The New York Times",
+  "startDate": "2026-09-24",
+  "endDate": "2026-10-01",
+  "sampleSize": 504,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/05/Siena-Research-Institute/The-New-York-Times-Alaska-2026-09-24-2026-10-01",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ak-house-bill-hill",
+      "percent": 35
+    },
+    {
+      "candidateId": "ak-house-nick-begich",
+      "percent": 47
+    }
+  ]
+}

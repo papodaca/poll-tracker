@@ -1,0 +1,21 @@
+{
+  "id": "stetson-university-center-for-public-opinion-research-2026-10-09-fl-senate-special-2",
+  "raceId": "2026-fl-senate-special",
+  "pollster": "Stetson University Center for Public Opinion Research",
+  "startDate": "2026-10-01",
+  "endDate": "2026-10-09",
+  "sampleSize": 716,
+  "population": "LV",
+  "url": "https://www2.stetson.edu/today/2026/10/stetson-poll-donalds-moody-maintain-double-digit-leads/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-senate-ashley-moody",
+      "percent": 52
+    },
+    {
+      "candidateId": "fl-senate-angela-nixon",
+      "percent": 41
+    }
+  ]
+}

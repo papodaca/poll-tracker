@@ -1,0 +1,22 @@
+{
+  "id": "emerson-college-2026-10-12-ct-governor",
+  "raceId": "2026-ct-governor",
+  "pollster": "Emerson College",
+  "sponsor": "Nexstar",
+  "startDate": "2026-10-10",
+  "endDate": "2026-10-12",
+  "sampleSize": 800,
+  "population": "LV",
+  "url": "https://emersoncollegepolling.com/connecticut-2026-poll-ned-lamont-holds-13-point-lead-over-ryan-fazio/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ct-governor-ryan-fazio",
+      "percent": 37.8
+    },
+    {
+      "candidateId": "ct-governor-ned-lamont",
+      "percent": 51.4
+    }
+  ]
+}

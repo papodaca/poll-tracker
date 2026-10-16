@@ -1,0 +1,19 @@
+{
+  "id": "emerson-college-2026-10-14-ri-house-2",
+  "raceId": "2026-ri-house-2",
+  "pollster": "Emerson College",
+  "startDate": "2026-10-14",
+  "endDate": "2026-10-14",
+  "url": "https://emersoncollegepolling.com/rhode-island-2026-governor/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ri-house-2-seth-magaziner",
+      "percent": 55.2
+    },
+    {
+      "candidateId": "ri-house-2-victor-mellor",
+      "percent": 39.1
+    }
+  ]
+}

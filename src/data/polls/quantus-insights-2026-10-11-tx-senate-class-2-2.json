@@ -1,0 +1,25 @@
+{
+  "id": "quantus-insights-2026-10-11-tx-senate-class-2-2",
+  "raceId": "2026-tx-senate-class-2",
+  "pollster": "Quantus Insights",
+  "startDate": "2026-10-09",
+  "endDate": "2026-10-11",
+  "sampleSize": 854,
+  "population": "LV",
+  "url": "https://quantusinsights.org/polling/f/texas-senate-paxton-and-talarico-in-a-near-tie",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-senate-james-talarico",
+      "percent": 46.7
+    },
+    {
+      "candidateId": "tx-senate-ken-paxton",
+      "percent": 47.2
+    },
+    {
+      "candidateId": "tx-senate-ted-brown",
+      "percent": 2.2
+    }
+  ]
+}

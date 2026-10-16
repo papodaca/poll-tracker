@@ -1,0 +1,30 @@
+{
+  "id": "concord-public-opinion-partners-2026-10-08-mt-senate-class-2-2",
+  "raceId": "2026-mt-senate-class-2",
+  "pollster": "Concord Public Opinion Partners",
+  "sponsor": "Democrats For Education Reform",
+  "startDate": "2026-10-06",
+  "endDate": "2026-10-08",
+  "sampleSize": 405,
+  "population": "LV",
+  "url": "https://www.sethformontana.com/news/new-poll-independent-seth-bodnar-takes-the-lead-in-montanas-us-senate-race",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mt-senate-kurt-alme",
+      "percent": 35
+    },
+    {
+      "candidateId": "mt-senate-seth-bodnar",
+      "percent": 37
+    },
+    {
+      "candidateId": "mt-senate-alani-bankhead",
+      "percent": 13
+    },
+    {
+      "candidateId": "mt-senate-kyle-austin",
+      "percent": 1
+    }
+  ]
+}

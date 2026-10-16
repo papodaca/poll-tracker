@@ -1,0 +1,22 @@
+{
+  "id": "yougov-cfc-action-fund-2026-10-09-wi-governor",
+  "raceId": "2026-wi-governor",
+  "pollster": "YouGov / CFC Action Fund",
+  "sponsor": "City Forward Collective",
+  "startDate": "2026-09-22",
+  "endDate": "2026-10-09",
+  "sampleSize": 1715,
+  "population": "RV",
+  "url": "https://data.ddhq.io/polls/2026/10/16/YouGov/City-Forward-Collective/CFC-Action-Fund-Wisconsin-2026-09-22-2026-10-09",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "wi-governor-david-crowley",
+      "percent": 46
+    },
+    {
+      "candidateId": "wi-governor-tom-tiffany",
+      "percent": 42
+    }
+  ]
+}

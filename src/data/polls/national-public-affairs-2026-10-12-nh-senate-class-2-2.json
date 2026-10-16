@@ -1,0 +1,21 @@
+{
+  "id": "national-public-affairs-2026-10-12-nh-senate-class-2-2",
+  "raceId": "2026-nh-senate-class-2",
+  "pollster": "National Public Affairs",
+  "startDate": "2026-10-08",
+  "endDate": "2026-10-12",
+  "sampleSize": 600,
+  "population": "LV",
+  "url": "https://backend.natpublicaffairs.com/media/NH_General_Election_Memo_101526.2.pdf",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nh-senate-chris-pappas",
+      "percent": 50
+    },
+    {
+      "candidateId": "nh-senate-john-sununu",
+      "percent": 45
+    }
+  ]
+}

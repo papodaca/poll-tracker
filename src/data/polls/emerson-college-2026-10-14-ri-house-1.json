@@ -1,0 +1,19 @@
+{
+  "id": "emerson-college-2026-10-14-ri-house-1",
+  "raceId": "2026-ri-house-1",
+  "pollster": "Emerson College",
+  "startDate": "2026-10-14",
+  "endDate": "2026-10-14",
+  "url": "https://emersoncollegepolling.com/rhode-island-2026-governor/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ri-house-1-gabe-amo",
+      "percent": 53.9
+    },
+    {
+      "candidateId": "ri-house-1-kellie-keenan",
+      "percent": 25.9
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "tulchin-research-2026-10-14-me-house-2",
+  "raceId": "2026-me-house-2",
+  "pollster": "Tulchin Research",
+  "startDate": "2026-10-12",
+  "endDate": "2026-10-14",
+  "sampleSize": 500,
+  "population": "LV",
+  "url": "https://static01.nyt.com/newsgraphics/documenttools/0cdb44a57dfd2687/fddf7303-full.pdf",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "me-house-2-matt-dunlap",
+      "percent": 50
+    },
+    {
+      "candidateId": "me-house-2-paul-lepage",
+      "percent": 46
+    }
+  ]
+}

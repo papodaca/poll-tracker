@@ -1,0 +1,22 @@
+{
+  "id": "impact-research-fabrizio-ward-2026-09-11-ak-house-at-large",
+  "raceId": "2026-ak-house-at-large",
+  "pollster": "Impact Research / Fabrizio Ward",
+  "sponsor": "AARP",
+  "startDate": "2026-09-08",
+  "endDate": "2026-09-11",
+  "sampleSize": 800,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/09/17/Fabrizio-Ward/Impact-Research/AARP-Alaska-2026-09-08-2026-09-11",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ak-house-bill-hill",
+      "percent": 31
+    },
+    {
+      "candidateId": "ak-house-nick-begich",
+      "percent": 45
+    }
+  ]
+}

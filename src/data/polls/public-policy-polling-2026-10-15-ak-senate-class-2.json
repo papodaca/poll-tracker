@@ -1,0 +1,21 @@
+{
+  "id": "public-policy-polling-2026-10-15-ak-senate-class-2",
+  "raceId": "2026-ak-senate-class-2",
+  "pollster": "Public Policy Polling",
+  "startDate": "2026-10-14",
+  "endDate": "2026-10-15",
+  "sampleSize": 578,
+  "population": "RV",
+  "url": "https://x.com/AndrewSolender/status/2110867168892014803",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ak-senate-dan-sullivan",
+      "percent": 47
+    },
+    {
+      "candidateId": "ak-senate-mary-peltola",
+      "percent": 48
+    }
+  ]
+}

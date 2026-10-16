@@ -1,0 +1,25 @@
+{
+  "id": "insideradvantage-2026-10-14-tx-senate-class-2",
+  "raceId": "2026-tx-senate-class-2",
+  "pollster": "InsiderAdvantage",
+  "startDate": "2026-10-13",
+  "endDate": "2026-10-14",
+  "sampleSize": 1200,
+  "population": "LV",
+  "url": "https://insideradvantage.com/insideradvantage-senate-surveys-texas-paxton-49-talarico-48-kansas-marshall-48-hamilton-47-maine-jackson-49-collins-47/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-senate-james-talarico",
+      "percent": 48.1
+    },
+    {
+      "candidateId": "tx-senate-ken-paxton",
+      "percent": 48.5
+    },
+    {
+      "candidateId": "tx-senate-ted-brown",
+      "percent": 2.4
+    }
+  ]
+}

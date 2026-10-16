@@ -1,0 +1,21 @@
+{
+  "id": "marist-college-2026-10-11-tx-senate-class-2",
+  "raceId": "2026-tx-senate-class-2",
+  "pollster": "Marist College",
+  "startDate": "2026-10-08",
+  "endDate": "2026-10-11",
+  "sampleSize": 1196,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/14/Marist-College-Texas",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-senate-ken-paxton",
+      "percent": 45
+    },
+    {
+      "candidateId": "tx-senate-james-talarico",
+      "percent": 47
+    }
+  ]
+}

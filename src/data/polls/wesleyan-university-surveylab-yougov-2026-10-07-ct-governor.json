@@ -1,0 +1,21 @@
+{
+  "id": "wesleyan-university-surveylab-yougov-2026-10-07-ct-governor",
+  "raceId": "2026-ct-governor",
+  "pollster": "Wesleyan University SurveyLab/YouGov",
+  "sponsor": "CT Mirror / The Connecticut Project",
+  "startDate": "2026-09-22",
+  "endDate": "2026-10-07",
+  "population": "LV",
+  "url": "https://surveylab.wescreates.wesleyan.edu/uncategorized/wesleyan-surveylab-ct-poll-lamont-leads-in-governors-race-while-connecticut-voters-express-concern-about-cost-of-living/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ct-governor-ryan-fazio",
+      "percent": 34.1
+    },
+    {
+      "candidateId": "ct-governor-ned-lamont",
+      "percent": 57.2
+    }
+  ]
+}

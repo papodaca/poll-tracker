@@ -1,0 +1,19 @@
+{
+  "id": "university-of-2026-10-14-tx-house-9",
+  "raceId": "2026-tx-house-9",
+  "pollster": "University of .",
+  "startDate": "2026-10-14",
+  "endDate": "2026-10-14",
+  "url": "https://www.uh.edu/hobby/congress2026/index.php",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-house-9-leticia-gutierrez",
+      "percent": 42
+    },
+    {
+      "candidateId": "tx-house-9-alex-mealer",
+      "percent": 48
+    }
+  ]
+}

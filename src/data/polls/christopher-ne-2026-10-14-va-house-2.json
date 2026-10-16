@@ -1,0 +1,19 @@
+{
+  "id": "christopher-ne-2026-10-14-va-house-2",
+  "raceId": "2026-va-house-2",
+  "pollster": "Christopher Ne.",
+  "startDate": "2026-10-14",
+  "endDate": "2026-10-14",
+  "url": "https://cnu.edu/wason/surveys/archive/2026-10-14.html",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "va-house-2-elaine-luria",
+      "percent": 46
+    },
+    {
+      "candidateId": "va-house-2-jen-kiggans",
+      "percent": 43
+    }
+  ]
+}

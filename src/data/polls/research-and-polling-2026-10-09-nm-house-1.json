@@ -1,0 +1,22 @@
+{
+  "id": "research-and-polling-2026-10-09-nm-house-1",
+  "raceId": "2026-nm-house-1",
+  "pollster": "Research & Polling",
+  "sponsor": "Albuquerque Journal",
+  "startDate": "2026-10-01",
+  "endDate": "2026-10-09",
+  "sampleSize": 380,
+  "population": "LV",
+  "url": "https://www.abqjournal.com/news/journal-poll-congressional-incumbents-stansbury-and-leger-fernandez-lead-challengers/3141828",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nm-house-1-melanie-stansbury",
+      "percent": 53
+    },
+    {
+      "candidateId": "nm-house-1-didi-okpareke",
+      "percent": 35
+    }
+  ]
+}

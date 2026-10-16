@@ -1,0 +1,22 @@
+{
+  "id": "cygnal-2026-02-04-ak-house-at-large",
+  "raceId": "2026-ak-house-at-large",
+  "pollster": "Cygnal",
+  "sponsor": "Nick Begich",
+  "startDate": "2026-02-02",
+  "endDate": "2026-02-04",
+  "sampleSize": 504,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/02/19/Cygnal/Nick-Begich-Alaska-2026-02-02-2026-02-04",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ak-house-bill-hill",
+      "percent": 7
+    },
+    {
+      "candidateId": "ak-house-nick-begich",
+      "percent": 43
+    }
+  ]
+}
