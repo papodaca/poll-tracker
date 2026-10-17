@@ -1,0 +1,21 @@
+{
+  "id": "activote-2026-10-16-ca-governor",
+  "raceId": "2026-ca-governor",
+  "pollster": "ActiVote",
+  "startDate": "2026-09-24",
+  "endDate": "2026-10-16",
+  "sampleSize": 400,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/17/ActiVote-California",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ca-governor-steve-hilton",
+      "percent": 37.2
+    },
+    {
+      "candidateId": "ca-governor-xavier-becerra",
+      "percent": 62.8
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "torchlight-str-2026-10-16-oh-house-1",
+  "raceId": "2026-oh-house-1",
+  "pollster": "Torchlight Str.",
+  "startDate": "2026-10-16",
+  "endDate": "2026-10-16",
+  "url": "https://x.com/EricConroyOH/status/2110896060302565557?s=20",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "oh-house-1-greg-landsman",
+      "percent": 44.2
+    },
+    {
+      "candidateId": "oh-house-1-eric-conroy",
+      "percent": 45.8
+    }
+  ]
+}

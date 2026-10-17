@@ -1,0 +1,25 @@
+{
+  "id": "national-public-affairs-2026-10-12-nh-governor-2",
+  "raceId": "2026-nh-governor",
+  "pollster": "National Public Affairs",
+  "startDate": "2026-10-08",
+  "endDate": "2026-10-12",
+  "sampleSize": 600,
+  "population": "LV",
+  "url": "https://backend.natpublicaffairs.com/media/NH_General_Election_Memo_101526.2.pdf",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nh-governor-cinde-warmington",
+      "percent": 38
+    },
+    {
+      "candidateId": "nh-governor-kelly-ayotte",
+      "percent": 54
+    },
+    {
+      "candidateId": "nh-governor-stephen-villee",
+      "percent": 3
+    }
+  ]
+}

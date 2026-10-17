@@ -1,0 +1,29 @@
+{
+  "id": "peak-insights-2026-10-12-mt-senate-class-2-2",
+  "raceId": "2026-mt-senate-class-2",
+  "pollster": "Peak Insights",
+  "startDate": "2026-10-07",
+  "endDate": "2026-10-12",
+  "sampleSize": 500,
+  "population": "LV",
+  "url": "https://x.com/burgessev/status/2111155739154882819?s=20",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mt-senate-kurt-alme",
+      "percent": 44
+    },
+    {
+      "candidateId": "mt-senate-seth-bodnar",
+      "percent": 29
+    },
+    {
+      "candidateId": "mt-senate-alani-bankhead",
+      "percent": 12
+    },
+    {
+      "candidateId": "mt-senate-kyle-austin",
+      "percent": 3
+    }
+  ]
+}
