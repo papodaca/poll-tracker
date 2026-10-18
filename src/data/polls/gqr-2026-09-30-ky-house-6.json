@@ -1,0 +1,22 @@
+{
+  "id": "gqr-2026-09-30-ky-house-6",
+  "raceId": "2026-ky-house-6",
+  "pollster": "GQR",
+  "sponsor": "Zach Dembo",
+  "startDate": "2026-09-25",
+  "endDate": "2026-09-30",
+  "sampleSize": 401,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/02/GQR/Zach-Dembo-Kentucky--6-2026-09-25-2026-09-30",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ky-house-6-zach-dembo",
+      "percent": 42
+    },
+    {
+      "candidateId": "ky-house-6-ralph-alvarado",
+      "percent": 37
+    }
+  ]
+}

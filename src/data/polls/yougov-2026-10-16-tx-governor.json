@@ -1,0 +1,22 @@
+{
+  "id": "yougov-2026-10-16-tx-governor",
+  "raceId": "2026-tx-governor",
+  "pollster": "YouGov",
+  "sponsor": "CBS News",
+  "startDate": "2026-10-08",
+  "endDate": "2026-10-16",
+  "sampleSize": 1460,
+  "population": "RV",
+  "url": "https://data.ddhq.io/polls/2026/10/18/YouGov/CBS-News-Texas-2026-10-08-2026-10-16",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-governor-gina-hinojosa",
+      "percent": 48
+    },
+    {
+      "candidateId": "tx-governor-greg-abbott",
+      "percent": 52
+    }
+  ]
+}

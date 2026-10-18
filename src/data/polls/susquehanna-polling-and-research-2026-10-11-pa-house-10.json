@@ -1,0 +1,21 @@
+{
+  "id": "susquehanna-polling-and-research-2026-10-11-pa-house-10",
+  "raceId": "2026-pa-house-10",
+  "pollster": "Susquehanna Polling & Research",
+  "startDate": "2026-10-05",
+  "endDate": "2026-10-11",
+  "sampleSize": 300,
+  "population": "LV",
+  "url": "https://x.com/SusquehannaPR/status/2111471509856309679?s=20",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "pa-house-10-janelle-stelson",
+      "percent": 49
+    },
+    {
+      "candidateId": "pa-house-10-scott-perry",
+      "percent": 46
+    }
+  ]
+}

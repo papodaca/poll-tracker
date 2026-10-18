@@ -1,0 +1,21 @@
+{
+  "id": "trafalgar-group-2026-10-15-ia-senate-class-2",
+  "raceId": "2026-ia-senate-class-2",
+  "pollster": "Trafalgar Group",
+  "startDate": "2026-10-13",
+  "endDate": "2026-10-15",
+  "sampleSize": 1094,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/18/Trafalgar-Group-Iowa",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ia-senate-ashley-hinson",
+      "percent": 45.9
+    },
+    {
+      "candidateId": "ia-senate-josh-turek",
+      "percent": 44.2
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "dccc-targeting-and-analytics-department-2026-10-05-ky-house-6",
+  "raceId": "2026-ky-house-6",
+  "pollster": "DCCC Targeting and Analytics Department",
+  "startDate": "2026-10-02",
+  "endDate": "2026-10-05",
+  "sampleSize": 606,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/14/DCCC-Targeting-and-Analytics-Department-Kentucky--6",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ky-house-6-ralph-alvarado",
+      "percent": 40
+    },
+    {
+      "candidateId": "ky-house-6-zach-dembo",
+      "percent": 46
+    }
+  ]
+}
