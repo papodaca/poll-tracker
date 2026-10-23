@@ -1,0 +1,22 @@
+{
+  "id": "university-of-houston-hobby-school-of-public-affairs-2026-10-14-tx-senate-class-2",
+  "raceId": "2026-tx-senate-class-2",
+  "pollster": "University of Houston Hobby School of Public Affairs",
+  "sponsor": "YouGov",
+  "startDate": "2026-10-10",
+  "endDate": "2026-10-14",
+  "sampleSize": 2000,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/19/University-of-Houston-Hobby-School-of-Public-Affairs/YouGov-Texas",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-senate-ken-paxton",
+      "percent": 46
+    },
+    {
+      "candidateId": "tx-senate-james-talarico",
+      "percent": 48
+    }
+  ]
+}

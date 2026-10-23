@@ -1,0 +1,25 @@
+{
+  "id": "dccc-targeting-and-analytics-department-2026-10-13-oh-house-10",
+  "raceId": "2026-oh-house-10",
+  "pollster": "DCCC Targeting and Analytics Department",
+  "startDate": "2026-10-12",
+  "endDate": "2026-10-13",
+  "sampleSize": 535,
+  "population": "LV",
+  "url": "https://dccc.org/dccc-polling-memo-knickerbocker-leads-turner-by-3-in-oh-10/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "oh-house-10-kristina-knickerbocker",
+      "percent": 47
+    },
+    {
+      "candidateId": "oh-house-10-mike-turner",
+      "percent": 44
+    },
+    {
+      "candidateId": "oh-house-10-thomas-mcmasters",
+      "percent": 4
+    }
+  ]
+}

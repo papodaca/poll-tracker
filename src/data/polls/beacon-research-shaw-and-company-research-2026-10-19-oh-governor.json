@@ -1,0 +1,22 @@
+{
+  "id": "beacon-research-shaw-and-company-research-2026-10-19-oh-governor",
+  "raceId": "2026-oh-governor",
+  "pollster": "Beacon Research / Shaw & Company Research",
+  "sponsor": "Fox News",
+  "startDate": "2026-10-15",
+  "endDate": "2026-10-19",
+  "sampleSize": 1592,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/21/Beacon-Research/Shaw-&-Company-Research/Fox-News-Ohio-2026-10-15-2026-10-19",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "oh-governor-vivek-ramaswamy",
+      "percent": 48
+    },
+    {
+      "candidateId": "oh-governor-amy-acton",
+      "percent": 50
+    }
+  ]
+}

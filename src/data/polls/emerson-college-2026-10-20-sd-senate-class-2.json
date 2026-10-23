@@ -1,0 +1,22 @@
+{
+  "id": "emerson-college-2026-10-20-sd-senate-class-2",
+  "raceId": "2026-sd-senate-class-2",
+  "pollster": "Emerson College",
+  "sponsor": "KELO-TV",
+  "startDate": "2026-10-19",
+  "endDate": "2026-10-20",
+  "sampleSize": 803,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/22/Emerson-College/KELO-TV-South-Dakota-2026-10-19-2026-10-20",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "sd-senate-brian-bengs",
+      "percent": 42
+    },
+    {
+      "candidateId": "sd-senate-mike-rounds",
+      "percent": 50
+    }
+  ]
+}

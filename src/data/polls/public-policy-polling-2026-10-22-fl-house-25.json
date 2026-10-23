@@ -1,0 +1,22 @@
+{
+  "id": "public-policy-polling-2026-10-22-fl-house-25",
+  "raceId": "2026-fl-house-25",
+  "pollster": "Public Policy Polling",
+  "sponsor": "House Majority PAC (hybrid PAC)",
+  "startDate": "2026-10-21",
+  "endDate": "2026-10-22",
+  "sampleSize": 592,
+  "population": "LV",
+  "url": "https://floridapolitics.com/archives/826445-democrats-answer-gop-internal-with-a-poll-showing-jared-moskowitz-up-47-to-42-in-cd-25/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-house-25-jared-moskowitz",
+      "percent": 47
+    },
+    {
+      "candidateId": "fl-house-25-scott-singer",
+      "percent": 42
+    }
+  ]
+}

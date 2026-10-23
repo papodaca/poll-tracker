@@ -1,0 +1,30 @@
+{
+  "id": "new-river-strategies-gs-strategy-group-2026-10-13-oh-senate-special",
+  "raceId": "2026-oh-senate-special",
+  "pollster": "New River Strategies/GS Strategy Group",
+  "sponsor": "The Cook Political Report",
+  "startDate": "2026-10-09",
+  "endDate": "2026-10-13",
+  "sampleSize": 959,
+  "population": "LV",
+  "url": "https://www.cookpolitical.com/analysis/survey-research/battleground-district-project/senate-battleground-district-project-october?utm_medium=email_action&utm_source=customer.io",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "oh-senate-sherrod-brown",
+      "percent": 49
+    },
+    {
+      "candidateId": "oh-senate-jon-husted",
+      "percent": 43
+    },
+    {
+      "candidateId": "oh-senate-bill-redpath",
+      "percent": 3
+    },
+    {
+      "candidateId": "oh-senate-gregory-levy",
+      "percent": 4
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "emerson-college-2026-10-14-az-house-2",
+  "raceId": "2026-az-house-2",
+  "pollster": "Emerson College",
+  "sponsor": "Poll Vault",
+  "startDate": "2026-10-12",
+  "endDate": "2026-10-14",
+  "sampleSize": 345,
+  "population": "LV",
+  "url": "https://pollvault.substack.com/p/levee-math",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "az-house-2-jonathan-nez",
+      "percent": 50
+    },
+    {
+      "candidateId": "az-house-2-eli-crane",
+      "percent": 48
+    }
+  ]
+}

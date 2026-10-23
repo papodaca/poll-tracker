@@ -1,0 +1,21 @@
+{
+  "id": "activote-2026-10-20-nc-senate-class-2",
+  "raceId": "2026-nc-senate-class-2",
+  "pollster": "ActiVote",
+  "startDate": "2026-10-08",
+  "endDate": "2026-10-20",
+  "sampleSize": 400,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/21/ActiVote-Illinois",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nc-senate-roy-cooper",
+      "percent": 56.9
+    },
+    {
+      "candidateId": "nc-senate-michael-whatley",
+      "percent": 43.1
+    }
+  ]
+}

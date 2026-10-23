@@ -1,0 +1,22 @@
+{
+  "id": "emerson-college-2026-10-14-nc-house-11",
+  "raceId": "2026-nc-house-11",
+  "pollster": "Emerson College",
+  "sponsor": "Poll Vault",
+  "startDate": "2026-10-12",
+  "endDate": "2026-10-14",
+  "sampleSize": 388,
+  "population": "LV",
+  "url": "https://pollvault.substack.com/p/levee-math",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nc-house-11-jamie-ager",
+      "percent": 56
+    },
+    {
+      "candidateId": "nc-house-11-jennifer-balkcom",
+      "percent": 43
+    }
+  ]
+}

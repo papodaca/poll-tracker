@@ -1,0 +1,22 @@
+{
+  "id": "mason-dixon-polling-and-strategy-2026-10-14-sd-senate-class-2",
+  "raceId": "2026-sd-senate-class-2",
+  "pollster": "Mason-Dixon Polling & Strategy",
+  "sponsor": "South Dakota News Watch",
+  "startDate": "2026-10-12",
+  "endDate": "2026-10-14",
+  "sampleSize": 500,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/22/Mason-Dixon-Polling-&-Strategy/South-Dakota-News-Watch-South-Dakota-2026-10-12-2026-10-14",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "sd-senate-mike-rounds",
+      "percent": 56
+    },
+    {
+      "candidateId": "sd-senate-brian-bengs",
+      "percent": 37
+    }
+  ]
+}

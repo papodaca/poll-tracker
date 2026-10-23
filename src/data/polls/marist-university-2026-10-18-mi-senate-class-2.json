@@ -1,0 +1,20 @@
+{
+  "id": "marist-university-2026-10-18-mi-senate-class-2",
+  "raceId": "2026-mi-senate-class-2",
+  "pollster": "Marist University",
+  "startDate": "2026-10-15",
+  "endDate": "2026-10-18",
+  "population": "LV",
+  "url": "https://maristpoll.marist.edu/polls/midterm-elections-in-michigan-october-2026/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-senate-abdul-el-sayed",
+      "percent": 50
+    },
+    {
+      "candidateId": "mi-senate-mike-rogers",
+      "percent": 48
+    }
+  ]
+}

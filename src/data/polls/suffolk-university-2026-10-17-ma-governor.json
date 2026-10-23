@@ -1,0 +1,26 @@
+{
+  "id": "suffolk-university-2026-10-17-ma-governor",
+  "raceId": "2026-ma-governor",
+  "pollster": "Suffolk University",
+  "sponsor": "The Boston Globe",
+  "startDate": "2026-10-14",
+  "endDate": "2026-10-17",
+  "sampleSize": 500,
+  "population": "LV",
+  "url": "https://www.suffolk.edu/academics/research-at-suffolk/political-research-center/polls/massachusetts#collapse-October-20-2026-Massachusetts-Governor-and-US-Senate-Statewide-and-Bellwether-with-The-Boston-Globe",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ma-governor-michael-minogue",
+      "percent": 36
+    },
+    {
+      "candidateId": "ma-governor-maura-healey",
+      "percent": 58.6
+    },
+    {
+      "candidateId": "ma-governor-andrea-james",
+      "percent": 2
+    }
+  ]
+}

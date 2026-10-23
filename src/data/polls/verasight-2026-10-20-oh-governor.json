@@ -1,0 +1,22 @@
+{
+  "id": "verasight-2026-10-20-oh-governor",
+  "raceId": "2026-oh-governor",
+  "pollster": "Verasight",
+  "sponsor": "VoteHub",
+  "startDate": "2026-10-01",
+  "endDate": "2026-10-20",
+  "sampleSize": 600,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/22/Verasight-Ohio",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "oh-governor-vivek-ramaswamy",
+      "percent": 43.6
+    },
+    {
+      "candidateId": "oh-governor-amy-acton",
+      "percent": 44.4
+    }
+  ]
+}

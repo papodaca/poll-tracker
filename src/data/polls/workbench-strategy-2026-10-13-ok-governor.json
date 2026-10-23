@@ -1,0 +1,21 @@
+{
+  "id": "workbench-strategy-2026-10-13-ok-governor",
+  "raceId": "2026-ok-governor",
+  "pollster": "Workbench Strategy",
+  "startDate": "2026-10-08",
+  "endDate": "2026-10-13",
+  "sampleSize": 600,
+  "population": "LV",
+  "url": "https://www.politico.com/news/2026/10/20/democrats-make-a-play-for-oklahoma-after-bitter-gop-gubernatorial-primary-01127523",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ok-governor-cyndi-munson",
+      "percent": 45
+    },
+    {
+      "candidateId": "ok-governor-mike-mazzei",
+      "percent": 49
+    }
+  ]
+}

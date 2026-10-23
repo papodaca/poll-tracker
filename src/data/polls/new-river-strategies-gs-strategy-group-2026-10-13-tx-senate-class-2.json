@@ -1,0 +1,26 @@
+{
+  "id": "new-river-strategies-gs-strategy-group-2026-10-13-tx-senate-class-2",
+  "raceId": "2026-tx-senate-class-2",
+  "pollster": "New River Strategies/GS Strategy Group",
+  "sponsor": "The Cook Political Report",
+  "startDate": "2026-10-09",
+  "endDate": "2026-10-13",
+  "sampleSize": 934,
+  "population": "LV",
+  "url": "https://www.cookpolitical.com/analysis/survey-research/battleground-district-project/senate-battleground-district-project-october?utm_medium=email_action&utm_source=customer.io",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-senate-james-talarico",
+      "percent": 49
+    },
+    {
+      "candidateId": "tx-senate-ken-paxton",
+      "percent": 44
+    },
+    {
+      "candidateId": "tx-senate-ted-brown",
+      "percent": 3
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "national-public-affairs-2026-10-12-ia-governor",
+  "raceId": "2026-ia-governor",
+  "pollster": "National Public Affairs",
+  "startDate": "2026-10-08",
+  "endDate": "2026-10-12",
+  "sampleSize": 678,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/19/National-Public-Affairs-Iowa",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ia-governor-rob-sand",
+      "percent": 50
+    },
+    {
+      "candidateId": "ia-governor-zach-lahn",
+      "percent": 45
+    }
+  ]
+}

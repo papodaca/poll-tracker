@@ -1,0 +1,34 @@
+{
+  "id": "embold-research-2026-10-08-ri-governor",
+  "raceId": "2026-ri-governor",
+  "pollster": "Embold Research",
+  "sponsor": "Salve Regina University Pell Center for International Relations and Public Policy",
+  "startDate": "2026-10-05",
+  "endDate": "2026-10-08",
+  "sampleSize": 815,
+  "population": "LV",
+  "url": "https://salve.edu/news/news-listing/pell-center-survey-foulkes-leads-governors-race-11-points-lieutenant-governor-contest-deadlocked",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ri-governor-ken-block",
+      "percent": 28
+    },
+    {
+      "candidateId": "ri-governor-helena-foulkes",
+      "percent": 39
+    },
+    {
+      "candidateId": "ri-governor-aaron-guckian",
+      "percent": 17
+    },
+    {
+      "candidateId": "ri-governor-cd-reynolds",
+      "percent": 0
+    },
+    {
+      "candidateId": "ri-governor-jasjit-s-gotra",
+      "percent": 1
+    }
+  ]
+}

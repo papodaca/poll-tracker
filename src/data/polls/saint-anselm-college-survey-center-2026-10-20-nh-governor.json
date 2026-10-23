@@ -1,0 +1,21 @@
+{
+  "id": "saint-anselm-college-survey-center-2026-10-20-nh-governor",
+  "raceId": "2026-nh-governor",
+  "pollster": "Saint Anselm College Survey Center",
+  "startDate": "2026-10-19",
+  "endDate": "2026-10-20",
+  "sampleSize": 1672,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/22/Saint-Anselm-College-Survey-Center-New-Hampshire",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nh-governor-kelly-ayotte",
+      "percent": 50
+    },
+    {
+      "candidateId": "nh-governor-cinde-warmington",
+      "percent": 42
+    }
+  ]
+}

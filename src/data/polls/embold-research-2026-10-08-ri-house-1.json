@@ -1,0 +1,26 @@
+{
+  "id": "embold-research-2026-10-08-ri-house-1",
+  "raceId": "2026-ri-house-1",
+  "pollster": "Embold Research",
+  "sponsor": "Salve Regina University Pell Center for International Relations and Public Policy",
+  "startDate": "2026-10-05",
+  "endDate": "2026-10-08",
+  "sampleSize": 363,
+  "population": "LV",
+  "url": "https://salve.edu/news/news-listing/pell-center-survey-foulkes-leads-governors-race-11-points-lieutenant-governor-contest-deadlocked",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ri-house-1-gabe-amo",
+      "percent": 52
+    },
+    {
+      "candidateId": "ri-house-1-kellie-keenan",
+      "percent": 33
+    },
+    {
+      "candidateId": "ri-house-1-pedro-desouza",
+      "percent": 4
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "the-alabama-poll-2026-10-16-al-senate-class-2",
+  "raceId": "2026-al-senate-class-2",
+  "pollster": "The Alabama Poll",
+  "startDate": "2026-10-15",
+  "endDate": "2026-10-16",
+  "sampleSize": 600,
+  "population": "LV",
+  "url": "https://www.al.com/politics/2026/10/gop-faces-election-downturn-but-theres-no-blue-wave-for-alabama-democrats-poll-shows.html",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "al-senate-barry-moore",
+      "percent": 56.2
+    },
+    {
+      "candidateId": "al-senate-everett-w-wess",
+      "percent": 35
+    }
+  ]
+}

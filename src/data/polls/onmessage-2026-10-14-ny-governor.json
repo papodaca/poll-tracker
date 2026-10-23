@@ -1,0 +1,21 @@
+{
+  "id": "onmessage-2026-10-14-ny-governor",
+  "raceId": "2026-ny-governor",
+  "pollster": "OnMessage",
+  "startDate": "2026-10-12",
+  "endDate": "2026-10-14",
+  "sampleSize": 1000,
+  "population": "LV",
+  "url": "https://nypost.com/2026/10/20/us-news/hochul-leads-blakeman-by-only-4-points-in-ny-governors-race-gop-internal-poll-claims/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ny-governor-bruce-blakeman",
+      "percent": 45.9
+    },
+    {
+      "candidateId": "ny-governor-kathy-hochul",
+      "percent": 50.3
+    }
+  ]
+}

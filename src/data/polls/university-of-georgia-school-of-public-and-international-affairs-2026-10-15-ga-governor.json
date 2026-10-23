@@ -1,0 +1,22 @@
+{
+  "id": "university-of-georgia-school-of-public-and-international-affairs-2026-10-15-ga-governor",
+  "raceId": "2026-ga-governor",
+  "pollster": "University of Georgia School of Public and International Affairs",
+  "sponsor": "The Atlanta Journal-Constitution",
+  "startDate": "2026-10-07",
+  "endDate": "2026-10-15",
+  "sampleSize": 1000,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/21/University-of-Georgia-School-of-Public-and-International-Affairs/The-Atlanta-Journal-Constitution-Georgia-2026-10-07-2026-10-15",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ga-governor-rick-jackson",
+      "percent": 46
+    },
+    {
+      "candidateId": "ga-governor-keisha-lance-bottoms",
+      "percent": 45
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "normington-pet-2026-10-21-tx-house-23",
+  "raceId": "2026-tx-house-23",
+  "pollster": "Normington Pet.",
+  "startDate": "2026-10-21",
+  "endDate": "2026-10-21",
+  "url": "https://x.com/cjwarnke/status/2112877284684341727",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-house-23-katy-padilla-stout",
+      "percent": 47
+    },
+    {
+      "candidateId": "tx-house-23-brandon-herrera",
+      "percent": 45
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "yougov-2026-10-15-fl-governor",
+  "raceId": "2026-fl-governor",
+  "pollster": "YouGov",
+  "sponsor": "N+ Univision",
+  "startDate": "2026-10-02",
+  "endDate": "2026-10-15",
+  "sampleSize": 825,
+  "population": "RV",
+  "url": "https://www.univision.com/noticias/politica/republicans-lead-florida-as-most-latino-voters-say-immigration-enforcement-has-gone-too-far",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-governor-byron-donalds",
+      "percent": 50
+    },
+    {
+      "candidateId": "fl-governor-david-jolly",
+      "percent": 42
+    }
+  ]
+}

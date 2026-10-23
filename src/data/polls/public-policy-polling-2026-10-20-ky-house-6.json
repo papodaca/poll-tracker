@@ -1,0 +1,22 @@
+{
+  "id": "public-policy-polling-2026-10-20-ky-house-6",
+  "raceId": "2026-ky-house-6",
+  "pollster": "Public Policy Polling",
+  "sponsor": "House Majority PAC",
+  "startDate": "2026-10-19",
+  "endDate": "2026-10-20",
+  "sampleSize": 572,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/21/Public-Policy-Polling/House-Majority-PAC-Florida--13-2026-10-14-2026-10-15",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ky-house-6-ralph-alvarado",
+      "percent": 41
+    },
+    {
+      "candidateId": "ky-house-6-zach-dembo",
+      "percent": 47
+    }
+  ]
+}

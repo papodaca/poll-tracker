@@ -1,0 +1,22 @@
+{
+  "id": "public-policy-polling-2026-10-20-mo-house-2",
+  "raceId": "2026-mo-house-2",
+  "pollster": "Public Policy Polling",
+  "sponsor": "House Majority PAC (hybrid PAC)",
+  "startDate": "2026-10-19",
+  "endDate": "2026-10-20",
+  "sampleSize": 631,
+  "population": "LV",
+  "url": "https://x.com/MarkMaxwellTV/status/2112721483617464784",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mo-house-2-fred-wellman",
+      "percent": 46
+    },
+    {
+      "candidateId": "mo-house-2-ann-wagner",
+      "percent": 45
+    }
+  ]
+}

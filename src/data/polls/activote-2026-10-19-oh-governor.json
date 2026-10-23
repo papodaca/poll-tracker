@@ -1,0 +1,21 @@
+{
+  "id": "activote-2026-10-19-oh-governor",
+  "raceId": "2026-oh-governor",
+  "pollster": "ActiVote",
+  "startDate": "2026-09-27",
+  "endDate": "2026-10-19",
+  "sampleSize": 400,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/20/ActiVote-Ohio",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "oh-governor-vivek-ramaswamy",
+      "percent": 51.4
+    },
+    {
+      "candidateId": "oh-governor-amy-acton",
+      "percent": 48.6
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "cygnal-2026-10-17-al-governor",
+  "raceId": "2026-al-governor",
+  "pollster": "Cygnal",
+  "sponsor": "Gray Television / Alabama Daily News",
+  "startDate": "2026-10-16",
+  "endDate": "2026-10-17",
+  "sampleSize": 500,
+  "population": "LV",
+  "url": "https://www.wbrc.com/2026/10/20/tuberville-leads-jones-51-40-percent-exclusive-gray-alabama-daily-news-poll/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "al-governor-tommy-tuberville",
+      "percent": 51.2
+    },
+    {
+      "candidateId": "al-governor-doug-jones",
+      "percent": 40
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "emerson-college-2026-10-14-mt-house-1",
+  "raceId": "2026-mt-house-1",
+  "pollster": "Emerson College",
+  "sponsor": "Poll Vault",
+  "startDate": "2026-10-12",
+  "endDate": "2026-10-14",
+  "sampleSize": 329,
+  "population": "LV",
+  "url": "https://pollvault.substack.com/p/levee-math",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mt-house-1-sam-forstag",
+      "percent": 50
+    },
+    {
+      "candidateId": "mt-house-1-aaron-flint",
+      "percent": 46
+    }
+  ]
+}

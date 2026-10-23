@@ -1,0 +1,22 @@
+{
+  "id": "expedition-strategies-2026-10-04-in-house-5",
+  "raceId": "2026-in-house-5",
+  "pollster": "Expedition Strategies",
+  "sponsor": "House Majority PAC (hybrid PAC)",
+  "startDate": "2026-09-30",
+  "endDate": "2026-10-04",
+  "sampleSize": 600,
+  "population": "LV",
+  "url": "https://x.com/cjwarnke/status/2112877284684341727",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "in-house-5-jd-ford",
+      "percent": 47
+    },
+    {
+      "candidateId": "in-house-5-victoria-spartz",
+      "percent": 48
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "texas-southern-university-barbara-jordan-public-policy-research-and-survey-center-2026-10-16-tx-house-15",
+  "raceId": "2026-tx-house-15",
+  "pollster": "Texas Southern University Barbara Jordan Public Policy Research and Survey Center",
+  "sponsor": "San Antonio Express-News / El País / Puente News Collaborative",
+  "startDate": "2026-10-13",
+  "endDate": "2026-10-16",
+  "population": "LV",
+  "url": "https://www.expressnews.com/politics/article/bobby-pulido-monica-de-la-cruz-poll-donald-trump-22483930.php",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-house-15-bobby-pulido",
+      "percent": 51
+    },
+    {
+      "candidateId": "tx-house-15-monica-de-la-cruz",
+      "percent": 44
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "impact-research-2026-10-10-nj-house-2",
+  "raceId": "2026-nj-house-2",
+  "pollster": "Impact Research",
+  "sponsor": "House Majority PAC (hybrid PAC)",
+  "startDate": "2026-10-07",
+  "endDate": "2026-10-10",
+  "population": "LV",
+  "url": "https://newjerseyglobe.com/congress/super-pac-putting-1-5-million-on-broadcast-tv-to-take-out-van-drew/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nj-house-2-zack-mullock",
+      "percent": 40
+    },
+    {
+      "candidateId": "nj-house-2-jeff-van-drew",
+      "percent": 50
+    }
+  ]
+}

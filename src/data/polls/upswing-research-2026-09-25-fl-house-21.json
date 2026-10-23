@@ -1,0 +1,21 @@
+{
+  "id": "upswing-research-2026-09-25-fl-house-21",
+  "raceId": "2026-fl-house-21",
+  "pollster": "Upswing Research",
+  "startDate": "2026-09-21",
+  "endDate": "2026-09-25",
+  "sampleSize": 402,
+  "population": "LV",
+  "url": "https://www.tcpalm.com/story/news/politics/elections/2026/10/21/florida-election-poll-republican-brian-mast-democrat-james-martin-tied-house-district-21-upswing/92333517007/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-house-21-james-martin",
+      "percent": 38
+    },
+    {
+      "candidateId": "fl-house-21-brian-mast",
+      "percent": 49
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "mason-dixon-polling-and-strategy-2026-10-14-sd-governor",
+  "raceId": "2026-sd-governor",
+  "pollster": "Mason-Dixon Polling & Strategy",
+  "sponsor": "South Dakota News Watch / Chiesman Center for Democracy at the University of South Dakota",
+  "startDate": "2026-10-12",
+  "endDate": "2026-10-14",
+  "sampleSize": 500,
+  "population": "LV",
+  "url": "https://www.sdnewswatch.org/south-dakota-poll-2026-governor-ahlers-rhoden/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "sd-governor-larry-rhoden",
+      "percent": 56
+    },
+    {
+      "candidateId": "sd-governor-daniel-p-ahlers",
+      "percent": 36
+    }
+  ]
+}

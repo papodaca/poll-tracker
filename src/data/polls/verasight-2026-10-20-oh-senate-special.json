@@ -1,0 +1,22 @@
+{
+  "id": "verasight-2026-10-20-oh-senate-special",
+  "raceId": "2026-oh-senate-special",
+  "pollster": "Verasight",
+  "sponsor": "VoteHub",
+  "startDate": "2026-10-01",
+  "endDate": "2026-10-20",
+  "sampleSize": 600,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/22/Verasight-Ohio",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "oh-senate-jon-husted",
+      "percent": 40.7
+    },
+    {
+      "candidateId": "oh-senate-sherrod-brown",
+      "percent": 45.4
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "spry-strategies-2026-10-16-tn-governor",
+  "raceId": "2026-tn-governor",
+  "pollster": "Spry Strategies",
+  "startDate": "2026-10-10",
+  "endDate": "2026-10-16",
+  "sampleSize": 635,
+  "population": "LV",
+  "url": "https://www.spryresearch.com/post/tennessee-statewide-survey-october-2026",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tn-governor-marsha-blackburn",
+      "percent": 43.5
+    },
+    {
+      "candidateId": "tn-governor-jerri-green",
+      "percent": 32
+    },
+    {
+      "candidateId": "tn-governor-david-hatley",
+      "percent": 11.9
+    },
+    {
+      "candidateId": "tn-governor-lauren-pinkston",
+      "percent": 1.4
+    }
+  ]
+}

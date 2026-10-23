@@ -1,0 +1,22 @@
+{
+  "id": "university-of-massachusetts-amherst-wcvb-2026-10-12-ma-senate-class-2",
+  "raceId": "2026-ma-senate-class-2",
+  "pollster": "University of Massachusetts Amherst / WCVB",
+  "sponsor": "YouGov",
+  "startDate": "2026-10-05",
+  "endDate": "2026-10-12",
+  "sampleSize": 800,
+  "population": "RV",
+  "url": "https://data.ddhq.io/polls/2026/10/19/YouGov/University-of-Massachusetts-Amherst/WCVB-Massachusetts",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ma-senate-john-deaton",
+      "percent": 28
+    },
+    {
+      "candidateId": "ma-senate-edward-markey",
+      "percent": 54
+    }
+  ]
+}

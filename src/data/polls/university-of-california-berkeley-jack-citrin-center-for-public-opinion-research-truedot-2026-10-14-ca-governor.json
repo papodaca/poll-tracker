@@ -1,0 +1,22 @@
+{
+  "id": "university-of-california-berkeley-jack-citrin-center-for-public-opinion-research-truedot-2026-10-14-ca-governor",
+  "raceId": "2026-ca-governor",
+  "pollster": "University of California Berkeley Jack Citrin Center for Public Opinion Research/TrueDot",
+  "sponsor": "Politico",
+  "startDate": "2026-10-09",
+  "endDate": "2026-10-14",
+  "sampleSize": 909,
+  "population": "LV",
+  "url": "https://www.politico.com/newsletters/california-playbook/2026/10/21/ramans-apology-and-polling-on-newsom-01128744",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ca-governor-xavier-becerra",
+      "percent": 55
+    },
+    {
+      "candidateId": "ca-governor-steve-hilton",
+      "percent": 35
+    }
+  ]
+}

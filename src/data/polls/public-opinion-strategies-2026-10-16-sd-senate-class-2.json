@@ -1,0 +1,22 @@
+{
+  "id": "public-opinion-strategies-2026-10-16-sd-senate-class-2",
+  "raceId": "2026-sd-senate-class-2",
+  "pollster": "Public Opinion Strategies",
+  "sponsor": "Mike Rounds",
+  "startDate": "2026-10-12",
+  "endDate": "2026-10-16",
+  "sampleSize": 500,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/20/Public-Opinion-Strategies/Mike-Rounds-South-Dakota-2026-10-12-2026-10-16",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "sd-senate-mike-rounds",
+      "percent": 54
+    },
+    {
+      "candidateId": "sd-senate-brian-bengs",
+      "percent": 37
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "university-of-georgia-school-of-public-and-international-affairs-2026-10-15-ga-senate-class-2",
+  "raceId": "2026-ga-senate-class-2",
+  "pollster": "University of Georgia School of Public and International Affairs",
+  "sponsor": "The Atlanta Journal-Constitution",
+  "startDate": "2026-10-07",
+  "endDate": "2026-10-15",
+  "sampleSize": 1000,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/21/University-of-Georgia-School-of-Public-and-International-Affairs/The-Atlanta-Journal-Constitution-Georgia-2026-10-07-2026-10-15",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ga-senate-mike-collins",
+      "percent": 40
+    },
+    {
+      "candidateId": "ga-senate-jon-ossoff",
+      "percent": 48
+    }
+  ]
+}

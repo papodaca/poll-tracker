@@ -1,0 +1,21 @@
+{
+  "id": "sea-polling-and-strategic-design-2026-10-15-fl-house-9",
+  "raceId": "2026-fl-house-9",
+  "pollster": "SEA Polling & Strategic Design",
+  "startDate": "2026-10-13",
+  "endDate": "2026-10-15",
+  "sampleSize": 500,
+  "population": "LV",
+  "url": "https://floridapolitics.com/archives/825682-darren-sotos-internal-polls-show-him-tied-with-dan-green-in-critical-cd-9-contest/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-house-9-darren-soto",
+      "percent": 44
+    },
+    {
+      "candidateId": "fl-house-9-dan-green",
+      "percent": 44
+    }
+  ]
+}

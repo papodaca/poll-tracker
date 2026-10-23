@@ -1,0 +1,22 @@
+{
+  "id": "public-policy-polling-2026-10-20-nc-house-9",
+  "raceId": "2026-nc-house-9",
+  "pollster": "Public Policy Polling",
+  "sponsor": "House Majority PAC (hybrid PAC)",
+  "startDate": "2026-10-19",
+  "endDate": "2026-10-20",
+  "sampleSize": 526,
+  "population": "LV",
+  "url": "https://x.com/cjwarnke/status/2112877284684341727",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nc-house-9-richard-ojeda",
+      "percent": 42
+    },
+    {
+      "candidateId": "nc-house-9-richard-hudson",
+      "percent": 46
+    }
+  ]
+}

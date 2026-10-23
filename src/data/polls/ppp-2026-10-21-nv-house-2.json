@@ -1,0 +1,19 @@
+{
+  "id": "ppp-2026-10-21-nv-house-2",
+  "raceId": "2026-nv-house-2",
+  "pollster": "PPP",
+  "startDate": "2026-10-21",
+  "endDate": "2026-10-21",
+  "url": "https://x.com/cjwarnke/status/2112877284684341727",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nv-house-2-teresa-benitez-thompson",
+      "percent": 44
+    },
+    {
+      "candidateId": "nv-house-2-david-flippo",
+      "percent": 46
+    }
+  ]
+}

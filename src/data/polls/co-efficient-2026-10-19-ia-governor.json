@@ -1,0 +1,21 @@
+{
+  "id": "co-efficient-2026-10-19-ia-governor",
+  "raceId": "2026-ia-governor",
+  "pollster": "co/efficient",
+  "startDate": "2026-10-15",
+  "endDate": "2026-10-19",
+  "sampleSize": 863,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/19/co/efficient-Iowa",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ia-governor-rob-sand",
+      "percent": 49
+    },
+    {
+      "candidateId": "ia-governor-zach-lahn",
+      "percent": 45
+    }
+  ]
+}

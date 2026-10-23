@@ -1,0 +1,22 @@
+{
+  "id": "public-policy-polling-2026-10-15-fl-house-13",
+  "raceId": "2026-fl-house-13",
+  "pollster": "Public Policy Polling",
+  "sponsor": "House Majority PAC (hybrid PAC)",
+  "startDate": "2026-10-14",
+  "endDate": "2026-10-15",
+  "sampleSize": 603,
+  "population": "LV",
+  "url": "https://x.com/cjwarnke/status/2112877284684341727",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-house-13-leela-gray",
+      "percent": 47
+    },
+    {
+      "candidateId": "fl-house-13-anna-paulina-luna",
+      "percent": 46
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "global-strategy-group-2026-10-18-co-house-5",
+  "raceId": "2026-co-house-5",
+  "pollster": "Global Strategy Group",
+  "startDate": "2026-10-14",
+  "endDate": "2026-10-18",
+  "sampleSize": 500,
+  "population": "LV",
+  "url": "https://hub.nationaljournal.com/the-end-of-aipac",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "co-house-5-jessica-killin",
+      "percent": 46
+    },
+    {
+      "candidateId": "co-house-5-jeff-crank",
+      "percent": 44
+    }
+  ]
+}

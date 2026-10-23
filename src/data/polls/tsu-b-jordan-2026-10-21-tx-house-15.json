@@ -1,0 +1,19 @@
+{
+  "id": "tsu-b-jordan-2026-10-21-tx-house-15",
+  "raceId": "2026-tx-house-15",
+  "pollster": "TSU - B. Jordan",
+  "startDate": "2026-10-21",
+  "endDate": "2026-10-21",
+  "url": "https://www.expressnews.com/politics/article/bobby-pulido-monica-de-la-cruz-poll-donald-trump-22483930.php",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-house-15-bobby-pulido",
+      "percent": 51
+    },
+    {
+      "candidateId": "tx-house-15-monica-de-la-cruz",
+      "percent": 44
+    }
+  ]
+}

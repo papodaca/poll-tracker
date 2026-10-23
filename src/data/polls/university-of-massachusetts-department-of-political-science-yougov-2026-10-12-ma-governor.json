@@ -1,0 +1,26 @@
+{
+  "id": "university-of-massachusetts-department-of-political-science-yougov-2026-10-12-ma-governor",
+  "raceId": "2026-ma-governor",
+  "pollster": "University of Massachusetts Department of Political Science/YouGov",
+  "sponsor": "WCVB-TV (Boston)",
+  "startDate": "2026-10-05",
+  "endDate": "2026-10-12",
+  "sampleSize": 800,
+  "population": "RV",
+  "url": "https://www.umass.edu/poll/about/reports/2026-10-massachusetts-public-opinion-poll",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ma-governor-michael-minogue",
+      "percent": 32
+    },
+    {
+      "candidateId": "ma-governor-maura-healey",
+      "percent": 57
+    },
+    {
+      "candidateId": "ma-governor-andrea-james",
+      "percent": 6
+    }
+  ]
+}

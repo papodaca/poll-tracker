@@ -1,0 +1,30 @@
+{
+  "id": "university-of-massachusetts-department-of-political-science-yougov-2026-10-12-ma-senate-class-2",
+  "raceId": "2026-ma-senate-class-2",
+  "pollster": "University of Massachusetts Department of Political Science/YouGov",
+  "sponsor": "WCVB-TV (Boston)",
+  "startDate": "2026-10-05",
+  "endDate": "2026-10-12",
+  "sampleSize": 800,
+  "population": "RV",
+  "url": "https://www.umass.edu/poll/about/reports/2026-10-massachusetts-public-opinion-poll",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ma-senate-john-deaton",
+      "percent": 29
+    },
+    {
+      "candidateId": "ma-senate-ed-markey",
+      "percent": 56
+    },
+    {
+      "candidateId": "ma-senate-joe-tache",
+      "percent": 3
+    },
+    {
+      "candidateId": "ma-senate-shiva-ayyadurai",
+      "percent": 6
+    }
+  ]
+}

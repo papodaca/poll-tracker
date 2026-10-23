@@ -1,0 +1,22 @@
+{
+  "id": "change-research-2026-10-21-wa-house-3",
+  "raceId": "2026-wa-house-3",
+  "pollster": "Change Research",
+  "sponsor": "Northwest Progressive Institute",
+  "startDate": "2026-10-19",
+  "endDate": "2026-10-21",
+  "sampleSize": 551,
+  "population": "LV",
+  "url": "https://www.nwprogressive.org/weblog/2026/10/theyre-tied-again-in-wa-03-npis-autumn-civic-heartbeat-polling-finds-marie-gluesenkamp-perez-at-45-john-braun-at-44.html",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "wa-house-3-marie-gluesenkamp-perez",
+      "percent": 45
+    },
+    {
+      "candidateId": "wa-house-3-john-braun",
+      "percent": 44
+    }
+  ]
+}

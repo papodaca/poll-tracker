@@ -1,0 +1,22 @@
+{
+  "id": "emerson-college-2026-10-14-fl-house-14",
+  "raceId": "2026-fl-house-14",
+  "pollster": "Emerson College",
+  "sponsor": "Poll Vault",
+  "startDate": "2026-10-12",
+  "endDate": "2026-10-14",
+  "sampleSize": 315,
+  "population": "LV",
+  "url": "https://pollvault.substack.com/p/levee-math",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-house-14-mike-beltran",
+      "percent": 43
+    },
+    {
+      "candidateId": "fl-house-14-kathy-castor",
+      "percent": 48
+    }
+  ]
+}

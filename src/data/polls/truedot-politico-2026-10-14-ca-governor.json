@@ -1,0 +1,22 @@
+{
+  "id": "truedot-politico-2026-10-14-ca-governor",
+  "raceId": "2026-ca-governor",
+  "pollster": "TrueDot / Politico",
+  "sponsor": "Citrin Center",
+  "startDate": "2026-10-09",
+  "endDate": "2026-10-14",
+  "sampleSize": 909,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/21/TrueDot/Politico/Citrin-Center-California-2026-10-09-2026-10-14",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ca-governor-xavier-becerra",
+      "percent": 55
+    },
+    {
+      "candidateId": "ca-governor-steve-hilton",
+      "percent": 35
+    }
+  ]
+}

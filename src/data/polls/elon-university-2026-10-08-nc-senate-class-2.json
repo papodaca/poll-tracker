@@ -1,0 +1,22 @@
+{
+  "id": "elon-university-2026-10-08-nc-senate-class-2",
+  "raceId": "2026-nc-senate-class-2",
+  "pollster": "Elon University",
+  "sponsor": "YouGov",
+  "startDate": "2026-09-29",
+  "endDate": "2026-10-08",
+  "sampleSize": 561,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/20/Elon-University-North-Carolina",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nc-senate-roy-cooper",
+      "percent": 52
+    },
+    {
+      "candidateId": "nc-senate-michael-whatley",
+      "percent": 39
+    }
+  ]
+}

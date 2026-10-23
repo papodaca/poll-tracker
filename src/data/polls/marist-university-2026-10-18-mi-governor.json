@@ -1,0 +1,20 @@
+{
+  "id": "marist-university-2026-10-18-mi-governor",
+  "raceId": "2026-mi-governor",
+  "pollster": "Marist University",
+  "startDate": "2026-10-15",
+  "endDate": "2026-10-18",
+  "population": "LV",
+  "url": "https://maristpoll.marist.edu/polls/midterm-elections-in-michigan-october-2026/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-governor-john-james",
+      "percent": 45
+    },
+    {
+      "candidateId": "mi-governor-jocelyn-benson",
+      "percent": 51
+    }
+  ]
+}

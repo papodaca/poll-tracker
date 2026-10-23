@@ -1,0 +1,22 @@
+{
+  "id": "emerson-college-2026-10-20-sd-governor",
+  "raceId": "2026-sd-governor",
+  "pollster": "Emerson College",
+  "sponsor": "KELO-TV (Sioux Falls, S.D.)",
+  "startDate": "2026-10-19",
+  "endDate": "2026-10-20",
+  "sampleSize": 803,
+  "population": "LV",
+  "url": "https://www.keloland.com/keloland-com-original/keloland-poll-rounds-leads-bengs-at-8-trump-approval-down/amp/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "sd-governor-larry-rhoden",
+      "percent": 56
+    },
+    {
+      "candidateId": "sd-governor-daniel-p-ahlers",
+      "percent": 38
+    }
+  ]
+}

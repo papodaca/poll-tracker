@@ -1,0 +1,21 @@
+{
+  "id": "activote-2026-10-20-il-senate-class-2",
+  "raceId": "2026-il-senate-class-2",
+  "pollster": "ActiVote",
+  "startDate": "2026-09-26",
+  "endDate": "2026-10-20",
+  "sampleSize": 400,
+  "population": "LV",
+  "url": "https://www.activote.net/polls/2026/il-u-s-senate/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "il-senate-juliana-stratton",
+      "percent": 58.5
+    },
+    {
+      "candidateId": "il-senate-don-tracy",
+      "percent": 41.5
+    }
+  ]
+}

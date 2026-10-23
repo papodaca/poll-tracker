@@ -1,0 +1,22 @@
+{
+  "id": "public-policy-polling-2026-10-13-nv-house-2",
+  "raceId": "2026-nv-house-2",
+  "pollster": "Public Policy Polling",
+  "sponsor": "House Majority PAC (hybrid PAC)",
+  "startDate": "2026-10-12",
+  "endDate": "2026-10-13",
+  "sampleSize": 560,
+  "population": "LV",
+  "url": "https://x.com/cjwarnke/status/2112877284684341727",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nv-house-2-teresa-benitez-thompson",
+      "percent": 44
+    },
+    {
+      "candidateId": "nv-house-2-david-flippo",
+      "percent": 46
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "emerson-college-2026-10-14-pa-house-8",
+  "raceId": "2026-pa-house-8",
+  "pollster": "Emerson College",
+  "sponsor": "Poll Vault",
+  "startDate": "2026-10-12",
+  "endDate": "2026-10-14",
+  "sampleSize": 396,
+  "population": "LV",
+  "url": "https://pollvault.substack.com/p/levee-math",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "pa-house-8-paige-cognetti",
+      "percent": 52
+    },
+    {
+      "candidateId": "pa-house-8-rob-bresnahan",
+      "percent": 48
+    }
+  ]
+}

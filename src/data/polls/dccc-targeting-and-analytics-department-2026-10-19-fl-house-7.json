@@ -1,0 +1,21 @@
+{
+  "id": "dccc-targeting-and-analytics-department-2026-10-19-fl-house-7",
+  "raceId": "2026-fl-house-7",
+  "pollster": "DCCC Targeting and Analytics Department",
+  "startDate": "2026-10-17",
+  "endDate": "2026-10-19",
+  "sampleSize": 414,
+  "population": "LV",
+  "url": "https://dccc.org/%f0%9f%9a%a8-breaking-new-dccc-poll-shows-a-tied-race-in-fl-07/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-house-7-bale-dalton",
+      "percent": 45
+    },
+    {
+      "candidateId": "fl-house-7-ryan-elijah",
+      "percent": 45
+    }
+  ]
+}

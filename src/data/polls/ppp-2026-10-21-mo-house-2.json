@@ -1,0 +1,19 @@
+{
+  "id": "ppp-2026-10-21-mo-house-2",
+  "raceId": "2026-mo-house-2",
+  "pollster": "PPP",
+  "startDate": "2026-10-21",
+  "endDate": "2026-10-21",
+  "url": "https://x.com/MarkMaxwellTV/status/2112721483617464784",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mo-house-2-fred-wellman",
+      "percent": 46
+    },
+    {
+      "candidateId": "mo-house-2-ann-wagner",
+      "percent": 45
+    }
+  ]
+}

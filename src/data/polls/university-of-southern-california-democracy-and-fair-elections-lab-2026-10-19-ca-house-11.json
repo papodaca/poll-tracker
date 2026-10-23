@@ -1,0 +1,21 @@
+{
+  "id": "university-of-southern-california-democracy-and-fair-elections-lab-2026-10-19-ca-house-11",
+  "raceId": "2026-ca-house-11",
+  "pollster": "University of Southern California Democracy and Fair Elections Lab",
+  "startDate": "2026-10-16",
+  "endDate": "2026-10-19",
+  "sampleSize": 454,
+  "population": "LV",
+  "url": "https://www.thedemocracylab.com/ca11",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ca-house-11-connie-chan",
+      "percent": 44
+    },
+    {
+      "candidateId": "ca-house-11-scott-wiener",
+      "percent": 51
+    }
+  ]
+}

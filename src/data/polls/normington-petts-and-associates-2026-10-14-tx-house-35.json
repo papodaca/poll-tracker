@@ -1,0 +1,22 @@
+{
+  "id": "normington-petts-and-associates-2026-10-14-tx-house-35",
+  "raceId": "2026-tx-house-35",
+  "pollster": "Normington, Petts & Associates",
+  "sponsor": "House Majority PAC (hybrid PAC)",
+  "startDate": "2026-10-12",
+  "endDate": "2026-10-14",
+  "sampleSize": 400,
+  "population": "LV",
+  "url": "https://x.com/cjwarnke/status/2112877284684341727",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-house-35-johnny-garcia",
+      "percent": 47
+    },
+    {
+      "candidateId": "tx-house-35-carlos-de-la-cruz",
+      "percent": 45
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "emerson-college-2026-10-14-mi-house-7",
+  "raceId": "2026-mi-house-7",
+  "pollster": "Emerson College",
+  "sponsor": "Poll Vault",
+  "startDate": "2026-10-12",
+  "endDate": "2026-10-14",
+  "sampleSize": 314,
+  "population": "LV",
+  "url": "https://pollvault.substack.com/p/levee-math",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-house-7-william-lawrence",
+      "percent": 53
+    },
+    {
+      "candidateId": "mi-house-7-tom-barrett",
+      "percent": 45
+    }
+  ]
+}

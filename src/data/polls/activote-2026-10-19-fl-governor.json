@@ -1,0 +1,21 @@
+{
+  "id": "activote-2026-10-19-fl-governor",
+  "raceId": "2026-fl-governor",
+  "pollster": "ActiVote",
+  "startDate": "2026-10-01",
+  "endDate": "2026-10-19",
+  "sampleSize": 400,
+  "population": "LV",
+  "url": "https://www.activote.net/polls/2026/fl-governor/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-governor-byron-donalds",
+      "percent": 51.7
+    },
+    {
+      "candidateId": "fl-governor-david-jolly",
+      "percent": 48.3
+    }
+  ]
+}

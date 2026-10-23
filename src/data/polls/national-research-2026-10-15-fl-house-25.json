@@ -1,0 +1,21 @@
+{
+  "id": "national-research-2026-10-15-fl-house-25",
+  "raceId": "2026-fl-house-25",
+  "pollster": "National Research",
+  "startDate": "2026-10-12",
+  "endDate": "2026-10-15",
+  "sampleSize": 400,
+  "population": "LV",
+  "url": "https://floridapolitics.com/archives/826146-internal-poll-gives-scott-singer-7-point-lead-over-incumbent-jared-moskowitz-in-cd-25/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-house-25-jared-moskowitz",
+      "percent": 42
+    },
+    {
+      "candidateId": "fl-house-25-scott-singer",
+      "percent": 49
+    }
+  ]
+}

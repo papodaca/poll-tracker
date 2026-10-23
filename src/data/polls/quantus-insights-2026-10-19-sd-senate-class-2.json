@@ -1,0 +1,21 @@
+{
+  "id": "quantus-insights-2026-10-19-sd-senate-class-2",
+  "raceId": "2026-sd-senate-class-2",
+  "pollster": "Quantus Insights",
+  "startDate": "2026-10-17",
+  "endDate": "2026-10-19",
+  "sampleSize": 633,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/21/Quantus-Insights-South-Dakota",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "sd-senate-mike-rounds",
+      "percent": 57.2
+    },
+    {
+      "candidateId": "sd-senate-brian-bengs",
+      "percent": 36.5
+    }
+  ]
+}

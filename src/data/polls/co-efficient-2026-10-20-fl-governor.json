@@ -1,0 +1,21 @@
+{
+  "id": "co-efficient-2026-10-20-fl-governor",
+  "raceId": "2026-fl-governor",
+  "pollster": "co/efficient",
+  "startDate": "2026-10-18",
+  "endDate": "2026-10-20",
+  "sampleSize": 1014,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/21/co/efficient-Florida",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-governor-byron-donalds",
+      "percent": 49
+    },
+    {
+      "candidateId": "fl-governor-david-jolly",
+      "percent": 40
+    }
+  ]
+}

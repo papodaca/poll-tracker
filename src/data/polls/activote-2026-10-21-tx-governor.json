@@ -1,0 +1,21 @@
+{
+  "id": "activote-2026-10-21-tx-governor",
+  "raceId": "2026-tx-governor",
+  "pollster": "ActiVote",
+  "startDate": "2026-10-17",
+  "endDate": "2026-10-21",
+  "sampleSize": 400,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/21/ActiVote-Texas",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-governor-greg-abbott",
+      "percent": 52.5
+    },
+    {
+      "candidateId": "tx-governor-gina-hinojosa",
+      "percent": 47.5
+    }
+  ]
+}

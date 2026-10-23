@@ -1,0 +1,22 @@
+{
+  "id": "suffolk-university-2026-10-17-ma-senate-class-2",
+  "raceId": "2026-ma-senate-class-2",
+  "pollster": "Suffolk University",
+  "sponsor": "The Boston Globe",
+  "startDate": "2026-10-14",
+  "endDate": "2026-10-17",
+  "sampleSize": 500,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/20/Suffolk-University-Massachusetts",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ma-senate-john-deaton",
+      "percent": 32
+    },
+    {
+      "candidateId": "ma-senate-edward-markey",
+      "percent": 60
+    }
+  ]
+}

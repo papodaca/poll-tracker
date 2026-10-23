@@ -1,0 +1,21 @@
+{
+  "id": "university-of-north-florida-public-opinion-research-lab-2026-10-19-fl-governor",
+  "raceId": "2026-fl-governor",
+  "pollster": "University of North Florida Public Opinion Research Lab",
+  "startDate": "2026-10-12",
+  "endDate": "2026-10-19",
+  "sampleSize": 1471,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/20/University-of-North-Florida-Public-Opinion-Research-Lab-Florida",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-governor-byron-donalds",
+      "percent": 45
+    },
+    {
+      "candidateId": "fl-governor-david-jolly",
+      "percent": 44
+    }
+  ]
+}

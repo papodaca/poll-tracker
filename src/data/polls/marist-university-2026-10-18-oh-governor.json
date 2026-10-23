@@ -1,0 +1,21 @@
+{
+  "id": "marist-university-2026-10-18-oh-governor",
+  "raceId": "2026-oh-governor",
+  "pollster": "Marist University",
+  "startDate": "2026-10-15",
+  "endDate": "2026-10-18",
+  "sampleSize": 1176,
+  "population": "LV",
+  "url": "https://maristpoll.marist.edu/polls/midterm-elections-in-ohio-october-2026/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "oh-governor-vivek-ramaswamy",
+      "percent": 43
+    },
+    {
+      "candidateId": "oh-governor-amy-acton",
+      "percent": 50
+    }
+  ]
+}

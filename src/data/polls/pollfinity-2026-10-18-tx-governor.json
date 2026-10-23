@@ -1,0 +1,21 @@
+{
+  "id": "pollfinity-2026-10-18-tx-governor",
+  "raceId": "2026-tx-governor",
+  "pollster": "Pollfinity",
+  "startDate": "2026-10-15",
+  "endDate": "2026-10-18",
+  "sampleSize": 273,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/22/Pollfinity-Texas",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-governor-gina-hinojosa",
+      "percent": 46
+    },
+    {
+      "candidateId": "tx-governor-greg-abbott",
+      "percent": 45
+    }
+  ]
+}

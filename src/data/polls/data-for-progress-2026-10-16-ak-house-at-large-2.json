@@ -1,0 +1,25 @@
+{
+  "id": "data-for-progress-2026-10-16-ak-house-at-large-2",
+  "raceId": "2026-ak-house-at-large",
+  "pollster": "Data for Progress",
+  "startDate": "2026-10-08",
+  "endDate": "2026-10-16",
+  "sampleSize": 668,
+  "population": "LV",
+  "url": "https://www.dataforprogress.org/blog/2026/10/20/every-statewide-race-in-alaska-is-close-as-7-in-10-voters-worry-about-affording-gas-and-food",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ak-house-bill-hill",
+      "percent": 45
+    },
+    {
+      "candidateId": "ak-house-nick-begich",
+      "percent": 50
+    },
+    {
+      "candidateId": "ak-house-eric-hafner",
+      "percent": 5
+    }
+  ]
+}

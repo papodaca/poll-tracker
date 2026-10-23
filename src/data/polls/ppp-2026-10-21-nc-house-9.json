@@ -1,0 +1,19 @@
+{
+  "id": "ppp-2026-10-21-nc-house-9",
+  "raceId": "2026-nc-house-9",
+  "pollster": "PPP",
+  "startDate": "2026-10-21",
+  "endDate": "2026-10-21",
+  "url": "https://x.com/cjwarnke/status/2112877284684341727",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nc-house-9-richard-ojeda",
+      "percent": 42
+    },
+    {
+      "candidateId": "nc-house-9-richard-hudson",
+      "percent": 46
+    }
+  ]
+}

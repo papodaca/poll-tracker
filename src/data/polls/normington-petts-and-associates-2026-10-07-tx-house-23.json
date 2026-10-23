@@ -1,0 +1,22 @@
+{
+  "id": "normington-petts-and-associates-2026-10-07-tx-house-23",
+  "raceId": "2026-tx-house-23",
+  "pollster": "Normington, Petts & Associates",
+  "sponsor": "House Majority PAC (hybrid PAC)",
+  "startDate": "2026-10-05",
+  "endDate": "2026-10-07",
+  "sampleSize": 400,
+  "population": "LV",
+  "url": "https://x.com/cjwarnke/status/2112877284684341727",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-house-23-katy-padilla-stout",
+      "percent": 46
+    },
+    {
+      "candidateId": "tx-house-23-brandon-herrera",
+      "percent": 46
+    }
+  ]
+}

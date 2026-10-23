@@ -1,0 +1,21 @@
+{
+  "id": "activote-2026-10-22-il-governor",
+  "raceId": "2026-il-governor",
+  "pollster": "ActiVote",
+  "startDate": "2026-10-02",
+  "endDate": "2026-10-22",
+  "sampleSize": 400,
+  "population": "LV",
+  "url": "https://www.activote.net/polls/2026/il-governor/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "il-governor-darren-bailey",
+      "percent": 41.3
+    },
+    {
+      "candidateId": "il-governor-jb-pritzker",
+      "percent": 58.7
+    }
+  ]
+}

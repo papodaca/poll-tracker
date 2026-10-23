@@ -1,0 +1,21 @@
+{
+  "id": "activote-2026-10-20-ga-senate-class-2",
+  "raceId": "2026-ga-senate-class-2",
+  "pollster": "ActiVote",
+  "startDate": "2026-10-06",
+  "endDate": "2026-10-20",
+  "sampleSize": 400,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/21/ActiVote-Georgia",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ga-senate-mike-collins",
+      "percent": 46
+    },
+    {
+      "candidateId": "ga-senate-jon-ossoff",
+      "percent": 54
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "activote-2026-10-21-pa-governor",
+  "raceId": "2026-pa-governor",
+  "pollster": "ActiVote",
+  "startDate": "2026-10-01",
+  "endDate": "2026-10-21",
+  "sampleSize": 400,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/21/ActiVote-Pennsylvania",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "pa-governor-josh-shapiro",
+      "percent": 61.5
+    },
+    {
+      "candidateId": "pa-governor-stacy-garrity",
+      "percent": 38.5
+    }
+  ]
+}

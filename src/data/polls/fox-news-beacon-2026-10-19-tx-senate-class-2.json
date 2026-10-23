@@ -1,0 +1,21 @@
+{
+  "id": "fox-news-beacon-2026-10-19-tx-senate-class-2",
+  "raceId": "2026-tx-senate-class-2",
+  "pollster": "Fox News/Beacon",
+  "startDate": "2026-10-15",
+  "endDate": "2026-10-19",
+  "sampleSize": 2011,
+  "population": "RV",
+  "url": "https://www.foxnews.com/politics/fox-news-poll-texas-senate-race-galloping-toward-photo-finish",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-senate-james-talarico",
+      "percent": 49
+    },
+    {
+      "candidateId": "tx-senate-ken-paxton",
+      "percent": 49
+    }
+  ]
+}

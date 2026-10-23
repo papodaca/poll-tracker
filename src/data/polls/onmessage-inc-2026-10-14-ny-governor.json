@@ -1,0 +1,22 @@
+{
+  "id": "onmessage-inc-2026-10-14-ny-governor",
+  "raceId": "2026-ny-governor",
+  "pollster": "OnMessage Inc.",
+  "sponsor": "Saritha Komatireddy",
+  "startDate": "2026-10-12",
+  "endDate": "2026-10-14",
+  "sampleSize": 1000,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/18/OnMessage-Inc.-New-York",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ny-governor-kathy-hochul",
+      "percent": 50.3
+    },
+    {
+      "candidateId": "ny-governor-bruce-blakeman",
+      "percent": 45.9
+    }
+  ]
+}

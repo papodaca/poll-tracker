@@ -1,0 +1,21 @@
+{
+  "id": "activote-2026-10-20-ga-governor",
+  "raceId": "2026-ga-governor",
+  "pollster": "ActiVote",
+  "startDate": "2026-10-06",
+  "endDate": "2026-10-20",
+  "sampleSize": 400,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/21/ActiVote-Georgia",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ga-governor-rick-jackson",
+      "percent": 51.5
+    },
+    {
+      "candidateId": "ga-governor-keisha-lance-bottoms",
+      "percent": 48.5
+    }
+  ]
+}

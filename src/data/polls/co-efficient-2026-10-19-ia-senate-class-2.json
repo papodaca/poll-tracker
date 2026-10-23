@@ -1,0 +1,21 @@
+{
+  "id": "co-efficient-2026-10-19-ia-senate-class-2",
+  "raceId": "2026-ia-senate-class-2",
+  "pollster": "co/efficient",
+  "startDate": "2026-10-15",
+  "endDate": "2026-10-19",
+  "sampleSize": 863,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/19/co/efficient-Iowa",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ia-senate-ashley-hinson",
+      "percent": 49
+    },
+    {
+      "candidateId": "ia-senate-josh-turek",
+      "percent": 46
+    }
+  ]
+}

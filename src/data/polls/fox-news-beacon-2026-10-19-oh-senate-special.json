@@ -1,0 +1,21 @@
+{
+  "id": "fox-news-beacon-2026-10-19-oh-senate-special",
+  "raceId": "2026-oh-senate-special",
+  "pollster": "Fox News/Beacon",
+  "startDate": "2026-10-15",
+  "endDate": "2026-10-19",
+  "sampleSize": 2005,
+  "population": "RV",
+  "url": "https://www.foxnews.com/politics/fox-news-poll-gender-gap-pocketbook-pain-shape-ohio-senate-race",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "oh-senate-sherrod-brown",
+      "percent": 52
+    },
+    {
+      "candidateId": "oh-senate-jon-husted",
+      "percent": 47
+    }
+  ]
+}

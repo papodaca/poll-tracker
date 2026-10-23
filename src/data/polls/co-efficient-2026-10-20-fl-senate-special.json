@@ -1,0 +1,21 @@
+{
+  "id": "co-efficient-2026-10-20-fl-senate-special",
+  "raceId": "2026-fl-senate-special",
+  "pollster": "co/efficient",
+  "startDate": "2026-10-18",
+  "endDate": "2026-10-20",
+  "sampleSize": 1014,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/21/co/efficient-Florida",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-senate-ashley-moody",
+      "percent": 48
+    },
+    {
+      "candidateId": "fl-senate-angie-nixon",
+      "percent": 40
+    }
+  ]
+}

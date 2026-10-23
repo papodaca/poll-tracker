@@ -1,0 +1,22 @@
+{
+  "id": "gs-strategy-group-new-river-strategies-2026-10-13-tx-senate-class-2",
+  "raceId": "2026-tx-senate-class-2",
+  "pollster": "GS Strategy Group / New River Strategies",
+  "sponsor": "The Cook Political Report",
+  "startDate": "2026-10-09",
+  "endDate": "2026-10-13",
+  "sampleSize": 934,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/21/GS-Strategy-Group/The-Cook-Political-Report-Iowa-2026-10-09-2026-10-13",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-senate-ken-paxton",
+      "percent": 43
+    },
+    {
+      "candidateId": "tx-senate-james-talarico",
+      "percent": 48
+    }
+  ]
+}

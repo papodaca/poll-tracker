@@ -1,0 +1,21 @@
+{
+  "id": "rasmussen-reports-2026-10-15-ak-senate-class-2",
+  "raceId": "2026-ak-senate-class-2",
+  "pollster": "Rasmussen Reports",
+  "startDate": "2026-10-12",
+  "endDate": "2026-10-15",
+  "sampleSize": 775,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/19/Rasmussen-Reports-Alaska",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ak-senate-mary-peltola",
+      "percent": 47
+    },
+    {
+      "candidateId": "ak-senate-dan-sullivan",
+      "percent": 48
+    }
+  ]
+}

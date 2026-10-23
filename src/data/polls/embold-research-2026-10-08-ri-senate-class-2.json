@@ -1,0 +1,26 @@
+{
+  "id": "embold-research-2026-10-08-ri-senate-class-2",
+  "raceId": "2026-ri-senate-class-2",
+  "pollster": "Embold Research",
+  "sponsor": "Salve Regina University Pell Center for International Relations and Public Policy",
+  "startDate": "2026-10-05",
+  "endDate": "2026-10-08",
+  "sampleSize": 815,
+  "population": "LV",
+  "url": "https://salve.edu/news/news-listing/pell-center-survey-foulkes-leads-governors-race-11-points-lieutenant-governor-contest-deadlocked",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ri-senate-jack-reed",
+      "percent": 55
+    },
+    {
+      "candidateId": "ri-senate-ray-mckay",
+      "percent": 32
+    },
+    {
+      "candidateId": "ri-senate-michael-anthony-bahry",
+      "percent": 4
+    }
+  ]
+}

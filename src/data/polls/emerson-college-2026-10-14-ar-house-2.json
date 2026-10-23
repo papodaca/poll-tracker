@@ -1,0 +1,22 @@
+{
+  "id": "emerson-college-2026-10-14-ar-house-2",
+  "raceId": "2026-ar-house-2",
+  "pollster": "Emerson College",
+  "sponsor": "Poll Vault",
+  "startDate": "2026-10-12",
+  "endDate": "2026-10-14",
+  "sampleSize": 383,
+  "population": "LV",
+  "url": "https://pollvault.substack.com/p/levee-math",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ar-house-2-chris-jones",
+      "percent": 48
+    },
+    {
+      "candidateId": "ar-house-2-french-hill",
+      "percent": 52
+    }
+  ]
+}
