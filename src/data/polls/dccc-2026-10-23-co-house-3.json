@@ -1,0 +1,19 @@
+{
+  "id": "dccc-2026-10-23-co-house-3",
+  "raceId": "2026-co-house-3",
+  "pollster": "DCCC",
+  "startDate": "2026-10-23",
+  "endDate": "2026-10-23",
+  "url": "https://www.cpr.org/2026/10/23/could-democrats-make-gains-3rd-congressional-district/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "co-house-3-dwayne-romero",
+      "percent": 47
+    },
+    {
+      "candidateId": "co-house-3-jeff-hurd",
+      "percent": 46
+    }
+  ]
+}

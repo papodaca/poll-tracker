@@ -1,0 +1,26 @@
+{
+  "id": "emerson-college-2026-10-19-tx-senate-class-2-2",
+  "raceId": "2026-tx-senate-class-2",
+  "pollster": "Emerson College",
+  "sponsor": "Nexstar",
+  "startDate": "2026-10-17",
+  "endDate": "2026-10-19",
+  "sampleSize": 1000,
+  "population": "LV",
+  "url": "https://emersoncollegepolling.com/texas-2026-poll-toss-up/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-senate-james-talarico",
+      "percent": 49.4
+    },
+    {
+      "candidateId": "tx-senate-ken-paxton",
+      "percent": 47.8
+    },
+    {
+      "candidateId": "tx-senate-ted-brown",
+      "percent": 2.8
+    }
+  ]
+}

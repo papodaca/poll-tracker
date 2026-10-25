@@ -1,0 +1,22 @@
+{
+  "id": "global-strategy-group-2026-10-21-ks-governor",
+  "raceId": "2026-ks-governor",
+  "pollster": "Global Strategy Group",
+  "sponsor": "Cindy Holscher",
+  "startDate": "2026-10-18",
+  "endDate": "2026-10-21",
+  "sampleSize": 600,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/23/Global-Strategy-Group/Cindy-Holscher-Kansas-2026-10-18-2026-10-21",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ks-governor-cindy-holscher",
+      "percent": 47
+    },
+    {
+      "candidateId": "ks-governor-ty-masterson",
+      "percent": 47
+    }
+  ]
+}

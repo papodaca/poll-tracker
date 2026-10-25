@@ -1,0 +1,30 @@
+{
+  "id": "suffolk-university-2026-10-17-ma-senate-class-2-2",
+  "raceId": "2026-ma-senate-class-2",
+  "pollster": "Suffolk University",
+  "sponsor": "The Boston Globe",
+  "startDate": "2026-10-14",
+  "endDate": "2026-10-17",
+  "sampleSize": 500,
+  "population": "LV",
+  "url": "https://www.suffolk.edu/academics/research-at-suffolk/political-research-center/polls/massachusetts#collapse-October-20-2026-Massachusetts-Governor-and-US-Senate-Statewide-and-Bellwether-with-The-Boston-Globe",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ma-senate-john-deaton",
+      "percent": 31.8
+    },
+    {
+      "candidateId": "ma-senate-ed-markey",
+      "percent": 60
+    },
+    {
+      "candidateId": "ma-senate-joe-tache",
+      "percent": 1.4
+    },
+    {
+      "candidateId": "ma-senate-shiva-ayyadurai",
+      "percent": 0.8
+    }
+  ]
+}

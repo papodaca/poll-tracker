@@ -1,0 +1,22 @@
+{
+  "id": "public-policy-polling-2026-10-20-co-house-5",
+  "raceId": "2026-co-house-5",
+  "pollster": "Public Policy Polling",
+  "sponsor": "House Majority PAC (hybrid PAC)",
+  "startDate": "2026-10-19",
+  "endDate": "2026-10-20",
+  "sampleSize": 577,
+  "population": "LV",
+  "url": "https://x.com/cjwarnke/status/2113764039218397211?s=20",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "co-house-5-jessica-killin",
+      "percent": 47
+    },
+    {
+      "candidateId": "co-house-5-jeff-crank",
+      "percent": 47
+    }
+  ]
+}

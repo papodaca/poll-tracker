@@ -1,0 +1,22 @@
+{
+  "id": "public-policy-polling-2026-10-22-sc-house-1",
+  "raceId": "2026-sc-house-1",
+  "pollster": "Public Policy Polling",
+  "sponsor": "House Majority PAC (hybrid PAC)",
+  "startDate": "2026-10-21",
+  "endDate": "2026-10-22",
+  "sampleSize": 770,
+  "population": "LV",
+  "url": "https://x.com/cjwarnke/status/2113636550357528714",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "sc-house-1-jenny-costa-honeycutt",
+      "percent": 45
+    },
+    {
+      "candidateId": "sc-house-1-nancy-lacore",
+      "percent": 47
+    }
+  ]
+}

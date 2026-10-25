@@ -1,0 +1,21 @@
+{
+  "id": "rasmussen-reports-2026-10-21-tx-senate-class-2",
+  "raceId": "2026-tx-senate-class-2",
+  "pollster": "Rasmussen Reports",
+  "startDate": "2026-10-20",
+  "endDate": "2026-10-21",
+  "sampleSize": 965,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/23/Rasmussen-Reports-Texas",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-senate-ken-paxton",
+      "percent": 45
+    },
+    {
+      "candidateId": "tx-senate-james-talarico",
+      "percent": 45
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "grayhouse-2026-10-20-az-governor",
+  "raceId": "2026-az-governor",
+  "pollster": "GrayHouse",
+  "sponsor": "Friends of Elijah Norton",
+  "startDate": "2026-10-18",
+  "endDate": "2026-10-20",
+  "sampleSize": 550,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/23/GrayHouse-Arizona",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "az-governor-andy-biggs",
+      "percent": 45
+    },
+    {
+      "candidateId": "az-governor-katie-hobbs",
+      "percent": 51
+    }
+  ]
+}

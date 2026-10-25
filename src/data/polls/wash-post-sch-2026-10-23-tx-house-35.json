@@ -1,0 +1,19 @@
+{
+  "id": "wash-post-sch-2026-10-23-tx-house-35",
+  "raceId": "2026-tx-house-35",
+  "pollster": "Wash. Post/Sch.",
+  "startDate": "2026-10-23",
+  "endDate": "2026-10-23",
+  "url": "https://www.washingtonpost.com/politics/2026/10/23/two-texas-districts-gop-had-counted-now-feature-tight-house-races/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-house-35-johnny-garcia",
+      "percent": 50
+    },
+    {
+      "candidateId": "tx-house-35-carlos-de-la-cruz",
+      "percent": 43
+    }
+  ]
+}

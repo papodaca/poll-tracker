@@ -1,0 +1,25 @@
+{
+  "id": "university-of-houston-hobby-school-of-public-affairs-2026-10-14-tx-senate-class-2-2",
+  "raceId": "2026-tx-senate-class-2",
+  "pollster": "University of Houston Hobby School of Public Affairs",
+  "startDate": "2026-10-10",
+  "endDate": "2026-10-14",
+  "sampleSize": 2000,
+  "population": "LV",
+  "url": "https://www.uh.edu/hobby/texas2026/index.php",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-senate-james-talarico",
+      "percent": 48
+    },
+    {
+      "candidateId": "tx-senate-ken-paxton",
+      "percent": 46
+    },
+    {
+      "candidateId": "tx-senate-ted-brown",
+      "percent": 3
+    }
+  ]
+}

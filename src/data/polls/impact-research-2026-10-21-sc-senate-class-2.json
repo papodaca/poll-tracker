@@ -1,0 +1,22 @@
+{
+  "id": "impact-research-2026-10-21-sc-senate-class-2",
+  "raceId": "2026-sc-senate-class-2",
+  "pollster": "Impact Research",
+  "sponsor": "Fresh Start SC",
+  "startDate": "2026-10-15",
+  "endDate": "2026-10-21",
+  "sampleSize": 800,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/23/Impact-Research/Fresh-Start-SC-South-Carolina-2026-10-15-2026-10-21",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "sc-senate-annie-andrews",
+      "percent": 45
+    },
+    {
+      "candidateId": "sc-senate-darline-graham",
+      "percent": 44
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "dccc-targeting-and-analytics-department-2026-10-21-co-house-3",
+  "raceId": "2026-co-house-3",
+  "pollster": "DCCC Targeting and Analytics Department",
+  "startDate": "2026-10-20",
+  "endDate": "2026-10-21",
+  "sampleSize": 402,
+  "population": "LV",
+  "url": "https://www.cpr.org/2026/10/23/could-democrats-make-gains-3rd-congressional-district/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "co-house-3-dwayne-romero",
+      "percent": 47
+    },
+    {
+      "candidateId": "co-house-3-jeff-hurd",
+      "percent": 46
+    }
+  ]
+}

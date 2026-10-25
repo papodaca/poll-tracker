@@ -1,0 +1,21 @@
+{
+  "id": "the-washington-post-george-mason-university-schar-school-of-policy-and-government-2026-10-19-tx-house-35",
+  "raceId": "2026-tx-house-35",
+  "pollster": "The Washington Post/George Mason University Schar School of Policy and Government",
+  "startDate": "2026-10-14",
+  "endDate": "2026-10-19",
+  "sampleSize": 605,
+  "population": "LV",
+  "url": "https://www.washingtonpost.com/politics/2026/10/23/two-texas-districts-gop-had-counted-now-feature-tight-house-races/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-house-35-johnny-garcia",
+      "percent": 47
+    },
+    {
+      "candidateId": "tx-house-35-carlos-de-la-cruz",
+      "percent": 48
+    }
+  ]
+}

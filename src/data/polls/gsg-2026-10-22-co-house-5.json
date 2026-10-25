@@ -1,0 +1,19 @@
+{
+  "id": "gsg-2026-10-22-co-house-5",
+  "raceId": "2026-co-house-5",
+  "pollster": "GSG",
+  "startDate": "2026-10-22",
+  "endDate": "2026-10-22",
+  "url": "https://hub.nationaljournal.com/the-end-of-aipac",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "co-house-5-jessica-killin",
+      "percent": 46
+    },
+    {
+      "candidateId": "co-house-5-jeff-crank",
+      "percent": 44
+    }
+  ]
+}

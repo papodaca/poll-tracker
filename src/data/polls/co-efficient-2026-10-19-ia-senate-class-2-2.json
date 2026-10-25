@@ -1,0 +1,25 @@
+{
+  "id": "co-efficient-2026-10-19-ia-senate-class-2-2",
+  "raceId": "2026-ia-senate-class-2",
+  "pollster": "co/efficient",
+  "startDate": "2026-10-15",
+  "endDate": "2026-10-19",
+  "sampleSize": 863,
+  "population": "LV",
+  "url": "https://battlegrounds.coefficient.org/ia/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ia-senate-josh-turek",
+      "percent": 45
+    },
+    {
+      "candidateId": "ia-senate-ashley-hinson",
+      "percent": 48
+    },
+    {
+      "candidateId": "ia-senate-thomas-laehn",
+      "percent": 2
+    }
+  ]
+}

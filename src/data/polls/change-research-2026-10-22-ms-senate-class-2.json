@@ -1,0 +1,26 @@
+{
+  "id": "change-research-2026-10-22-ms-senate-class-2",
+  "raceId": "2026-ms-senate-class-2",
+  "pollster": "Change Research",
+  "sponsor": "Government That Works PAC (hybrid PAC)",
+  "startDate": "2026-10-21",
+  "endDate": "2026-10-22",
+  "sampleSize": 842,
+  "population": "LV",
+  "url": "https://www.politico.com/newsletters/playbook-pm/2026/10/23/oil-politics-squeeze-iowa-01133929",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ms-senate-scott-colom",
+      "percent": 40
+    },
+    {
+      "candidateId": "ms-senate-cindy-hyde-smith",
+      "percent": 43
+    },
+    {
+      "candidateId": "ms-senate-ty-pinkins",
+      "percent": 6
+    }
+  ]
+}

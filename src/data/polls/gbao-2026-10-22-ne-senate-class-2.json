@@ -1,0 +1,22 @@
+{
+  "id": "gbao-2026-10-22-ne-senate-class-2",
+  "raceId": "2026-ne-senate-class-2",
+  "pollster": "GBAO",
+  "sponsor": "Working Class Majority",
+  "startDate": "2026-10-18",
+  "endDate": "2026-10-22",
+  "sampleSize": 800,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/23/GBAO/Working-Class-Majority-Nebraska-2026-10-18-2026-10-22",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ne-senate-dan-osborn",
+      "percent": 46
+    },
+    {
+      "candidateId": "ne-senate-pete-ricketts",
+      "percent": 45
+    }
+  ]
+}

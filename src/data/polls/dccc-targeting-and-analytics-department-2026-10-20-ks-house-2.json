@@ -1,0 +1,21 @@
+{
+  "id": "dccc-targeting-and-analytics-department-2026-10-20-ks-house-2",
+  "raceId": "2026-ks-house-2",
+  "pollster": "DCCC Targeting and Analytics Department",
+  "startDate": "2026-10-19",
+  "endDate": "2026-10-20",
+  "sampleSize": 639,
+  "population": "LV",
+  "url": "https://www.semafor.com/article/10/23/2026/dems-make-a-kansas-play-as-gop-eyes-a-california-seat",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ks-house-2-don-coover",
+      "percent": 46
+    },
+    {
+      "candidateId": "ks-house-2-derek-schmidt",
+      "percent": 49
+    }
+  ]
+}

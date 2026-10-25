@@ -1,0 +1,29 @@
+{
+  "id": "the-washington-post-george-mason-university-schar-school-of-policy-and-government-2026-10-19-tx-house-34",
+  "raceId": "2026-tx-house-34",
+  "pollster": "The Washington Post/George Mason University Schar School of Policy and Government",
+  "startDate": "2026-10-14",
+  "endDate": "2026-10-19",
+  "sampleSize": 626,
+  "population": "LV",
+  "url": "https://www.washingtonpost.com/politics/2026/10/23/two-texas-districts-gop-had-counted-now-feature-tight-house-races/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-house-34-eric-flores",
+      "percent": 43
+    },
+    {
+      "candidateId": "tx-house-34-vicente-gonzalez",
+      "percent": 50
+    },
+    {
+      "candidateId": "tx-house-34-eddie-espinoza",
+      "percent": 2
+    },
+    {
+      "candidateId": "tx-house-34-chris-royal",
+      "percent": 1
+    }
+  ]
+}

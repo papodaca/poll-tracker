@@ -1,0 +1,26 @@
+{
+  "id": "emerson-college-2026-10-19-tx-governor-2",
+  "raceId": "2026-tx-governor",
+  "pollster": "Emerson College",
+  "sponsor": "Nexstar",
+  "startDate": "2026-10-17",
+  "endDate": "2026-10-19",
+  "sampleSize": 1000,
+  "population": "LV",
+  "url": "https://emersoncollegepolling.com/texas-2026-poll-toss-up/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-governor-gina-hinojosa",
+      "percent": 46.6
+    },
+    {
+      "candidateId": "tx-governor-greg-abbott",
+      "percent": 51.1
+    },
+    {
+      "candidateId": "tx-governor-pat-dixon",
+      "percent": 2.3
+    }
+  ]
+}

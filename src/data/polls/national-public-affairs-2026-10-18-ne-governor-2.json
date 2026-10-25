@@ -1,0 +1,29 @@
+{
+  "id": "national-public-affairs-2026-10-18-ne-governor-2",
+  "raceId": "2026-ne-governor",
+  "pollster": "National Public Affairs",
+  "startDate": "2026-10-15",
+  "endDate": "2026-10-18",
+  "sampleSize": 598,
+  "population": "LV",
+  "url": "https://backend.natpublicaffairs.com/media/NE_Tracker_R2_Trend_Memo_102226.7.pdf",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ne-governor-lynne-walz",
+      "percent": 41
+    },
+    {
+      "candidateId": "ne-governor-jim-pillen",
+      "percent": 47
+    },
+    {
+      "candidateId": "ne-governor-rick-beard",
+      "percent": 3
+    },
+    {
+      "candidateId": "ne-governor-brett-lindstrom",
+      "percent": 5
+    }
+  ]
+}

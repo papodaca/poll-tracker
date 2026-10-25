@@ -1,0 +1,29 @@
+{
+  "id": "quantus-insights-2026-10-18-mt-senate-class-2-2",
+  "raceId": "2026-mt-senate-class-2",
+  "pollster": "Quantus Insights",
+  "startDate": "2026-10-15",
+  "endDate": "2026-10-18",
+  "sampleSize": 686,
+  "population": "LV",
+  "url": "https://quantusinsights.org/polling/f/montana-senate-alme-leads-by-16-as-bodnar-consolidates",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mt-senate-kurt-alme",
+      "percent": 45.6
+    },
+    {
+      "candidateId": "mt-senate-seth-bodnar",
+      "percent": 29.4
+    },
+    {
+      "candidateId": "mt-senate-alani-bankhead",
+      "percent": 21.2
+    },
+    {
+      "candidateId": "mt-senate-kyle-austin",
+      "percent": 1.8
+    }
+  ]
+}

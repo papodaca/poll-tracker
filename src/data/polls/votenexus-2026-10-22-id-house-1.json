@@ -1,0 +1,30 @@
+{
+  "id": "votenexus-2026-10-22-id-house-1",
+  "raceId": "2026-id-house-1",
+  "pollster": "VoteNexus",
+  "sponsor": "Knock Every Door (hybrid PAC)",
+  "startDate": "2026-10-21",
+  "endDate": "2026-10-22",
+  "sampleSize": 330,
+  "population": "LV",
+  "url": "https://drive.google.com/file/d/1ZWt7_rFQzMxjeueMCX4GoFyqIe9jRk8X/view",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "id-house-1-sarah-zabel",
+      "percent": 5
+    },
+    {
+      "candidateId": "id-house-1-kaylee-peterson",
+      "percent": 26
+    },
+    {
+      "candidateId": "id-house-1-russ-fulcher",
+      "percent": 52
+    },
+    {
+      "candidateId": "id-house-1-brendan-j-gomez",
+      "percent": 6
+    }
+  ]
+}

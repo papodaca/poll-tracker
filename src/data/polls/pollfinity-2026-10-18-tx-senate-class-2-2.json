@@ -1,0 +1,25 @@
+{
+  "id": "pollfinity-2026-10-18-tx-senate-class-2-2",
+  "raceId": "2026-tx-senate-class-2",
+  "pollster": "Pollfinity",
+  "startDate": "2026-10-15",
+  "endDate": "2026-10-18",
+  "sampleSize": 278,
+  "population": "LV",
+  "url": "https://www.pollfinity.com/polls/tx-governor-senate-2026-oct",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-senate-james-talarico",
+      "percent": 48
+    },
+    {
+      "candidateId": "tx-senate-ken-paxton",
+      "percent": 43
+    },
+    {
+      "candidateId": "tx-senate-ted-brown",
+      "percent": 2
+    }
+  ]
+}

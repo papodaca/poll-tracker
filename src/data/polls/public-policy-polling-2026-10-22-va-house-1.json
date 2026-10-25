@@ -1,0 +1,22 @@
+{
+  "id": "public-policy-polling-2026-10-22-va-house-1",
+  "raceId": "2026-va-house-1",
+  "pollster": "Public Policy Polling",
+  "sponsor": "House Majority PAC (hybrid PAC)",
+  "startDate": "2026-10-21",
+  "endDate": "2026-10-22",
+  "sampleSize": 570,
+  "population": "LV",
+  "url": "https://x.com/cjwarnke/status/2113633843999605102",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "va-house-1-shannon-taylor",
+      "percent": 47
+    },
+    {
+      "candidateId": "va-house-1-robert-j-wittman",
+      "percent": 46
+    }
+  ]
+}

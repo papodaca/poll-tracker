@@ -1,0 +1,25 @@
+{
+  "id": "national-public-affairs-2026-10-12-ia-senate-class-2-2-2",
+  "raceId": "2026-ia-senate-class-2",
+  "pollster": "National Public Affairs",
+  "startDate": "2026-10-08",
+  "endDate": "2026-10-12",
+  "sampleSize": 678,
+  "population": "LV",
+  "url": "https://backend.natpublicaffairs.com/media/Iowa_General_Election_Memo_101526.3.pdf",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ia-senate-josh-turek",
+      "percent": 44
+    },
+    {
+      "candidateId": "ia-senate-ashley-hinson",
+      "percent": 47
+    },
+    {
+      "candidateId": "ia-senate-thomas-laehn",
+      "percent": 4
+    }
+  ]
+}

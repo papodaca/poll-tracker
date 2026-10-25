@@ -1,0 +1,25 @@
+{
+  "id": "pollfinity-2026-10-18-tx-governor-2",
+  "raceId": "2026-tx-governor",
+  "pollster": "Pollfinity",
+  "startDate": "2026-10-15",
+  "endDate": "2026-10-18",
+  "sampleSize": 278,
+  "population": "LV",
+  "url": "https://www.pollfinity.com/polls/tx-governor-senate-2026-oct",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-governor-gina-hinojosa",
+      "percent": 46
+    },
+    {
+      "candidateId": "tx-governor-greg-abbott",
+      "percent": 45
+    },
+    {
+      "candidateId": "tx-governor-pat-dixon",
+      "percent": 2
+    }
+  ]
+}

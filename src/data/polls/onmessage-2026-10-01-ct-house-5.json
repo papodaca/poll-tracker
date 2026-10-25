@@ -1,0 +1,20 @@
+{
+  "id": "onmessage-2026-10-01-ct-house-5",
+  "raceId": "2026-ct-house-5",
+  "pollster": "OnMessage",
+  "startDate": "2026-09-29",
+  "endDate": "2026-10-01",
+  "population": "LV",
+  "url": "https://x.com/SheaforCongress/status/2112915268317921680",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ct-house-5-chris-shea",
+      "percent": 45
+    },
+    {
+      "candidateId": "ct-house-5-jahana-hayes",
+      "percent": 51
+    }
+  ]
+}

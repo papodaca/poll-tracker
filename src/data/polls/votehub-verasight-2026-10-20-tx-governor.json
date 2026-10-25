@@ -1,0 +1,25 @@
+{
+  "id": "votehub-verasight-2026-10-20-tx-governor",
+  "raceId": "2026-tx-governor",
+  "pollster": "VoteHub/Verasight",
+  "startDate": "2026-10-01",
+  "endDate": "2026-10-20",
+  "sampleSize": 601,
+  "population": "LV",
+  "url": "https://votehub.com/2026/10/23/votehub-verasight-poll-surveys-texass-u-s-senate-and-gubernatorial-races/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-governor-gina-hinojosa",
+      "percent": 46.4
+    },
+    {
+      "candidateId": "tx-governor-greg-abbott",
+      "percent": 47.7
+    },
+    {
+      "candidateId": "tx-governor-pat-dixon",
+      "percent": 0.7
+    }
+  ]
+}

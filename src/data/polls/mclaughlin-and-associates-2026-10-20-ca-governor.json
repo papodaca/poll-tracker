@@ -1,0 +1,22 @@
+{
+  "id": "mclaughlin-and-associates-2026-10-20-ca-governor",
+  "raceId": "2026-ca-governor",
+  "pollster": "McLaughlin & Associates",
+  "sponsor": "California Post",
+  "startDate": "2026-10-17",
+  "endDate": "2026-10-20",
+  "sampleSize": 800,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/24/McLaughlin-&-Associates/California-Post-California-2026-10-17-2026-10-20",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ca-governor-xavier-becerra",
+      "percent": 55
+    },
+    {
+      "candidateId": "ca-governor-steve-hilton",
+      "percent": 39.3
+    }
+  ]
+}

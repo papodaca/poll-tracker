@@ -1,0 +1,22 @@
+{
+  "id": "global-strategy-group-2026-10-18-ne-governor",
+  "raceId": "2026-ne-governor",
+  "pollster": "Global Strategy Group",
+  "sponsor": "Lynne Walz",
+  "startDate": "2026-10-13",
+  "endDate": "2026-10-18",
+  "sampleSize": 800,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/23/Global-Strategy-Group/Lynne-Walz-Nebraska-2026-10-13-2026-10-18",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ne-governor-jim-pillen",
+      "percent": 40
+    },
+    {
+      "candidateId": "ne-governor-lynne-walz",
+      "percent": 39
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "quantus-insights-2026-10-21-oh-house-1",
+  "raceId": "2026-oh-house-1",
+  "pollster": "Quantus Insights",
+  "startDate": "2026-10-19",
+  "endDate": "2026-10-21",
+  "sampleSize": 561,
+  "population": "LV",
+  "url": "https://quantusinsights.org/f/ohio-1st-district-poll-landsman-brown-and-acton-all-lead",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "oh-house-1-greg-landsman",
+      "percent": 47.6
+    },
+    {
+      "candidateId": "oh-house-1-eric-conroy",
+      "percent": 43.9
+    },
+    {
+      "candidateId": "oh-house-1-nathan-weise",
+      "percent": 0.7
+    }
+  ]
+}

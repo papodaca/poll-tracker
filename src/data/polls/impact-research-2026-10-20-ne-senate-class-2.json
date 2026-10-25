@@ -1,0 +1,22 @@
+{
+  "id": "impact-research-2026-10-20-ne-senate-class-2",
+  "raceId": "2026-ne-senate-class-2",
+  "pollster": "Impact Research",
+  "sponsor": "Dan Osborn",
+  "startDate": "2026-10-14",
+  "endDate": "2026-10-20",
+  "sampleSize": 600,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/23/Impact-Research/Dan-Osborn-Nebraska-2026-10-14-2026-10-20",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ne-senate-dan-osborn",
+      "percent": 47
+    },
+    {
+      "candidateId": "ne-senate-pete-ricketts",
+      "percent": 49
+    }
+  ]
+}

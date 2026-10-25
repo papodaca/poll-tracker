@@ -1,0 +1,21 @@
+{
+  "id": "activote-2026-10-23-ny-governor",
+  "raceId": "2026-ny-governor",
+  "pollster": "ActiVote",
+  "startDate": "2026-10-01",
+  "endDate": "2026-10-23",
+  "sampleSize": 400,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/24/ActiVote-New-York",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ny-governor-kathy-hochul",
+      "percent": 59
+    },
+    {
+      "candidateId": "ny-governor-bruce-blakeman",
+      "percent": 41
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "rasmussen-reports-2026-10-21-mn-senate-class-2",
+  "raceId": "2026-mn-senate-class-2",
+  "pollster": "Rasmussen Reports",
+  "startDate": "2026-10-20",
+  "endDate": "2026-10-21",
+  "sampleSize": 1182,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/23/Rasmussen-Reports-Minnesota",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mn-senate-peggy-flanagan",
+      "percent": 48
+    },
+    {
+      "candidateId": "mn-senate-michele-tafoya",
+      "percent": 45
+    }
+  ]
+}

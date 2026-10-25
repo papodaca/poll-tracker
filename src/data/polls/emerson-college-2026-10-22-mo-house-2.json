@@ -1,0 +1,19 @@
+{
+  "id": "emerson-college-2026-10-22-mo-house-2",
+  "raceId": "2026-mo-house-2",
+  "pollster": "Emerson College",
+  "startDate": "2026-10-22",
+  "endDate": "2026-10-22",
+  "url": "https://pollvault.substack.com/p/levee-math",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mo-house-2-fred-wellman",
+      "percent": 51
+    },
+    {
+      "candidateId": "mo-house-2-ann-wagner",
+      "percent": 46
+    }
+  ]
+}
