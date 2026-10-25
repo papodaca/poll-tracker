@@ -27,6 +27,7 @@ const REFERER = 'https://fiftyplusone.news/latest-polls';
 const USER_AGENT =
 	'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36';
 const PAGE_SIZE = 100;
+const MAX_OFFSET = 2000;
 
 const PARTY: Record<string, string> = {
 	DEM: 'Democratic',
@@ -194,9 +195,9 @@ async function main() {
 	let offset = 0;
 	let total = Infinity;
 
-	while (offset < total) {
+	while (offset < total && offset < MAX_OFFSET) {
 		const page = await getPage(offset);
-		total = Number(page.total);
+		total = Math.min(Number(page.total), MAX_OFFSET);
 		if (page.data.length === 0) break;
 		console.log(`offset ${offset} of ${total}`);
 		for (const poll of page.data) {

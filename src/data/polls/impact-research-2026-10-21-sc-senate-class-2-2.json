@@ -1,0 +1,30 @@
+{
+  "id": "impact-research-2026-10-21-sc-senate-class-2-2",
+  "raceId": "2026-sc-senate-class-2",
+  "pollster": "Impact Research",
+  "sponsor": "Fresh Start SC PAC (super PAC)",
+  "startDate": "2026-10-15",
+  "endDate": "2026-10-21",
+  "sampleSize": 800,
+  "population": "LV",
+  "url": "https://freshstartpac.org/wp-content/uploads/2026/10/SC-Senate-Track-Public-Memo.pdf",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "sc-senate-annie-andrews",
+      "percent": 45
+    },
+    {
+      "candidateId": "sc-senate-darline-graham-nordone",
+      "percent": 44
+    },
+    {
+      "candidateId": "sc-senate-kasie-whitener",
+      "percent": 3
+    },
+    {
+      "candidateId": "sc-senate-mark-hackett",
+      "percent": 2
+    }
+  ]
+}

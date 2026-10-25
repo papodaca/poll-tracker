@@ -1,0 +1,29 @@
+{
+  "id": "global-strategy-group-2026-10-18-ne-governor-2",
+  "raceId": "2026-ne-governor",
+  "pollster": "Global Strategy Group",
+  "startDate": "2026-10-13",
+  "endDate": "2026-10-18",
+  "sampleSize": 800,
+  "population": "LV",
+  "url": "https://drive.google.com/file/d/1ym0Wv6bIEaTDRzmS-KSMMAXDvx_7zcYu/view?usp=sharing",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ne-governor-lynne-walz",
+      "percent": 39
+    },
+    {
+      "candidateId": "ne-governor-jim-pillen",
+      "percent": 40
+    },
+    {
+      "candidateId": "ne-governor-rick-beard",
+      "percent": 5
+    },
+    {
+      "candidateId": "ne-governor-brett-lindstrom",
+      "percent": 5
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "slingshot-strategies-2026-10-18-tx-senate-class-2-2",
+  "raceId": "2026-tx-senate-class-2",
+  "pollster": "Slingshot Strategies",
+  "sponsor": "Texas Public Opinion Research",
+  "startDate": "2026-10-15",
+  "endDate": "2026-10-18",
+  "sampleSize": 969,
+  "population": "LV",
+  "url": "https://texaspublicopinionresearch.substack.com/p/october-poll-in-texas-general-election",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-senate-james-talarico",
+      "percent": 51
+    },
+    {
+      "candidateId": "tx-senate-ken-paxton",
+      "percent": 47
+    },
+    {
+      "candidateId": "tx-senate-ted-brown",
+      "percent": 2
+    }
+  ]
+}

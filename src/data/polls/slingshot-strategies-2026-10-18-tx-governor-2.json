@@ -1,0 +1,26 @@
+{
+  "id": "slingshot-strategies-2026-10-18-tx-governor-2",
+  "raceId": "2026-tx-governor",
+  "pollster": "Slingshot Strategies",
+  "sponsor": "Texas Public Opinion Research",
+  "startDate": "2026-10-15",
+  "endDate": "2026-10-18",
+  "sampleSize": 969,
+  "population": "LV",
+  "url": "https://texaspublicopinionresearch.substack.com/p/october-poll-in-texas-general-election",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-governor-gina-hinojosa",
+      "percent": 48
+    },
+    {
+      "candidateId": "tx-governor-greg-abbott",
+      "percent": 51
+    },
+    {
+      "candidateId": "tx-governor-pat-dixon",
+      "percent": 1
+    }
+  ]
+}
