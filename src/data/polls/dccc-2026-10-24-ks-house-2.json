@@ -1,0 +1,19 @@
+{
+  "id": "dccc-2026-10-24-ks-house-2",
+  "raceId": "2026-ks-house-2",
+  "pollster": "DCCC",
+  "startDate": "2026-10-24",
+  "endDate": "2026-10-24",
+  "url": "https://cdn.sanity.io/files/ifn0l6bs/production/78398043f4d437c7cacea6bb7fe89675b5e0479c.pdf",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ks-house-2-don-coover",
+      "percent": 46
+    },
+    {
+      "candidateId": "ks-house-2-derek-schmidt",
+      "percent": 49
+    }
+  ]
+}

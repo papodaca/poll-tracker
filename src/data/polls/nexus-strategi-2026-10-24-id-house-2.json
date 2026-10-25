@@ -1,0 +1,19 @@
+{
+  "id": "nexus-strategi-2026-10-24-id-house-2",
+  "raceId": "2026-id-house-2",
+  "pollster": "Nexus Strategi.",
+  "startDate": "2026-10-24",
+  "endDate": "2026-10-24",
+  "url": "https://drive.google.com/file/d/1ZWt7_rFQzMxjeueMCX4GoFyqIe9jRk8X/view",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "id-house-2-ellie-gilbreath",
+      "percent": 31
+    },
+    {
+      "candidateId": "id-house-2-mike-simpson",
+      "percent": 46
+    }
+  ]
+}

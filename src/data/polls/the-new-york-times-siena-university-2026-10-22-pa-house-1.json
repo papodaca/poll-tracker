@@ -1,0 +1,22 @@
+{
+  "id": "the-new-york-times-siena-university-2026-10-22-pa-house-1",
+  "raceId": "2026-pa-house-1",
+  "pollster": "The New York Times/Siena University",
+  "sponsor": "The Philadelphia Inquirer",
+  "startDate": "2026-10-16",
+  "endDate": "2026-10-22",
+  "sampleSize": 400,
+  "population": "LV",
+  "url": "https://www.nytimes.com/interactive/2026/10/25/polls/times-siena-pa1-poll-toplines.html",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "pa-house-1-bob-harvie",
+      "percent": 48
+    },
+    {
+      "candidateId": "pa-house-1-brian-fitzpatrick",
+      "percent": 46
+    }
+  ]
+}

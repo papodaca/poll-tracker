@@ -1,0 +1,22 @@
+{
+  "id": "concord-public-opinion-partners-2026-10-18-ne-senate-class-2",
+  "raceId": "2026-ne-senate-class-2",
+  "pollster": "Concord Public Opinion Partners",
+  "sponsor": "Education Reform Now Advocacy",
+  "startDate": "2026-10-15",
+  "endDate": "2026-10-18",
+  "sampleSize": 500,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/25/Concord-Public-Opinion-Partners/Education-Reform-Now-Advocacy-Nebraska-2026-10-15-2026-10-18",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ne-senate-pete-ricketts",
+      "percent": 41
+    },
+    {
+      "candidateId": "ne-senate-dan-osborn",
+      "percent": 48
+    }
+  ]
+}

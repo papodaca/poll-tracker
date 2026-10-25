@@ -1,0 +1,22 @@
+{
+  "id": "the-new-york-times-siena-university-2026-10-22-pa-house-10",
+  "raceId": "2026-pa-house-10",
+  "pollster": "The New York Times/Siena University",
+  "sponsor": "The Philadelphia Inquirer",
+  "startDate": "2026-10-16",
+  "endDate": "2026-10-22",
+  "sampleSize": 404,
+  "population": "LV",
+  "url": "https://www.nytimes.com/interactive/2026/10/25/polls/times-siena-pa10-poll-toplines.html",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "pa-house-10-janelle-stelson",
+      "percent": 48
+    },
+    {
+      "candidateId": "pa-house-10-scott-perry",
+      "percent": 48
+    }
+  ]
+}

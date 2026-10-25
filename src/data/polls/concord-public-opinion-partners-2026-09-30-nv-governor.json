@@ -1,0 +1,22 @@
+{
+  "id": "concord-public-opinion-partners-2026-09-30-nv-governor",
+  "raceId": "2026-nv-governor",
+  "pollster": "Concord Public Opinion Partners",
+  "sponsor": "Education Reform Now Advocacy",
+  "startDate": "2026-09-26",
+  "endDate": "2026-09-30",
+  "sampleSize": 565,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/25/Concord-Public-Opinion-Partners/Education-Reform-Now-Advocacy-Nevada-2026-09-26-2026-09-30",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nv-governor-aaron-ford",
+      "percent": 42
+    },
+    {
+      "candidateId": "nv-governor-joe-lombardo",
+      "percent": 43
+    }
+  ]
+}

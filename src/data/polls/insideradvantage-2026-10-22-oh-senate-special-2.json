@@ -1,0 +1,29 @@
+{
+  "id": "insideradvantage-2026-10-22-oh-senate-special-2",
+  "raceId": "2026-oh-senate-special",
+  "pollster": "InsiderAdvantage",
+  "startDate": "2026-10-21",
+  "endDate": "2026-10-22",
+  "sampleSize": 1200,
+  "population": "LV",
+  "url": "https://insideradvantage.com/insideradvantage-senate-surveys-mi-el-sayed-47-rogers-46-ia-hinson-47-turek-45-oh-brown-47-husted-44/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "oh-senate-sherrod-brown",
+      "percent": 46.7
+    },
+    {
+      "candidateId": "oh-senate-jon-husted",
+      "percent": 44.4
+    },
+    {
+      "candidateId": "oh-senate-bill-redpath",
+      "percent": 1.4
+    },
+    {
+      "candidateId": "oh-senate-gregory-levy",
+      "percent": 1.7
+    }
+  ]
+}

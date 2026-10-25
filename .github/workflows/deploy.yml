@@ -28,7 +28,7 @@ jobs:
       - name: Install, build, and upload
         uses: withastro/action@v6
         with:
-          node-version: "22"
+          node-version: "24"
           build-cmd: |
             base="${{ steps.pages.outputs.base_path }}"
             if [ -z "$base" ]; then base=/; fi

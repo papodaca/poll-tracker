@@ -1,0 +1,19 @@
+{
+  "id": "nexus-strategi-2026-10-24-id-house-1",
+  "raceId": "2026-id-house-1",
+  "pollster": "Nexus Strategi.",
+  "startDate": "2026-10-24",
+  "endDate": "2026-10-24",
+  "url": "https://drive.google.com/file/d/1ZWt7_rFQzMxjeueMCX4GoFyqIe9jRk8X/view",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "id-house-1-kaylee-peterson",
+      "percent": 26
+    },
+    {
+      "candidateId": "id-house-1-russ-fulcher",
+      "percent": 52
+    }
+  ]
+}

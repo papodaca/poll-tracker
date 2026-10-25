@@ -1,0 +1,21 @@
+{
+  "id": "dccc-targeting-and-analytics-department-2026-10-22-tx-house-9",
+  "raceId": "2026-tx-house-9",
+  "pollster": "DCCC Targeting and Analytics Department",
+  "startDate": "2026-10-20",
+  "endDate": "2026-10-22",
+  "sampleSize": 490,
+  "population": "LV",
+  "url": "https://x.com/nicholaswu12/status/2114105108955099603",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-house-9-leticia-gutierrez",
+      "percent": 47
+    },
+    {
+      "candidateId": "tx-house-9-alex-mealer",
+      "percent": 48
+    }
+  ]
+}
