@@ -1,0 +1,21 @@
+{
+  "id": "marquette-university-law-school-2026-10-22-wi-governor",
+  "raceId": "2026-wi-governor",
+  "pollster": "Marquette University Law School",
+  "startDate": "2026-10-14",
+  "endDate": "2026-10-22",
+  "sampleSize": 668,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/28/Marquette-University-Law-School-Wisconsin",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "wi-governor-tom-tiffany",
+      "percent": 44
+    },
+    {
+      "candidateId": "wi-governor-david-crowley",
+      "percent": 51
+    }
+  ]
+}

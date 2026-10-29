@@ -1,0 +1,21 @@
+{
+  "id": "quantus-insights-2026-10-22-in-house-5",
+  "raceId": "2026-in-house-5",
+  "pollster": "Quantus Insights",
+  "startDate": "2026-10-21",
+  "endDate": "2026-10-22",
+  "sampleSize": 601,
+  "population": "LV",
+  "url": "https://quantusinsights.org/polling/f/indiana-5th-spartz-leads-ford-by-3-in-tight-race",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "in-house-5-jd-ford",
+      "percent": 44.6
+    },
+    {
+      "candidateId": "in-house-5-victoria-spartz",
+      "percent": 47.4
+    }
+  ]
+}

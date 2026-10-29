@@ -1,0 +1,22 @@
+{
+  "id": "ssrs-2026-10-27-tx-senate-class-2",
+  "raceId": "2026-tx-senate-class-2",
+  "pollster": "SSRS",
+  "sponsor": "CNN",
+  "startDate": "2026-10-20",
+  "endDate": "2026-10-27",
+  "sampleSize": 923,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/29/SSRS/CNN-Texas-2026-10-20-2026-10-27",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-senate-james-talarico",
+      "percent": 49
+    },
+    {
+      "candidateId": "tx-senate-ken-paxton",
+      "percent": 43
+    }
+  ]
+}

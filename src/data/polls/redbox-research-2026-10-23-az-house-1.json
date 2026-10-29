@@ -1,0 +1,26 @@
+{
+  "id": "redbox-research-2026-10-23-az-house-1",
+  "raceId": "2026-az-house-1",
+  "pollster": "RedBox Research",
+  "sponsor": "A Fight Worth Having (super PAC)",
+  "startDate": "2026-10-20",
+  "endDate": "2026-10-23",
+  "sampleSize": 851,
+  "population": "LV",
+  "url": "https://afightworthhaving.com/polling/2026/az-01",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "az-house-1-amish-shah",
+      "percent": 48.7
+    },
+    {
+      "candidateId": "az-house-1-jay-feely",
+      "percent": 43.2
+    },
+    {
+      "candidateId": "az-house-1-monica-alponte",
+      "percent": 2.6
+    }
+  ]
+}

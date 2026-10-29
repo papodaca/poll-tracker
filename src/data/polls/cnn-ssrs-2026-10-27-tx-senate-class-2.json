@@ -1,0 +1,21 @@
+{
+  "id": "cnn-ssrs-2026-10-27-tx-senate-class-2",
+  "raceId": "2026-tx-senate-class-2",
+  "pollster": "CNN/SSRS",
+  "startDate": "2026-10-20",
+  "endDate": "2026-10-27",
+  "sampleSize": 923,
+  "population": "LV",
+  "url": "https://www.cnn.com/2026/10/29/politics/cnn-polls-michigan-maine-texas-kansas-senate-races-midterms-vis",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-senate-ken-paxton",
+      "percent": 43
+    },
+    {
+      "candidateId": "tx-senate-james-talarico",
+      "percent": 49
+    }
+  ]
+}

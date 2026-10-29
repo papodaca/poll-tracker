@@ -1,0 +1,22 @@
+{
+  "id": "surveyusa-2026-10-24-ca-governor",
+  "raceId": "2026-ca-governor",
+  "pollster": "SurveyUSA",
+  "sponsor": "KGTV (San Diego) / The San Diego Union-Tribune",
+  "startDate": "2026-10-19",
+  "endDate": "2026-10-24",
+  "sampleSize": 799,
+  "population": "LV",
+  "url": "https://results.surveyusa.com/client/PollReport.aspx?g=b118a915-559d-4669-b870-8a3eae933903",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ca-governor-steve-hilton",
+      "percent": 32
+    },
+    {
+      "candidateId": "ca-governor-xavier-becerra",
+      "percent": 54
+    }
+  ]
+}

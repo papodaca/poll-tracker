@@ -1,0 +1,26 @@
+{
+  "id": "grayhouse-2026-10-28-ar-senate-class-2",
+  "raceId": "2026-ar-senate-class-2",
+  "pollster": "Grayhouse",
+  "sponsor": "America One Policies (super PAC)",
+  "startDate": "2026-10-27",
+  "endDate": "2026-10-28",
+  "sampleSize": 509,
+  "population": "LV",
+  "url": "https://www.grayhouse.com/post/arkansas-senate-poll-october-2026-cotton",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ar-senate-hallie-shoffner",
+      "percent": 39
+    },
+    {
+      "candidateId": "ar-senate-tom-cotton",
+      "percent": 55
+    },
+    {
+      "candidateId": "ar-senate-jeff-wadlin",
+      "percent": 4
+    }
+  ]
+}

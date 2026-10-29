@@ -1,0 +1,21 @@
+{
+  "id": "the-new-york-times-siena-university-2026-10-26-sc-governor",
+  "raceId": "2026-sc-governor",
+  "pollster": "The New York Times/Siena University",
+  "startDate": "2026-10-19",
+  "endDate": "2026-10-26",
+  "sampleSize": 707,
+  "population": "LV",
+  "url": "https://www.nytimes.com/interactive/2026/10/28/polls/times-siena-sc-poll-toplines.html",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "sc-governor-jermaine-johnson",
+      "percent": 44
+    },
+    {
+      "candidateId": "sc-governor-alan-wilson",
+      "percent": 51
+    }
+  ]
+}

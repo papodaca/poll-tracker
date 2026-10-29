@@ -1,0 +1,22 @@
+{
+  "id": "redbox-research-2026-10-23-ca-house-7",
+  "raceId": "2026-ca-house-7",
+  "pollster": "RedBox Research",
+  "sponsor": "A Fight Worth Having (super PAC)",
+  "startDate": "2026-10-20",
+  "endDate": "2026-10-23",
+  "sampleSize": 722,
+  "population": "LV",
+  "url": "https://afightworthhaving.com/polling/2026/ca-07",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ca-house-7-mai-vang",
+      "percent": 32.2
+    },
+    {
+      "candidateId": "ca-house-7-doris-matsui",
+      "percent": 31.5
+    }
+  ]
+}

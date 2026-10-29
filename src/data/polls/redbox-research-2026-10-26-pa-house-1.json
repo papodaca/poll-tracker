@@ -1,0 +1,19 @@
+{
+  "id": "redbox-research-2026-10-26-pa-house-1",
+  "raceId": "2026-pa-house-1",
+  "pollster": "RedBox Research",
+  "startDate": "2026-10-26",
+  "endDate": "2026-10-26",
+  "url": "https://afightworthhaving.com/polling/2026/pa-01",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "pa-house-1-bob-harvie",
+      "percent": 46
+    },
+    {
+      "candidateId": "pa-house-1-brian-fitzpatrick",
+      "percent": 46.1
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "redbox-research-2026-10-23-fl-house-14",
+  "raceId": "2026-fl-house-14",
+  "pollster": "RedBox Research",
+  "sponsor": "A Fight Worth Having (super PAC)",
+  "startDate": "2026-10-20",
+  "endDate": "2026-10-23",
+  "sampleSize": 708,
+  "population": "LV",
+  "url": "https://afightworthhaving.com/polling/2026/fl-14",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-house-14-mike-beltran",
+      "percent": 44.7
+    },
+    {
+      "candidateId": "fl-house-14-kathy-castor",
+      "percent": 45.6
+    },
+    {
+      "candidateId": "fl-house-14-brian-lambert",
+      "percent": 3.5
+    }
+  ]
+}

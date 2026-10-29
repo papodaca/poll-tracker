@@ -1,0 +1,22 @@
+{
+  "id": "redbox-research-2026-10-23-fl-house-22",
+  "raceId": "2026-fl-house-22",
+  "pollster": "RedBox Research",
+  "sponsor": "A Fight Worth Having (super PAC)",
+  "startDate": "2026-10-20",
+  "endDate": "2026-10-23",
+  "sampleSize": 550,
+  "population": "LV",
+  "url": "https://afightworthhaving.com/polling/2026/fl-22",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-house-22-pia-dandiya",
+      "percent": 46.3
+    },
+    {
+      "candidateId": "fl-house-22-casey-askar",
+      "percent": 45.5
+    }
+  ]
+}

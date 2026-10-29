@@ -1,0 +1,22 @@
+{
+  "id": "hart-research-associates-2026-10-25-nv-governor",
+  "raceId": "2026-nv-governor",
+  "pollster": "Hart Research Associates",
+  "sponsor": "A More Affordable Nevada",
+  "startDate": "2026-10-20",
+  "endDate": "2026-10-25",
+  "sampleSize": 950,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/27/Hart-Research-Associates-Nevada",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nv-governor-joe-lombardo",
+      "percent": 45
+    },
+    {
+      "candidateId": "nv-governor-aaron-ford",
+      "percent": 49
+    }
+  ]
+}

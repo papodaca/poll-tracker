@@ -1,0 +1,22 @@
+{
+  "id": "redbox-research-2026-10-23-ca-house-11",
+  "raceId": "2026-ca-house-11",
+  "pollster": "RedBox Research",
+  "sponsor": "A Fight Worth Having (super PAC)",
+  "startDate": "2026-10-20",
+  "endDate": "2026-10-23",
+  "sampleSize": 856,
+  "population": "LV",
+  "url": "https://afightworthhaving.com/polling/2026/ca-11",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ca-house-11-connie-chan",
+      "percent": 37.6
+    },
+    {
+      "candidateId": "ca-house-11-scott-wiener",
+      "percent": 45.6
+    }
+  ]
+}

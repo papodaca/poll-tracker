@@ -1,0 +1,21 @@
+{
+  "id": "blueprint-polling-2026-10-24-al-governor",
+  "raceId": "2026-al-governor",
+  "pollster": "Blueprint Polling",
+  "startDate": "2026-10-22",
+  "endDate": "2026-10-24",
+  "sampleSize": 695,
+  "population": "LV",
+  "url": "https://www.chismstrategies.com/field-notes/new-alabama-poll-governors-race-a-toss-up-as-tuberville-edges-jones-48--45",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "al-governor-doug-jones",
+      "percent": 44.9
+    },
+    {
+      "candidateId": "al-governor-tommy-tuberville",
+      "percent": 47.9
+    }
+  ]
+}

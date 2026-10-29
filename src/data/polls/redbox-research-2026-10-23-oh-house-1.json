@@ -1,0 +1,26 @@
+{
+  "id": "redbox-research-2026-10-23-oh-house-1",
+  "raceId": "2026-oh-house-1",
+  "pollster": "RedBox Research",
+  "sponsor": "A Fight Worth Having (super PAC)",
+  "startDate": "2026-10-20",
+  "endDate": "2026-10-23",
+  "sampleSize": 821,
+  "population": "LV",
+  "url": "https://afightworthhaving.com/polling/2026/oh-01",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "oh-house-1-greg-landsman",
+      "percent": 48
+    },
+    {
+      "candidateId": "oh-house-1-eric-conroy",
+      "percent": 39
+    },
+    {
+      "candidateId": "oh-house-1-nathan-weise",
+      "percent": 3.1
+    }
+  ]
+}

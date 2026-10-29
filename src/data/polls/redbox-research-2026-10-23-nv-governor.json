@@ -1,0 +1,22 @@
+{
+  "id": "redbox-research-2026-10-23-nv-governor",
+  "raceId": "2026-nv-governor",
+  "pollster": "RedBox Research",
+  "sponsor": "A Fight Worth Having",
+  "startDate": "2026-10-20",
+  "endDate": "2026-10-23",
+  "sampleSize": 1470,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/27/RedBox-Research/A-Fight-Worth-Having-Montana--1",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nv-governor-aaron-ford",
+      "percent": 45.6
+    },
+    {
+      "candidateId": "nv-governor-joe-lombardo",
+      "percent": 42.6
+    }
+  ]
+}

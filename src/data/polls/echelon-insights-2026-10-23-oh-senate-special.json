@@ -1,0 +1,22 @@
+{
+  "id": "echelon-insights-2026-10-23-oh-senate-special",
+  "raceId": "2026-oh-senate-special",
+  "pollster": "Echelon Insights",
+  "sponsor": "NetChoice",
+  "startDate": "2026-10-16",
+  "endDate": "2026-10-23",
+  "sampleSize": 508,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/27/Echelon-Insights/NetChoice-Florida-2026-10-16-2026-10-23",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "oh-senate-jon-husted",
+      "percent": 47
+    },
+    {
+      "candidateId": "oh-senate-sherrod-brown",
+      "percent": 47
+    }
+  ]
+}

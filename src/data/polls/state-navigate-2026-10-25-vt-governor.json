@@ -1,0 +1,21 @@
+{
+  "id": "state-navigate-2026-10-25-vt-governor",
+  "raceId": "2026-vt-governor",
+  "pollster": "State Navigate",
+  "startDate": "2026-10-23",
+  "endDate": "2026-10-25",
+  "sampleSize": 1752,
+  "population": "LV",
+  "url": "https://articles.statenavigate.com/vt/final-vermont-governor-poll-has-phil-scott-holding-a-3-point-lead/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "vt-governor-amanda-janoo",
+      "percent": 46
+    },
+    {
+      "candidateId": "vt-governor-phil-scott",
+      "percent": 49
+    }
+  ]
+}

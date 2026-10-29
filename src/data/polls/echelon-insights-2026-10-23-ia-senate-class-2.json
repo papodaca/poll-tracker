@@ -1,0 +1,22 @@
+{
+  "id": "echelon-insights-2026-10-23-ia-senate-class-2",
+  "raceId": "2026-ia-senate-class-2",
+  "pollster": "Echelon Insights",
+  "sponsor": "NetChoice",
+  "startDate": "2026-10-16",
+  "endDate": "2026-10-23",
+  "sampleSize": 403,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/27/Echelon-Insights/NetChoice-Florida-2026-10-16-2026-10-23",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ia-senate-ashley-hinson",
+      "percent": 43
+    },
+    {
+      "candidateId": "ia-senate-josh-turek",
+      "percent": 45
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "fulcrum-campaign-strategies-2026-10-20-ca-house-4",
+  "raceId": "2026-ca-house-4",
+  "pollster": "Fulcrum Campaign Strategies",
+  "startDate": "2026-10-18",
+  "endDate": "2026-10-20",
+  "sampleSize": 400,
+  "population": "LV",
+  "url": "https://www.sfgate.com/politics/article/mike-thompson-california-polls-22499420.php",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ca-house-4-eric-jones",
+      "percent": 53
+    },
+    {
+      "candidateId": "ca-house-4-mike-thompson",
+      "percent": 40
+    }
+  ]
+}

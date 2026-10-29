@@ -1,0 +1,26 @@
+{
+  "id": "concord-public-opinion-partners-2026-10-23-mt-senate-class-2",
+  "raceId": "2026-mt-senate-class-2",
+  "pollster": "Concord Public Opinion Partners",
+  "sponsor": "Democrats for Education Reform",
+  "startDate": "2026-10-22",
+  "endDate": "2026-10-23",
+  "sampleSize": 410,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/28/Concord-Public-Opinion-Partners/Education-Reform-Now-Advocacy-Montana-2026-10-22-2026-10-23",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mt-senate-kurt-alme",
+      "percent": 38
+    },
+    {
+      "candidateId": "mt-senate-alani-bankhead",
+      "percent": 10
+    },
+    {
+      "candidateId": "mt-senate-seth-bodnar",
+      "percent": 39
+    }
+  ]
+}

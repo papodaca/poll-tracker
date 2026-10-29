@@ -1,0 +1,22 @@
+{
+  "id": "victory-insights-2026-10-22-mn-governor",
+  "raceId": "2026-mn-governor",
+  "pollster": "Victory Insights",
+  "sponsor": "Michele Tafoya",
+  "startDate": "2026-10-21",
+  "endDate": "2026-10-22",
+  "sampleSize": 1194,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/28/Victory-Insights/Michele-Tafoya-Minnesota-2026-10-21-2026-10-22",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mn-governor-lisa-demuth",
+      "percent": 43.1
+    },
+    {
+      "candidateId": "mn-governor-amy-klobuchar",
+      "percent": 50.1
+    }
+  ]
+}

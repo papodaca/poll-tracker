@@ -1,0 +1,21 @@
+{
+  "id": "the-new-york-times-siena-university-2026-10-26-mn-governor",
+  "raceId": "2026-mn-governor",
+  "pollster": "The New York Times/Siena University",
+  "startDate": "2026-10-19",
+  "endDate": "2026-10-26",
+  "sampleSize": 752,
+  "population": "LV",
+  "url": "https://www.nytimes.com/interactive/2026/10/28/polls/times-siena-mn-poll-toplines.html",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mn-governor-amy-klobuchar",
+      "percent": 56
+    },
+    {
+      "candidateId": "mn-governor-lisa-demuth",
+      "percent": 38
+    }
+  ]
+}

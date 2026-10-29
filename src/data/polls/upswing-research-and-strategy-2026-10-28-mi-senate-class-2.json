@@ -1,0 +1,22 @@
+{
+  "id": "upswing-research-and-strategy-2026-10-28-mi-senate-class-2",
+  "raceId": "2026-mi-senate-class-2",
+  "pollster": "Upswing Research & Strategy",
+  "sponsor": "Demand Justice",
+  "startDate": "2026-10-24",
+  "endDate": "2026-10-28",
+  "sampleSize": 505,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/29/Upswing-Research-&-Strategy-Michigan",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-senate-abdul-el-sayed",
+      "percent": 50
+    },
+    {
+      "candidateId": "mi-senate-mike-rogers",
+      "percent": 45
+    }
+  ]
+}

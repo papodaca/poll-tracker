@@ -1,0 +1,21 @@
+{
+  "id": "cnn-ssrs-2026-10-26-ks-governor",
+  "raceId": "2026-ks-governor",
+  "pollster": "CNN/SSRS",
+  "startDate": "2026-10-20",
+  "endDate": "2026-10-26",
+  "sampleSize": 838,
+  "population": "LV",
+  "url": "https://www.cnn.com/2026/10/29/politics/cnn-polls-michigan-maine-texas-kansas-senate-races-midterms-vis",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ks-governor-cindy-holscher",
+      "percent": 45
+    },
+    {
+      "candidateId": "ks-governor-ty-masterson",
+      "percent": 50
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "marist-university-2026-10-25-me-senate-class-2",
+  "raceId": "2026-me-senate-class-2",
+  "pollster": "Marist University",
+  "startDate": "2026-10-22",
+  "endDate": "2026-10-25",
+  "sampleSize": 1449,
+  "population": "LV",
+  "url": "https://maristpoll.marist.edu/polls/the-midterm-elections-in-maine-october-2026/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "me-senate-susan-collins",
+      "percent": 47
+    },
+    {
+      "candidateId": "me-senate-troy-jackson",
+      "percent": 49
+    }
+  ]
+}

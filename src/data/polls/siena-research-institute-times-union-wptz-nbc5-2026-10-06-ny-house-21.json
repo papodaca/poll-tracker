@@ -1,0 +1,22 @@
+{
+  "id": "siena-research-institute-times-union-wptz-nbc5-2026-10-06-ny-house-21",
+  "raceId": "2026-ny-house-21",
+  "pollster": "Siena Research Institute / Times Union / WPTZ-NBC5",
+  "sponsor": "WAMC",
+  "startDate": "2026-09-30",
+  "endDate": "2026-10-06",
+  "sampleSize": 496,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/09/Siena-Research-Institute-New-York--21",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ny-house-21-anthony-constantino",
+      "percent": 42
+    },
+    {
+      "candidateId": "ny-house-21-blake-gendebien",
+      "percent": 46
+    }
+  ]
+}

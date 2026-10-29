@@ -1,0 +1,22 @@
+{
+  "id": "suffolk-university-2026-10-26-oh-senate-special",
+  "raceId": "2026-oh-senate-special",
+  "pollster": "Suffolk University",
+  "sponsor": "USA Today",
+  "startDate": "2026-10-21",
+  "endDate": "2026-10-26",
+  "sampleSize": 500,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/28/Suffolk-University/USA-Today-Ohio-2026-10-21-2026-10-26",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "oh-senate-sherrod-brown",
+      "percent": 47
+    },
+    {
+      "candidateId": "oh-senate-jon-husted",
+      "percent": 44
+    }
+  ]
+}

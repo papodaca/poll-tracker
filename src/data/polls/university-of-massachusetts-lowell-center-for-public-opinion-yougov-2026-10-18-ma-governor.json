@@ -1,0 +1,25 @@
+{
+  "id": "university-of-massachusetts-lowell-center-for-public-opinion-yougov-2026-10-18-ma-governor",
+  "raceId": "2026-ma-governor",
+  "pollster": "University of Massachusetts Lowell Center for Public Opinion/YouGov",
+  "startDate": "2026-10-07",
+  "endDate": "2026-10-18",
+  "sampleSize": 850,
+  "population": "LV",
+  "url": "https://www.uml.edu/news/press-releases/2026/102826-new-england-polls.aspx",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ma-governor-michael-minogue",
+      "percent": 29
+    },
+    {
+      "candidateId": "ma-governor-maura-healey",
+      "percent": 57
+    },
+    {
+      "candidateId": "ma-governor-andrea-james",
+      "percent": 4
+    }
+  ]
+}

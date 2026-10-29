@@ -1,0 +1,21 @@
+{
+  "id": "texas-southern-university-school-of-public-affairs-2026-10-25-tx-governor",
+  "raceId": "2026-tx-governor",
+  "pollster": "Texas Southern University School of Public Affairs",
+  "startDate": "2026-10-21",
+  "endDate": "2026-10-25",
+  "sampleSize": 2000,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/29/Texas-Southern-University-School-of-Public-Affairs-Texas",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-governor-greg-abbott",
+      "percent": 50
+    },
+    {
+      "candidateId": "tx-governor-gina-hinojosa",
+      "percent": 47
+    }
+  ]
+}

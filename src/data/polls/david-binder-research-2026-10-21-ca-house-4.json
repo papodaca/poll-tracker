@@ -1,0 +1,21 @@
+{
+  "id": "david-binder-research-2026-10-21-ca-house-4",
+  "raceId": "2026-ca-house-4",
+  "pollster": "David Binder Research",
+  "startDate": "2026-10-15",
+  "endDate": "2026-10-21",
+  "sampleSize": 600,
+  "population": "LV",
+  "url": "https://www.sfgate.com/politics/article/mike-thompson-california-polls-22499420.php",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ca-house-4-eric-jones",
+      "percent": 45
+    },
+    {
+      "candidateId": "ca-house-4-mike-thompson",
+      "percent": 35
+    }
+  ]
+}

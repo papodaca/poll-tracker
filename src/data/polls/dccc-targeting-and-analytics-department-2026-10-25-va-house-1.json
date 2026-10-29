@@ -1,0 +1,21 @@
+{
+  "id": "dccc-targeting-and-analytics-department-2026-10-25-va-house-1",
+  "raceId": "2026-va-house-1",
+  "pollster": "DCCC Targeting and Analytics Department",
+  "startDate": "2026-10-24",
+  "endDate": "2026-10-25",
+  "sampleSize": 478,
+  "population": "LV",
+  "url": "https://dccc.org/dccc-polling-memo-va-01-is-a-pure-toss-up-in-final-stretch/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "va-house-1-shannon-taylor",
+      "percent": 48
+    },
+    {
+      "candidateId": "va-house-1-robert-j-wittman",
+      "percent": 47
+    }
+  ]
+}

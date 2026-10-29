@@ -1,0 +1,22 @@
+{
+  "id": "ssrs-2026-10-26-ks-senate-class-2",
+  "raceId": "2026-ks-senate-class-2",
+  "pollster": "SSRS",
+  "sponsor": "CNN",
+  "startDate": "2026-10-20",
+  "endDate": "2026-10-26",
+  "sampleSize": 838,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/29/SSRS/CNN-Kansas-2026-10-20-2026-10-26",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ks-senate-adam-hamilton",
+      "percent": 49
+    },
+    {
+      "candidateId": "ks-senate-roger-marshall",
+      "percent": 45
+    }
+  ]
+}

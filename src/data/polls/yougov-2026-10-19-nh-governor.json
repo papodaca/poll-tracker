@@ -1,0 +1,22 @@
+{
+  "id": "yougov-2026-10-19-nh-governor",
+  "raceId": "2026-nh-governor",
+  "pollster": "YouGov",
+  "sponsor": "University of Massachusetts Lowell Center for Public Opinion",
+  "startDate": "2026-10-02",
+  "endDate": "2026-10-19",
+  "sampleSize": 600,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/28/University-of-Massachusetts-Lowell-Center-for-Public-Opinion/YouGov-New-Hampshire",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nh-governor-kelly-ayotte",
+      "percent": 48
+    },
+    {
+      "candidateId": "nh-governor-cinde-warmington",
+      "percent": 42
+    }
+  ]
+}

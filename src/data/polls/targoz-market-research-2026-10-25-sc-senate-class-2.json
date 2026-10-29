@@ -1,0 +1,22 @@
+{
+  "id": "targoz-market-research-2026-10-25-sc-senate-class-2",
+  "raceId": "2026-sc-senate-class-2",
+  "pollster": "Targoz Market Research",
+  "sponsor": "South Carolina Policy Council",
+  "startDate": "2026-10-16",
+  "endDate": "2026-10-25",
+  "sampleSize": 895,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/27/Targoz-Market-Research/South-Carolina-Policy-Council-South-Carolina-2026-10-16-2026-10-25",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "sc-senate-annie-andrews",
+      "percent": 46
+    },
+    {
+      "candidateId": "sc-senate-darline-graham",
+      "percent": 47
+    }
+  ]
+}

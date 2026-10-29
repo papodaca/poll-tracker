@@ -1,0 +1,26 @@
+{
+  "id": "redbox-research-2026-10-23-nc-house-11",
+  "raceId": "2026-nc-house-11",
+  "pollster": "RedBox Research",
+  "sponsor": "A Fight Worth Having (super PAC)",
+  "startDate": "2026-10-20",
+  "endDate": "2026-10-23",
+  "sampleSize": 873,
+  "population": "LV",
+  "url": "https://afightworthhaving.com/polling/2026/nc-11",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nc-house-11-jamie-ager",
+      "percent": 49.9
+    },
+    {
+      "candidateId": "nc-house-11-jennifer-balkcom",
+      "percent": 44.1
+    },
+    {
+      "candidateId": "nc-house-11-travis-jason-groo",
+      "percent": 0.8
+    }
+  ]
+}

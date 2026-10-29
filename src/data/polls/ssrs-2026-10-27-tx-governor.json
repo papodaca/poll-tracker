@@ -1,0 +1,22 @@
+{
+  "id": "ssrs-2026-10-27-tx-governor",
+  "raceId": "2026-tx-governor",
+  "pollster": "SSRS",
+  "sponsor": "CNN",
+  "startDate": "2026-10-20",
+  "endDate": "2026-10-27",
+  "sampleSize": 923,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/29/SSRS/CNN-Texas-2026-10-20-2026-10-27",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-governor-greg-abbott",
+      "percent": 48
+    },
+    {
+      "candidateId": "tx-governor-gina-hinojosa",
+      "percent": 46
+    }
+  ]
+}

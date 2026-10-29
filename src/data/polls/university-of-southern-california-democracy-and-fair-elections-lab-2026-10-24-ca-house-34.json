@@ -1,0 +1,21 @@
+{
+  "id": "university-of-southern-california-democracy-and-fair-elections-lab-2026-10-24-ca-house-34",
+  "raceId": "2026-ca-house-34",
+  "pollster": "University of Southern California Democracy and Fair Elections Lab",
+  "startDate": "2026-10-16",
+  "endDate": "2026-10-24",
+  "sampleSize": 423,
+  "population": "LV",
+  "url": "https://www.thedemocracylab.com/ca34",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ca-house-34-angela-gonzales-torres",
+      "percent": 51
+    },
+    {
+      "candidateId": "ca-house-34-jimmy-gomez",
+      "percent": 45
+    }
+  ]
+}

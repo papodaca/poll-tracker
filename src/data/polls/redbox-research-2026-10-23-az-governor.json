@@ -1,0 +1,22 @@
+{
+  "id": "redbox-research-2026-10-23-az-governor",
+  "raceId": "2026-az-governor",
+  "pollster": "RedBox Research",
+  "sponsor": "A Fight Worth Having",
+  "startDate": "2026-10-20",
+  "endDate": "2026-10-23",
+  "sampleSize": 2686,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/26/RedBox-Research/A-Fight-Worth-Having-Arizona",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "az-governor-katie-hobbs",
+      "percent": 47.4
+    },
+    {
+      "candidateId": "az-governor-andy-biggs",
+      "percent": 42.3
+    }
+  ]
+}

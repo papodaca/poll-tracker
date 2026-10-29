@@ -1,0 +1,22 @@
+{
+  "id": "echelon-insights-2026-10-23-ne-governor",
+  "raceId": "2026-ne-governor",
+  "pollster": "Echelon Insights",
+  "sponsor": "NetChoice",
+  "startDate": "2026-10-16",
+  "endDate": "2026-10-23",
+  "sampleSize": 407,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/27/Echelon-Insights/NetChoice-Florida-2026-10-16-2026-10-23",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ne-governor-lynne-walz",
+      "percent": 40
+    },
+    {
+      "candidateId": "ne-governor-jim-pillen",
+      "percent": 47
+    }
+  ]
+}

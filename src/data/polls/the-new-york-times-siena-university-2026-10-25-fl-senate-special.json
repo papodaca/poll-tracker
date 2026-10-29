@@ -1,0 +1,21 @@
+{
+  "id": "the-new-york-times-siena-university-2026-10-25-fl-senate-special",
+  "raceId": "2026-fl-senate-special",
+  "pollster": "The New York Times/Siena University",
+  "startDate": "2026-10-19",
+  "endDate": "2026-10-25",
+  "sampleSize": 813,
+  "population": "LV",
+  "url": "https://www.nytimes.com/interactive/2026/10/28/polls/times-siena-fl-poll-toplines.html",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-senate-ashley-moody",
+      "percent": 50
+    },
+    {
+      "candidateId": "fl-senate-angela-nixon",
+      "percent": 44
+    }
+  ]
+}

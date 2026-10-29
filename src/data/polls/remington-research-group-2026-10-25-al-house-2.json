@@ -1,0 +1,21 @@
+{
+  "id": "remington-research-group-2026-10-25-al-house-2",
+  "raceId": "2026-al-house-2",
+  "pollster": "Remington Research Group",
+  "startDate": "2026-10-23",
+  "endDate": "2026-10-25",
+  "sampleSize": 642,
+  "population": "LV",
+  "url": "https://1819news.com/news/item/al-2-poll-marques-48-figures-46",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "al-house-2-rhett-marques",
+      "percent": 48
+    },
+    {
+      "candidateId": "al-house-2-shomari-figures",
+      "percent": 46
+    }
+  ]
+}

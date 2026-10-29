@@ -1,0 +1,22 @@
+{
+  "id": "redbox-research-2026-10-23-mi-senate-class-2",
+  "raceId": "2026-mi-senate-class-2",
+  "pollster": "RedBox Research",
+  "sponsor": "A Fight Worth Having",
+  "startDate": "2026-10-20",
+  "endDate": "2026-10-23",
+  "sampleSize": 2696,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/26/RedBox-Research/A-Fight-Worth-Having-Michigan",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-senate-abdul-el-sayed",
+      "percent": 48.9
+    },
+    {
+      "candidateId": "mi-senate-mike-rogers",
+      "percent": 44
+    }
+  ]
+}

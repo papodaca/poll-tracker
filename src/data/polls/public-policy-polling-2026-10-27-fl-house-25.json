@@ -1,0 +1,22 @@
+{
+  "id": "public-policy-polling-2026-10-27-fl-house-25",
+  "raceId": "2026-fl-house-25",
+  "pollster": "Public Policy Polling",
+  "sponsor": "House Majority PAC (hybrid PAC)",
+  "startDate": "2026-10-26",
+  "endDate": "2026-10-27",
+  "sampleSize": 523,
+  "population": "LV",
+  "url": "https://x.com/cjwarnke/status/2115165777342972342?a=rta9Da04LI_FMkWNofU&s=20",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-house-25-jared-moskowitz",
+      "percent": 47
+    },
+    {
+      "candidateId": "fl-house-25-scott-singer",
+      "percent": 41
+    }
+  ]
+}

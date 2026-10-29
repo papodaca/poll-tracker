@@ -1,0 +1,22 @@
+{
+  "id": "redbox-research-2026-10-23-oh-house-9",
+  "raceId": "2026-oh-house-9",
+  "pollster": "RedBox Research",
+  "sponsor": "A Fight Worth Having (super PAC)",
+  "startDate": "2026-10-20",
+  "endDate": "2026-10-23",
+  "sampleSize": 858,
+  "population": "LV",
+  "url": "https://afightworthhaving.com/polling/2026/oh-09",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "oh-house-9-derek-merrin",
+      "percent": 43.4
+    },
+    {
+      "candidateId": "oh-house-9-marcy-kaptur",
+      "percent": 49.4
+    }
+  ]
+}

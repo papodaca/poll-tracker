@@ -1,0 +1,21 @@
+{
+  "id": "the-new-york-times-siena-university-2026-10-26-mn-senate-class-2",
+  "raceId": "2026-mn-senate-class-2",
+  "pollster": "The New York Times/Siena University",
+  "startDate": "2026-10-19",
+  "endDate": "2026-10-26",
+  "sampleSize": 752,
+  "population": "LV",
+  "url": "https://www.nytimes.com/interactive/2026/10/28/polls/times-siena-mn-poll-toplines.html",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mn-senate-peggy-flanagan",
+      "percent": 54
+    },
+    {
+      "candidateId": "mn-senate-michele-tafoya",
+      "percent": 40
+    }
+  ]
+}

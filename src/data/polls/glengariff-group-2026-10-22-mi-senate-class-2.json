@@ -1,0 +1,22 @@
+{
+  "id": "glengariff-group-2026-10-22-mi-senate-class-2",
+  "raceId": "2026-mi-senate-class-2",
+  "pollster": "Glengariff Group",
+  "sponsor": "The Detroit News / WDIV-TV (Detroit)",
+  "startDate": "2026-10-19",
+  "endDate": "2026-10-22",
+  "sampleSize": 600,
+  "population": "LV",
+  "url": "https://www.clickondetroit.com/news/local/2026/10/27/democratic-candidate-el-sayed-leads-michigan-us-senate-race-new-poll-finds/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-senate-abdul-el-sayed",
+      "percent": 51.4
+    },
+    {
+      "candidateId": "mi-senate-mike-rogers",
+      "percent": 45.1
+    }
+  ]
+}

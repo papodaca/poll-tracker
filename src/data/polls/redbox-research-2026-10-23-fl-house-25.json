@@ -1,0 +1,26 @@
+{
+  "id": "redbox-research-2026-10-23-fl-house-25",
+  "raceId": "2026-fl-house-25",
+  "pollster": "RedBox Research",
+  "sponsor": "A Fight Worth Having (super PAC)",
+  "startDate": "2026-10-20",
+  "endDate": "2026-10-23",
+  "sampleSize": 643,
+  "population": "LV",
+  "url": "https://afightworthhaving.com/polling/2026/fl-25",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-house-25-jared-moskowitz",
+      "percent": 46
+    },
+    {
+      "candidateId": "fl-house-25-scott-singer",
+      "percent": 40.4
+    },
+    {
+      "candidateId": "fl-house-25-peter-jassenoff",
+      "percent": 2.4
+    }
+  ]
+}

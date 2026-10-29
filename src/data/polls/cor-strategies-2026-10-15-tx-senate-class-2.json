@@ -1,0 +1,22 @@
+{
+  "id": "cor-strategies-2026-10-15-tx-senate-class-2",
+  "raceId": "2026-tx-senate-class-2",
+  "pollster": "Cor Strategies",
+  "sponsor": "Heritage Action",
+  "startDate": "2026-10-10",
+  "endDate": "2026-10-15",
+  "sampleSize": 1409,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/27/Cor-Strategies-Texas",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-senate-james-talarico",
+      "percent": 44
+    },
+    {
+      "candidateId": "tx-senate-ken-paxton",
+      "percent": 40
+    }
+  ]
+}

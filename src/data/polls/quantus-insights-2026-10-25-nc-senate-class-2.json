@@ -1,0 +1,21 @@
+{
+  "id": "quantus-insights-2026-10-25-nc-senate-class-2",
+  "raceId": "2026-nc-senate-class-2",
+  "pollster": "Quantus Insights",
+  "startDate": "2026-10-24",
+  "endDate": "2026-10-25",
+  "sampleSize": 722,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/26/Quantus-Insights-North-Carolina",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nc-senate-roy-cooper",
+      "percent": 51.7
+    },
+    {
+      "candidateId": "nc-senate-michael-whatley",
+      "percent": 42.9
+    }
+  ]
+}

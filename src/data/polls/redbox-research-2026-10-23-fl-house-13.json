@@ -1,0 +1,26 @@
+{
+  "id": "redbox-research-2026-10-23-fl-house-13",
+  "raceId": "2026-fl-house-13",
+  "pollster": "RedBox Research",
+  "sponsor": "A Fight Worth Having (super PAC)",
+  "startDate": "2026-10-20",
+  "endDate": "2026-10-23",
+  "sampleSize": 875,
+  "population": "LV",
+  "url": "https://afightworthhaving.com/polling/2026/fl-13",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-house-13-leela-gray",
+      "percent": 45.1
+    },
+    {
+      "candidateId": "fl-house-13-anna-paulina-luna",
+      "percent": 48.1
+    },
+    {
+      "candidateId": "fl-house-13-tony-darrigo",
+      "percent": 1.6
+    }
+  ]
+}

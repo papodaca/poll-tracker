@@ -1,0 +1,22 @@
+{
+  "id": "yougov-blue-2026-10-26-tx-senate-class-2",
+  "raceId": "2026-tx-senate-class-2",
+  "pollster": "YouGov Blue",
+  "sponsor": "254 Labs",
+  "startDate": "2026-10-21",
+  "endDate": "2026-10-26",
+  "sampleSize": 1000,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/28/YouGov-Blue/254-Labs-Texas-2026-10-21-2026-10-26",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-senate-ken-paxton",
+      "percent": 43
+    },
+    {
+      "candidateId": "tx-senate-james-talarico",
+      "percent": 51
+    }
+  ]
+}

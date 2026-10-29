@@ -1,0 +1,19 @@
+{
+  "id": "redbox-research-2026-10-26-pa-house-7",
+  "raceId": "2026-pa-house-7",
+  "pollster": "RedBox Research",
+  "startDate": "2026-10-26",
+  "endDate": "2026-10-26",
+  "url": "https://afightworthhaving.com/polling/2026/pa-07",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "pa-house-7-bob-brooks",
+      "percent": 48.6
+    },
+    {
+      "candidateId": "pa-house-7-ryan-mackenzie",
+      "percent": 43.9
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "siena-research-institute-2026-10-25-fl-senate-special",
+  "raceId": "2026-fl-senate-special",
+  "pollster": "Siena Research Institute",
+  "sponsor": "The New York Times",
+  "startDate": "2026-10-19",
+  "endDate": "2026-10-25",
+  "sampleSize": 813,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/28/Siena-Research-Institute/The-New-York-Times-Florida-2026-10-19-2026-10-25",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-senate-ashley-moody",
+      "percent": 49
+    },
+    {
+      "candidateId": "fl-senate-angie-nixon",
+      "percent": 43
+    }
+  ]
+}

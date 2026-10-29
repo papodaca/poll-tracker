@@ -1,0 +1,22 @@
+{
+  "id": "verasight-2026-10-23-mi-governor",
+  "raceId": "2026-mi-governor",
+  "pollster": "Verasight",
+  "sponsor": "Michigan State University Office of Survey Research",
+  "startDate": "2026-10-08",
+  "endDate": "2026-10-23",
+  "sampleSize": 1383,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/29/Verasight-Michigan",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-governor-jocelyn-benson",
+      "percent": 48.5
+    },
+    {
+      "candidateId": "mi-governor-john-james",
+      "percent": 38.7
+    }
+  ]
+}

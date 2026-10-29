@@ -1,0 +1,21 @@
+{
+  "id": "public-policy-institute-of-california-2026-10-22-ca-governor",
+  "raceId": "2026-ca-governor",
+  "pollster": "Public Policy Institute of California",
+  "startDate": "2026-10-16",
+  "endDate": "2026-10-22",
+  "sampleSize": 1083,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/27/Public-Policy-Institute-of-California-California",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ca-governor-steve-hilton",
+      "percent": 37
+    },
+    {
+      "candidateId": "ca-governor-xavier-becerra",
+      "percent": 61
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "nyt-siena-2026-10-26-sc-senate-class-2",
+  "raceId": "2026-sc-senate-class-2",
+  "pollster": "NYT/Siena",
+  "startDate": "2026-10-19",
+  "endDate": "2026-10-26",
+  "sampleSize": 707,
+  "population": "LV",
+  "url": "https://www.nytimes.com/interactive/2026/10/28/polls/times-siena-sc-poll-crosstabs.html",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "sc-senate-annie-andrews",
+      "percent": 48
+    },
+    {
+      "candidateId": "sc-senate-darline-graham",
+      "percent": 48
+    }
+  ]
+}

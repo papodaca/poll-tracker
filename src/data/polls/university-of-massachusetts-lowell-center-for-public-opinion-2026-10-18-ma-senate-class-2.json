@@ -1,0 +1,22 @@
+{
+  "id": "university-of-massachusetts-lowell-center-for-public-opinion-2026-10-18-ma-senate-class-2",
+  "raceId": "2026-ma-senate-class-2",
+  "pollster": "University of Massachusetts Lowell Center for Public Opinion",
+  "sponsor": "YouGov",
+  "startDate": "2026-10-07",
+  "endDate": "2026-10-18",
+  "sampleSize": 850,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/28/University-of-Massachusetts-Lowell-Center-for-Public-Opinion/YouGov-Massachusetts",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ma-senate-john-deaton",
+      "percent": 26
+    },
+    {
+      "candidateId": "ma-senate-edward-markey",
+      "percent": 55
+    }
+  ]
+}

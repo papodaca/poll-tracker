@@ -1,0 +1,25 @@
+{
+  "id": "university-of-massachusetts-lowell-center-for-public-opinion-yougov-2026-10-19-nh-senate-class-2",
+  "raceId": "2026-nh-senate-class-2",
+  "pollster": "University of Massachusetts Lowell Center for Public Opinion/YouGov",
+  "startDate": "2026-10-02",
+  "endDate": "2026-10-19",
+  "sampleSize": 600,
+  "population": "LV",
+  "url": "https://www.uml.edu/news/press-releases/2026/102826-new-england-polls.aspx",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nh-senate-chris-pappas",
+      "percent": 48
+    },
+    {
+      "candidateId": "nh-senate-john-sununu",
+      "percent": 41
+    },
+    {
+      "candidateId": "nh-senate-edmond-laplante",
+      "percent": 4
+    }
+  ]
+}

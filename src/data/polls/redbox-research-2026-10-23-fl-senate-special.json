@@ -1,0 +1,22 @@
+{
+  "id": "redbox-research-2026-10-23-fl-senate-special",
+  "raceId": "2026-fl-senate-special",
+  "pollster": "RedBox Research",
+  "sponsor": "A Fight Worth Having",
+  "startDate": "2026-10-20",
+  "endDate": "2026-10-23",
+  "sampleSize": 4823,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/26/RedBox-Research/A-Fight-Worth-Having-Florida",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-senate-ashley-moody",
+      "percent": 49.6
+    },
+    {
+      "candidateId": "fl-senate-angie-nixon",
+      "percent": 42.8
+    }
+  ]
+}

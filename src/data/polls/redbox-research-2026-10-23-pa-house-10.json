@@ -1,0 +1,22 @@
+{
+  "id": "redbox-research-2026-10-23-pa-house-10",
+  "raceId": "2026-pa-house-10",
+  "pollster": "RedBox Research",
+  "sponsor": "A Fight Worth Having (super PAC)",
+  "startDate": "2026-10-20",
+  "endDate": "2026-10-23",
+  "sampleSize": 1022,
+  "population": "LV",
+  "url": "https://afightworthhaving.com/polling/2026/pa-10",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "pa-house-10-janelle-stelson",
+      "percent": 47.6
+    },
+    {
+      "candidateId": "pa-house-10-scott-perry",
+      "percent": 45.2
+    }
+  ]
+}

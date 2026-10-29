@@ -1,0 +1,21 @@
+{
+  "id": "michigan-state-university-department-of-political-science-verasight-2026-10-23-mi-governor",
+  "raceId": "2026-mi-governor",
+  "pollster": "Michigan State University Department of Political Science/Verasight",
+  "startDate": "2026-10-08",
+  "endDate": "2026-10-23",
+  "sampleSize": 1383,
+  "population": "LV",
+  "url": "https://polisci.msu.edu/news-events/news/smidt-poll102926.html",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-governor-jocelyn-benson",
+      "percent": 50.9
+    },
+    {
+      "candidateId": "mi-governor-john-james",
+      "percent": 41.5
+    }
+  ]
+}

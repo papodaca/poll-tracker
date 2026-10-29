@@ -1,0 +1,25 @@
+{
+  "id": "alaska-survey-research-2026-10-25-ak-governor-2",
+  "raceId": "2026-ak-governor",
+  "pollster": "Alaska Survey Research",
+  "startDate": "2026-10-23",
+  "endDate": "2026-10-25",
+  "sampleSize": 1068,
+  "population": "LV",
+  "url": "https://x.com/The_Real_ASR/status/2114855199819051178",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ak-governor-dave-bronson",
+      "percent": 15.1
+    },
+    {
+      "candidateId": "ak-governor-jonathan-kreiss-tomkins",
+      "percent": 51.4
+    },
+    {
+      "candidateId": "ak-governor-bernadette-wilson",
+      "percent": 33.5
+    }
+  ]
+}

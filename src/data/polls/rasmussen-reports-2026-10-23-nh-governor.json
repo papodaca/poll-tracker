@@ -1,0 +1,21 @@
+{
+  "id": "rasmussen-reports-2026-10-23-nh-governor",
+  "raceId": "2026-nh-governor",
+  "pollster": "Rasmussen Reports",
+  "startDate": "2026-10-20",
+  "endDate": "2026-10-23",
+  "sampleSize": 970,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/26/Rasmussen-Reports-New-Hampshire",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nh-governor-kelly-ayotte",
+      "percent": 52
+    },
+    {
+      "candidateId": "nh-governor-cinde-warmington",
+      "percent": 42
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "redbox-research-2026-10-26-oh-house-7",
+  "raceId": "2026-oh-house-7",
+  "pollster": "RedBox Research",
+  "startDate": "2026-10-26",
+  "endDate": "2026-10-26",
+  "url": "https://afightworthhaving.com/polling/2026/oh-07",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "oh-house-7-brian-poindexter",
+      "percent": 45.7
+    },
+    {
+      "candidateId": "oh-house-7-max-miller",
+      "percent": 41.7
+    }
+  ]
+}

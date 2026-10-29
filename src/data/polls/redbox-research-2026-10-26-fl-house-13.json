@@ -1,0 +1,19 @@
+{
+  "id": "redbox-research-2026-10-26-fl-house-13",
+  "raceId": "2026-fl-house-13",
+  "pollster": "RedBox Research",
+  "startDate": "2026-10-26",
+  "endDate": "2026-10-26",
+  "url": "https://afightworthhaving.com/polling/2026/fl-13",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-house-13-leela-gray",
+      "percent": 45.1
+    },
+    {
+      "candidateId": "fl-house-13-anna-paulina-luna",
+      "percent": 48.1
+    }
+  ]
+}

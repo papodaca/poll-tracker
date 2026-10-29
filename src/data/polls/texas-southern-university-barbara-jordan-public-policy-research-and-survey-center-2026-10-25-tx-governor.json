@@ -1,0 +1,25 @@
+{
+  "id": "texas-southern-university-barbara-jordan-public-policy-research-and-survey-center-2026-10-25-tx-governor",
+  "raceId": "2026-tx-governor",
+  "pollster": "Texas Southern University Barbara Jordan Public Policy Research and Survey Center",
+  "startDate": "2026-10-21",
+  "endDate": "2026-10-25",
+  "sampleSize": 2000,
+  "population": "LV",
+  "url": "https://www.jordanresearchcenter.org/publications/tsuoct2026-txelections-statewide2026",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-governor-gina-hinojosa",
+      "percent": 47
+    },
+    {
+      "candidateId": "tx-governor-greg-abbott",
+      "percent": 50
+    },
+    {
+      "candidateId": "tx-governor-pat-dixon",
+      "percent": 2
+    }
+  ]
+}

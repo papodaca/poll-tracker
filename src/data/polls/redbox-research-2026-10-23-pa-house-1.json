@@ -1,0 +1,22 @@
+{
+  "id": "redbox-research-2026-10-23-pa-house-1",
+  "raceId": "2026-pa-house-1",
+  "pollster": "RedBox Research",
+  "sponsor": "A Fight Worth Having (super PAC)",
+  "startDate": "2026-10-20",
+  "endDate": "2026-10-23",
+  "sampleSize": 733,
+  "population": "LV",
+  "url": "https://afightworthhaving.com/polling/2026/pa-01",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "pa-house-1-bob-harvie",
+      "percent": 46
+    },
+    {
+      "candidateId": "pa-house-1-brian-fitzpatrick",
+      "percent": 46.1
+    }
+  ]
+}

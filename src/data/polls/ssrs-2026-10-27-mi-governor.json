@@ -1,0 +1,22 @@
+{
+  "id": "ssrs-2026-10-27-mi-governor",
+  "raceId": "2026-mi-governor",
+  "pollster": "SSRS",
+  "sponsor": "CNN",
+  "startDate": "2026-10-20",
+  "endDate": "2026-10-27",
+  "sampleSize": 768,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/29/SSRS/CNN-Michigan-2026-10-20-2026-10-27",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-governor-john-james",
+      "percent": 41
+    },
+    {
+      "candidateId": "mi-governor-jocelyn-benson",
+      "percent": 53
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "redbox-research-2026-10-23-ks-senate-class-2",
+  "raceId": "2026-ks-senate-class-2",
+  "pollster": "RedBox Research",
+  "sponsor": "A Fight Worth Having",
+  "startDate": "2026-10-20",
+  "endDate": "2026-10-23",
+  "sampleSize": 1301,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/26/RedBox-Research/A-Fight-Worth-Having-Kansas",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ks-senate-adam-hamilton",
+      "percent": 45
+    },
+    {
+      "candidateId": "ks-senate-roger-marshall",
+      "percent": 45.7
+    }
+  ]
+}

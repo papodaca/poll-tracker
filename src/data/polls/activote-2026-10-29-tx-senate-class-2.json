@@ -1,0 +1,21 @@
+{
+  "id": "activote-2026-10-29-tx-senate-class-2",
+  "raceId": "2026-tx-senate-class-2",
+  "pollster": "Activote",
+  "startDate": "2026-10-23",
+  "endDate": "2026-10-29",
+  "sampleSize": 400,
+  "population": "LV",
+  "url": "https://www.activote.net/polls/2026/tx-u-s-senate/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-senate-james-talarico",
+      "percent": 52
+    },
+    {
+      "candidateId": "tx-senate-ken-paxton",
+      "percent": 48
+    }
+  ]
+}

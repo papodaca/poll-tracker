@@ -1,0 +1,22 @@
+{
+  "id": "ssrs-2026-10-26-me-governor",
+  "raceId": "2026-me-governor",
+  "pollster": "SSRS",
+  "sponsor": "CNN",
+  "startDate": "2026-10-20",
+  "endDate": "2026-10-26",
+  "sampleSize": 783,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/29/SSRS/CNN-Maine-2026-10-20-2026-10-26",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "me-governor-hannah-pingree",
+      "percent": 53
+    },
+    {
+      "candidateId": "me-governor-bobby-charles",
+      "percent": 39
+    }
+  ]
+}
