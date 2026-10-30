@@ -1,0 +1,25 @@
+{
+  "id": "montana-state-university-billings-2026-10-21-mt-senate-class-2",
+  "raceId": "2026-mt-senate-class-2",
+  "pollster": "Montana State University Billings",
+  "startDate": "2026-10-05",
+  "endDate": "2026-10-21",
+  "sampleSize": 720,
+  "population": "Adults",
+  "url": "https://data.ddhq.io/polls/2026/10/29/Montana-State-University-Billings-Montana",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mt-senate-alani-bankhead",
+      "percent": 21
+    },
+    {
+      "candidateId": "mt-senate-kurt-alme",
+      "percent": 30
+    },
+    {
+      "candidateId": "mt-senate-seth-bodnar",
+      "percent": 26
+    }
+  ]
+}

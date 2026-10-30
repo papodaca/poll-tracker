@@ -1,0 +1,19 @@
+{
+  "id": "ppp-2026-10-29-mn-house-8",
+  "raceId": "2026-mn-house-8",
+  "pollster": "PPP",
+  "startDate": "2026-10-29",
+  "endDate": "2026-10-29",
+  "url": "https://trinaforcongress.com/wp-content/uploads/2026/10/MNCD8Results-1.pdf?utm_source=substack&utm_medium=email",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mn-house-8-trina-swanson",
+      "percent": 43
+    },
+    {
+      "candidateId": "mn-house-8-pete-stauber",
+      "percent": 49
+    }
+  ]
+}

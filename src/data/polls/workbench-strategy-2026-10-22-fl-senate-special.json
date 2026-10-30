@@ -1,0 +1,22 @@
+{
+  "id": "workbench-strategy-2026-10-22-fl-senate-special",
+  "raceId": "2026-fl-senate-special",
+  "pollster": "Workbench Strategy",
+  "sponsor": "Angie Nixon",
+  "startDate": "2026-10-18",
+  "endDate": "2026-10-22",
+  "sampleSize": 800,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/30/Workbench-Strategy-Florida",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-senate-ashley-moody",
+      "percent": 49
+    },
+    {
+      "candidateId": "fl-senate-angie-nixon",
+      "percent": 47
+    }
+  ]
+}

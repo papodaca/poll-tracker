@@ -1,0 +1,21 @@
+{
+  "id": "montana-state-2026-10-21-mt-senate-class-2",
+  "raceId": "2026-mt-senate-class-2",
+  "pollster": "Montana State",
+  "startDate": "2026-10-05",
+  "endDate": "2026-10-21",
+  "sampleSize": 720,
+  "population": "A",
+  "url": "https://www.msubillings.edu/class/nams/polls/2026-mountain-states-poll-report.pdf",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mt-senate-alani-bankhead",
+      "percent": 21
+    },
+    {
+      "candidateId": "mt-senate-kurt-alme",
+      "percent": 30
+    }
+  ]
+}

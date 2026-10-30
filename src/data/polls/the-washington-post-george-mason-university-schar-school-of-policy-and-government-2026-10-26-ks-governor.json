@@ -1,0 +1,21 @@
+{
+  "id": "the-washington-post-george-mason-university-schar-school-of-policy-and-government-2026-10-26-ks-governor",
+  "raceId": "2026-ks-governor",
+  "pollster": "The Washington Post/George Mason University Schar School of Policy and Government",
+  "startDate": "2026-10-22",
+  "endDate": "2026-10-26",
+  "sampleSize": 801,
+  "population": "LV",
+  "url": "https://www.washingtonpost.com/politics/2026/10/30/we-polled-kansas-democrats-wanted-talk-republicans-not-so-much/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ks-governor-cindy-holscher",
+      "percent": 51
+    },
+    {
+      "candidateId": "ks-governor-ty-masterson",
+      "percent": 45
+    }
+  ]
+}

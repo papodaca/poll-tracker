@@ -1,0 +1,21 @@
+{
+  "id": "emerson-college-2026-10-28-ks-governor",
+  "raceId": "2026-ks-governor",
+  "pollster": "Emerson College",
+  "startDate": "2026-10-26",
+  "endDate": "2026-10-28",
+  "sampleSize": 800,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/30/Emerson-College-Kansas",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ks-governor-ty-masterson",
+      "percent": 50
+    },
+    {
+      "candidateId": "ks-governor-cindy-holscher",
+      "percent": 46.3
+    }
+  ]
+}

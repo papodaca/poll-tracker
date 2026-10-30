@@ -1,0 +1,21 @@
+{
+  "id": "montana-state-university-billings-2026-10-21-mt-house-1",
+  "raceId": "2026-mt-house-1",
+  "pollster": "Montana State University Billings",
+  "startDate": "2026-10-05",
+  "endDate": "2026-10-21",
+  "sampleSize": 287,
+  "population": "Adults",
+  "url": "https://data.ddhq.io/polls/2026/10/29/Montana-State-University-Billings-Montana",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mt-house-1-aaron-flint",
+      "percent": 32
+    },
+    {
+      "candidateId": "mt-house-1-sam-forstag",
+      "percent": 49
+    }
+  ]
+}

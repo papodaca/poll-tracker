@@ -1,0 +1,30 @@
+{
+  "id": "echelon-insights-2026-10-23-ne-governor-2",
+  "raceId": "2026-ne-governor",
+  "pollster": "Echelon Insights",
+  "sponsor": "NetChoice",
+  "startDate": "2026-10-16",
+  "endDate": "2026-10-23",
+  "sampleSize": 407,
+  "population": "LV",
+  "url": "https://netchoice.org/netchoice-echelon-insights-poll-voters-rank-ai-regulation-far-behind-cost-of-living-want-one-national-ai-standard/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ne-governor-lynne-walz",
+      "percent": 40
+    },
+    {
+      "candidateId": "ne-governor-jim-pillen",
+      "percent": 47
+    },
+    {
+      "candidateId": "ne-governor-rick-beard",
+      "percent": 7
+    },
+    {
+      "candidateId": "ne-governor-brett-lindstrom",
+      "percent": 4
+    }
+  ]
+}

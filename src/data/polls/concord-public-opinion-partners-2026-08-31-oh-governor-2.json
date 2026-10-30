@@ -1,0 +1,26 @@
+{
+  "id": "concord-public-opinion-partners-2026-08-31-oh-governor-2",
+  "raceId": "2026-oh-governor",
+  "pollster": "Concord Public Opinion Partners",
+  "sponsor": "Democrats For Education Reform",
+  "startDate": "2026-08-29",
+  "endDate": "2026-08-31",
+  "sampleSize": 504,
+  "population": "LV",
+  "url": "https://concordpublicopinionpartners.org/polls/ohio-ge-2026",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "oh-governor-amy-acton",
+      "percent": 49
+    },
+    {
+      "candidateId": "oh-governor-vivek-ramaswamy",
+      "percent": 37
+    },
+    {
+      "candidateId": "oh-governor-don-kissick",
+      "percent": 2
+    }
+  ]
+}

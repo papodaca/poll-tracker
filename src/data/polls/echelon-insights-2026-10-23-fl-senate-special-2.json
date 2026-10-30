@@ -1,0 +1,26 @@
+{
+  "id": "echelon-insights-2026-10-23-fl-senate-special-2",
+  "raceId": "2026-fl-senate-special",
+  "pollster": "Echelon Insights",
+  "sponsor": "NetChoice",
+  "startDate": "2026-10-16",
+  "endDate": "2026-10-23",
+  "sampleSize": 515,
+  "population": "LV",
+  "url": "https://netchoice.org/netchoice-echelon-insights-poll-voters-rank-ai-regulation-far-behind-cost-of-living-want-one-national-ai-standard/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-senate-angela-nixon",
+      "percent": 43
+    },
+    {
+      "candidateId": "fl-senate-ashley-moody",
+      "percent": 51
+    },
+    {
+      "candidateId": "fl-senate-neil-j-gillespie",
+      "percent": 3
+    }
+  ]
+}

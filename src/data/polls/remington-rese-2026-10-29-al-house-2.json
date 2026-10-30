@@ -1,0 +1,19 @@
+{
+  "id": "remington-rese-2026-10-29-al-house-2",
+  "raceId": "2026-al-house-2",
+  "pollster": "Remington Rese.",
+  "startDate": "2026-10-29",
+  "endDate": "2026-10-29",
+  "url": "https://1819news.com/news/item/al-2-poll-marques-48-figures-46",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "al-house-2-shomari-figures",
+      "percent": 46
+    },
+    {
+      "candidateId": "al-house-2-rhett-marques",
+      "percent": 48
+    }
+  ]
+}

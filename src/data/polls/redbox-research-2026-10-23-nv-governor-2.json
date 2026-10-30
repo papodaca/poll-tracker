@@ -1,0 +1,26 @@
+{
+  "id": "redbox-research-2026-10-23-nv-governor-2",
+  "raceId": "2026-nv-governor",
+  "pollster": "RedBox Research",
+  "sponsor": "A Fight Worth Having (super PAC)",
+  "startDate": "2026-10-20",
+  "endDate": "2026-10-23",
+  "sampleSize": 1470,
+  "population": "LV",
+  "url": "https://afightworthhaving.com/polling/2026/nevada",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nv-governor-aaron-ford",
+      "percent": 45.6
+    },
+    {
+      "candidateId": "nv-governor-joe-lombardo",
+      "percent": 42.6
+    },
+    {
+      "candidateId": "nv-governor-danielle-ford",
+      "percent": 2.4
+    }
+  ]
+}

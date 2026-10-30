@@ -1,0 +1,22 @@
+{
+  "id": "university-of-california-berkeley-institute-of-governmental-studies-2026-10-25-ca-governor",
+  "raceId": "2026-ca-governor",
+  "pollster": "University of California Berkeley Institute of Governmental Studies",
+  "sponsor": "Los Angeles Times",
+  "startDate": "2026-10-19",
+  "endDate": "2026-10-25",
+  "sampleSize": 1477,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/30/University-of-California-Berkeley-Institute-of-Governmental-Studies/Los-Angeles-Times-California-2026-10-19-2026-10-25",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ca-governor-xavier-becerra",
+      "percent": 61
+    },
+    {
+      "candidateId": "ca-governor-steve-hilton",
+      "percent": 34
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "echelon-insights-2026-10-23-me-governor-2",
+  "raceId": "2026-me-governor",
+  "pollster": "Echelon Insights",
+  "sponsor": "NetChoice",
+  "startDate": "2026-10-16",
+  "endDate": "2026-10-23",
+  "sampleSize": 413,
+  "population": "LV",
+  "url": "https://netchoice.org/netchoice-echelon-insights-poll-voters-rank-ai-regulation-far-behind-cost-of-living-want-one-national-ai-standard/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "me-governor-bobby-charles",
+      "percent": 38
+    },
+    {
+      "candidateId": "me-governor-hannah-pingree",
+      "percent": 51
+    },
+    {
+      "candidateId": "me-governor-rick-bennett",
+      "percent": 7
+    }
+  ]
+}

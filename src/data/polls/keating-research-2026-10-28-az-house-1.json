@@ -1,0 +1,21 @@
+{
+  "id": "keating-research-2026-10-28-az-house-1",
+  "raceId": "2026-az-house-1",
+  "pollster": "Keating Research",
+  "startDate": "2026-10-26",
+  "endDate": "2026-10-28",
+  "sampleSize": 500,
+  "population": "LV",
+  "url": "https://keatingresearch.com/polls/az-01-october-2026/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "az-house-1-amish-shah",
+      "percent": 49
+    },
+    {
+      "candidateId": "az-house-1-jay-feely",
+      "percent": 45
+    }
+  ]
+}

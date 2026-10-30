@@ -1,0 +1,29 @@
+{
+  "id": "montana-state-university-billings-2026-10-21-mt-house-2",
+  "raceId": "2026-mt-house-2",
+  "pollster": "Montana State University Billings",
+  "startDate": "2026-10-05",
+  "endDate": "2026-10-21",
+  "sampleSize": 350,
+  "population": "A",
+  "url": "https://www.msubillings.edu/class/nams/polls/2026-mountain-states-poll-report.pdf",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mt-house-2-brian-miller",
+      "percent": 18
+    },
+    {
+      "candidateId": "mt-house-2-troy-downing",
+      "percent": 29
+    },
+    {
+      "candidateId": "mt-house-2-michael-eisenhauer",
+      "percent": 15
+    },
+    {
+      "candidateId": "mt-house-2-patrick-mccracken",
+      "percent": 2
+    }
+  ]
+}

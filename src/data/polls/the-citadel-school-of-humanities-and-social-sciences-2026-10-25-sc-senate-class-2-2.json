@@ -1,0 +1,29 @@
+{
+  "id": "the-citadel-school-of-humanities-and-social-sciences-2026-10-25-sc-senate-class-2-2",
+  "raceId": "2026-sc-senate-class-2",
+  "pollster": "The Citadel School of Humanities and Social Sciences",
+  "startDate": "2026-10-14",
+  "endDate": "2026-10-25",
+  "sampleSize": 890,
+  "population": "LV",
+  "url": "https://poll.citadel.edu/2026/10/27/sc-voters-look-to-pass-the-torch-in-the-midterms/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "sc-senate-annie-andrews",
+      "percent": 39
+    },
+    {
+      "candidateId": "sc-senate-darline-graham-nordone",
+      "percent": 43
+    },
+    {
+      "candidateId": "sc-senate-kasie-whitener",
+      "percent": 1
+    },
+    {
+      "candidateId": "sc-senate-mark-hackett",
+      "percent": 1
+    }
+  ]
+}

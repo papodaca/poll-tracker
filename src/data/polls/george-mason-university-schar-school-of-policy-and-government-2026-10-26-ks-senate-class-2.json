@@ -1,0 +1,22 @@
+{
+  "id": "george-mason-university-schar-school-of-policy-and-government-2026-10-26-ks-senate-class-2",
+  "raceId": "2026-ks-senate-class-2",
+  "pollster": "George Mason University Schar School of Policy and Government",
+  "sponsor": "The Washington Post",
+  "startDate": "2026-10-22",
+  "endDate": "2026-10-26",
+  "sampleSize": 801,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/30/George-Mason-University-Schar-School-of-Policy-and-Government/The-Washington-Post-Kansas",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ks-senate-adam-hamilton",
+      "percent": 52
+    },
+    {
+      "candidateId": "ks-senate-roger-marshall",
+      "percent": 43
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "st-pete-polls-2026-10-27-fl-senate-special-2",
+  "raceId": "2026-fl-senate-special",
+  "pollster": "St. Pete Polls",
+  "sponsor": "Florida Politics",
+  "startDate": "2026-10-25",
+  "endDate": "2026-10-27",
+  "sampleSize": 916,
+  "population": "LV",
+  "url": "https://floridapolitics.com/archives/827487-final-st-pete-polls-byron-donalds-leads-david-jolly-48-to-46-as-long-as-republicans-show-up/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-senate-angela-nixon",
+      "percent": 44.7
+    },
+    {
+      "candidateId": "fl-senate-ashley-moody",
+      "percent": 49
+    }
+  ]
+}

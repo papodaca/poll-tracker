@@ -1,0 +1,26 @@
+{
+  "id": "echelon-insights-2026-10-23-oh-governor-2",
+  "raceId": "2026-oh-governor",
+  "pollster": "Echelon Insights",
+  "sponsor": "NetChoice",
+  "startDate": "2026-10-16",
+  "endDate": "2026-10-23",
+  "sampleSize": 508,
+  "population": "LV",
+  "url": "https://netchoice.org/netchoice-echelon-insights-poll-voters-rank-ai-regulation-far-behind-cost-of-living-want-one-national-ai-standard/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "oh-governor-amy-acton",
+      "percent": 45
+    },
+    {
+      "candidateId": "oh-governor-vivek-ramaswamy",
+      "percent": 47
+    },
+    {
+      "candidateId": "oh-governor-don-kissick",
+      "percent": 4
+    }
+  ]
+}

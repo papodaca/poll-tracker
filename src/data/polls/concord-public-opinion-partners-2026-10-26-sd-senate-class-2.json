@@ -1,0 +1,22 @@
+{
+  "id": "concord-public-opinion-partners-2026-10-26-sd-senate-class-2",
+  "raceId": "2026-sd-senate-class-2",
+  "pollster": "Concord Public Opinion Partners",
+  "sponsor": "Democrats for Education Reform",
+  "startDate": "2026-10-22",
+  "endDate": "2026-10-26",
+  "sampleSize": 448,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/30/Concord-Public-Opinion-Partners/Education-Reform-Now-Advocacy-South-Dakota-2026-10-22-2026-10-26",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "sd-senate-brian-bengs",
+      "percent": 43
+    },
+    {
+      "candidateId": "sd-senate-mike-rounds",
+      "percent": 41
+    }
+  ]
+}

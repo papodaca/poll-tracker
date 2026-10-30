@@ -1,0 +1,30 @@
+{
+  "id": "redbox-research-2026-10-23-oh-senate-special-2",
+  "raceId": "2026-oh-senate-special",
+  "pollster": "RedBox Research",
+  "sponsor": "A Fight Worth Having (super PAC)",
+  "startDate": "2026-10-20",
+  "endDate": "2026-10-23",
+  "sampleSize": 2998,
+  "population": "LV",
+  "url": "https://afightworthhaving.com/polling/2026/ohio",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "oh-senate-sherrod-brown",
+      "percent": 46.9
+    },
+    {
+      "candidateId": "oh-senate-jon-husted",
+      "percent": 44.2
+    },
+    {
+      "candidateId": "oh-senate-bill-redpath",
+      "percent": 0.9
+    },
+    {
+      "candidateId": "oh-senate-gregory-levy",
+      "percent": 1.2
+    }
+  ]
+}

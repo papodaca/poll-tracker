@@ -1,0 +1,22 @@
+{
+  "id": "university-of-southern-california-democracy-and-fair-elections-lab-university-of-southern-california-dornsife-center-for-economic-and-social-research-2026-10-28-ca-house-22",
+  "raceId": "2026-ca-house-22",
+  "pollster": "University of Southern California Democracy and Fair Elections Lab/University of Southern California Dornsife Center for Economic and Social Research",
+  "sponsor": "University of Southern California Center for the Political Future",
+  "startDate": "2026-10-22",
+  "endDate": "2026-10-28",
+  "sampleSize": 356,
+  "population": "LV",
+  "url": "https://www.thedemocracylab.com/ca-polling-2026",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ca-house-22-david-valadao",
+      "percent": 44
+    },
+    {
+      "candidateId": "ca-house-22-randy-villegas",
+      "percent": 54
+    }
+  ]
+}

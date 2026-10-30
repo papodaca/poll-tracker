@@ -1,0 +1,26 @@
+{
+  "id": "redbox-research-2026-10-23-fl-senate-special-2",
+  "raceId": "2026-fl-senate-special",
+  "pollster": "RedBox Research",
+  "sponsor": "A Fight Worth Having (super PAC)",
+  "startDate": "2026-10-20",
+  "endDate": "2026-10-23",
+  "sampleSize": 4823,
+  "population": "LV",
+  "url": "https://afightworthhaving.com/polling/2026/florida",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-senate-angela-nixon",
+      "percent": 42.8
+    },
+    {
+      "candidateId": "fl-senate-ashley-moody",
+      "percent": 49.6
+    },
+    {
+      "candidateId": "fl-senate-neil-j-gillespie",
+      "percent": 1.1
+    }
+  ]
+}

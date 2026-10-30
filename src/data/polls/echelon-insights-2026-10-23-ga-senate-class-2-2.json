@@ -1,0 +1,26 @@
+{
+  "id": "echelon-insights-2026-10-23-ga-senate-class-2-2",
+  "raceId": "2026-ga-senate-class-2",
+  "pollster": "Echelon Insights",
+  "sponsor": "NetChoice",
+  "startDate": "2026-10-16",
+  "endDate": "2026-10-23",
+  "sampleSize": 508,
+  "population": "LV",
+  "url": "https://netchoice.org/netchoice-echelon-insights-poll-voters-rank-ai-regulation-far-behind-cost-of-living-want-one-national-ai-standard/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ga-senate-mike-collins",
+      "percent": 40
+    },
+    {
+      "candidateId": "ga-senate-jon-ossoff",
+      "percent": 55
+    },
+    {
+      "candidateId": "ga-senate-allen-buckley",
+      "percent": 3
+    }
+  ]
+}

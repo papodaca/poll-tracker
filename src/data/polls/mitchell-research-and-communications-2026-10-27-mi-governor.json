@@ -1,0 +1,22 @@
+{
+  "id": "mitchell-research-and-communications-2026-10-27-mi-governor",
+  "raceId": "2026-mi-governor",
+  "pollster": "Mitchell Research & Communications",
+  "sponsor": "CBS Detroit",
+  "startDate": "2026-10-26",
+  "endDate": "2026-10-27",
+  "sampleSize": 636,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/29/Mitchell-Research-&-Communications-Michigan",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-governor-jocelyn-benson",
+      "percent": 49
+    },
+    {
+      "candidateId": "mi-governor-john-james",
+      "percent": 44
+    }
+  ]
+}

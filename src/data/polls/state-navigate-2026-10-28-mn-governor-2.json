@@ -1,0 +1,25 @@
+{
+  "id": "state-navigate-2026-10-28-mn-governor-2",
+  "raceId": "2026-mn-governor",
+  "pollster": "State Navigate",
+  "startDate": "2026-10-26",
+  "endDate": "2026-10-28",
+  "sampleSize": 806,
+  "population": "LV",
+  "url": "https://articles.statenavigate.com/mn/new-minnesota-governor-poll-shows-amy-klobuchars-crossover-appeal-fading/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mn-governor-amy-klobuchar",
+      "percent": 52
+    },
+    {
+      "candidateId": "mn-governor-lisa-demuth",
+      "percent": 42
+    },
+    {
+      "candidateId": "mn-governor-steven-young",
+      "percent": 3
+    }
+  ]
+}

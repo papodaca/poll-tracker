@@ -1,0 +1,29 @@
+{
+  "id": "east-carolina-university-center-for-survey-research-2026-10-24-sc-senate-class-2-2",
+  "raceId": "2026-sc-senate-class-2",
+  "pollster": "East Carolina University Center for Survey Research",
+  "startDate": "2026-10-19",
+  "endDate": "2026-10-24",
+  "sampleSize": 955,
+  "population": "LV",
+  "url": "https://surveyresearch-ecu.reportablenews.com/pr/ecu-poll-finds-graham-leading-andrews-by-four-points",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "sc-senate-annie-andrews",
+      "percent": 47.3
+    },
+    {
+      "candidateId": "sc-senate-darline-graham-nordone",
+      "percent": 51.2
+    },
+    {
+      "candidateId": "sc-senate-kasie-whitener",
+      "percent": 0.7
+    },
+    {
+      "candidateId": "sc-senate-mark-hackett",
+      "percent": 0.7
+    }
+  ]
+}

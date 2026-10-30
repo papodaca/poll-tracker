@@ -1,0 +1,19 @@
+{
+  "id": "muhlenberg-col-2026-10-29-pa-house-7",
+  "raceId": "2026-pa-house-7",
+  "pollster": "Muhlenberg Col.",
+  "startDate": "2026-10-29",
+  "endDate": "2026-10-29",
+  "url": "https://www.muhlenberg.edu/muhlenberg-now/pa-7th-congressional-survey-october-2026/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "pa-house-7-bob-brooks",
+      "percent": 49
+    },
+    {
+      "candidateId": "pa-house-7-ryan-mackenzie",
+      "percent": 43
+    }
+  ]
+}
