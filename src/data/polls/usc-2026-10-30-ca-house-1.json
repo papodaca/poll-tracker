@@ -1,0 +1,19 @@
+{
+  "id": "usc-2026-10-30-ca-house-1",
+  "raceId": "2026-ca-house-1",
+  "pollster": "USC",
+  "startDate": "2026-10-30",
+  "endDate": "2026-10-30",
+  "url": "https://www.thedemocracylab.com/ca-polling-2026",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ca-house-1-mike-mcguire",
+      "percent": 54
+    },
+    {
+      "candidateId": "ca-house-1-james-gallagher",
+      "percent": 40
+    }
+  ]
+}

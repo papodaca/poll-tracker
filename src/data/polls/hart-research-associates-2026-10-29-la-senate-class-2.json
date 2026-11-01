@@ -1,0 +1,21 @@
+{
+  "id": "hart-research-associates-2026-10-29-la-senate-class-2",
+  "raceId": "2026-la-senate-class-2",
+  "pollster": "Hart Research Associates",
+  "startDate": "2026-10-28",
+  "endDate": "2026-10-29",
+  "sampleSize": 502,
+  "population": "LV",
+  "url": "https://www.perdidostreet.news/p/new-poll-shows-toss-up-in-louisiana-senate-contest-as-turnout-in-early-vote-buoys-democrats-hopes-of",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "la-senate-jamie-davis",
+      "percent": 45
+    },
+    {
+      "candidateId": "la-senate-julia-letlow",
+      "percent": 45
+    }
+  ]
+}

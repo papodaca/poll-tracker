@@ -1,0 +1,19 @@
+{
+  "id": "usc-2026-10-30-ca-house-22",
+  "raceId": "2026-ca-house-22",
+  "pollster": "USC",
+  "startDate": "2026-10-30",
+  "endDate": "2026-10-30",
+  "url": "https://www.thedemocracylab.com/ca-polling-2026",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ca-house-22-randy-villegas",
+      "percent": 52
+    },
+    {
+      "candidateId": "ca-house-22-david-valadao",
+      "percent": 41
+    }
+  ]
+}

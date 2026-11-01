@@ -1,0 +1,21 @@
+{
+  "id": "political-matrix-listener-group-studies-2026-10-28-fl-governor",
+  "raceId": "2026-fl-governor",
+  "pollster": "Political Matrix/Listener Group Studies",
+  "startDate": "2026-10-26",
+  "endDate": "2026-10-28",
+  "sampleSize": 500,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/31/Political-Matrix/Listener-Group-Studies-Florida",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-governor-david-jolly",
+      "percent": 38.8
+    },
+    {
+      "candidateId": "fl-governor-byron-donalds",
+      "percent": 40.3
+    }
+  ]
+}

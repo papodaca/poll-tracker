@@ -1,0 +1,21 @@
+{
+  "id": "data-for-progress-2026-10-26-tx-governor",
+  "raceId": "2026-tx-governor",
+  "pollster": "Data for Progress",
+  "startDate": "2026-10-23",
+  "endDate": "2026-10-26",
+  "sampleSize": 712,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/31/Data-for-Progress-Texas",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-governor-greg-abbott",
+      "percent": 48
+    },
+    {
+      "candidateId": "tx-governor-gina-hinojosa",
+      "percent": 47
+    }
+  ]
+}

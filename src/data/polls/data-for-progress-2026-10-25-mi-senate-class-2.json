@@ -1,0 +1,21 @@
+{
+  "id": "data-for-progress-2026-10-25-mi-senate-class-2",
+  "raceId": "2026-mi-senate-class-2",
+  "pollster": "Data for Progress",
+  "startDate": "2026-10-23",
+  "endDate": "2026-10-25",
+  "sampleSize": 622,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/31/Data-for-Progress-Michigan",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-senate-abdul-el-sayed",
+      "percent": 50
+    },
+    {
+      "candidateId": "mi-senate-mike-rogers",
+      "percent": 46
+    }
+  ]
+}

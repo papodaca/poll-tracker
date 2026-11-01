@@ -1,0 +1,30 @@
+{
+  "id": "surveyusa-2026-10-28-mn-senate-class-2",
+  "raceId": "2026-mn-senate-class-2",
+  "pollster": "SurveyUSA",
+  "sponsor": "KSTP-TV (St. Paul, Minn.) / KAAL-TV (Austin, Minn.) / WDIO-DT (Duluth, Minn.)",
+  "startDate": "2026-10-24",
+  "endDate": "2026-10-28",
+  "sampleSize": 990,
+  "population": "A",
+  "url": "https://kstp.com/kstp-news/top-news/kstp-surveyusa-minnesota-statewide-races-inch-left-in-final-poll-before-election-day/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mn-senate-peggy-flanagan",
+      "percent": 48
+    },
+    {
+      "candidateId": "mn-senate-michele-tafoya",
+      "percent": 41
+    },
+    {
+      "candidateId": "mn-senate-marisa-simonetti",
+      "percent": 2
+    },
+    {
+      "candidateId": "mn-senate-rebecca-whiting",
+      "percent": 2
+    }
+  ]
+}

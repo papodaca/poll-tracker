@@ -1,0 +1,22 @@
+{
+  "id": "surveyusa-kstp-tv-kaal-tv-2026-10-28-mn-governor",
+  "raceId": "2026-mn-governor",
+  "pollster": "SurveyUSA / KSTP-TV / KAAL-TV",
+  "sponsor": "WDIO-TV",
+  "startDate": "2026-10-24",
+  "endDate": "2026-10-28",
+  "sampleSize": 714,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/30/SurveyUSA/KSTP-TV-Minnesota-2026-10-24-2026-10-28",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mn-governor-amy-klobuchar",
+      "percent": 51
+    },
+    {
+      "candidateId": "mn-governor-lisa-demuth",
+      "percent": 39
+    }
+  ]
+}

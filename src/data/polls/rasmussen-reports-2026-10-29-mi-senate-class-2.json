@@ -1,0 +1,21 @@
+{
+  "id": "rasmussen-reports-2026-10-29-mi-senate-class-2",
+  "raceId": "2026-mi-senate-class-2",
+  "pollster": "Rasmussen Reports",
+  "startDate": "2026-10-28",
+  "endDate": "2026-10-29",
+  "sampleSize": 745,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/30/Rasmussen-Reports-Michigan",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-senate-abdul-el-sayed",
+      "percent": 49
+    },
+    {
+      "candidateId": "mi-senate-mike-rogers",
+      "percent": 44
+    }
+  ]
+}

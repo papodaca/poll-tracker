@@ -1,0 +1,42 @@
+{
+  "id": "big-data-poll-2026-10-30-fl-governor",
+  "raceId": "2026-fl-governor",
+  "pollster": "Big Data Poll",
+  "sponsor": "Public Polling Project",
+  "startDate": "2026-10-26",
+  "endDate": "2026-10-30",
+  "sampleSize": 1129,
+  "population": "LV",
+  "url": "https://www.bigdatapoll.com/blog/sunshine-state-poll-ashley-moody-leads-angie-craig-governors-race-tight/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-governor-david-jolly",
+      "percent": 44.2
+    },
+    {
+      "candidateId": "fl-governor-frank-j-russo",
+      "percent": 1.9
+    },
+    {
+      "candidateId": "fl-governor-byron-donalds",
+      "percent": 47.4
+    },
+    {
+      "candidateId": "fl-governor-jeffrey-peter-datto",
+      "percent": 1.2
+    },
+    {
+      "candidateId": "fl-governor-moliere-dimanche",
+      "percent": 1.5
+    },
+    {
+      "candidateId": "fl-governor-dean-ocean-abrams",
+      "percent": 0.7
+    },
+    {
+      "candidateId": "fl-governor-scott-eckhard-jewett",
+      "percent": 2.9
+    }
+  ]
+}

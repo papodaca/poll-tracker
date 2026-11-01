@@ -1,0 +1,25 @@
+{
+  "id": "emerson-college-2026-10-28-ks-senate-class-2-2",
+  "raceId": "2026-ks-senate-class-2",
+  "pollster": "Emerson College",
+  "startDate": "2026-10-26",
+  "endDate": "2026-10-28",
+  "sampleSize": 800,
+  "population": "LV",
+  "url": "https://emersoncollegepolling.com/october-2026-kansas-poll-hamilton-maintains-edge-over-marshall/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ks-senate-adam-hamilton",
+      "percent": 49.5
+    },
+    {
+      "candidateId": "ks-senate-roger-marshall",
+      "percent": 47.1
+    },
+    {
+      "candidateId": "ks-senate-david-c-graham",
+      "percent": 3.4
+    }
+  ]
+}

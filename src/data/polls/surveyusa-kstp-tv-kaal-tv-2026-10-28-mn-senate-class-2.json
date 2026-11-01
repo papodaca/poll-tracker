@@ -1,0 +1,22 @@
+{
+  "id": "surveyusa-kstp-tv-kaal-tv-2026-10-28-mn-senate-class-2",
+  "raceId": "2026-mn-senate-class-2",
+  "pollster": "SurveyUSA / KSTP-TV / KAAL-TV",
+  "sponsor": "WDIO-TV",
+  "startDate": "2026-10-24",
+  "endDate": "2026-10-28",
+  "sampleSize": 714,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/30/SurveyUSA/KSTP-TV-Minnesota-2026-10-24-2026-10-28",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mn-senate-michele-tafoya",
+      "percent": 41
+    },
+    {
+      "candidateId": "mn-senate-peggy-flanagan",
+      "percent": 48
+    }
+  ]
+}

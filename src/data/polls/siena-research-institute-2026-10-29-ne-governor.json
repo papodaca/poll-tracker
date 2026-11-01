@@ -1,0 +1,22 @@
+{
+  "id": "siena-research-institute-2026-10-29-ne-governor",
+  "raceId": "2026-ne-governor",
+  "pollster": "Siena Research Institute",
+  "sponsor": "The New York Times",
+  "startDate": "2026-10-23",
+  "endDate": "2026-10-29",
+  "sampleSize": 809,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/31/Siena-Research-Institute/The-New-York-Times-Nebraska-2026-10-23-2026-10-29",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ne-governor-jim-pillen",
+      "percent": 53
+    },
+    {
+      "candidateId": "ne-governor-lynne-walz",
+      "percent": 40
+    }
+  ]
+}

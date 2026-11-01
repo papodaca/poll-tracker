@@ -1,0 +1,25 @@
+{
+  "id": "quantus-insights-2026-10-28-tx-governor-2",
+  "raceId": "2026-tx-governor",
+  "pollster": "Quantus Insights",
+  "startDate": "2026-10-26",
+  "endDate": "2026-10-28",
+  "sampleSize": 1221,
+  "population": "LV",
+  "url": "https://quantusinsights.org/polling/f/texas-survey-paxton-up-one-abbott-ahead-by-five",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-governor-gina-hinojosa",
+      "percent": 46.3
+    },
+    {
+      "candidateId": "tx-governor-greg-abbott",
+      "percent": 51.6
+    },
+    {
+      "candidateId": "tx-governor-pat-dixon",
+      "percent": 1.2
+    }
+  ]
+}

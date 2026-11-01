@@ -1,0 +1,21 @@
+{
+  "id": "the-political-matrix-the-listener-group-2026-10-28-fl-senate-special",
+  "raceId": "2026-fl-senate-special",
+  "pollster": "The Political Matrix/The Listener Group",
+  "startDate": "2026-10-26",
+  "endDate": "2026-10-28",
+  "sampleSize": 500,
+  "population": "LV",
+  "url": "https://palafoxproductions.com/new-florida-statewide-poll-for-november-election/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-senate-angela-nixon",
+      "percent": 35.8
+    },
+    {
+      "candidateId": "fl-senate-ashley-moody",
+      "percent": 41.8
+    }
+  ]
+}

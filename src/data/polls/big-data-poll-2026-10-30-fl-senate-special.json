@@ -1,0 +1,26 @@
+{
+  "id": "big-data-poll-2026-10-30-fl-senate-special",
+  "raceId": "2026-fl-senate-special",
+  "pollster": "Big Data Poll",
+  "sponsor": "Public Polling Project",
+  "startDate": "2026-10-26",
+  "endDate": "2026-10-30",
+  "sampleSize": 1129,
+  "population": "LV",
+  "url": "https://www.bigdatapoll.com/blog/sunshine-state-poll-ashley-moody-leads-angie-craig-governors-race-tight/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-senate-angela-nixon",
+      "percent": 44.7
+    },
+    {
+      "candidateId": "fl-senate-ashley-moody",
+      "percent": 51.6
+    },
+    {
+      "candidateId": "fl-senate-neil-j-gillespie",
+      "percent": 3.8
+    }
+  ]
+}

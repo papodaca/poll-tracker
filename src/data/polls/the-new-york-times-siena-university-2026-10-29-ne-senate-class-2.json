@@ -1,0 +1,21 @@
+{
+  "id": "the-new-york-times-siena-university-2026-10-29-ne-senate-class-2",
+  "raceId": "2026-ne-senate-class-2",
+  "pollster": "The New York Times/Siena University",
+  "startDate": "2026-10-23",
+  "endDate": "2026-10-29",
+  "sampleSize": 809,
+  "population": "LV",
+  "url": "https://sri.siena.edu/2026/10/31/nytimes-siena-poll-of-likely-nebraska-voters/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ne-senate-dan-osborn",
+      "percent": 43
+    },
+    {
+      "candidateId": "ne-senate-pete-ricketts",
+      "percent": 49
+    }
+  ]
+}

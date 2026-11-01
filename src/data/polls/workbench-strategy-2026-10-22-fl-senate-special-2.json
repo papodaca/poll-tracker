@@ -1,0 +1,21 @@
+{
+  "id": "workbench-strategy-2026-10-22-fl-senate-special-2",
+  "raceId": "2026-fl-senate-special",
+  "pollster": "Workbench Strategy",
+  "startDate": "2026-10-18",
+  "endDate": "2026-10-22",
+  "sampleSize": 800,
+  "population": "LV",
+  "url": "https://www.politico.com/newsletters/florida-playbook/2026/10/30/gop-closing-message-keep-florida-great-01142052",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-senate-angela-nixon",
+      "percent": 47
+    },
+    {
+      "candidateId": "fl-senate-ashley-moody",
+      "percent": 49
+    }
+  ]
+}

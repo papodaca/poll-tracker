@@ -1,0 +1,19 @@
+{
+  "id": "montana-state-2026-10-30-mt-house-2",
+  "raceId": "2026-mt-house-2",
+  "pollster": "Montana State",
+  "startDate": "2026-10-30",
+  "endDate": "2026-10-30",
+  "url": "https://www.msubillings.edu/class/nams/polls/2026-mountain-states-poll-report.pdf",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mt-house-2-brian-miller",
+      "percent": 18
+    },
+    {
+      "candidateId": "mt-house-2-troy-downing",
+      "percent": 29
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "quantus-insights-2026-10-28-tx-senate-class-2-2",
+  "raceId": "2026-tx-senate-class-2",
+  "pollster": "Quantus Insights",
+  "startDate": "2026-10-26",
+  "endDate": "2026-10-28",
+  "sampleSize": 1221,
+  "population": "LV",
+  "url": "https://quantusinsights.org/polling/f/texas-survey-paxton-up-one-abbott-ahead-by-five",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-senate-ken-paxton",
+      "percent": 49.4
+    },
+    {
+      "candidateId": "tx-senate-james-talarico",
+      "percent": 48.4
+    },
+    {
+      "candidateId": "tx-senate-ted-brown",
+      "percent": 1.4
+    }
+  ]
+}

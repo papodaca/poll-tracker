@@ -1,0 +1,22 @@
+{
+  "id": "big-data-poll-public-polling-project-2026-10-30-fl-senate-special",
+  "raceId": "2026-fl-senate-special",
+  "pollster": "Big Data Poll / Public Polling Project",
+  "sponsor": "1776 Law Center",
+  "startDate": "2026-10-26",
+  "endDate": "2026-10-30",
+  "sampleSize": 1067,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/10/31/Big-Data-Poll/Public-Polling-Project/1776-Law-Center-Florida-2026-10-26-2026-10-30",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-senate-angie-nixon",
+      "percent": 41.7
+    },
+    {
+      "candidateId": "fl-senate-ashley-moody",
+      "percent": 47.9
+    }
+  ]
+}
