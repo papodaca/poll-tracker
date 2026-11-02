@@ -1,0 +1,22 @@
+{
+  "id": "lake-research-partners-2026-09-30-co-senate-class-2",
+  "raceId": "2026-co-senate-class-2",
+  "pollster": "Lake Research Partners",
+  "sponsor": "Ballot Initiative Strategy Center",
+  "startDate": "2026-09-16",
+  "endDate": "2026-09-30",
+  "sampleSize": 600,
+  "population": "RV",
+  "url": "https://ballot.org/wp-content/uploads/2026/10/LRP-Topline-CO-BISC-State-Partners-10.8.26.pdf",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "co-senate-john-hickenlooper",
+      "percent": 52
+    },
+    {
+      "candidateId": "co-senate-mark-baisley",
+      "percent": 38
+    }
+  ]
+}

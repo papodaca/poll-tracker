@@ -1,0 +1,29 @@
+{
+  "id": "insideradvantage-2026-10-30-oh-senate-special-2",
+  "raceId": "2026-oh-senate-special",
+  "pollster": "InsiderAdvantage",
+  "startDate": "2026-10-29",
+  "endDate": "2026-10-30",
+  "sampleSize": 1200,
+  "population": "LV",
+  "url": "https://insideradvantage.com/final-insideradvantage-ohio-survey-brown-49-husted-47-acton-49-ramaswamy-46/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "oh-senate-sherrod-brown",
+      "percent": 48.8
+    },
+    {
+      "candidateId": "oh-senate-jon-husted",
+      "percent": 47
+    },
+    {
+      "candidateId": "oh-senate-bill-redpath",
+      "percent": 1.7
+    },
+    {
+      "candidateId": "oh-senate-gregory-levy",
+      "percent": 1.2
+    }
+  ]
+}

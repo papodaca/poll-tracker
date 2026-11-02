@@ -1,0 +1,22 @@
+{
+  "id": "lake-research-partners-2026-09-30-az-governor",
+  "raceId": "2026-az-governor",
+  "pollster": "Lake Research Partners",
+  "sponsor": "Ballot Initiative Strategy Center",
+  "startDate": "2026-09-16",
+  "endDate": "2026-09-30",
+  "sampleSize": 600,
+  "population": "RV",
+  "url": "https://ballot.org/wp-content/uploads/2026/10/LRP-Topline-AZ-BISC-State-Partners-10.8.26.pdf",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "az-governor-katie-hobbs",
+      "percent": 56
+    },
+    {
+      "candidateId": "az-governor-andy-biggs",
+      "percent": 33
+    }
+  ]
+}

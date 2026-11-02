@@ -1,0 +1,22 @@
+{
+  "id": "national-public-affairs-2026-10-29-nh-governor",
+  "raceId": "2026-nh-governor",
+  "pollster": "National Public Affairs",
+  "sponsor": "God, Family, & Country PAC",
+  "startDate": "2026-10-25",
+  "endDate": "2026-10-29",
+  "sampleSize": 800,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/11/02/National-Public-Affairs/God,-Family,-&-Country-PAC-New-Hampshire-2026-10-25-2026-10-29",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nh-governor-kelly-ayotte",
+      "percent": 52
+    },
+    {
+      "candidateId": "nh-governor-cinde-warmington",
+      "percent": 43
+    }
+  ]
+}

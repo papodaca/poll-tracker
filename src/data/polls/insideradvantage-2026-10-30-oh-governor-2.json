@@ -1,0 +1,25 @@
+{
+  "id": "insideradvantage-2026-10-30-oh-governor-2",
+  "raceId": "2026-oh-governor",
+  "pollster": "InsiderAdvantage",
+  "startDate": "2026-10-29",
+  "endDate": "2026-10-30",
+  "sampleSize": 1200,
+  "population": "LV",
+  "url": "https://insideradvantage.com/final-insideradvantage-ohio-survey-brown-49-husted-47-acton-49-ramaswamy-46/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "oh-governor-amy-acton",
+      "percent": 49.2
+    },
+    {
+      "candidateId": "oh-governor-vivek-ramaswamy",
+      "percent": 46.3
+    },
+    {
+      "candidateId": "oh-governor-don-kissick",
+      "percent": 30
+    }
+  ]
+}

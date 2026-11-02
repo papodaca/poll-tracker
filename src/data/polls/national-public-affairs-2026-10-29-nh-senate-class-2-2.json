@@ -1,0 +1,22 @@
+{
+  "id": "national-public-affairs-2026-10-29-nh-senate-class-2-2",
+  "raceId": "2026-nh-senate-class-2",
+  "pollster": "National Public Affairs",
+  "sponsor": "God, Family, & Country PAC (hybrid PAC)",
+  "startDate": "2026-10-25",
+  "endDate": "2026-10-29",
+  "sampleSize": 800,
+  "population": "LV",
+  "url": "https://backend.natpublicaffairs.com/media/NH_General_Election_Memo_103126.2.pdf",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nh-senate-chris-pappas",
+      "percent": 51
+    },
+    {
+      "candidateId": "nh-senate-john-sununu",
+      "percent": 46
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "redbox-research-2026-10-31-fl-governor",
+  "raceId": "2026-fl-governor",
+  "pollster": "RedBox Research",
+  "sponsor": "A Fight Worth Having (super PAC)",
+  "startDate": "2026-10-30",
+  "endDate": "2026-10-31",
+  "sampleSize": 2898,
+  "population": "LV",
+  "url": "https://afightworthhaving.com/polling/2026/florida",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-governor-david-jolly",
+      "percent": 46
+    },
+    {
+      "candidateId": "fl-governor-frank-j-russo",
+      "percent": 0
+    },
+    {
+      "candidateId": "fl-governor-byron-donalds",
+      "percent": 47
+    },
+    {
+      "candidateId": "fl-governor-jeffrey-peter-datto",
+      "percent": 0
+    },
+    {
+      "candidateId": "fl-governor-charles-w-burkett",
+      "percent": 0
+    },
+    {
+      "candidateId": "fl-governor-moliere-dimanche",
+      "percent": 0
+    },
+    {
+      "candidateId": "fl-governor-dean-ocean-abrams",
+      "percent": 0
+    },
+    {
+      "candidateId": "fl-governor-scott-eckhard-jewett",
+      "percent": 1
+    }
+  ]
+}

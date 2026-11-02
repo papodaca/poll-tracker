@@ -1,0 +1,21 @@
+{
+  "id": "university-of-colorado-american-politics-research-lab-yougov-2026-10-20-co-senate-class-2",
+  "raceId": "2026-co-senate-class-2",
+  "pollster": "University of Colorado American Politics Research Lab/YouGov",
+  "startDate": "2026-10-09",
+  "endDate": "2026-10-20",
+  "sampleSize": 800,
+  "population": "LV",
+  "url": "https://www.colorado.edu/lab/aprl/media/84",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "co-senate-john-hickenlooper",
+      "percent": 57
+    },
+    {
+      "candidateId": "co-senate-mark-baisley",
+      "percent": 39
+    }
+  ]
+}
