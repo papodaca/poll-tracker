@@ -1,0 +1,37 @@
+{
+  "id": "university-of-new-hampshire-survey-center-2026-10-31-vt-house-at-large",
+  "raceId": "2026-vt-house-at-large",
+  "pollster": "University of New Hampshire Survey Center",
+  "startDate": "2026-10-27",
+  "endDate": "2026-10-31",
+  "sampleSize": 1172,
+  "population": "LV",
+  "url": "https://scholars.unh.edu/survey_center_polls/1012/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "vt-house-gerald-malloy",
+      "percent": 31
+    },
+    {
+      "candidateId": "vt-house-becca-balint",
+      "percent": 66
+    },
+    {
+      "candidateId": "vt-house-adam-ortiz",
+      "percent": 0
+    },
+    {
+      "candidateId": "vt-house-at-large-phoenix-k-altair",
+      "percent": 0
+    },
+    {
+      "candidateId": "vt-house-at-large-suzanne-seymour",
+      "percent": 0
+    },
+    {
+      "candidateId": "vt-house-at-large-ryan-p-walton",
+      "percent": 0
+    }
+  ]
+}

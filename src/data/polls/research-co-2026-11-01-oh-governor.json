@@ -1,0 +1,25 @@
+{
+  "id": "research-co-2026-11-01-oh-governor",
+  "raceId": "2026-oh-governor",
+  "pollster": "Research Co.",
+  "startDate": "2026-10-30",
+  "endDate": "2026-11-01",
+  "sampleSize": 450,
+  "population": "LV",
+  "url": "https://researchco.ca/2026/11/01/midterms-2026-one/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "oh-governor-amy-acton",
+      "percent": 48
+    },
+    {
+      "candidateId": "oh-governor-vivek-ramaswamy",
+      "percent": 42
+    },
+    {
+      "candidateId": "oh-governor-don-kissick",
+      "percent": 1
+    }
+  ]
+}

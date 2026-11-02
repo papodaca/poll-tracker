@@ -1,0 +1,21 @@
+{
+  "id": "stetson-university-center-for-public-opinion-research-2026-10-30-fl-senate-special-2",
+  "raceId": "2026-fl-senate-special",
+  "pollster": "Stetson University Center for Public Opinion Research",
+  "startDate": "2026-10-26",
+  "endDate": "2026-10-30",
+  "sampleSize": 861,
+  "population": "LV",
+  "url": "https://www2.stetson.edu/today/2026/10/stetson-poll-donalds-moody-lead-in-final-pre-election-survey-as-races-tighten/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-senate-angela-nixon",
+      "percent": 45
+    },
+    {
+      "candidateId": "fl-senate-ashley-moody",
+      "percent": 49
+    }
+  ]
+}

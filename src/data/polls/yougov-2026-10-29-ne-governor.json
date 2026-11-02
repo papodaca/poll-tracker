@@ -1,0 +1,21 @@
+{
+  "id": "yougov-2026-10-29-ne-governor",
+  "raceId": "2026-ne-governor",
+  "pollster": "YouGov",
+  "startDate": "2026-10-26",
+  "endDate": "2026-10-29",
+  "sampleSize": 1974,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/11/01/YouGov-Nebraska",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ne-governor-jim-pillen",
+      "percent": 50
+    },
+    {
+      "candidateId": "ne-governor-lynne-walz",
+      "percent": 47
+    }
+  ]
+}

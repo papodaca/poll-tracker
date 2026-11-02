@@ -1,0 +1,21 @@
+{
+  "id": "research-co-2026-11-01-wi-governor",
+  "raceId": "2026-wi-governor",
+  "pollster": "Research Co.",
+  "startDate": "2026-10-30",
+  "endDate": "2026-11-01",
+  "sampleSize": 450,
+  "population": "LV",
+  "url": "https://researchco.ca/2026/11/01/midterms-2026-one/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "wi-governor-david-crowley",
+      "percent": 50
+    },
+    {
+      "candidateId": "wi-governor-tom-tiffany",
+      "percent": 45
+    }
+  ]
+}

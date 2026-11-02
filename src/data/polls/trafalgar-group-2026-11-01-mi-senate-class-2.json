@@ -1,0 +1,21 @@
+{
+  "id": "trafalgar-group-2026-11-01-mi-senate-class-2",
+  "raceId": "2026-mi-senate-class-2",
+  "pollster": "Trafalgar Group",
+  "startDate": "2026-10-31",
+  "endDate": "2026-11-01",
+  "sampleSize": 1089,
+  "population": "LV",
+  "url": "https://www.thetrafalgargroup.org/news/tx-senate-gen-1101/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-senate-abdul-el-sayed",
+      "percent": 48
+    },
+    {
+      "candidateId": "mi-senate-mike-rogers",
+      "percent": 48
+    }
+  ]
+}

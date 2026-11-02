@@ -1,0 +1,25 @@
+{
+  "id": "data-for-progress-2026-10-26-tx-senate-class-2-2",
+  "raceId": "2026-tx-senate-class-2",
+  "pollster": "Data for Progress",
+  "startDate": "2026-10-23",
+  "endDate": "2026-10-26",
+  "sampleSize": 712,
+  "population": "LV",
+  "url": "https://www.dataforprogress.org/blog/2026/10/30/democratic-senate-candidates-lead-in-maine-michigan-and-texas",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-senate-ken-paxton",
+      "percent": 45
+    },
+    {
+      "candidateId": "tx-senate-james-talarico",
+      "percent": 49
+    },
+    {
+      "candidateId": "tx-senate-ted-brown",
+      "percent": 2
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "concord-public-opinion-partners-2026-10-24-oh-senate-special",
+  "raceId": "2026-oh-senate-special",
+  "pollster": "Concord Public Opinion Partners",
+  "sponsor": "Education Reform Now Advocacy",
+  "startDate": "2026-10-22",
+  "endDate": "2026-10-24",
+  "sampleSize": 469,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/11/02/Concord-Public-Opinion-Partners/Education-Reform-Now-Advocacy-Ohio-2026-10-22-2026-10-24",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "oh-senate-sherrod-brown",
+      "percent": 46
+    },
+    {
+      "candidateId": "oh-senate-jon-husted",
+      "percent": 42
+    }
+  ]
+}

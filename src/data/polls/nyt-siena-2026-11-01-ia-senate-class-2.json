@@ -1,0 +1,21 @@
+{
+  "id": "nyt-siena-2026-11-01-ia-senate-class-2",
+  "raceId": "2026-ia-senate-class-2",
+  "pollster": "NYT/Siena",
+  "startDate": "2026-10-23",
+  "endDate": "2026-11-01",
+  "sampleSize": 705,
+  "population": "LV",
+  "url": "https://www.nytimes.com/2026/11/01/us/politics/times-siena-poll-senate.html",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ia-senate-josh-turek",
+      "percent": 48
+    },
+    {
+      "candidateId": "ia-senate-ashley-hinson",
+      "percent": 47
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "the-new-york-times-siena-university-2026-11-01-ks-senate-class-2",
+  "raceId": "2026-ks-senate-class-2",
+  "pollster": "The New York Times/Siena University",
+  "startDate": "2026-10-27",
+  "endDate": "2026-11-01",
+  "sampleSize": 736,
+  "population": "LV",
+  "url": "https://www.nytimes.com/interactive/2026/11/01/polls/times-siena-ks-poll-toplines.html",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ks-senate-adam-hamilton",
+      "percent": 49
+    },
+    {
+      "candidateId": "ks-senate-roger-marshall",
+      "percent": 44
+    },
+    {
+      "candidateId": "ks-senate-david-c-graham",
+      "percent": 4
+    }
+  ]
+}

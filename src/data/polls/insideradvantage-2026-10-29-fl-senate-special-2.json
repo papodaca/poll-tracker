@@ -1,0 +1,25 @@
+{
+  "id": "insideradvantage-2026-10-29-fl-senate-special-2",
+  "raceId": "2026-fl-senate-special",
+  "pollster": "InsiderAdvantage",
+  "startDate": "2026-10-28",
+  "endDate": "2026-10-29",
+  "sampleSize": 1200,
+  "population": "LV",
+  "url": "https://insideradvantage.com/insideradvantage-florida-survey-donalds-49-jolly-45-moody-49-nixon-43/?utm_source=rss&utm_medium=rss&utm_campaign=insideradvantage-florida-survey-donalds-49-jolly-45-moody-49-nixon-43",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-senate-angela-nixon",
+      "percent": 42.7
+    },
+    {
+      "candidateId": "fl-senate-ashley-moody",
+      "percent": 48.5
+    },
+    {
+      "candidateId": "fl-senate-neil-j-gillespie",
+      "percent": 2.4
+    }
+  ]
+}

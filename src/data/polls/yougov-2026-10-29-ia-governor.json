@@ -1,0 +1,21 @@
+{
+  "id": "yougov-2026-10-29-ia-governor",
+  "raceId": "2026-ia-governor",
+  "pollster": "YouGov",
+  "startDate": "2026-10-26",
+  "endDate": "2026-10-29",
+  "sampleSize": 2019,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/11/01/YouGov-Iowa",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ia-governor-rob-sand",
+      "percent": 53
+    },
+    {
+      "candidateId": "ia-governor-zach-lahn",
+      "percent": 46
+    }
+  ]
+}

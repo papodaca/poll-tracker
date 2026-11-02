@@ -1,0 +1,30 @@
+{
+  "id": "patinkin-research-strategies-2026-10-29-sc-senate-class-2-2",
+  "raceId": "2026-sc-senate-class-2",
+  "pollster": "Patinkin Research Strategies",
+  "sponsor": "Project V.O.T.E. (PAC)",
+  "startDate": "2026-10-27",
+  "endDate": "2026-10-29",
+  "sampleSize": 500,
+  "population": "LV",
+  "url": "https://static1.squarespace.com/static/54512d3ce4b07de69d8320c7/t/6ae4f0f24aec54388059c463/1793388786248/PRS%2BProjectVOTE.SCSW+Poll+Release.103026.pdf",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "sc-senate-annie-andrews",
+      "percent": 48
+    },
+    {
+      "candidateId": "sc-senate-darline-graham-nordone",
+      "percent": 43
+    },
+    {
+      "candidateId": "sc-senate-kasie-whitener",
+      "percent": 3
+    },
+    {
+      "candidateId": "sc-senate-mark-hackett",
+      "percent": 3
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "data-for-progress-2026-10-27-me-governor-2",
+  "raceId": "2026-me-governor",
+  "pollster": "Data for Progress",
+  "startDate": "2026-10-23",
+  "endDate": "2026-10-27",
+  "sampleSize": 652,
+  "population": "LV",
+  "url": "https://www.dataforprogress.org/blog/2026/10/30/democratic-senate-candidates-lead-in-maine-michigan-and-texas",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "me-governor-bobby-charles",
+      "percent": 37
+    },
+    {
+      "candidateId": "me-governor-hannah-pingree",
+      "percent": 49
+    },
+    {
+      "candidateId": "me-governor-rick-bennett",
+      "percent": 7
+    }
+  ]
+}

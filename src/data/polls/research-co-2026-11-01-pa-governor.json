@@ -1,0 +1,25 @@
+{
+  "id": "research-co-2026-11-01-pa-governor",
+  "raceId": "2026-pa-governor",
+  "pollster": "Research Co.",
+  "startDate": "2026-10-30",
+  "endDate": "2026-11-01",
+  "sampleSize": 450,
+  "population": "LV",
+  "url": "https://researchco.ca/2026/11/01/midterms-2026-one/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "pa-governor-josh-shapiro",
+      "percent": 59
+    },
+    {
+      "candidateId": "pa-governor-stacy-garrity",
+      "percent": 34
+    },
+    {
+      "candidateId": "pa-governor-ken-krawchuk",
+      "percent": 1
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "the-new-york-times-siena-university-2026-10-30-ak-house-at-large-2-2",
+  "raceId": "2026-ak-house-at-large",
+  "pollster": "The New York Times/Siena University",
+  "startDate": "2026-10-23",
+  "endDate": "2026-10-30",
+  "sampleSize": 610,
+  "population": "LV",
+  "url": "https://www.nytimes.com/interactive/2026/11/01/polls/times-siena-ak-poll-toplines.html",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ak-house-bill-hill",
+      "percent": 48
+    },
+    {
+      "candidateId": "ak-house-nick-begich",
+      "percent": 52
+    }
+  ]
+}

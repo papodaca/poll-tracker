@@ -1,0 +1,21 @@
+{
+  "id": "lincoln-park-strategies-2026-10-31-la-senate-class-2",
+  "raceId": "2026-la-senate-class-2",
+  "pollster": "Lincoln Park Strategies",
+  "sponsor": "Louisiana Democratic Party",
+  "startDate": "2026-10-29",
+  "endDate": "2026-10-31",
+  "population": "LV",
+  "url": "https://www.documentcloud.org/documents/28861757-la-sen-lincoln-park-strategies-oct-2026/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "la-senate-jamie-davis",
+      "percent": 47
+    },
+    {
+      "candidateId": "la-senate-julia-letlow",
+      "percent": 47
+    }
+  ]
+}

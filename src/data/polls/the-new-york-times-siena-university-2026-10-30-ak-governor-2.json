@@ -1,0 +1,25 @@
+{
+  "id": "the-new-york-times-siena-university-2026-10-30-ak-governor-2",
+  "raceId": "2026-ak-governor",
+  "pollster": "The New York Times/Siena University",
+  "startDate": "2026-10-23",
+  "endDate": "2026-10-30",
+  "sampleSize": 610,
+  "population": "LV",
+  "url": "https://www.nytimes.com/interactive/2026/11/01/polls/times-siena-ak-poll-toplines.html",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ak-governor-jonathan-kreiss-tomkins",
+      "percent": 52
+    },
+    {
+      "candidateId": "ak-governor-bernadette-wilson",
+      "percent": 35
+    },
+    {
+      "candidateId": "ak-governor-treg-taylor",
+      "percent": 13
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "noble-predictive-insights-2026-10-28-nv-governor-2",
+  "raceId": "2026-nv-governor",
+  "pollster": "Noble Predictive Insights",
+  "startDate": "2026-10-26",
+  "endDate": "2026-10-28",
+  "sampleSize": 487,
+  "population": "LV",
+  "url": "https://www.noblepredictiveinsights.com/post/nevada-poll-of-record-lombardo-ford-deadlocked-at-47",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nv-governor-aaron-ford",
+      "percent": 47
+    },
+    {
+      "candidateId": "nv-governor-joe-lombardo",
+      "percent": 47
+    },
+    {
+      "candidateId": "nv-governor-danielle-ford",
+      "percent": 1
+    }
+  ]
+}

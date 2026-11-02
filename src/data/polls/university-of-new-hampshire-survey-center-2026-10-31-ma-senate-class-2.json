@@ -1,0 +1,29 @@
+{
+  "id": "university-of-new-hampshire-survey-center-2026-10-31-ma-senate-class-2",
+  "raceId": "2026-ma-senate-class-2",
+  "pollster": "University of New Hampshire Survey Center",
+  "startDate": "2026-10-27",
+  "endDate": "2026-10-31",
+  "sampleSize": 905,
+  "population": "LV",
+  "url": "https://scholars.unh.edu/survey_center_polls/1014/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ma-senate-john-deaton",
+      "percent": 32
+    },
+    {
+      "candidateId": "ma-senate-ed-markey",
+      "percent": 53
+    },
+    {
+      "candidateId": "ma-senate-joe-tache",
+      "percent": 7
+    },
+    {
+      "candidateId": "ma-senate-shiva-ayyadurai",
+      "percent": 4
+    }
+  ]
+}

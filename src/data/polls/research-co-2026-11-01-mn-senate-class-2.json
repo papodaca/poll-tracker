@@ -1,0 +1,21 @@
+{
+  "id": "research-co-2026-11-01-mn-senate-class-2",
+  "raceId": "2026-mn-senate-class-2",
+  "pollster": "Research Co.",
+  "startDate": "2026-10-30",
+  "endDate": "2026-11-01",
+  "sampleSize": 450,
+  "population": "LV",
+  "url": "https://researchco.ca/2026/11/01/midterms-2026-one/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mn-senate-peggy-flanagan",
+      "percent": 48
+    },
+    {
+      "candidateId": "mn-senate-michele-tafoya",
+      "percent": 43
+    }
+  ]
+}

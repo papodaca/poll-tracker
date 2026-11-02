@@ -1,0 +1,21 @@
+{
+  "id": "yougov-2026-10-29-ne-senate-class-2",
+  "raceId": "2026-ne-senate-class-2",
+  "pollster": "YouGov",
+  "startDate": "2026-10-26",
+  "endDate": "2026-10-29",
+  "sampleSize": 1974,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/11/01/YouGov-Nebraska",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ne-senate-dan-osborn",
+      "percent": 49
+    },
+    {
+      "candidateId": "ne-senate-pete-ricketts",
+      "percent": 49
+    }
+  ]
+}

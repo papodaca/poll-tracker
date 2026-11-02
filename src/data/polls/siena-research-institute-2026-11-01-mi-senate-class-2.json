@@ -1,0 +1,22 @@
+{
+  "id": "siena-research-institute-2026-11-01-mi-senate-class-2",
+  "raceId": "2026-mi-senate-class-2",
+  "pollster": "Siena Research Institute",
+  "sponsor": "The New York Times",
+  "startDate": "2026-10-23",
+  "endDate": "2026-11-01",
+  "sampleSize": 1011,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/11/02/Siena-Research-Institute/The-New-York-Times-Michigan-2026-10-23-2026-11-01",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-senate-mike-rogers",
+      "percent": 40
+    },
+    {
+      "candidateId": "mi-senate-abdul-el-sayed",
+      "percent": 51
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "trafalgar-group-2026-11-01-tx-senate-class-2",
+  "raceId": "2026-tx-senate-class-2",
+  "pollster": "Trafalgar Group",
+  "startDate": "2026-10-31",
+  "endDate": "2026-11-01",
+  "sampleSize": 1089,
+  "population": "LV",
+  "url": "https://www.thetrafalgargroup.org/news/tx-senate-gen-1101/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-senate-ken-paxton",
+      "percent": 48.1
+    },
+    {
+      "candidateId": "tx-senate-james-talarico",
+      "percent": 47.5
+    },
+    {
+      "candidateId": "tx-senate-ted-brown",
+      "percent": 2.4
+    }
+  ]
+}

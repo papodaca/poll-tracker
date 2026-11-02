@@ -1,0 +1,21 @@
+{
+  "id": "yougov-2026-10-29-mi-senate-class-2",
+  "raceId": "2026-mi-senate-class-2",
+  "pollster": "YouGov",
+  "startDate": "2026-10-26",
+  "endDate": "2026-10-29",
+  "sampleSize": 2088,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/11/01/YouGov-Michigan",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-senate-abdul-el-sayed",
+      "percent": 51
+    },
+    {
+      "candidateId": "mi-senate-mike-rogers",
+      "percent": 47
+    }
+  ]
+}

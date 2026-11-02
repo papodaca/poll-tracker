@@ -1,0 +1,21 @@
+{
+  "id": "the-new-york-times-siena-university-2026-11-01-ia-governor",
+  "raceId": "2026-ia-governor",
+  "pollster": "The New York Times/Siena University",
+  "startDate": "2026-10-26",
+  "endDate": "2026-11-01",
+  "sampleSize": 705,
+  "population": "LV",
+  "url": "https://www.nytimes.com/interactive/2026/11/01/polls/times-siena-ia-poll-toplines.html",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ia-governor-rob-sand",
+      "percent": 51
+    },
+    {
+      "candidateId": "ia-governor-zach-lahn",
+      "percent": 43
+    }
+  ]
+}

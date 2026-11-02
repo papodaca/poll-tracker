@@ -1,0 +1,21 @@
+{
+  "id": "yougov-2026-10-29-ia-senate-class-2",
+  "raceId": "2026-ia-senate-class-2",
+  "pollster": "YouGov",
+  "startDate": "2026-10-26",
+  "endDate": "2026-10-29",
+  "sampleSize": 2016,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/11/01/YouGov-Iowa",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ia-senate-josh-turek",
+      "percent": 50
+    },
+    {
+      "candidateId": "ia-senate-ashley-hinson",
+      "percent": 49
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "siena-research-institute-2026-11-01-ia-governor",
+  "raceId": "2026-ia-governor",
+  "pollster": "Siena Research Institute",
+  "sponsor": "The New York Times",
+  "startDate": "2026-10-26",
+  "endDate": "2026-11-01",
+  "sampleSize": 705,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/11/02/Siena-Research-Institute/The-New-York-Times-Iowa-2026-10-26-2026-10-30",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ia-governor-rob-sand",
+      "percent": 51
+    },
+    {
+      "candidateId": "ia-governor-zach-lahn",
+      "percent": 43
+    }
+  ]
+}

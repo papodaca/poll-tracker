@@ -1,0 +1,21 @@
+{
+  "id": "research-co-2026-11-01-oh-senate-special",
+  "raceId": "2026-oh-senate-special",
+  "pollster": "Research Co.",
+  "startDate": "2026-10-30",
+  "endDate": "2026-11-01",
+  "sampleSize": 450,
+  "population": "LV",
+  "url": "https://researchco.ca/2026/11/01/midterms-2026-one/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "oh-senate-sherrod-brown",
+      "percent": 45
+    },
+    {
+      "candidateId": "oh-senate-jon-husted",
+      "percent": 44
+    }
+  ]
+}

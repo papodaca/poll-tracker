@@ -1,0 +1,21 @@
+{
+  "id": "yougov-2026-10-29-tx-senate-class-2",
+  "raceId": "2026-tx-senate-class-2",
+  "pollster": "YouGov",
+  "startDate": "2026-10-26",
+  "endDate": "2026-10-29",
+  "sampleSize": 2138,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/11/01/YouGov-Texas",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-senate-james-talarico",
+      "percent": 51
+    },
+    {
+      "candidateId": "tx-senate-ken-paxton",
+      "percent": 47
+    }
+  ]
+}

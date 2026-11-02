@@ -1,0 +1,21 @@
+{
+  "id": "nyt-siena-2026-11-01-oh-senate-special",
+  "raceId": "2026-oh-senate-special",
+  "pollster": "NYT/Siena",
+  "startDate": "2026-10-23",
+  "endDate": "2026-11-01",
+  "sampleSize": 717,
+  "population": "LV",
+  "url": "https://www.nytimes.com/2026/11/01/us/politics/times-siena-poll-senate.html",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "oh-senate-sherrod-brown",
+      "percent": 49
+    },
+    {
+      "candidateId": "oh-senate-jon-husted",
+      "percent": 44
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "research-co-2026-11-01-mn-governor",
+  "raceId": "2026-mn-governor",
+  "pollster": "Research Co.",
+  "startDate": "2026-10-30",
+  "endDate": "2026-11-01",
+  "sampleSize": 450,
+  "population": "LV",
+  "url": "https://researchco.ca/2026/11/01/midterms-2026-one/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mn-governor-amy-klobuchar",
+      "percent": 53
+    },
+    {
+      "candidateId": "mn-governor-lisa-demuth",
+      "percent": 40
+    }
+  ]
+}

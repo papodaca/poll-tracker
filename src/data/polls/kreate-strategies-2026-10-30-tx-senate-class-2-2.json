@@ -1,0 +1,25 @@
+{
+  "id": "kreate-strategies-2026-10-30-tx-senate-class-2-2",
+  "raceId": "2026-tx-senate-class-2",
+  "pollster": "Kreate Strategies",
+  "startDate": "2026-10-27",
+  "endDate": "2026-10-30",
+  "sampleSize": 900,
+  "population": "LV",
+  "url": "https://kstrat.net/press/texas-2026-senate-governor-talarico-leads-paxton-october",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-senate-ken-paxton",
+      "percent": 45
+    },
+    {
+      "candidateId": "tx-senate-james-talarico",
+      "percent": 48
+    },
+    {
+      "candidateId": "tx-senate-ted-brown",
+      "percent": 0
+    }
+  ]
+}

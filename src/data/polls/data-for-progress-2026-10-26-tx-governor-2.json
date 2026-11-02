@@ -1,0 +1,25 @@
+{
+  "id": "data-for-progress-2026-10-26-tx-governor-2",
+  "raceId": "2026-tx-governor",
+  "pollster": "Data for Progress",
+  "startDate": "2026-10-23",
+  "endDate": "2026-10-26",
+  "sampleSize": 712,
+  "population": "LV",
+  "url": "https://www.dataforprogress.org/blog/2026/10/30/democratic-senate-candidates-lead-in-maine-michigan-and-texas",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-governor-gina-hinojosa",
+      "percent": 47
+    },
+    {
+      "candidateId": "tx-governor-greg-abbott",
+      "percent": 48
+    },
+    {
+      "candidateId": "tx-governor-pat-dixon",
+      "percent": 2
+    }
+  ]
+}

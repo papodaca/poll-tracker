@@ -1,0 +1,21 @@
+{
+  "id": "the-new-york-times-siena-university-2026-11-01-tx-governor",
+  "raceId": "2026-tx-governor",
+  "pollster": "The New York Times/Siena University",
+  "startDate": "2026-10-27",
+  "endDate": "2026-11-01",
+  "sampleSize": 1215,
+  "population": "LV",
+  "url": "https://www.nytimes.com/interactive/2026/11/01/polls/times-siena-tx-poll-toplines.html",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-governor-gina-hinojosa",
+      "percent": 48
+    },
+    {
+      "candidateId": "tx-governor-greg-abbott",
+      "percent": 47
+    }
+  ]
+}

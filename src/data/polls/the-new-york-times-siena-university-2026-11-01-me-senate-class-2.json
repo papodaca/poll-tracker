@@ -1,0 +1,21 @@
+{
+  "id": "the-new-york-times-siena-university-2026-11-01-me-senate-class-2",
+  "raceId": "2026-me-senate-class-2",
+  "pollster": "The New York Times/Siena University",
+  "startDate": "2026-10-27",
+  "endDate": "2026-11-01",
+  "sampleSize": 714,
+  "population": "LV",
+  "url": "https://www.nytimes.com/interactive/2026/11/01/polls/times-siena-me-poll-toplines.html",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "me-senate-susan-collins",
+      "percent": 45
+    },
+    {
+      "candidateId": "me-senate-troy-jackson",
+      "percent": 51
+    }
+  ]
+}
