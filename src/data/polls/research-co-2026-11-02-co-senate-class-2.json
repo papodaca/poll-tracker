@@ -1,0 +1,21 @@
+{
+  "id": "research-co-2026-11-02-co-senate-class-2",
+  "raceId": "2026-co-senate-class-2",
+  "pollster": "Research Co.",
+  "startDate": "2026-10-31",
+  "endDate": "2026-11-02",
+  "sampleSize": 450,
+  "population": "LV",
+  "url": "https://researchco.ca/2026/11/02/midterms-2026-two/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "co-senate-john-hickenlooper",
+      "percent": 57
+    },
+    {
+      "candidateId": "co-senate-mark-baisley",
+      "percent": 35
+    }
+  ]
+}

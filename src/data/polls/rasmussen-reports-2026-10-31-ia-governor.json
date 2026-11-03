@@ -1,0 +1,21 @@
+{
+  "id": "rasmussen-reports-2026-10-31-ia-governor",
+  "raceId": "2026-ia-governor",
+  "pollster": "Rasmussen Reports",
+  "startDate": "2026-10-27",
+  "endDate": "2026-10-31",
+  "sampleSize": 901,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/11/02/Rasmussen-Reports-Iowa",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ia-governor-zach-lahn",
+      "percent": 45
+    },
+    {
+      "candidateId": "ia-governor-rob-sand",
+      "percent": 50
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "concord-public-opinion-partners-2026-11-01-mi-senate-class-2",
+  "raceId": "2026-mi-senate-class-2",
+  "pollster": "Concord Public Opinion Partners",
+  "sponsor": "Democrats For Education Reform",
+  "startDate": "2026-10-30",
+  "endDate": "2026-11-01",
+  "sampleSize": 510,
+  "population": "LV",
+  "url": "https://concordpublicopinionpartners.org/blog/michigan-ge-2026",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-senate-abdul-el-sayed",
+      "percent": 51
+    },
+    {
+      "candidateId": "mi-senate-mike-rogers",
+      "percent": 41
+    }
+  ]
+}

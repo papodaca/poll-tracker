@@ -1,0 +1,29 @@
+{
+  "id": "atlasintel-2026-11-01-ak-governor",
+  "raceId": "2026-ak-governor",
+  "pollster": "AtlasIntel",
+  "startDate": "2026-10-28",
+  "endDate": "2026-11-01",
+  "sampleSize": 522,
+  "population": "LV",
+  "url": "https://pollstergraph.com/poll/exclusive-atlas-us-ak-20261101-governor",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ak-governor-dave-bronson",
+      "percent": 9.4
+    },
+    {
+      "candidateId": "ak-governor-jonathan-kreiss-tomkins",
+      "percent": 51.5
+    },
+    {
+      "candidateId": "ak-governor-bernadette-wilson",
+      "percent": 34
+    },
+    {
+      "candidateId": "ak-governor-treg-taylor",
+      "percent": 4.1
+    }
+  ]
+}

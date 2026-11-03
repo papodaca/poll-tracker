@@ -1,0 +1,21 @@
+{
+  "id": "trafalgar-group-2026-11-01-oh-senate-special",
+  "raceId": "2026-oh-senate-special",
+  "pollster": "Trafalgar Group",
+  "startDate": "2026-10-31",
+  "endDate": "2026-11-01",
+  "sampleSize": 1092,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/11/02/Trafalgar-Group-Ohio",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "oh-senate-sherrod-brown",
+      "percent": 46.6
+    },
+    {
+      "candidateId": "oh-senate-jon-husted",
+      "percent": 45.1
+    }
+  ]
+}

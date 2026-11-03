@@ -1,0 +1,21 @@
+{
+  "id": "research-co-2026-11-02-nm-governor",
+  "raceId": "2026-nm-governor",
+  "pollster": "Research Co.",
+  "startDate": "2026-10-31",
+  "endDate": "2026-11-02",
+  "sampleSize": 450,
+  "population": "LV",
+  "url": "https://researchco.ca/2026/11/02/midterms-2026-two/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "nm-governor-gregg-hull",
+      "percent": 44
+    },
+    {
+      "candidateId": "nm-governor-deb-haaland",
+      "percent": 51
+    }
+  ]
+}

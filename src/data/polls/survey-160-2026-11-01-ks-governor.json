@@ -1,0 +1,21 @@
+{
+  "id": "survey-160-2026-11-01-ks-governor",
+  "raceId": "2026-ks-governor",
+  "pollster": "Survey 160",
+  "startDate": "2026-10-27",
+  "endDate": "2026-11-01",
+  "sampleSize": 1267,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/11/02/Survey-160-Kansas",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ks-governor-cindy-holscher",
+      "percent": 49
+    },
+    {
+      "candidateId": "ks-governor-ty-masterson",
+      "percent": 47
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "john-zogby-strategies-2026-11-02-mi-senate-class-2",
+  "raceId": "2026-mi-senate-class-2",
+  "pollster": "John Zogby Strategies",
+  "startDate": "2026-10-31",
+  "endDate": "2026-11-02",
+  "sampleSize": 1001,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/11/03/John-Zogby-Strategies-Michigan",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-senate-abdul-el-sayed",
+      "percent": 51
+    },
+    {
+      "candidateId": "mi-senate-mike-rogers",
+      "percent": 49
+    }
+  ]
+}

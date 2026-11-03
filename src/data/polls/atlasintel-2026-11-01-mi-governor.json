@@ -1,0 +1,21 @@
+{
+  "id": "atlasintel-2026-11-01-mi-governor",
+  "raceId": "2026-mi-governor",
+  "pollster": "AtlasIntel",
+  "startDate": "2026-10-28",
+  "endDate": "2026-11-01",
+  "sampleSize": 1316,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/11/03/AtlasIntel-Michigan",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-governor-jocelyn-benson",
+      "percent": 53.2
+    },
+    {
+      "candidateId": "mi-governor-john-james",
+      "percent": 45.2
+    }
+  ]
+}

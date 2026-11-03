@@ -1,0 +1,21 @@
+{
+  "id": "survey-160-2026-11-01-ks-senate-class-2",
+  "raceId": "2026-ks-senate-class-2",
+  "pollster": "Survey 160",
+  "startDate": "2026-10-27",
+  "endDate": "2026-11-01",
+  "sampleSize": 1267,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/11/02/Survey-160-Kansas",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ks-senate-adam-hamilton",
+      "percent": 50
+    },
+    {
+      "candidateId": "ks-senate-roger-marshall",
+      "percent": 43
+    }
+  ]
+}

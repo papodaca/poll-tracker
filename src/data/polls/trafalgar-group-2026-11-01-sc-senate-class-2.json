@@ -1,0 +1,21 @@
+{
+  "id": "trafalgar-group-2026-11-01-sc-senate-class-2",
+  "raceId": "2026-sc-senate-class-2",
+  "pollster": "Trafalgar Group",
+  "startDate": "2026-10-31",
+  "endDate": "2026-11-01",
+  "sampleSize": 1091,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/11/02/Trafalgar-Group-South-Carolina",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "sc-senate-darline-graham",
+      "percent": 47.5
+    },
+    {
+      "candidateId": "sc-senate-annie-andrews",
+      "percent": 45.5
+    }
+  ]
+}

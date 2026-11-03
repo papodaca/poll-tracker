@@ -1,0 +1,29 @@
+{
+  "id": "atlasintel-2026-11-01-ak-senate-class-2",
+  "raceId": "2026-ak-senate-class-2",
+  "pollster": "AtlasIntel",
+  "startDate": "2026-10-28",
+  "endDate": "2026-11-01",
+  "sampleSize": 522,
+  "population": "LV",
+  "url": "https://x.com/atlas_intel/status/2117421811763662955?a=3VkYsUXiivCXZfEhQ7Q&s=20",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ak-senate-mary-peltola",
+      "percent": 50.1
+    },
+    {
+      "candidateId": "ak-senate-dan-sullivan",
+      "percent": 44.6
+    },
+    {
+      "candidateId": "ak-senate-gerald-l-heikes",
+      "percent": 2.5
+    },
+    {
+      "candidateId": "ak-senate-daniel-j-sullivan-jr",
+      "percent": 0.6
+    }
+  ]
+}

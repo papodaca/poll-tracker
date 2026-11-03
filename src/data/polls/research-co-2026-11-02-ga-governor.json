@@ -1,0 +1,21 @@
+{
+  "id": "research-co-2026-11-02-ga-governor",
+  "raceId": "2026-ga-governor",
+  "pollster": "Research Co.",
+  "startDate": "2026-10-31",
+  "endDate": "2026-11-02",
+  "sampleSize": 450,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/11/02/Research-Co.-Colorado",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ga-governor-keisha-lance-bottoms",
+      "percent": 46
+    },
+    {
+      "candidateId": "ga-governor-rick-jackson",
+      "percent": 45
+    }
+  ]
+}

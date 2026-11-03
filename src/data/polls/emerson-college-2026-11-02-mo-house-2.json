@@ -1,0 +1,19 @@
+{
+  "id": "emerson-college-2026-11-02-mo-house-2",
+  "raceId": "2026-mo-house-2",
+  "pollster": "Emerson College",
+  "startDate": "2026-11-02",
+  "endDate": "2026-11-02",
+  "url": "https://pollvault.substack.com/p/new-poll-vault-emerson-senate-and",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mo-house-2-fred-wellman",
+      "percent": 50
+    },
+    {
+      "candidateId": "mo-house-2-ann-wagner",
+      "percent": 49
+    }
+  ]
+}

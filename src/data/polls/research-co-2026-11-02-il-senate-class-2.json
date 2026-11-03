@@ -1,0 +1,21 @@
+{
+  "id": "research-co-2026-11-02-il-senate-class-2",
+  "raceId": "2026-il-senate-class-2",
+  "pollster": "Research Co.",
+  "startDate": "2026-10-31",
+  "endDate": "2026-11-02",
+  "sampleSize": 450,
+  "population": "LV",
+  "url": "https://researchco.ca/2026/11/02/midterms-2026-two/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "il-senate-juliana-stratton",
+      "percent": 53
+    },
+    {
+      "candidateId": "il-senate-don-tracy",
+      "percent": 41
+    }
+  ]
+}

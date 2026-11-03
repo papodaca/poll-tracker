@@ -1,0 +1,21 @@
+{
+  "id": "targoz-market-research-2026-10-29-fl-governor",
+  "raceId": "2026-fl-governor",
+  "pollster": "Targoz Market Research",
+  "startDate": "2026-10-26",
+  "endDate": "2026-10-29",
+  "sampleSize": 1014,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/11/02/Targoz-Market-Research-Florida",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-governor-byron-donalds",
+      "percent": 50
+    },
+    {
+      "candidateId": "fl-governor-david-jolly",
+      "percent": 43
+    }
+  ]
+}

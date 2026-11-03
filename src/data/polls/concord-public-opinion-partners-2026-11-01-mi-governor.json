@@ -1,0 +1,22 @@
+{
+  "id": "concord-public-opinion-partners-2026-11-01-mi-governor",
+  "raceId": "2026-mi-governor",
+  "pollster": "Concord Public Opinion Partners",
+  "sponsor": "Democrats For Education Reform",
+  "startDate": "2026-10-30",
+  "endDate": "2026-11-01",
+  "sampleSize": 510,
+  "population": "LV",
+  "url": "https://concordpublicopinionpartners.org/blog/michigan-ge-2026",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mi-governor-jocelyn-benson",
+      "percent": 50
+    },
+    {
+      "candidateId": "mi-governor-john-james",
+      "percent": 41
+    }
+  ]
+}

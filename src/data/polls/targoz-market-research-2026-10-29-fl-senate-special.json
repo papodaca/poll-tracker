@@ -1,0 +1,21 @@
+{
+  "id": "targoz-market-research-2026-10-29-fl-senate-special",
+  "raceId": "2026-fl-senate-special",
+  "pollster": "Targoz Market Research",
+  "startDate": "2026-10-26",
+  "endDate": "2026-10-29",
+  "sampleSize": 1013,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/11/02/Targoz-Market-Research-Florida",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-senate-ashley-moody",
+      "percent": 52
+    },
+    {
+      "candidateId": "fl-senate-angie-nixon",
+      "percent": 43
+    }
+  ]
+}

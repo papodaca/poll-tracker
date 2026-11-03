@@ -1,0 +1,21 @@
+{
+  "id": "university-of-southern-california-democracy-and-fair-elections-lab-2026-11-01-ca-house-7",
+  "raceId": "2026-ca-house-7",
+  "pollster": "University of Southern California Democracy and Fair Elections Lab",
+  "startDate": "2026-10-28",
+  "endDate": "2026-11-01",
+  "sampleSize": 442,
+  "population": "KV",
+  "url": "https://www.thedemocracylab.com/ca07",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ca-house-7-mai-vang",
+      "percent": 39
+    },
+    {
+      "candidateId": "ca-house-7-doris-matsui",
+      "percent": 49
+    }
+  ]
+}

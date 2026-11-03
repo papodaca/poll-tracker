@@ -1,0 +1,22 @@
+{
+  "id": "emerson-college-2026-11-01-me-senate-class-2",
+  "raceId": "2026-me-senate-class-2",
+  "pollster": "Emerson College",
+  "sponsor": "Poll Vault",
+  "startDate": "2026-10-31",
+  "endDate": "2026-11-01",
+  "sampleSize": 600,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/11/03/Emerson-College/Poll-Vault-Missouri--2-2026-10-31-2026-11-01",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "me-senate-susan-collins",
+      "percent": 50.6
+    },
+    {
+      "candidateId": "me-senate-troy-jackson",
+      "percent": 49.4
+    }
+  ]
+}

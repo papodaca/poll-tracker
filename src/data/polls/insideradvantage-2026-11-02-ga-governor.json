@@ -1,0 +1,22 @@
+{
+  "id": "insideradvantage-2026-11-02-ga-governor",
+  "raceId": "2026-ga-governor",
+  "pollster": "InsiderAdvantage",
+  "sponsor": "James Magazine",
+  "startDate": "2026-10-31",
+  "endDate": "2026-11-02",
+  "sampleSize": 2500,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/11/02/InsiderAdvantage/James-Magazine-Georgia-2026-10-31-2026-11-02",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "ga-governor-keisha-lance-bottoms",
+      "percent": 49.3
+    },
+    {
+      "candidateId": "ga-governor-rick-jackson",
+      "percent": 49
+    }
+  ]
+}

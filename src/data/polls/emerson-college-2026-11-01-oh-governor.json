@@ -1,0 +1,22 @@
+{
+  "id": "emerson-college-2026-11-01-oh-governor",
+  "raceId": "2026-oh-governor",
+  "pollster": "Emerson College",
+  "sponsor": "Poll Vault",
+  "startDate": "2026-10-31",
+  "endDate": "2026-11-01",
+  "sampleSize": 930,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/11/03/Emerson-College/Poll-Vault-Missouri--2-2026-10-31-2026-11-01",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "oh-governor-amy-acton",
+      "percent": 48.4
+    },
+    {
+      "candidateId": "oh-governor-vivek-ramaswamy",
+      "percent": 48.3
+    }
+  ]
+}

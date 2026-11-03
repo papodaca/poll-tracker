@@ -1,0 +1,21 @@
+{
+  "id": "survey-160-2026-11-01-oh-senate-special",
+  "raceId": "2026-oh-senate-special",
+  "pollster": "Survey 160",
+  "startDate": "2026-10-27",
+  "endDate": "2026-11-01",
+  "sampleSize": 1122,
+  "population": "LV",
+  "url": "https://data.ddhq.io/polls/2026/11/02/Survey-160-Ohio",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "oh-senate-sherrod-brown",
+      "percent": 49
+    },
+    {
+      "candidateId": "oh-senate-jon-husted",
+      "percent": 45
+    }
+  ]
+}

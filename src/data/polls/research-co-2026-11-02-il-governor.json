@@ -1,0 +1,21 @@
+{
+  "id": "research-co-2026-11-02-il-governor",
+  "raceId": "2026-il-governor",
+  "pollster": "Research Co.",
+  "startDate": "2026-10-31",
+  "endDate": "2026-11-02",
+  "sampleSize": 450,
+  "population": "LV",
+  "url": "https://researchco.ca/2026/11/02/midterms-2026-two/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "il-governor-darren-bailey",
+      "percent": 36
+    },
+    {
+      "candidateId": "il-governor-jb-pritzker",
+      "percent": 57
+    }
+  ]
+}
