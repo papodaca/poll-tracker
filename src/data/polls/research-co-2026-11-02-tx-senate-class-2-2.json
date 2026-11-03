@@ -1,0 +1,25 @@
+{
+  "id": "research-co-2026-11-02-tx-senate-class-2-2",
+  "raceId": "2026-tx-senate-class-2",
+  "pollster": "Research Co.",
+  "startDate": "2026-10-31",
+  "endDate": "2026-11-02",
+  "sampleSize": 450,
+  "population": "LV",
+  "url": "https://researchco.ca/2026/11/02/midterms-2026-two/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "tx-senate-james-talarico",
+      "percent": 49
+    },
+    {
+      "candidateId": "tx-senate-ken-paxton",
+      "percent": 46
+    },
+    {
+      "candidateId": "tx-senate-ted-brown",
+      "percent": 1
+    }
+  ]
+}

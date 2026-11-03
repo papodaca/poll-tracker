@@ -1,0 +1,30 @@
+{
+  "id": "emerson-college-2026-11-01-oh-senate-special-2",
+  "raceId": "2026-oh-senate-special",
+  "pollster": "Emerson College",
+  "sponsor": "Poll Vault",
+  "startDate": "2026-10-31",
+  "endDate": "2026-11-01",
+  "sampleSize": 930,
+  "population": "LV",
+  "url": "https://pollvault.substack.com/p/new-poll-vault-emerson-senate-and",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "oh-senate-sherrod-brown",
+      "percent": 45.8
+    },
+    {
+      "candidateId": "oh-senate-jon-husted",
+      "percent": 48.3
+    },
+    {
+      "candidateId": "oh-senate-bill-redpath",
+      "percent": 3.6
+    },
+    {
+      "candidateId": "oh-senate-gregory-levy",
+      "percent": 2.3
+    }
+  ]
+}

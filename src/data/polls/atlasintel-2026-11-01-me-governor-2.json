@@ -1,0 +1,25 @@
+{
+  "id": "atlasintel-2026-11-01-me-governor-2",
+  "raceId": "2026-me-governor",
+  "pollster": "AtlasIntel",
+  "startDate": "2026-10-28",
+  "endDate": "2026-11-01",
+  "sampleSize": 967,
+  "population": "LV",
+  "url": "https://pollstergraph.com/poll/exclusive-atlas-us-me-20261101-governor",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "me-governor-bobby-charles",
+      "percent": 42.1
+    },
+    {
+      "candidateId": "me-governor-hannah-pingree",
+      "percent": 49.5
+    },
+    {
+      "candidateId": "me-governor-rick-bennett",
+      "percent": 5.2
+    }
+  ]
+}

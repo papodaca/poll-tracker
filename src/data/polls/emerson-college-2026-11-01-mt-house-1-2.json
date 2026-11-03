@@ -1,0 +1,26 @@
+{
+  "id": "emerson-college-2026-11-01-mt-house-1-2",
+  "raceId": "2026-mt-house-1",
+  "pollster": "Emerson College",
+  "sponsor": "Poll Vault",
+  "startDate": "2026-10-31",
+  "endDate": "2026-11-01",
+  "sampleSize": 311,
+  "population": "LV",
+  "url": "https://pollvault.substack.com/p/new-poll-vault-emerson-senate-and",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "mt-house-1-sam-forstag",
+      "percent": 48.8
+    },
+    {
+      "candidateId": "mt-house-1-aaron-flint",
+      "percent": 48.5
+    },
+    {
+      "candidateId": "mt-house-1-nick-sheedy",
+      "percent": 2.7
+    }
+  ]
+}

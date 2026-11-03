@@ -1,0 +1,25 @@
+{
+  "id": "research-co-2026-11-02-fl-senate-special-2",
+  "raceId": "2026-fl-senate-special",
+  "pollster": "Research Co.",
+  "startDate": "2026-10-31",
+  "endDate": "2026-11-02",
+  "sampleSize": 450,
+  "population": "LV",
+  "url": "https://researchco.ca/2026/11/02/midterms-2026-two/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-senate-angela-nixon",
+      "percent": 44
+    },
+    {
+      "candidateId": "fl-senate-ashley-moody",
+      "percent": 51
+    },
+    {
+      "candidateId": "fl-senate-neil-j-gillespie",
+      "percent": 1
+    }
+  ]
+}

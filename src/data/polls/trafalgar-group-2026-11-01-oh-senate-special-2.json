@@ -1,0 +1,29 @@
+{
+  "id": "trafalgar-group-2026-11-01-oh-senate-special-2",
+  "raceId": "2026-oh-senate-special",
+  "pollster": "Trafalgar Group",
+  "startDate": "2026-10-31",
+  "endDate": "2026-11-01",
+  "sampleSize": 1092,
+  "population": "LV",
+  "url": "https://www.thetrafalgargroup.org/news/oh-senate-gen-1102/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "oh-senate-sherrod-brown",
+      "percent": 46.6
+    },
+    {
+      "candidateId": "oh-senate-jon-husted",
+      "percent": 45.1
+    },
+    {
+      "candidateId": "oh-senate-bill-redpath",
+      "percent": 1.4
+    },
+    {
+      "candidateId": "oh-senate-gregory-levy",
+      "percent": 3.4
+    }
+  ]
+}

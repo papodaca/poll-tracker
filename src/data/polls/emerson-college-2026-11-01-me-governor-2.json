@@ -1,0 +1,26 @@
+{
+  "id": "emerson-college-2026-11-01-me-governor-2",
+  "raceId": "2026-me-governor",
+  "pollster": "Emerson College",
+  "sponsor": "Poll Vault",
+  "startDate": "2026-10-31",
+  "endDate": "2026-11-01",
+  "sampleSize": 600,
+  "population": "LV",
+  "url": "https://pollvault.substack.com/p/new-poll-vault-emerson-senate-and",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "me-governor-bobby-charles",
+      "percent": 40.5
+    },
+    {
+      "candidateId": "me-governor-hannah-pingree",
+      "percent": 50.3
+    },
+    {
+      "candidateId": "me-governor-rick-bennett",
+      "percent": 9.1
+    }
+  ]
+}

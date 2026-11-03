@@ -1,0 +1,29 @@
+{
+  "id": "trafalgar-group-2026-11-01-sc-senate-class-2-2",
+  "raceId": "2026-sc-senate-class-2",
+  "pollster": "Trafalgar Group",
+  "startDate": "2026-10-31",
+  "endDate": "2026-11-01",
+  "sampleSize": 1091,
+  "population": "LV",
+  "url": "https://www.thetrafalgargroup.org/news/sc-senate-general-1102/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "sc-senate-annie-andrews",
+      "percent": 45.5
+    },
+    {
+      "candidateId": "sc-senate-darline-graham-nordone",
+      "percent": 47.5
+    },
+    {
+      "candidateId": "sc-senate-kasie-whitener",
+      "percent": 1.8
+    },
+    {
+      "candidateId": "sc-senate-mark-hackett",
+      "percent": 1
+    }
+  ]
+}

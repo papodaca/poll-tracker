@@ -1,0 +1,21 @@
+{
+  "id": "targoz-market-research-2026-10-29-fl-senate-special-2",
+  "raceId": "2026-fl-senate-special",
+  "pollster": "Targoz Market Research",
+  "startDate": "2026-10-26",
+  "endDate": "2026-10-29",
+  "sampleSize": 1200,
+  "population": "LV",
+  "url": "https://www.targoz.com/market-matters-blog/2026/11/2/republicans-lead-all-five-florida-statewide-races",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "fl-senate-angela-nixon",
+      "percent": 43
+    },
+    {
+      "candidateId": "fl-senate-ashley-moody",
+      "percent": 52
+    }
+  ]
+}

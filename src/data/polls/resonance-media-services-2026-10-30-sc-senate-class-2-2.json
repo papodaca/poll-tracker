@@ -1,0 +1,21 @@
+{
+  "id": "resonance-media-services-2026-10-30-sc-senate-class-2-2",
+  "raceId": "2026-sc-senate-class-2",
+  "pollster": "Resonance Media Services",
+  "startDate": "2026-10-30",
+  "endDate": "2026-10-30",
+  "sampleSize": 600,
+  "population": "LV",
+  "url": "https://www.fitsnews.com/2026/11/02/s-c-succession-final-u-s-senate-polls-show-coin-flip/",
+  "sample": false,
+  "results": [
+    {
+      "candidateId": "sc-senate-annie-andrews",
+      "percent": 46.2
+    },
+    {
+      "candidateId": "sc-senate-darline-graham-nordone",
+      "percent": 44.6
+    }
+  ]
+}
